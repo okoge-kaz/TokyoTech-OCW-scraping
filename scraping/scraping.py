@@ -39,7 +39,7 @@ def get_html(*args, **kwargs):
     return html
 
 def html_check(*args, **kwargs):
-    time_out_length = 60
+    time_out_length = 360
     html = get_html(*args, **kwargs)
     start_time = time.time()
     diff_time = time.time() - start_time
@@ -159,6 +159,11 @@ def get_course_detail_informaion_from_tr_tag(major_name, tr_tag_element):
             elif str(td_tag_element).find('course_title')!=-1:
                 course_information['url'] = url_adder + str(td_tag_element.a['href'])
                 course_information['courseName'] = replace_inappropriate_string(str(td_tag_element.a.string))
+                index = (str(td_tag_element.a['href'])).find('&KougiCD=')
+                id = str(td_tag_element.a['href'])[index+9:index+18]
+                print("id")
+                print(id)
+                course_information['id'] = id
             elif str(td_tag_element).find('lecturer')!=-1:
                 teachers = []
                 for element in td_tag_element:
