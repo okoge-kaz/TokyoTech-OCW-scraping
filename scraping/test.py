@@ -23,7 +23,7 @@ def init_driver():
     '''initialize webdriver when time seems to be over the LIMIT'''
 
     options = webdriver.ChromeOptions()
-    options.add_argument('--headless')
+    options.add_argument('user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36"')
 
     global driver
     driver = webdriver.Chrome(options=options)
@@ -42,7 +42,7 @@ def get_html(*args, **kwargs):
     return html
 
 def html_check(*args, **kwargs):
-    time_out_length = 360
+    time_out_length = 600
     html = get_html(*args, **kwargs)
     start_time = time.time()
     diff_time = time.time() - start_time
@@ -127,12 +127,13 @@ def get_major_all_course_list(major_name, major_url, retry_limit=5):
 
     for _ in range(retry_limit):
         html = html_check(major_url)
-        # print(html)
+        print(html)
         soup = BeautifulSoup(html, 'lxml')
 
         tables = [table_element.tbody for table_element in soup.find_all('table', class_='ranking-list') if table_element.tbody != None ]
         # HTMLの要素のうち各系の講義一覧がある要素を取得する find_allにしているのは200番台,300番台と複数あるから
-
+        print('table')
+        print(tables)
         if len(tables) == 0:
             continue
         for table in tables:
@@ -181,14 +182,14 @@ def main():
     for major, url in major_list.items():
         print((major,url))
     data = []
-    for key, value in major_list.items():
-        # print(value)
-        data.extend(get_major_all_course_list(key, value))
-        # print(data)
     
-    file_path = './course.json'
-    with open(file_path, 'w', encoding="utf-8") as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
+    # print(value)
+    data.extend(get_major_all_course_list('英語科目', 'http://www.ocw.titech.ac.jp/index.php?module=Archive&action=ArchiveIndex&GakubuCD=7&KamokuCD=110200&tab=2&focus=100&lang=JA&Nendo=2020&SubAction=T0210'))
+    print(data)
+    
+    # file_path = './course.json'
+    # with open(file_path, 'w', encoding="utf-8") as f:
+    #     json.dump(data, f, indent=4, ensure_ascii=False)
     
     driver.quit()
 
