@@ -12,7 +12,7 @@ def main():
                 with urllib.request.urlopen(url):
                     json_data[index]['isExist'] = True
                     print(True)
-            except urllib.error.URLError as err:
+            except urllib.error.URLError:
                 json_data[index]['isExist'] = False
                 print(False)
         with open('course_data.json', 'w', encoding="utf-8") as f:
