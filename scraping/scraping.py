@@ -20,7 +20,7 @@ def first_elem(d):
 
 try:
     assert driver
-except Exception():
+except Exception:
     driver = None
     mem_reset_count = 0
 
@@ -205,10 +205,15 @@ def main():
     for major, url in major_list.items():
         print((major, url))
     data = []
+    count: int = 1
     for key, value in major_list.items():
         # print(value)
-        data.extend(get_major_all_course_list(key, value))
+        tmp_data = get_major_all_course_list(key, value)
+        with open('data/' + str(count) + '.json', 'w', encoding="utf-8") as f:
+            json.dump(tmp_data, f, indent=4, ensure_ascii=False)
+        data.extend(tmp_data)
         # print(data)
+        count += 1
 
     file_path = './course.json'
     with open(file_path, 'w', encoding="utf-8") as f:
