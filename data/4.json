@@ -1,0 +1,893 @@
+[
+    {
+        "courseId": "PHY.E205",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "電磁気学(講義）",
+        "id": "202001690",
+        "teachers": [
+            "西田 祐介"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.B211",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "幾何学概論第一",
+        "id": "202007019",
+        "teachers": [
+            "山田 光太郎"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "PHY.Q207",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "量子力学入門(講義）",
+        "id": "202001721",
+        "teachers": [
+            "伊藤 克司"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.B212",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "幾何学概論第二",
+        "id": "202007020",
+        "teachers": [
+            "山田 光太郎"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "PHY.E212",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "電磁気学II(講義）",
+        "id": "202001694",
+        "teachers": [
+            "西田 祐介"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.B201",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "位相空間論第一",
+        "id": "202007005",
+        "teachers": [
+            "KALMAN TAMAS",
+            "橋本 義規"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.S209",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "熱力学（物理）(講義）",
+        "id": "202001693",
+        "teachers": [
+            "田中 秀数"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "PHY.M211",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "物理数学II(講義）",
+        "id": "202001695",
+        "teachers": [
+            "笹本 智弘"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.A204",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "代数学概論第四",
+        "id": "202007012",
+        "teachers": [
+            "谷田川 友里",
+            "KELLY SHANE ANDREW",
+            "染川 睦郎"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "PHY.Q206",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "解析力学(講義）",
+        "id": "202001720",
+        "teachers": [
+            "山口 昌英"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "PHY.Q208",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "量子力学II(講義）",
+        "id": "202001692",
+        "teachers": [
+            "慈道 大介"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.C201",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "解析学概論第一",
+        "id": "202007013",
+        "teachers": [
+            "隠居 良行",
+            "三浦 達哉"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.C203",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "解析学概論第三",
+        "id": "202007015",
+        "teachers": [
+            "隠居 良行",
+            "三浦 達哉"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.A201",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "代数学概論第一",
+        "id": "202007009",
+        "teachers": [
+            "内藤 聡",
+            "染川 睦郎",
+            "皆川 龍博"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.L205",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "地惑実験（野外実習）",
+        "id": "202001797",
+        "teachers": [
+            "石川 晃",
+            "東 真太郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.L204",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "地惑実験（物理計測）",
+        "id": "202001796",
+        "teachers": [
+            "岡元 太郎",
+            "松島 政貴"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.B211",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "無機化学（地惑）",
+        "id": "202001799",
+        "teachers": [
+            "横山 哲也",
+            "羽場 麻希子",
+            "大野 剛"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "EPS.L220",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "地惑巡検",
+        "id": "202001800",
+        "teachers": [
+            "上野 雄一郎",
+            "羽場 麻希子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.L201",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "地惑実験学（安全・データ解析）",
+        "id": "202001793",
+        "teachers": [
+            "上野 雄一郎",
+            "平野 照幸"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.A202",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "惑星科学序論",
+        "id": "202001787",
+        "teachers": [
+            "中本 泰史"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.C202",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "解析学概論第二",
+        "id": "202007014",
+        "teachers": [
+            "隠居 良行",
+            "三浦 達哉"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.A212",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "線形空間論第二",
+        "id": "202007018",
+        "teachers": [
+            "水本 信一郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.C204",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "解析学概論第四",
+        "id": "202007016",
+        "teachers": [
+            "隠居 良行",
+            "三浦 達哉"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "PHY.M204",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "物理数学I(講義）",
+        "id": "202001691",
+        "teachers": [
+            "古賀 昌久"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.G230",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "現代物理学概論",
+        "id": "202001696",
+        "teachers": [
+            "藤岡 宏之",
+            "宗宮 健太郎",
+            "宗片 比呂夫"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.B202",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "熱力学（地惑）",
+        "id": "202001786",
+        "teachers": [
+            "大森 聡一"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.A211",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "線形空間論第一",
+        "id": "202007017",
+        "teachers": [
+            "水本 信一郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.B201",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "物理数学A（地惑）",
+        "id": "202001788",
+        "teachers": [
+            "麻生 尚文"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.B202",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "位相空間論第二",
+        "id": "202007006",
+        "teachers": [
+            "KALMAN TAMAS",
+            "橋本 義規"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.L203",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "地惑実験（地球化学）",
+        "id": "202001795",
+        "teachers": [
+            "羽場 麻希子",
+            "GILBERT ALEXIS ROMAIN",
+            "横山 哲也"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.B210",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "物理数学B（地惑）",
+        "id": "202001798",
+        "teachers": [
+            "松島 政貴"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.C211",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "応用解析序論第一",
+        "id": "202007021",
+        "teachers": [
+            "利根川 吉廣"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "EPS.B203",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "力学（地惑）",
+        "id": "202001785",
+        "teachers": [
+            "今枝 佑輔"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.A203",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "地球史概論",
+        "id": "202001789",
+        "teachers": [
+            "石川 晃",
+            "GILBERT ALEXIS ROMAIN"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.L202",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "地惑実験（岩石学）",
+        "id": "202001794",
+        "teachers": [
+            "太田 健二"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.L201",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "物理実験学",
+        "id": "202001697",
+        "teachers": [
+            "陣内 修"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "EPS.B212",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "電磁気学（地惑）",
+        "id": "202001791",
+        "teachers": [
+            "奥住 聡"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.A203",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "代数学概論第三",
+        "id": "202007011",
+        "teachers": [
+            "内藤 聡",
+            "KELLY SHANE ANDREW",
+            "染川 睦郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.C212",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "応用解析序論第二",
+        "id": "202007022",
+        "teachers": [
+            "利根川 吉廣"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.A202",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "代数学概論第二",
+        "id": "202007010",
+        "teachers": [
+            "内藤 聡",
+            "染川 睦郎",
+            "皆川 龍博"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.A205",
+        "courseDigit": 2,
+        "department": "地球惑星科学系",
+        "courseName": "地球科学序論",
+        "id": "202017457",
+        "teachers": [
+            "太田 健二",
+            "中島 淳一"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.L330",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "数値地球惑星科学",
+        "id": "202001807",
+        "teachers": [
+            "平野 照幸",
+            "玄田 英典"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "EPS.A334",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "生物地球科学",
+        "id": "202001808",
+        "teachers": [
+            "上野 雄一郎",
+            "関根 康人"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "PHY.S312",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "統計力学II(講義）",
+        "id": "202001707",
+        "teachers": [
+            "高橋 和孝"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.B331",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "量子力学（地惑）",
+        "id": "202001802",
+        "teachers": [
+            "今枝 佑輔"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.A330",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "宇宙地球化学",
+        "id": "202001803",
+        "teachers": [
+            "横山 哲也",
+            "関根 康人"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.B332",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "統計力学（地惑）",
+        "id": "202001804",
+        "teachers": [
+            "佐藤 文衛",
+            "細谷 暁夫"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "EPS.A337",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "地球と生命",
+        "id": "202001810",
+        "teachers": [
+            "井田 茂",
+            "HERNLUND JOHN WILLIAM"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "EPS.A336",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "地震学",
+        "id": "202001812",
+        "teachers": [
+            "中島 淳一"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "PHY.S301",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "統計力学(講義）",
+        "id": "202001704",
+        "teachers": [
+            "古賀 昌久"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.A332",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "火山学",
+        "id": "202001806",
+        "teachers": [
+            "小川 康雄",
+            "神田 径"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.Z397",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "地惑先端研究基礎S",
+        "id": "202023663",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.C330",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "最先端トピックスから学ぶ地惑英語bC",
+        "id": "202007226",
+        "teachers": [
+            "奥住 聡"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.B330",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "流体力学（地惑）",
+        "id": "202001801",
+        "teachers": [
+            "岡元 太郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.A333",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "惑星天文学",
+        "id": "202001809",
+        "teachers": [
+            "佐藤 文衛",
+            "奥住 聡"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "EPS.Z376",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "学士特定課題プロジェクトS6c（地球惑星科学系）",
+        "id": "202027669",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.Z381",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "研究プロジェクト（地球惑星科学系）",
+        "id": "202001819",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.A331",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "地球物質学",
+        "id": "202001805",
+        "teachers": [
+            "太田 健二"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.C328",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "最先端トピックスから学ぶ地惑英語bA",
+        "id": "202007224",
+        "teachers": [
+            "奥住 聡"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.Z373",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "学士特定課題プロジェクトS3c（地球惑星科学系）",
+        "id": "202027665",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.C329",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "最先端トピックスから学ぶ地惑英語bB",
+        "id": "202007225",
+        "teachers": [
+            "奥住 聡"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.Z394",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "学士特定課題プロジェクト4c（地球惑星科学系）",
+        "id": "202007587",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.C331",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "最先端トピックスから学ぶ地惑英語bD",
+        "id": "202007227",
+        "teachers": [
+            "奥住 聡"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.Z393",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "学士特定課題プロジェクト3c（地球惑星科学系）",
+        "id": "202007586",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.Z381",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "研究プロジェクト（地球惑星科学系）",
+        "id": "202001818",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.Z371",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "学士特定課題プロジェクトS1c（地球惑星科学系）",
+        "id": "202027661",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.Z372",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "学士特定課題プロジェクトS2c（地球惑星科学系）",
+        "id": "202027663",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.Z389",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "学士特定課題研究（地球惑星科学系）",
+        "id": "202007580",
+        "teachers": [
+            "各教員"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.Z374",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "学士特定課題プロジェクトS4c（地球惑星科学系）",
+        "id": "202027667",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.Z375",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "学士特定課題プロジェクトS5c（地球惑星科学系）",
+        "id": "202027668",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.Z371",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "学士特定課題プロジェクトS1c（地球惑星科学系）",
+        "id": "202027662",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.Z372",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "学士特定課題プロジェクトS2c（地球惑星科学系）",
+        "id": "202027664",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.Z373",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "学士特定課題プロジェクトS3c（地球惑星科学系）",
+        "id": "202027666",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.Z391",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "学士特定課題プロジェクト1c（地球惑星科学系）",
+        "id": "202007581",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.Z392",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "学士特定課題プロジェクト2c（地球惑星科学系）",
+        "id": "202007583",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.Z393",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "学士特定課題プロジェクト3c（地球惑星科学系）",
+        "id": "202007585",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.Z395",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "学士特定課題プロジェクト5c（地球惑星科学系）",
+        "id": "202007588",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.Z396",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "学士特定課題プロジェクト6c（地球惑星科学系）",
+        "id": "202007589",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.Z389",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "学士特定課題研究（地球惑星科学系）",
+        "id": "202017409",
+        "teachers": [
+            "各教員"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.Z398",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "地惑先端研究基礎F",
+        "id": "202023664",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.Z391",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "学士特定課題プロジェクト1c（地球惑星科学系）",
+        "id": "202007582",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "EPS.Z392",
+        "courseDigit": 3,
+        "department": "地球惑星科学系",
+        "courseName": "学士特定課題プロジェクト2c（地球惑星科学系）",
+        "id": "202007584",
+        "teachers": [],
+        "isExist": false
+    }
+]

@@ -1,0 +1,631 @@
+[
+    {
+        "courseId": "CSC.T254",
+        "courseDigit": 2,
+        "department": "情報工学系",
+        "courseName": "機械学習",
+        "id": "202027792",
+        "teachers": [
+            "岡崎 直観"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "CSC.T252",
+        "courseDigit": 2,
+        "department": "情報工学系",
+        "courseName": "論理回路理論",
+        "id": "202002421",
+        "teachers": [
+            "宮崎 純"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "CSC.T243",
+        "courseDigit": 2,
+        "department": "情報工学系",
+        "courseName": "手続き型プログラミング基礎",
+        "id": "202002417",
+        "teachers": [
+            "伊藤 勇太",
+            "宮藤 詩緒"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.T263",
+        "courseDigit": 2,
+        "department": "情報工学系",
+        "courseName": "関数型プログラミング基礎",
+        "id": "202002452",
+        "teachers": [
+            "徳永 健伸",
+            "森口 草介"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "CSC.T273",
+        "courseDigit": 2,
+        "department": "情報工学系",
+        "courseName": "オブジェクト指向プログラミング",
+        "id": "202002431",
+        "teachers": [
+            "小林 隆志",
+            "森口 草介"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "CSC.T242",
+        "courseDigit": 2,
+        "department": "情報工学系",
+        "courseName": "確率論・統計学",
+        "id": "202002416",
+        "teachers": [
+            "石田 貴士"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.T244",
+        "courseDigit": 2,
+        "department": "情報工学系",
+        "courseName": "プログラミング創造演習",
+        "id": "202030177",
+        "teachers": [
+            "権藤 克彦",
+            "西崎 真也",
+            "渡部 卓雄",
+            "中村 誠希"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.T261",
+        "courseDigit": 2,
+        "department": "情報工学系",
+        "courseName": "情報論理",
+        "id": "202002425",
+        "teachers": [
+            "西崎 真也"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "CSC.T262",
+        "courseDigit": 2,
+        "department": "情報工学系",
+        "courseName": "アセンブリ言語",
+        "id": "202002427",
+        "teachers": [
+            "権藤 克彦"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "CSC.T271",
+        "courseDigit": 2,
+        "department": "情報工学系",
+        "courseName": "データ構造とアルゴリズム",
+        "id": "202002429",
+        "teachers": [
+            "小池 英樹"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "CSC.T241",
+        "courseDigit": 2,
+        "department": "情報工学系",
+        "courseName": "計算基礎論",
+        "id": "202002415",
+        "teachers": [
+            "村田 剛志"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.T251",
+        "courseDigit": 2,
+        "department": "情報工学系",
+        "courseName": "オートマトンと形式言語",
+        "id": "202002419",
+        "teachers": [
+            "金子 晴彦"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.T272",
+        "courseDigit": 2,
+        "department": "情報工学系",
+        "courseName": "人工知能",
+        "id": "202002430",
+        "teachers": [
+            "篠田 浩一"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.T253",
+        "courseDigit": 2,
+        "department": "情報工学系",
+        "courseName": "手続き型プログラミング発展",
+        "id": "202002424",
+        "teachers": [
+            "大上 雅史",
+            "高瀬 翔"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.T345",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "コンピュータネットワーク",
+        "id": "202002436",
+        "teachers": [
+            "横田 理央"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "CSC.T343",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "データベース",
+        "id": "202002434",
+        "teachers": [
+            "横田 治夫"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "CSC.T363",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "コンピュータアーキテクチャ",
+        "id": "202002443",
+        "teachers": [
+            "吉瀬 謙二",
+            "LE HIEU HANH"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.T364",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "システム設計演習",
+        "id": "202002444",
+        "teachers": [
+            "小野 峻佑",
+            "田村 康将",
+            "田中 公司",
+            "内田 公太"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "CSC.T373",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "動的システム",
+        "id": "202002447",
+        "teachers": [
+            "三宅 美博",
+            "大良 宏樹"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "CSC.T375",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "システム構築演習",
+        "id": "202002449",
+        "teachers": [
+            "小野 峻佑",
+            "田村 康将",
+            "田中 公司",
+            "内田 公太"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "CSC.T371",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "システムソフトウェア",
+        "id": "202002445",
+        "teachers": [
+            "渡部 卓雄"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "CSC.T351",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "システム解析",
+        "id": "202002437",
+        "teachers": [
+            "青西 亨"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "CSC.T341",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "コンピュータ論理設計",
+        "id": "202002432",
+        "teachers": [
+            "吉瀬 謙二",
+            "荒堀 喜貴"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.T344",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "システムプログラミング",
+        "id": "202002435",
+        "teachers": [
+            "林 晋平",
+            "未定"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "CSC.T342",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "問題解決と意思決定",
+        "id": "202002433",
+        "teachers": [
+            "出口 弘",
+            "小野 功"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.T362",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "数値計算法",
+        "id": "202002442",
+        "teachers": [
+            "瀧ノ上 正浩"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "CSC.T352",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "パターン認識",
+        "id": "202002438",
+        "teachers": [
+            "下坂 正倫"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "CSC.T377",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "情報工学英語プレゼンテーション",
+        "id": "202002451",
+        "teachers": [
+            "坪田 康",
+            "徳永 健伸"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "CSC.Z389",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "学士特定課題研究（情報工学系）",
+        "id": "202016235",
+        "teachers": [
+            "各教員",
+            "権藤 克彦",
+            "山村 雅幸",
+            "林 晋平",
+            "横田 理央",
+            "小野 峻佑"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.T374",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "システム制御",
+        "id": "202002448",
+        "teachers": [
+            "石井 秀明"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "CSC.Z381",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "研究プロジェクト（情報工学系）",
+        "id": "202002454",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.T372",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "コンパイラ構成",
+        "id": "202002446",
+        "teachers": [
+            "権藤 克彦"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "CSC.T354",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "並列プログラミング",
+        "id": "202002440",
+        "teachers": [
+            "齋藤 豪",
+            "宇都 有昭"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.Z372",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "学士特定課題プロジェクトS2c（情報工学系）",
+        "id": "202027636",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.Z389",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "学士特定課題研究（情報工学系）",
+        "id": "202007670",
+        "teachers": [
+            "各教員",
+            "権藤 克彦",
+            "山村 雅幸",
+            "小野 峻佑",
+            "横田 理央",
+            "林 晋平"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.T353",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "生命情報解析",
+        "id": "202002439",
+        "teachers": [
+            "秋山 泰",
+            "山村 雅幸"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "CSC.T361",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "オブジェクト指向設計",
+        "id": "202002441",
+        "teachers": [
+            "佐伯 元司"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "CSC.Z371",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "学士特定課題プロジェクトS1c（情報工学系）",
+        "id": "202027634",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.T378",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "チーム開発集中演習基礎",
+        "id": "202013889",
+        "teachers": [
+            "権藤 克彦"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.Z381",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "研究プロジェクト（情報工学系）",
+        "id": "202002455",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.Z394",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "学士特定課題プロジェクト4c（情報工学系）",
+        "id": "202007675",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.Z374",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "学士特定課題プロジェクトS4c（情報工学系）",
+        "id": "202027640",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.Z376",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "学士特定課題プロジェクトS6c（情報工学系）",
+        "id": "202027642",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.Z371",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "学士特定課題プロジェクトS1c（情報工学系）",
+        "id": "202027635",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.Z372",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "学士特定課題プロジェクトS2c（情報工学系）",
+        "id": "202027637",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.Z393",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "学士特定課題プロジェクト3c（情報工学系）",
+        "id": "202007673",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.Z391",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "学士特定課題プロジェクト1c（情報工学系）",
+        "id": "202007672",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.Z393",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "学士特定課題プロジェクト3c（情報工学系）",
+        "id": "202007674",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.Z392",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "学士特定課題プロジェクト2c（情報工学系）",
+        "id": "202007679",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.Z373",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "学士特定課題プロジェクトS3c（情報工学系）",
+        "id": "202027638",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.Z390",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "学士特定演習（情報工学系）",
+        "id": "202020850",
+        "teachers": [
+            "各教員"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.Z375",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "学士特定課題プロジェクトS5c（情報工学系）",
+        "id": "202027641",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.Z373",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "学士特定課題プロジェクトS3c（情報工学系）",
+        "id": "202027639",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.Z391",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "学士特定課題プロジェクト1c（情報工学系）",
+        "id": "202007671",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.Z392",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "学士特定課題プロジェクト2c（情報工学系）",
+        "id": "202007678",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.Z395",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "学士特定課題プロジェクト5c（情報工学系）",
+        "id": "202007676",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.Z396",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "学士特定課題プロジェクト6c（情報工学系）",
+        "id": "202007677",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "CSC.Z390",
+        "courseDigit": 3,
+        "department": "情報工学系",
+        "courseName": "学士特定演習（情報工学系）",
+        "id": "202020851",
+        "teachers": [
+            "各教員"
+        ],
+        "isExist": false
+    }
+]

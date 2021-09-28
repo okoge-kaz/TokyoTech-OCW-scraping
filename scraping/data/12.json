@@ -1,0 +1,1490 @@
+[
+    {
+        "courseId": "CAP.C205",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "化学プロセス量論 A",
+        "id": "202002349",
+        "teachers": [
+            "松本 秀行"
+        ]
+    },
+    {
+        "courseId": "CAP.C207",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "バイオ工学基礎",
+        "id": "202007228",
+        "teachers": [
+            "大河内 美奈"
+        ]
+    },
+    {
+        "courseId": "MTH.U212",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "基礎工業数学第一b",
+        "id": "202007040",
+        "teachers": [
+            "滝口 孝志"
+        ]
+    },
+    {
+        "courseId": "CAP.B223",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "無機化学（材料科学） A",
+        "id": "202002253",
+        "teachers": [
+            "久保内 昌敏",
+            "大友 明"
+        ]
+    },
+    {
+        "courseId": "CAP.C211",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "エネルギー操作",
+        "id": "202002341",
+        "teachers": [
+            "森 伸介"
+        ]
+    },
+    {
+        "courseId": "MTH.U211",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "基礎工業数学第一a",
+        "id": "202007039",
+        "teachers": [
+            "滝口 孝志"
+        ]
+    },
+    {
+        "courseId": "EEE.G291",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "エレクトロニクスの基礎",
+        "id": "202002727",
+        "teachers": [
+            "宮本 恭幸"
+        ]
+    },
+    {
+        "courseId": "MTH.U213",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "基礎工業数学第二a",
+        "id": "202007041",
+        "teachers": [
+            "滝口 孝志"
+        ]
+    },
+    {
+        "courseId": "CAP.B226",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "量子化学第一（基礎） B",
+        "id": "202002250",
+        "teachers": [
+            "中嶋 健"
+        ]
+    },
+    {
+        "courseId": "CAP.B213",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "有機化学第三（芳香族） A",
+        "id": "202002266",
+        "teachers": [
+            "田中 浩士",
+            "田中 健"
+        ]
+    },
+    {
+        "courseId": "CAP.C213",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "化学プロセスシステム第一（制御）",
+        "id": "202002347",
+        "teachers": [
+            "松本 秀行"
+        ]
+    },
+    {
+        "courseId": "CAP.B217",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "物理化学第二（化学平衡） B",
+        "id": "202002359",
+        "teachers": [
+            "谷口 泉"
+        ]
+    },
+    {
+        "courseId": "CAP.C203",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "移動現象第三（物質移動）",
+        "id": "202002297",
+        "teachers": [
+            "下山 裕介"
+        ]
+    },
+    {
+        "courseId": "CAP.C204",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "化工熱力学",
+        "id": "202002298",
+        "teachers": [
+            "青木 才子"
+        ]
+    },
+    {
+        "courseId": "CAP.P201",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "高分子科学",
+        "id": "202002310",
+        "teachers": [
+            "安藤 慎治",
+            "石曽根 隆",
+            "芹澤 武",
+            "大塚 英幸",
+            "中嶋 健",
+            "佐藤 浩太郎",
+            "戸木田 雅利"
+        ]
+    },
+    {
+        "courseId": "CAP.D201",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "B2D研究基礎a（応用化学系）",
+        "id": "202027860",
+        "teachers": [
+            "桑田 繁樹"
+        ]
+    },
+    {
+        "courseId": "CAP.B221",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "無機化学第一（結合論） B",
+        "id": "202002261",
+        "teachers": [
+            "高尾 俊郎",
+            "大友 明"
+        ]
+    },
+    {
+        "courseId": "CAP.P221",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "高分子物理第一（溶液物性）",
+        "id": "202002312",
+        "teachers": [
+            "古屋 秀峰"
+        ]
+    },
+    {
+        "courseId": "CAP.C205",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "化学プロセス量論 B",
+        "id": "202002350",
+        "teachers": [
+            "谷口 泉"
+        ]
+    },
+    {
+        "courseId": "CAP.A275",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "無機化学（固体化学）",
+        "id": "202002272",
+        "teachers": [
+            "大友 明"
+        ]
+    },
+    {
+        "courseId": "CAP.B224",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "無機化学（元素と化合物）",
+        "id": "202002353",
+        "teachers": [
+            "高尾 俊郎",
+            "大友 明"
+        ]
+    },
+    {
+        "courseId": "CAP.P211",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "高分子化学第一（逐次重合）",
+        "id": "202002311",
+        "teachers": [
+            "小西 玄一"
+        ]
+    },
+    {
+        "courseId": "CAP.B226",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "量子化学第一（基礎） A",
+        "id": "202002249",
+        "teachers": [
+            "桑田 繁樹",
+            "大友 明"
+        ]
+    },
+    {
+        "courseId": "CAP.B221",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "無機化学第一（結合論） A",
+        "id": "202002260",
+        "teachers": [
+            "桑田 繁樹",
+            "大友 明"
+        ]
+    },
+    {
+        "courseId": "CAP.E241",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "化学データ解析",
+        "id": "202002328",
+        "teachers": [
+            "大川原 真一",
+            "吉川 史郎"
+        ]
+    },
+    {
+        "courseId": "CAP.B216",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "物理化学第一（熱力学法則） A",
+        "id": "202002354",
+        "teachers": [
+            "青木 才子"
+        ]
+    },
+    {
+        "courseId": "CAP.B201",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "応用化学実験第一a/b",
+        "id": "202002336",
+        "teachers": [
+            "青木 才子",
+            "大河内 美奈",
+            "安藤 慎治",
+            "久保内 昌敏",
+            "中嶋 健",
+            "下山 裕介",
+            "石川 大輔",
+            "池澤 篤憲",
+            "服部 祥平",
+            "田中 祐圭",
+            "宮地 輝光",
+            "梁 暁斌",
+            "久保 祥一",
+            "織田 耕彦",
+            "菅原 勇貴",
+            "青木 大輔"
+        ]
+    },
+    {
+        "courseId": "CAP.B202",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "応用化学実験第一b/a",
+        "id": "202002337",
+        "teachers": [
+            "青木 才子",
+            "大河内 美奈",
+            "安藤 慎治",
+            "久保内 昌敏",
+            "中嶋 健",
+            "下山 裕介",
+            "宮地 輝光",
+            "石川 大輔",
+            "織田 耕彦",
+            "菅原 勇貴",
+            "青木 大輔",
+            "久保 祥一",
+            "梁 暁斌",
+            "田中 祐圭",
+            "池澤 篤憲",
+            "服部 祥平"
+        ]
+    },
+    {
+        "courseId": "CAP.C202",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "移動現象第二（熱移動）",
+        "id": "202002296",
+        "teachers": [
+            "関口 秀俊"
+        ]
+    },
+    {
+        "courseId": "CAP.B214",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "有機化学第四（求核置換反応） B",
+        "id": "202002257",
+        "teachers": [
+            "伊藤 繁和"
+        ]
+    },
+    {
+        "courseId": "CAP.P222",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "高分子物理第二（固体構造）",
+        "id": "202002314",
+        "teachers": [
+            "安藤 慎治"
+        ]
+    },
+    {
+        "courseId": "MTH.U214",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "基礎工業数学第二b",
+        "id": "202007042",
+        "teachers": [
+            "滝口 孝志"
+        ]
+    },
+    {
+        "courseId": "CAP.B213",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "有機化学第三（芳香族） B",
+        "id": "202002267",
+        "teachers": [
+            "斎藤 礼子"
+        ]
+    },
+    {
+        "courseId": "CAP.B211",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "有機化学第一（アルカン）（応用化学） B",
+        "id": "202002259",
+        "teachers": [
+            "田中 浩士"
+        ]
+    },
+    {
+        "courseId": "CAP.C206",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "反応工学第一（均一系）",
+        "id": "202002299",
+        "teachers": [
+            "多湖 輝興"
+        ]
+    },
+    {
+        "courseId": "CAP.B217",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "物理化学第二（化学平衡） A",
+        "id": "202002358",
+        "teachers": [
+            "一杉 太郎"
+        ]
+    },
+    {
+        "courseId": "CAP.B203",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "応用化学実験第二a/b",
+        "id": "202002338",
+        "teachers": [
+            "石曽根 隆",
+            "大塚 英幸",
+            "大友 明",
+            "村橋 哲郎",
+            "高尾 俊郎",
+            "大石 理貴",
+            "赤松 範久",
+            "青木 大輔",
+            "大柴 雄平",
+            "後関 頼太",
+            "相馬 拓人",
+            "山本 浩二",
+            "田中 裕也"
+        ]
+    },
+    {
+        "courseId": "CAP.B214",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "有機化学第四（求核置換反応） A",
+        "id": "202002256",
+        "teachers": [
+            "大塚 英幸"
+        ]
+    },
+    {
+        "courseId": "CAP.B216",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "物理化学第一（熱力学法則） B",
+        "id": "202002355",
+        "teachers": [
+            "一杉 太郎"
+        ]
+    },
+    {
+        "courseId": "CAP.B212",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "有機化学第二（アルケン） A",
+        "id": "202002262",
+        "teachers": [
+            "小西 玄一"
+        ]
+    },
+    {
+        "courseId": "CAP.P202",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "高分子統計力学",
+        "id": "202002729",
+        "teachers": [
+            "中嶋 健"
+        ]
+    },
+    {
+        "courseId": "CAP.B218",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "物理化学第三（反応速度論） A",
+        "id": "202002356",
+        "teachers": [
+            "山中 一郎"
+        ]
+    },
+    {
+        "courseId": "CAP.B218",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "物理化学第三（反応速度論） B",
+        "id": "202002357",
+        "teachers": [
+            "本倉 健"
+        ]
+    },
+    {
+        "courseId": "CAP.B219",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "物理化学（分子運動論） A",
+        "id": "202002255",
+        "teachers": [
+            "和田 裕之"
+        ]
+    },
+    {
+        "courseId": "CAP.P212",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "高分子化学第二（連鎖重合）",
+        "id": "202002313",
+        "teachers": [
+            "佐藤 浩太郎"
+        ]
+    },
+    {
+        "courseId": "CAP.B204",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "応用化学実験第二b/a",
+        "id": "202002339",
+        "teachers": [
+            "石曽根 隆",
+            "大塚 英幸",
+            "大友 明",
+            "村橋 哲郎",
+            "高尾 俊郎",
+            "赤松 範久",
+            "青木 大輔",
+            "山本 浩二",
+            "相馬 拓人",
+            "大石 理貴",
+            "大柴 雄平",
+            "田中 裕也",
+            "後関 頼太"
+        ]
+    },
+    {
+        "courseId": "CAP.C212",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "分離操作",
+        "id": "202002346",
+        "teachers": [
+            "谷口 泉"
+        ]
+    },
+    {
+        "courseId": "CAP.B227",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "量子化学第二（発展） B",
+        "id": "202002252",
+        "teachers": [
+            "安藤 慎治"
+        ]
+    },
+    {
+        "courseId": "CAP.B222",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "無機化学第二（反応と構造） A",
+        "id": "202002264",
+        "teachers": [
+            "大友 明"
+        ]
+    },
+    {
+        "courseId": "CAP.B222",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "無機化学第二（反応と構造） B",
+        "id": "202002265",
+        "teachers": [
+            "荒井 創"
+        ]
+    },
+    {
+        "courseId": "CAP.B219",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "物理化学（分子運動論） B",
+        "id": "202007910",
+        "teachers": [
+            "中嶋 健"
+        ]
+    },
+    {
+        "courseId": "CAP.D201",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "B2D研究基礎a（応用化学系）",
+        "id": "202027859",
+        "teachers": [
+            "桑田 繁樹"
+        ]
+    },
+    {
+        "courseId": "CAP.B211",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "有機化学第一（アルカン）（応用化学） A",
+        "id": "202002258",
+        "teachers": [
+            "芹澤 武"
+        ]
+    },
+    {
+        "courseId": "CAP.B227",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "量子化学第二（発展） A",
+        "id": "202002251",
+        "teachers": [
+            "長井 圭治"
+        ]
+    },
+    {
+        "courseId": "CAP.B212",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "有機化学第二（アルケン） B",
+        "id": "202002263",
+        "teachers": [
+            "田中 浩士",
+            "田中 健"
+        ]
+    },
+    {
+        "courseId": "CAP.C201",
+        "courseDigit": 2,
+        "department": "応用化学系",
+        "courseName": "移動現象第一（運動量移動）",
+        "id": "202002295",
+        "teachers": [
+            "吉川 史郎"
+        ]
+    },
+    {
+        "courseId": "CAP.P351",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "高分子工学演習第一",
+        "id": "202002324",
+        "teachers": [
+            "斎藤 礼子",
+            "古屋 秀峰"
+        ]
+    },
+    {
+        "courseId": "CAP.C332",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "化学工学実験第一",
+        "id": "202002306",
+        "teachers": [
+            "森 伸介",
+            "松本 秀行",
+            "渕野 哲郎",
+            "吉川 史郎",
+            "谷口 泉"
+        ]
+    },
+    {
+        "courseId": "CAP.E331",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "基礎自然共生科学",
+        "id": "202002331",
+        "teachers": [
+            "横井 俊之",
+            "本倉 健"
+        ]
+    },
+    {
+        "courseId": "CAP.A335",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "上級有機化学第五（医農薬化学）",
+        "id": "202002290",
+        "teachers": [
+            "田中 浩士",
+            "山口 潤一郎",
+            "高梨 真一",
+            "細谷 孝充",
+            "藤本 ゆかり"
+        ]
+    },
+    {
+        "courseId": "CAP.A354",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "触媒プロセス化学第一（不均一系）",
+        "id": "202002274",
+        "teachers": [
+            "山中 一郎"
+        ]
+    },
+    {
+        "courseId": "CAP.E381",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "機器分析（応用化学）",
+        "id": "202002330",
+        "teachers": [
+            "稲木 信介",
+            "野村 淳子",
+            "本倉 健",
+            "豊田 栄",
+            "北村 房男",
+            "和田 裕之",
+            "吉沢 道人"
+        ]
+    },
+    {
+        "courseId": "CAP.C316",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "電気化学システム論",
+        "id": "202007300",
+        "teachers": [
+            "伊原 学"
+        ]
+    },
+    {
+        "courseId": "CAP.E351",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "電気化学",
+        "id": "202002333",
+        "teachers": [
+            "菅野 了次",
+            "荒井 創",
+            "北村 房男",
+            "平山 雅章"
+        ]
+    },
+    {
+        "courseId": "CAP.A346",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "先進有機化学第一",
+        "id": "202002279",
+        "teachers": [
+            "福島 孝典",
+            "庄子 良晃"
+        ]
+    },
+    {
+        "courseId": "CAP.A302",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "応用化学実験（専門）第二",
+        "id": "202002294",
+        "teachers": [
+            "田中 浩士",
+            "桑田 繁樹",
+            "山中 一郎",
+            "伊藤 繁和"
+        ]
+    },
+    {
+        "courseId": "CAP.P342",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "生体高分子",
+        "id": "202002322",
+        "teachers": [
+            "澤田 敏樹"
+        ]
+    },
+    {
+        "courseId": "CAP.B315",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "有機化学第五（カルボニル化合物） B",
+        "id": "202002269",
+        "teachers": [
+            "伊藤 繁和",
+            "田中 健"
+        ]
+    },
+    {
+        "courseId": "CAP.A333",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "上級有機化学第二（構造機能化学）",
+        "id": "202002285",
+        "teachers": [
+            "伊藤 繁和",
+            "田中 健"
+        ]
+    },
+    {
+        "courseId": "CAP.P353",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "高分子基礎演習第一",
+        "id": "202011219",
+        "teachers": [
+            "石毛 亮平",
+            "大塚 英幸",
+            "久保 智弘",
+            "古屋 秀峰"
+        ]
+    },
+    {
+        "courseId": "CAP.E333",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "地球の化学",
+        "id": "202002329",
+        "teachers": [
+            "豊田 栄",
+            "山田 桂太"
+        ]
+    },
+    {
+        "courseId": "CAP.B305",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "応用化学実験第三",
+        "id": "202002340",
+        "teachers": [
+            "吉川 史郎",
+            "大川原 真一",
+            "森 伸介",
+            "田中 健",
+            "山中 一郎",
+            "芹澤 武",
+            "斎藤 礼子",
+            "永島 佑貴",
+            "後関 頼太",
+            "塚本 孝政",
+            "岡島 武義",
+            "澤田 敏樹",
+            "長谷川 馨",
+            "小玉 聡",
+            "井戸田 直和",
+            "神戸 徹也"
+        ]
+    },
+    {
+        "courseId": "CAP.E362",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "原子力化学工学",
+        "id": "202002351",
+        "teachers": [
+            "加藤 之貴",
+            "竹下 健二",
+            "塚原 剛彦",
+            "鷹尾 康一朗",
+            "原田 琢也"
+        ]
+    },
+    {
+        "courseId": "CAP.C344",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "工業プロセス概論",
+        "id": "202002307",
+        "teachers": [
+            "山口 猛央",
+            "多湖 輝興",
+            "岡崎 肇"
+        ]
+    },
+    {
+        "courseId": "CAP.A301",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "応用化学実験（専門）第一",
+        "id": "202002291",
+        "teachers": [
+            "田中 浩士",
+            "桑田 繁樹",
+            "山中 一郎",
+            "伊藤 繁和"
+        ]
+    },
+    {
+        "courseId": "CAP.C343",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "プロセス設計実習第二",
+        "id": "202002345",
+        "teachers": [
+            "渕野 哲郎"
+        ]
+    },
+    {
+        "courseId": "CAP.A366",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "先進物理化学第一",
+        "id": "202002277",
+        "teachers": [
+            "原 正彦",
+            "田巻 孝敬"
+        ]
+    },
+    {
+        "courseId": "CAP.A332",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "上級有機化学第一（有機反応化学）",
+        "id": "202002278",
+        "teachers": [
+            "田中 克典"
+        ]
+    },
+    {
+        "courseId": "CAP.C322",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "ケミカルエンジニアリングデザイン",
+        "id": "202002342",
+        "teachers": [
+            "下山 裕介",
+            "田巻 孝敬",
+            "古田 智史",
+            "松澤 克明",
+            "二宮 航"
+        ]
+    },
+    {
+        "courseId": "CAP.C311",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "粒子・流体操作",
+        "id": "202002301",
+        "teachers": [
+            "大川原 真一"
+        ]
+    },
+    {
+        "courseId": "CAP.P371",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "先進高分子科学第一",
+        "id": "202002317",
+        "teachers": [
+            "冨田 育義",
+            "稲木 信介"
+        ]
+    },
+    {
+        "courseId": "CAP.C321",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "化学装置設計",
+        "id": "202002303",
+        "teachers": [
+            "久保内 昌敏"
+        ]
+    },
+    {
+        "courseId": "CAP.P322",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "高分子物理第四（応用物性）",
+        "id": "202002319",
+        "teachers": [
+            "古屋 秀峰",
+            "安藤 慎治"
+        ]
+    },
+    {
+        "courseId": "CAP.A355",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "触媒プロセス化学第二（均一系）",
+        "id": "202002280",
+        "teachers": [
+            "桑田 繁樹",
+            "村橋 哲郎"
+        ]
+    },
+    {
+        "courseId": "CAP.C313",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "化学プロセスシステム第二（設計・制御）",
+        "id": "202002348",
+        "teachers": [
+            "渕野 哲郎"
+        ]
+    },
+    {
+        "courseId": "CAP.C342",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "化学工学実験第二",
+        "id": "202002309",
+        "teachers": [
+            "森 伸介",
+            "松本 秀行",
+            "渕野 哲郎",
+            "吉川 史郎",
+            "谷口 泉"
+        ]
+    },
+    {
+        "courseId": "CAP.C333",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "プロセス設計実習第一",
+        "id": "202002344",
+        "teachers": [
+            "渕野 哲郎"
+        ]
+    },
+    {
+        "courseId": "CAP.A371",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "無機化学（理論１）",
+        "id": "202002275",
+        "teachers": [
+            "高尾 俊郎",
+            "村橋 哲郎"
+        ]
+    },
+    {
+        "courseId": "CAP.A386",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "先進無機化学第一",
+        "id": "202002276",
+        "teachers": [
+            "山元 公寿",
+            "今岡 享稔"
+        ]
+    },
+    {
+        "courseId": "CAP.P312",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "高分子化学第四（架橋反応）",
+        "id": "202002318",
+        "teachers": [
+            "斎藤 礼子"
+        ]
+    },
+    {
+        "courseId": "CAP.E332",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "環境エネルギー概論",
+        "id": "202002332",
+        "teachers": [
+            "下山 裕介",
+            "山口 猛央",
+            "加藤 之貴"
+        ]
+    },
+    {
+        "courseId": "CAP.P341",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "高分子特性解析",
+        "id": "202002321",
+        "teachers": [
+            "安藤 慎治",
+            "戸木田 雅利",
+            "古屋 秀峰"
+        ]
+    },
+    {
+        "courseId": "CAP.C341",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "ケミカルエンジニアリングトピックス",
+        "id": "202002308",
+        "teachers": [
+            "下山 裕介",
+            "LIONEL LAM KAR WEI"
+        ]
+    },
+    {
+        "courseId": "CAP.A331",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "上級有機化学第四（有機反応化学）",
+        "id": "202018091",
+        "teachers": [
+            "田中 健"
+        ]
+    },
+    {
+        "courseId": "CAP.C314",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "生物プロセス工学",
+        "id": "202007229",
+        "teachers": [
+            "大河内 美奈"
+        ]
+    },
+    {
+        "courseId": "CAP.B316",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "有機化学第六（アミン） A",
+        "id": "202002270",
+        "teachers": [
+            "石曽根 隆"
+        ]
+    },
+    {
+        "courseId": "CAP.A372",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "無機化学（理論２）",
+        "id": "202002281",
+        "teachers": [
+            "村橋 哲郎"
+        ]
+    },
+    {
+        "courseId": "CAP.A347",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "先進有機化学第二",
+        "id": "202002286",
+        "teachers": [
+            "穐田 宗隆",
+            "吉沢 道人"
+        ]
+    },
+    {
+        "courseId": "CAP.E361",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "放射化学",
+        "id": "202002352",
+        "teachers": [
+            "塚原 剛彦",
+            "加藤 之貴",
+            "鷹尾 康一朗"
+        ]
+    },
+    {
+        "courseId": "CAP.P354",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "高分子基礎演習第二",
+        "id": "202011220",
+        "teachers": [
+            "石毛 亮平",
+            "石曽根 隆",
+            "久保 智弘",
+            "戸木田 雅利"
+        ]
+    },
+    {
+        "courseId": "CAP.A373",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "無機化学（錯体化学）",
+        "id": "202002287",
+        "teachers": [
+            "村橋 哲郎"
+        ]
+    },
+    {
+        "courseId": "CAP.A352",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "エネルギー・資源変換化学第二（化学エネルギー変換）",
+        "id": "202002288",
+        "teachers": [
+            "山中 一郎"
+        ]
+    },
+    {
+        "courseId": "CAP.A334",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "上級有機化学第三（有機合成化学）",
+        "id": "202002289",
+        "teachers": [
+            "田中 克典"
+        ]
+    },
+    {
+        "courseId": "CAP.P361",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "高分子工学実験第一",
+        "id": "202002323",
+        "teachers": [
+            "戸木田 雅利",
+            "安藤 慎治",
+            "芹澤 武",
+            "佐藤 浩太郎",
+            "久保 智弘",
+            "後関 頼太",
+            "石毛 亮平",
+            "梁 暁斌",
+            "古屋 秀峰"
+        ]
+    },
+    {
+        "courseId": "CAP.P343",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "高分子工業化学",
+        "id": "202002325",
+        "teachers": [
+            "芹澤 武"
+        ]
+    },
+    {
+        "courseId": "CAP.P352",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "高分子工学演習第二",
+        "id": "202002327",
+        "teachers": [
+            "小西 玄一",
+            "戸木田 雅利"
+        ]
+    },
+    {
+        "courseId": "CAP.P311",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "高分子化学第三（高分子反応）",
+        "id": "202002315",
+        "teachers": [
+            "大塚 英幸"
+        ]
+    },
+    {
+        "courseId": "CAP.A382",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "分析化学演習",
+        "id": "202002292",
+        "teachers": [
+            "山中 一郎"
+        ]
+    },
+    {
+        "courseId": "CAP.C306",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "反応工学第二（不均一系）",
+        "id": "202002300",
+        "teachers": [
+            "多湖 輝興"
+        ]
+    },
+    {
+        "courseId": "CAP.P321",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "高分子物理第三（レオロジー）",
+        "id": "202002316",
+        "teachers": [
+            "戸木田 雅利"
+        ]
+    },
+    {
+        "courseId": "CAP.B316",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "有機化学第六（アミン） B",
+        "id": "202002271",
+        "teachers": [
+            "田中 健"
+        ]
+    },
+    {
+        "courseId": "CAP.P362",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "高分子工学実験第二",
+        "id": "202002326",
+        "teachers": [
+            "小西 玄一",
+            "中嶋 健",
+            "古屋 秀峰",
+            "久保 智弘",
+            "石毛 亮平",
+            "安藤 慎治",
+            "後関 頼太",
+            "梁 暁斌"
+        ]
+    },
+    {
+        "courseId": "CAP.Z371",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "学士特定課題プロジェクトS1c（応用化学系）",
+        "id": "202027616",
+        "teachers": []
+    },
+    {
+        "courseId": "CAP.Z389",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "学士特定課題研究（応用化学系）",
+        "id": "202007650",
+        "teachers": [
+            "各教員"
+        ]
+    },
+    {
+        "courseId": "CAP.Z372",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "学士特定課題プロジェクトS2c（応用化学系）",
+        "id": "202027619",
+        "teachers": []
+    },
+    {
+        "courseId": "CAP.Z373",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "学士特定課題プロジェクトS3c（応用化学系）",
+        "id": "202027621",
+        "teachers": []
+    },
+    {
+        "courseId": "CAP.Z394",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "学士特定課題プロジェクト4c（応用化学系）",
+        "id": "202007657",
+        "teachers": []
+    },
+    {
+        "courseId": "CAP.Z395",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "学士特定課題プロジェクト5c（応用化学系）",
+        "id": "202007658",
+        "teachers": []
+    },
+    {
+        "courseId": "CAP.Z389",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "学士特定課題研究（応用化学系）",
+        "id": "202016739",
+        "teachers": [
+            "各教員"
+        ]
+    },
+    {
+        "courseId": "CAP.Z391",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "学士特定課題プロジェクト1c（応用化学系）",
+        "id": "202007652",
+        "teachers": []
+    },
+    {
+        "courseId": "CAP.B315",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "有機化学第五（カルボニル化合物） A",
+        "id": "202002268",
+        "teachers": [
+            "石曽根 隆"
+        ]
+    },
+    {
+        "courseId": "CAP.Z381",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "研究プロジェクト（応用化学系）",
+        "id": "202002360",
+        "teachers": []
+    },
+    {
+        "courseId": "CAP.Z372",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "学士特定課題プロジェクトS2c（応用化学系）",
+        "id": "202027618",
+        "teachers": []
+    },
+    {
+        "courseId": "CAP.Z373",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "学士特定課題プロジェクトS3c（応用化学系）",
+        "id": "202027620",
+        "teachers": []
+    },
+    {
+        "courseId": "CAP.Z374",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "学士特定課題プロジェクトS4c（応用化学系）",
+        "id": "202027622",
+        "teachers": []
+    },
+    {
+        "courseId": "CAP.Z375",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "学士特定課題プロジェクトS5c（応用化学系）",
+        "id": "202027623",
+        "teachers": []
+    },
+    {
+        "courseId": "CAP.Z376",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "学士特定課題プロジェクトS6c（応用化学系）",
+        "id": "202027624",
+        "teachers": []
+    },
+    {
+        "courseId": "CAP.E312",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "応用化学インターンシップ第二",
+        "id": "202011211",
+        "teachers": []
+    },
+    {
+        "courseId": "CAP.E311",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "応用化学インターンシップ第一",
+        "id": "202011252",
+        "teachers": []
+    },
+    {
+        "courseId": "CAP.Z371",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "学士特定課題プロジェクトS1c（応用化学系）",
+        "id": "202027617",
+        "teachers": []
+    },
+    {
+        "courseId": "CAP.Z391",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "学士特定課題プロジェクト1c（応用化学系）",
+        "id": "202007651",
+        "teachers": []
+    },
+    {
+        "courseId": "CAP.Z392",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "学士特定課題プロジェクト2c（応用化学系）",
+        "id": "202007653",
+        "teachers": []
+    },
+    {
+        "courseId": "CAP.Z393",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "学士特定課題プロジェクト3c（応用化学系）",
+        "id": "202007655",
+        "teachers": []
+    },
+    {
+        "courseId": "CAP.Z381",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "研究プロジェクト（応用化学系）",
+        "id": "202002361",
+        "teachers": []
+    },
+    {
+        "courseId": "CAP.Z396",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "学士特定課題プロジェクト6c（応用化学系）",
+        "id": "202007659",
+        "teachers": []
+    },
+    {
+        "courseId": "CAP.Z392",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "学士特定課題プロジェクト2c（応用化学系）",
+        "id": "202007654",
+        "teachers": []
+    },
+    {
+        "courseId": "CAP.Z393",
+        "courseDigit": 3,
+        "department": "応用化学系",
+        "courseName": "学士特定課題プロジェクト3c（応用化学系）",
+        "id": "202007656",
+        "teachers": []
+    }
+]

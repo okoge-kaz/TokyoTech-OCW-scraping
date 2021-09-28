@@ -1,0 +1,637 @@
+[
+    {
+        "courseId": "LAT.A110",
+        "courseDigit": 1,
+        "department": "教職科目",
+        "courseName": "教育相談論",
+        "id": "202001673",
+        "teachers": [
+            "山岸 侯彦",
+            "齋藤 憲司",
+            "横山 明子"
+        ]
+    },
+    {
+        "courseId": "LAT.A112",
+        "courseDigit": 1,
+        "department": "教職科目",
+        "courseName": "教育基礎B",
+        "id": "202017453",
+        "teachers": [
+            "森下 稔",
+            "森下 稔"
+        ]
+    },
+    {
+        "courseId": "LAT.A102",
+        "courseDigit": 1,
+        "department": "教職科目",
+        "courseName": "教職概論Ｂ",
+        "id": "202001639",
+        "teachers": [
+            "鈴木 悠太"
+        ]
+    },
+    {
+        "courseId": "LAT.A109",
+        "courseDigit": 1,
+        "department": "教職科目",
+        "courseName": "生徒・進路指導論",
+        "id": "202001672",
+        "teachers": [
+            "今泉 朝雄",
+            "横山 明子"
+        ]
+    },
+    {
+        "courseId": "LAT.I101",
+        "courseDigit": 1,
+        "department": "教職科目",
+        "courseName": "情報科教育法Ⅰ",
+        "id": "202024375",
+        "teachers": [
+            "松田 稔樹",
+            "野村 泰朗"
+        ]
+    },
+    {
+        "courseId": "LAT.M101",
+        "courseDigit": 1,
+        "department": "教職科目",
+        "courseName": "数学科教育法Ⅰ",
+        "id": "202001646",
+        "teachers": [
+            "松嵜 昭雄"
+        ]
+    },
+    {
+        "courseId": "LAT.A133",
+        "courseDigit": 1,
+        "department": "教職科目",
+        "courseName": "特別支援の理論と教育的配慮",
+        "id": "202024342",
+        "teachers": [
+            "岡田 佳子",
+            "石井 正子",
+            "山岸 侯彦"
+        ]
+    },
+    {
+        "courseId": "LAT.A103",
+        "courseDigit": 1,
+        "department": "教職科目",
+        "courseName": "教育基礎A",
+        "id": "202001640",
+        "teachers": [
+            "鈴木 悠太"
+        ]
+    },
+    {
+        "courseId": "LAT.A104",
+        "courseDigit": 1,
+        "department": "教職科目",
+        "courseName": "発達と学習Ⅰ",
+        "id": "202001641",
+        "teachers": [
+            "山岸 侯彦"
+        ]
+    },
+    {
+        "courseId": "LAT.A101",
+        "courseDigit": 1,
+        "department": "教職科目",
+        "courseName": "教職概論Ａ",
+        "id": "202001638",
+        "teachers": [
+            "鈴木 悠太"
+        ]
+    },
+    {
+        "courseId": "LAT.A107",
+        "courseDigit": 1,
+        "department": "教職科目",
+        "courseName": "教育制度",
+        "id": "202001644",
+        "teachers": [
+            "鈴木 悠太"
+        ]
+    },
+    {
+        "courseId": "LAT.A105",
+        "courseDigit": 1,
+        "department": "教職科目",
+        "courseName": "発達と学習Ⅱ",
+        "id": "202001642",
+        "teachers": [
+            "山岸 侯彦"
+        ]
+    },
+    {
+        "courseId": "LAT.S102",
+        "courseDigit": 1,
+        "department": "教職科目",
+        "courseName": "理科教育法Ⅱ",
+        "id": "202001652",
+        "teachers": [
+            "野内 頼一"
+        ]
+    },
+    {
+        "courseId": "LAT.A111",
+        "courseDigit": 1,
+        "department": "教職科目",
+        "courseName": "進路指導・キャリア教育論",
+        "id": "202001674",
+        "teachers": [
+            "藤田 晃之",
+            "山岸 侯彦"
+        ]
+    },
+    {
+        "courseId": "LAT.A108",
+        "courseDigit": 1,
+        "department": "教職科目",
+        "courseName": "教育行財政",
+        "id": "202001645",
+        "teachers": [
+            "齊藤 貴浩"
+        ]
+    },
+    {
+        "courseId": "LAT.M102",
+        "courseDigit": 1,
+        "department": "教職科目",
+        "courseName": "数学科教育法Ⅱ",
+        "id": "202001647",
+        "teachers": [
+            "松嵜 昭雄"
+        ]
+    },
+    {
+        "courseId": "LAT.S101",
+        "courseDigit": 1,
+        "department": "教職科目",
+        "courseName": "理科教育法Ⅰ",
+        "id": "202001651",
+        "teachers": [
+            "藤枝 秀樹"
+        ]
+    },
+    {
+        "courseId": "LAT.A233",
+        "courseDigit": 2,
+        "department": "教職科目",
+        "courseName": "特別活動及び総合的な学習の時間の指導法",
+        "id": "202024362",
+        "teachers": [
+            "松田 稔樹",
+            "今泉 朝雄"
+        ]
+    },
+    {
+        "courseId": "LAT.A203",
+        "courseDigit": 2,
+        "department": "教職科目",
+        "courseName": "教育工学",
+        "id": "202001666",
+        "teachers": [
+            "松田 稔樹"
+        ]
+    },
+    {
+        "courseId": "LAT.T201",
+        "courseDigit": 2,
+        "department": "教職科目",
+        "courseName": "工業科教育法I",
+        "id": "202001660",
+        "teachers": [
+            "近藤 千香",
+            "近藤 千香"
+        ]
+    },
+    {
+        "courseId": "LAT.A212",
+        "courseDigit": 2,
+        "department": "教職科目",
+        "courseName": "情報と職業",
+        "id": "202001689",
+        "teachers": [
+            "高橋 等"
+        ]
+    },
+    {
+        "courseId": "LAT.A205",
+        "courseDigit": 2,
+        "department": "教職科目",
+        "courseName": "マルチメディアと表現技法",
+        "id": "202001669",
+        "teachers": [
+            "室田 真男"
+        ]
+    },
+    {
+        "courseId": "LAT.A208",
+        "courseDigit": 2,
+        "department": "教職科目",
+        "courseName": "学習者特性に基づく指導方法の設計",
+        "id": "202013968",
+        "teachers": [
+            "栗山 直子"
+        ]
+    },
+    {
+        "courseId": "LAT.A211",
+        "courseDigit": 2,
+        "department": "教職科目",
+        "courseName": "これからの経営管理とプロフェッショナル育成（環境・社会理工学）",
+        "id": "202006770",
+        "teachers": [
+            "杉本 守孝"
+        ]
+    },
+    {
+        "courseId": "LAT.I202",
+        "courseDigit": 2,
+        "department": "教職科目",
+        "courseName": "情報科教育法Ⅱ",
+        "id": "202001657",
+        "teachers": [
+            "松田 稔樹",
+            "玉田 和恵",
+            "波多野 和彦"
+        ]
+    },
+    {
+        "courseId": "LAT.A201",
+        "courseDigit": 2,
+        "department": "教職科目",
+        "courseName": "道徳の指導法",
+        "id": "202001664",
+        "teachers": [
+            "藤澤 文"
+        ]
+    },
+    {
+        "courseId": "LAT.A210",
+        "courseDigit": 2,
+        "department": "教職科目",
+        "courseName": "これからの経営管理とプロフェッショナル育成（物質理工学）",
+        "id": "202006769",
+        "teachers": [
+            "杉本 守孝"
+        ]
+    },
+    {
+        "courseId": "LAT.A206",
+        "courseDigit": 2,
+        "department": "教職科目",
+        "courseName": "教育課程編成の方法",
+        "id": "202013588",
+        "teachers": [
+            "松田 稔樹"
+        ]
+    },
+    {
+        "courseId": "LAT.A204",
+        "courseDigit": 2,
+        "department": "教職科目",
+        "courseName": "情報機器およびデジタル教材の活用",
+        "id": "202001667",
+        "teachers": [
+            "室田 真男"
+        ]
+    },
+    {
+        "courseId": "LAT.T202",
+        "courseDigit": 2,
+        "department": "教職科目",
+        "courseName": "工業科教育法Ⅱ",
+        "id": "202001661",
+        "teachers": [
+            "成田 彰"
+        ]
+    },
+    {
+        "courseId": "LAT.T203",
+        "courseDigit": 2,
+        "department": "教職科目",
+        "courseName": "工業科教育法Ⅲ",
+        "id": "202001662",
+        "teachers": [
+            "岩城 純"
+        ]
+    },
+    {
+        "courseId": "LAT.A209",
+        "courseDigit": 2,
+        "department": "教職科目",
+        "courseName": "これからの経営管理とプロフェッショナル育成（工学）",
+        "id": "202006768",
+        "teachers": [
+            "杉本 守孝"
+        ]
+    },
+    {
+        "courseId": "LAT.I301",
+        "courseDigit": 3,
+        "department": "教職科目",
+        "courseName": "情報科教育法Ⅲ",
+        "id": "202001658",
+        "teachers": [
+            "松田 稔樹",
+            "波多野 和彦"
+        ]
+    },
+    {
+        "courseId": "LAT.P304",
+        "courseDigit": 3,
+        "department": "教職科目",
+        "courseName": "教育実習第一Ｂ",
+        "id": "202001678",
+        "teachers": [
+            "栗山 直子",
+            "室田 真男",
+            "松田 稔樹",
+            "山岸 侯彦",
+            "鈴木 悠太"
+        ]
+    },
+    {
+        "courseId": "LAT.P306",
+        "courseDigit": 3,
+        "department": "教職科目",
+        "courseName": "教育実習第二Ｂ",
+        "id": "202001680",
+        "teachers": [
+            "栗山 直子",
+            "室田 真男",
+            "松田 稔樹",
+            "山岸 侯彦",
+            "鈴木 悠太"
+        ]
+    },
+    {
+        "courseId": "LAT.M301",
+        "courseDigit": 3,
+        "department": "教職科目",
+        "courseName": "数学科教育法Ⅲ",
+        "id": "202001648",
+        "teachers": [
+            "松田 稔樹",
+            "早坂 健"
+        ]
+    },
+    {
+        "courseId": "LAT.P310",
+        "courseDigit": 3,
+        "department": "教職科目",
+        "courseName": "教育実習第三Ｂ",
+        "id": "202001684",
+        "teachers": [
+            "栗山 直子",
+            "室田 真男",
+            "松田 稔樹",
+            "山岸 侯彦",
+            "鈴木 悠太"
+        ]
+    },
+    {
+        "courseId": "LAT.P303",
+        "courseDigit": 3,
+        "department": "教職科目",
+        "courseName": "教育実習第一Ａ",
+        "id": "202001677",
+        "teachers": [
+            "栗山 直子",
+            "室田 真男",
+            "松田 稔樹",
+            "山岸 侯彦",
+            "鈴木 悠太"
+        ]
+    },
+    {
+        "courseId": "LAT.P311",
+        "courseDigit": 3,
+        "department": "教職科目",
+        "courseName": "教育実習第四Ａ",
+        "id": "202001685",
+        "teachers": [
+            "栗山 直子",
+            "室田 真男",
+            "松田 稔樹",
+            "山岸 侯彦",
+            "鈴木 悠太"
+        ]
+    },
+    {
+        "courseId": "LAT.S301",
+        "courseDigit": 3,
+        "department": "教職科目",
+        "courseName": "理科教育法Ⅲ",
+        "id": "202001653",
+        "teachers": [
+            "松田 稔樹",
+            "小佐野 隆治",
+            "砂岡 康宏"
+        ]
+    },
+    {
+        "courseId": "LAT.S302",
+        "courseDigit": 3,
+        "department": "教職科目",
+        "courseName": "理科教育法Ⅳ",
+        "id": "202001654",
+        "teachers": [
+            "室田 真男",
+            "久保田 善彦"
+        ]
+    },
+    {
+        "courseId": "LAT.P308",
+        "courseDigit": 3,
+        "department": "教職科目",
+        "courseName": "教育実習第二Ｄ",
+        "id": "202001682",
+        "teachers": [
+            "栗山 直子",
+            "室田 真男",
+            "松田 稔樹",
+            "山岸 侯彦",
+            "鈴木 悠太"
+        ]
+    },
+    {
+        "courseId": "LAT.P313",
+        "courseDigit": 3,
+        "department": "教職科目",
+        "courseName": "教職実践演習",
+        "id": "202001687",
+        "teachers": [
+            "鈴木 悠太",
+            "室田 真男",
+            "松田 稔樹",
+            "山岸 侯彦",
+            "栗山 直子",
+            "齋藤 憲司"
+        ]
+    },
+    {
+        "courseId": "LAT.M302",
+        "courseDigit": 3,
+        "department": "教職科目",
+        "courseName": "数学科教育法Ⅳ",
+        "id": "202001649",
+        "teachers": [
+            "室田 真男",
+            "渡辺 雄貴"
+        ]
+    },
+    {
+        "courseId": "LAT.P312",
+        "courseDigit": 3,
+        "department": "教職科目",
+        "courseName": "教育実習第四Ｂ",
+        "id": "202001686",
+        "teachers": [
+            "栗山 直子",
+            "室田 真男",
+            "松田 稔樹",
+            "山岸 侯彦",
+            "鈴木 悠太"
+        ]
+    },
+    {
+        "courseId": "LAT.M303",
+        "courseDigit": 3,
+        "department": "教職科目",
+        "courseName": "数学科教育法実践演習 I",
+        "id": "202001650",
+        "teachers": [
+            "鈴木 悠太"
+        ]
+    },
+    {
+        "courseId": "LAT.S303",
+        "courseDigit": 3,
+        "department": "教職科目",
+        "courseName": "理科教育法実践演習 I",
+        "id": "202001655",
+        "teachers": [
+            "鈴木 悠太"
+        ]
+    },
+    {
+        "courseId": "LAT.P309",
+        "courseDigit": 3,
+        "department": "教職科目",
+        "courseName": "教育実習第三Ａ",
+        "id": "202001683",
+        "teachers": [
+            "栗山 直子",
+            "室田 真男",
+            "松田 稔樹",
+            "山岸 侯彦",
+            "鈴木 悠太"
+        ]
+    },
+    {
+        "courseId": "LAT.P302",
+        "courseDigit": 3,
+        "department": "教職科目",
+        "courseName": "教育実習基礎Ｂ",
+        "id": "202001676",
+        "teachers": [
+            "栗山 直子",
+            "室田 真男"
+        ]
+    },
+    {
+        "courseId": "LAT.A301",
+        "courseDigit": 3,
+        "department": "教職科目",
+        "courseName": "マルチメディアと学習環境",
+        "id": "202001668",
+        "teachers": [
+            "室田 真男"
+        ]
+    },
+    {
+        "courseId": "LAT.P301",
+        "courseDigit": 3,
+        "department": "教職科目",
+        "courseName": "教育実習基礎Ａ",
+        "id": "202001675",
+        "teachers": [
+            "栗山 直子",
+            "室田 真男"
+        ]
+    },
+    {
+        "courseId": "LAT.P305",
+        "courseDigit": 3,
+        "department": "教職科目",
+        "courseName": "教育実習第二Ａ",
+        "id": "202001679",
+        "teachers": [
+            "栗山 直子",
+            "室田 真男",
+            "松田 稔樹",
+            "山岸 侯彦",
+            "鈴木 悠太"
+        ]
+    },
+    {
+        "courseId": "LAT.P307",
+        "courseDigit": 3,
+        "department": "教職科目",
+        "courseName": "教育実習第二Ｃ",
+        "id": "202001681",
+        "teachers": [
+            "栗山 直子",
+            "室田 真男",
+            "松田 稔樹",
+            "山岸 侯彦",
+            "鈴木 悠太"
+        ]
+    },
+    {
+        "courseId": "LAT.M304",
+        "courseDigit": 3,
+        "department": "教職科目",
+        "courseName": "数学科教育法実践演習 II",
+        "id": "202027089",
+        "teachers": [
+            "松田 稔樹"
+        ]
+    },
+    {
+        "courseId": "LAT.S304",
+        "courseDigit": 3,
+        "department": "教職科目",
+        "courseName": "理科教育法実践演習 II",
+        "id": "202027091",
+        "teachers": [
+            "松田 稔樹"
+        ]
+    },
+    {
+        "courseId": "LAT.I302",
+        "courseDigit": 3,
+        "department": "教職科目",
+        "courseName": "情報科教育法Ⅳ",
+        "id": "202001659",
+        "teachers": [
+            "松田 稔樹"
+        ]
+    },
+    {
+        "courseId": "LAT.T301",
+        "courseDigit": 3,
+        "department": "教職科目",
+        "courseName": "工業科教育法Ⅳ",
+        "id": "202001663",
+        "teachers": [
+            "室田 真男"
+        ]
+    }
+]

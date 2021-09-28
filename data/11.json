@@ -1,0 +1,1736 @@
+[
+    {
+        "courseId": "MAT.A250",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "材料科学実験（M, P, C）第一",
+        "id": "202002144",
+        "teachers": [
+            "宮内 雅浩",
+            "塩谷 正俊",
+            "河村 憲一",
+            "上田 光敏",
+            "林 幸",
+            "村石 信二",
+            "小林 郁夫",
+            "多田 英司",
+            "寺田 芳弘",
+            "中辻 寬",
+            "合田 義弘",
+            "中田 伸生",
+            "小林 覚",
+            "三宮 工"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.U212",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "基礎工業数学第一b",
+        "id": "202007040",
+        "teachers": [
+            "滝口 孝志"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.U211",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "基礎工業数学第一a",
+        "id": "202007039",
+        "teachers": [
+            "滝口 孝志"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.A205",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "情報処理概論演習",
+        "id": "202002143",
+        "teachers": [
+            "石川 謙",
+            "久保山 敬一",
+            "春本 高志",
+            "高橋 亮"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.A204",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "材料熱力学 b",
+        "id": "202002142",
+        "teachers": [
+            "中島 章",
+            "川路 均",
+            "須佐 匡裕",
+            "河村 憲一",
+            "多田 英司",
+            "上田 光敏",
+            "小林 能直",
+            "林 幸"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.C204",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "化学反応動力学（C）",
+        "id": "202002150",
+        "teachers": [
+            "生駒 俊之",
+            "松下 伸広"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.C202",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "結晶とフォノン",
+        "id": "202002148",
+        "teachers": [
+            "鶴見 敬章",
+            "保科 拓也"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.U213",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "基礎工業数学第二a",
+        "id": "202007041",
+        "teachers": [
+            "滝口 孝志"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.A251",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "材料科学実験（M, P, C）第二",
+        "id": "202002145",
+        "teachers": [
+            "宮内 雅浩",
+            "塩谷 正俊",
+            "河村 憲一",
+            "上田 光敏",
+            "林 幸",
+            "村石 信二",
+            "小林 郁夫",
+            "多田 英司",
+            "寺田 芳弘",
+            "中辻 寬",
+            "合田 義弘",
+            "中田 伸生",
+            "小林 覚",
+            "三宮 工"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.C201",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "無機量子化学",
+        "id": "202002147",
+        "teachers": [
+            "松下 伸広",
+            "山口 晃"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.M206",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "金属の電子構造と物性",
+        "id": "202002157",
+        "teachers": [
+            "史 蹟",
+            "中村 吉男"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.M204",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "金属学概論",
+        "id": "202002243",
+        "teachers": [
+            "小林 郁夫",
+            "上田 光敏",
+            "三宮 工"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.A202",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "材料力学概論F",
+        "id": "202002138",
+        "teachers": [
+            "轟 章",
+            "水谷 義弘"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.C203",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "統計力学（C）",
+        "id": "202002149",
+        "teachers": [
+            "神谷 利夫",
+            "松石 聡"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.A203",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "材料量子力学 a",
+        "id": "202002139",
+        "teachers": [
+            "森 健彦",
+            "東 正樹",
+            "合田 義弘",
+            "中辻 寬",
+            "石川 謙"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.A206",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "材料の熱的機械的性質",
+        "id": "202002241",
+        "teachers": [
+            "森川 淳子",
+            "塩谷 正俊",
+            "扇澤 敏明",
+            "淺井 茂雄"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.M207",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "金属の状態図と相安定",
+        "id": "202002158",
+        "teachers": [
+            "細田 秀樹",
+            "木村 好里"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.D201",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "B2D研究基礎a（材料系） J",
+        "id": "202027880",
+        "teachers": [
+            "石川 謙"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.A201",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "電気学",
+        "id": "202002137",
+        "teachers": [
+            "北本 仁孝",
+            "真島 豊"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.A203",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "材料量子力学 b",
+        "id": "202002140",
+        "teachers": [
+            "森 健彦",
+            "東 正樹",
+            "合田 義弘",
+            "中辻 寬",
+            "石川 謙"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.A204",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "材料熱力学 a",
+        "id": "202002141",
+        "teachers": [
+            "中島 章",
+            "川路 均",
+            "須佐 匡裕",
+            "河村 憲一",
+            "多田 英司",
+            "上田 光敏",
+            "小林 能直",
+            "林 幸"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.C205",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "セラミックス概論",
+        "id": "202002151",
+        "teachers": [
+            "林 智広",
+            "吉田 克己",
+            "神谷 利夫",
+            "松下 伸広",
+            "矢野 哲司",
+            "松田 晃史",
+            "松下 祥子",
+            "保科 拓也",
+            "大場 史康",
+            "磯部 敏宏",
+            "中島 章",
+            "生駒 俊之",
+            "鶴見 敬章",
+            "宮内 雅浩"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.M203",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "化学反応動力学(M)",
+        "id": "202002155",
+        "teachers": [
+            "曽根 正人",
+            "河村 憲一",
+            "小林 能直",
+            "多田 英司",
+            "上田 光敏"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.M202",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "統計力学（M）",
+        "id": "202002154",
+        "teachers": [
+            "合田 義弘",
+            "中辻 寬"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.P213",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "有機化学(反応)A",
+        "id": "202002164",
+        "teachers": [
+            "早川 晃鏡"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.U214",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "基礎工業数学第二b",
+        "id": "202007042",
+        "teachers": [
+            "滝口 孝志"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.M201",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "結晶学",
+        "id": "202002153",
+        "teachers": [
+            "中村 吉男",
+            "藤居 俊之"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.P204",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "物理化学(化学熱力学）",
+        "id": "202002168",
+        "teachers": [
+            "松本 英俊"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.D201",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "B2D研究基礎a（材料系） E",
+        "id": "202027881",
+        "teachers": [
+            "石川 謙"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.P212",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "有機化学(構造−II）",
+        "id": "202002163",
+        "teachers": [
+            "道信 剛志"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.P206",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "有機材料概論",
+        "id": "202027462",
+        "teachers": [
+            "石川 謙",
+            "早水 裕平",
+            "VACHA MARTIN",
+            "松本 英俊",
+            "淺井 茂雄",
+            "森川 淳子",
+            "扇澤 敏明",
+            "塩谷 正俊",
+            "大内 幸雄",
+            "早川 晃鏡",
+            "道信 剛志",
+            "相良 剛光",
+            "森 健彦"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.P201",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "量子化学A",
+        "id": "202002159",
+        "teachers": [
+            "大内 幸雄"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.A252",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "材料科学実験（M, P, C）第三",
+        "id": "202002146",
+        "teachers": [
+            "宮内 雅浩",
+            "塩谷 正俊",
+            "河村 憲一",
+            "上田 光敏",
+            "林 幸",
+            "村石 信二",
+            "小林 郁夫",
+            "多田 英司",
+            "寺田 芳弘",
+            "中辻 寬",
+            "合田 義弘",
+            "中田 伸生",
+            "小林 覚",
+            "三宮 工"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.P215",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "無機化学",
+        "id": "202002166",
+        "teachers": [
+            "森 健彦"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.P221",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "有機材料構造A",
+        "id": "202002169",
+        "teachers": [
+            "扇澤 敏明"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.P211",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "有機化学(構造−I)",
+        "id": "202002162",
+        "teachers": [
+            "道信 剛志"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.P202",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "量子化学B",
+        "id": "202002160",
+        "teachers": [
+            "大内 幸雄"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.C206",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "セラミックスプロセシング",
+        "id": "202002152",
+        "teachers": [
+            "中島 章",
+            "磯部 敏宏"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.M205",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "応力・ひずみの基礎と金属の変形",
+        "id": "202002156",
+        "teachers": [
+            "竹山 雅夫",
+            "尾中 晋"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.P214",
+        "courseDigit": 2,
+        "department": "材料系",
+        "courseName": "有機化学(反応)B",
+        "id": "202002165",
+        "teachers": [
+            "早川 晃鏡"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.C351",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "セラミックス実験第二",
+        "id": "202002186",
+        "teachers": [
+            "宮内 雅浩",
+            "山口 晃",
+            "HUBAREVICH HANNA",
+            "岸 哲生",
+            "久保田 雄太"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.C321",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "先進材料概論",
+        "id": "202008828",
+        "teachers": [
+            "林 智広",
+            "北本 仁孝",
+            "吉本 護",
+            "松田 晃史",
+            "中村 一隆",
+            "笹川 崇男",
+            "柘植 丈治",
+            "舟窪 浩",
+            "東 正樹",
+            "山本 隆文",
+            "熊谷 悠",
+            "大場 史康",
+            "真島 豊",
+            "北野 政明",
+            "原 亨和",
+            "鎌田 慶吾",
+            "神谷 利夫",
+            "片瀬 貴義",
+            "川路 均"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.C350",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "セラミックス実験第一",
+        "id": "202002185",
+        "teachers": [
+            "宮内 雅浩",
+            "山口 晃",
+            "HUBAREVICH HANNA",
+            "岸 哲生",
+            "久保田 雄太"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.P303",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "固体物理学(電子系)",
+        "id": "202002205",
+        "teachers": [
+            "石川 謙"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.C352",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "セラミックス実験第三",
+        "id": "202002187",
+        "teachers": [
+            "宮内 雅浩",
+            "山口 晃",
+            "HUBAREVICH HANNA",
+            "岸 哲生",
+            "久保田 雄太"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.M309",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "金属工学創成プロジェクト",
+        "id": "202002197",
+        "teachers": [
+            "小林 郁夫",
+            "竹山 雅夫",
+            "中村 吉男",
+            "史 蹟",
+            "藤居 俊之",
+            "須佐 匡裕",
+            "熊井 真次",
+            "西方 篤",
+            "尾中 晋",
+            "細田 秀樹",
+            "河村 憲一",
+            "上田 光敏",
+            "林 幸",
+            "小林 能直",
+            "村石 信二",
+            "多田 英司",
+            "木村 好里",
+            "寺田 芳弘",
+            "曽根 正人",
+            "稲邑 朋也",
+            "中辻 寬",
+            "合田 義弘",
+            "中田 伸生",
+            "小林 覚",
+            "三宮 工",
+            "原田 陽平",
+            "中島 広豊",
+            "宮澤 知孝",
+            "渡辺 玄",
+            "遠藤 理恵",
+            "大井 梓"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.C301",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "結晶化学（C）",
+        "id": "202002170",
+        "teachers": [
+            "鶴見 敬章",
+            "保科 拓也"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.C313",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "界面化学",
+        "id": "202002181",
+        "teachers": [
+            "松下 祥子",
+            "近藤 剛史"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.M306",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "鉄鋼材料学第二",
+        "id": "202002194",
+        "teachers": [
+            "寺田 芳弘",
+            "中田 伸生",
+            "竹山 雅夫",
+            "小林 覚"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.M351",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "金属工学実験第二",
+        "id": "202002202",
+        "teachers": [
+            "小林 郁夫",
+            "竹山 雅夫",
+            "中村 吉男",
+            "史 蹟",
+            "藤居 俊之",
+            "須佐 匡裕",
+            "熊井 真次",
+            "西方 篤",
+            "尾中 晋",
+            "細田 秀樹",
+            "河村 憲一",
+            "上田 光敏",
+            "林 幸",
+            "小林 能直",
+            "村石 信二",
+            "多田 英司",
+            "木村 好里",
+            "寺田 芳弘",
+            "曽根 正人",
+            "稲邑 朋也",
+            "中辻 寬",
+            "合田 義弘",
+            "中田 伸生",
+            "小林 覚",
+            "三宮 工",
+            "春本 高志",
+            "原田 陽平",
+            "中島 広豊",
+            "宮澤 知孝",
+            "渡辺 玄",
+            "遠藤 理恵",
+            "大井 梓",
+            "O MIN HO",
+            "篠原 百合",
+            "田原 正樹",
+            "宮澤 直己",
+            "CHIU WAN TING",
+            "渡辺 学",
+            "CHANG TSO-FU",
+            "安井 伸太郎"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.P322",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "有機材料物性A",
+        "id": "202002214",
+        "teachers": [
+            "淺井 茂雄"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.M305",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "鉄鋼材料学第一",
+        "id": "202002193",
+        "teachers": [
+            "竹山 雅夫",
+            "小林 覚",
+            "中田 伸生",
+            "寺田 芳弘"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.P301",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "固体物理学(格子系)",
+        "id": "202002204",
+        "teachers": [
+            "早水 裕平"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.M303",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "格子欠陥と転位",
+        "id": "202002191",
+        "teachers": [
+            "藤居 俊之",
+            "村石 信二"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.P325",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "有機材料成形加工B",
+        "id": "202002209",
+        "teachers": [
+            "森川 淳子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.C305",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "半導体材料及びデバイス",
+        "id": "202002174",
+        "teachers": [
+            "保科 拓也",
+            "定 昌史"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.C316",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "生体材料学",
+        "id": "202002184",
+        "teachers": [
+            "生駒 俊之",
+            "陳 国平"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.P311",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "有機化学(機能)A",
+        "id": "202002218",
+        "teachers": [
+            "相良 剛光",
+            "早川 晃鏡"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.P324",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "有機材料成形加工A",
+        "id": "202002208",
+        "teachers": [
+            "森川 淳子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.P396",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "有機機能生化学",
+        "id": "202002226",
+        "teachers": [
+            "平石 知裕"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.M350",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "金属工学実験第一",
+        "id": "202002201",
+        "teachers": [
+            "小林 郁夫",
+            "竹山 雅夫",
+            "中村 吉男",
+            "史 蹟",
+            "藤居 俊之",
+            "須佐 匡裕",
+            "熊井 真次",
+            "西方 篤",
+            "尾中 晋",
+            "細田 秀樹",
+            "河村 憲一",
+            "上田 光敏",
+            "林 幸",
+            "小林 能直",
+            "村石 信二",
+            "多田 英司",
+            "木村 好里",
+            "寺田 芳弘",
+            "曽根 正人",
+            "稲邑 朋也",
+            "中辻 寬",
+            "合田 義弘",
+            "中田 伸生",
+            "小林 覚",
+            "三宮 工",
+            "原田 陽平",
+            "中島 広豊",
+            "宮澤 知孝",
+            "渡辺 玄",
+            "遠藤 理恵",
+            "大井 梓"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.P350",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "有機材料工学実験第一",
+        "id": "202002227",
+        "teachers": [
+            "塩谷 正俊",
+            "赤坂 修一",
+            "芦沢 実",
+            "岩橋 崇",
+            "梅本 晋",
+            "川本 正",
+            "久保山 敬一",
+            "宝田 亘",
+            "難波江 裕太",
+            "ZAMENGO MASSIMILIANO"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.P391",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "有機機能材料物理",
+        "id": "202002207",
+        "teachers": [
+            "石川 謙",
+            "藤井 彰彦",
+            "宮地 弘一",
+            "鬼島 靖典"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.C312",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "電気化学（C）",
+        "id": "202002180",
+        "teachers": [
+            "宮内 雅浩",
+            "松下 祥子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.M311",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "金属工学英語セミナー",
+        "id": "202002199",
+        "teachers": [
+            "小林 覚"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.C304",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "非晶質体構造科学",
+        "id": "202002173",
+        "teachers": [
+            "矢野 哲司"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.C306",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "誘電体材料科学",
+        "id": "202002175",
+        "teachers": [
+            "鶴見 敬章"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.P314",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "有機材料合成化学A-2",
+        "id": "202002221",
+        "teachers": [
+            "早川 晃鏡"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.C315",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "薄膜・単結晶プロセシング",
+        "id": "202002183",
+        "teachers": [
+            "舟窪 浩",
+            "磯部 敏宏"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.M307",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "非鉄金属材料学",
+        "id": "202002195",
+        "teachers": [
+            "熊井 真次",
+            "村石 信二",
+            "小林 郁夫"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.M308",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "金属電気化学",
+        "id": "202002196",
+        "teachers": [
+            "西方 篤",
+            "多田 英司"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.M310",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "金属材料プロセッシング",
+        "id": "202002198",
+        "teachers": [
+            "占部 俊明",
+            "神戸 洋史",
+            "小林 覚"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.C314",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "環境の科学",
+        "id": "202002182",
+        "teachers": [
+            "宮内 雅浩",
+            "徳留 弘優"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.M301",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "金属材料解析",
+        "id": "202002189",
+        "teachers": [
+            "曽根 正人",
+            "稲邑 朋也",
+            "三宮 工"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.M302",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "金属物理化学",
+        "id": "202002190",
+        "teachers": [
+            "須佐 匡裕",
+            "林 幸",
+            "河村 憲一",
+            "上田 光敏",
+            "小林 能直"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.A360",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "材料工学インターンシップA",
+        "id": "202002233",
+        "teachers": [
+            "村石 信二"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.P326",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "繊維・複合材料A",
+        "id": "202002212",
+        "teachers": [
+            "塩谷 正俊"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.P352",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "有機材料工学実験第三",
+        "id": "202002229",
+        "teachers": [
+            "森川 淳子",
+            "赤坂 修一",
+            "芦沢 実",
+            "岩橋 崇",
+            "梅本 晋",
+            "川本 正",
+            "久保山 敬一",
+            "宝田 亘",
+            "難波江 裕太",
+            "ZAMENGO MASSIMILIANO"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.C302",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "分光学",
+        "id": "202002171",
+        "teachers": [
+            "矢野 哲司",
+            "北沢 信章"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.P321",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "有機材料構造B",
+        "id": "202002232",
+        "teachers": [
+            "扇澤 敏明"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.M313",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "材料科学入門",
+        "id": "202008826",
+        "teachers": [
+            "CHAI YAW WANG"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.C307",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "磁性体材料科学",
+        "id": "202002176",
+        "teachers": [
+            "東 康男",
+            "松下 伸広"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.Z381",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "研究プロジェクト（材料系） C",
+        "id": "202002244",
+        "teachers": [
+            "保科 拓也",
+            "北野 政明"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.C310",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "材料数理科学",
+        "id": "202002178",
+        "teachers": [
+            "熊谷 悠",
+            "山本 隆文"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.P351",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "有機材料工学実験第二",
+        "id": "202002228",
+        "teachers": [
+            "森 健彦",
+            "赤坂 修一",
+            "芦沢 実",
+            "岩橋 崇",
+            "梅本 晋",
+            "川本 正",
+            "久保山 敬一",
+            "宝田 亘",
+            "難波江 裕太",
+            "ZAMENGO MASSIMILIANO"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.P327",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "繊維・複合材料B",
+        "id": "202002213",
+        "teachers": [
+            "塩谷 正俊"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.P312",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "有機化学(機能)B",
+        "id": "202002219",
+        "teachers": [
+            "相良 剛光",
+            "道信 剛志"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.P315",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "有機材料合成化学B",
+        "id": "202002222",
+        "teachers": [
+            "道信 剛志"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.P317",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "有機材料特性解析",
+        "id": "202002224",
+        "teachers": [
+            "扇澤 敏明",
+            "松本 英俊",
+            "VACHA MARTIN",
+            "森川 淳子",
+            "淺井 茂雄",
+            "早水 裕平"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.M352",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "金属工学実験第三",
+        "id": "202002203",
+        "teachers": [
+            "小林 郁夫",
+            "竹山 雅夫",
+            "中村 吉男",
+            "史 蹟",
+            "藤居 俊之",
+            "須佐 匡裕",
+            "熊井 真次",
+            "西方 篤",
+            "尾中 晋",
+            "細田 秀樹",
+            "河村 憲一",
+            "上田 光敏",
+            "林 幸",
+            "小林 能直",
+            "村石 信二",
+            "多田 英司",
+            "木村 好里",
+            "寺田 芳弘",
+            "曽根 正人",
+            "稲邑 朋也",
+            "中辻 寬",
+            "合田 義弘",
+            "中田 伸生",
+            "小林 覚",
+            "三宮 工",
+            "春本 高志",
+            "原田 陽平",
+            "中島 広豊",
+            "宮澤 知孝",
+            "渡辺 玄",
+            "遠藤 理恵",
+            "大井 梓",
+            "O MIN HO",
+            "篠原 百合",
+            "田原 正樹",
+            "宮澤 直己",
+            "渡辺 学",
+            "CHANG TSO-FU",
+            "安井 伸太郎",
+            "CHIU WAN TING"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.P323",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "有機材料物性B",
+        "id": "202002215",
+        "teachers": [
+            "淺井 茂雄"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.A361",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "材料工学インターンシップB",
+        "id": "202002237",
+        "teachers": [
+            "村石 信二"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.Z381",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "研究プロジェクト（材料系） M",
+        "id": "202016749",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.Z375",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "学士特定課題プロジェクトS5c（材料系）",
+        "id": "202027704",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.Z381",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "研究プロジェクト（材料系） M",
+        "id": "202016750",
+        "teachers": [],
+        "isExist": true
+    },
+    {
+        "courseId": "MAT.Z396",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "学士特定課題プロジェクト6c（材料系）",
+        "id": "202007649",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.A360",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "材料工学インターンシップA",
+        "id": "202002236",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.M304",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "結晶成長と組織形成",
+        "id": "202002192",
+        "teachers": [
+            "熊井 真次",
+            "小林 郁夫"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.P302",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "光学",
+        "id": "202002206",
+        "teachers": [
+            "VACHA MARTIN"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.P304",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "物理化学(電気化学）",
+        "id": "202002230",
+        "teachers": [
+            "松本 英俊"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.P306",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "物理化学(界面・表面）",
+        "id": "202002231",
+        "teachers": [
+            "松本 英俊"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.A360",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "材料工学インターンシップA",
+        "id": "202002235",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.C303",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "有機高分子化学",
+        "id": "202002172",
+        "teachers": [
+            "柘植 丈治",
+            "林 智広"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.P395",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "有機機能材料化学",
+        "id": "202002225",
+        "teachers": [
+            "樋口 昌芳"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.Z381",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "研究プロジェクト（材料系） P",
+        "id": "202016753",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.Z371",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "学士特定課題プロジェクトS1c（材料系）",
+        "id": "202027697",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.Z374",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "学士特定課題プロジェクトS4c（材料系）",
+        "id": "202027703",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.Z372",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "学士特定課題プロジェクトS2c（材料系）",
+        "id": "202027700",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.Z392",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "学士特定課題プロジェクト2c（材料系）",
+        "id": "202007643",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.Z395",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "学士特定課題プロジェクト5c（材料系）",
+        "id": "202007648",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.Z381",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "研究プロジェクト（材料系） M",
+        "id": "202016751",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.Z372",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "学士特定課題プロジェクトS2c（材料系）",
+        "id": "202027699",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.Z373",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "学士特定課題プロジェクトS3c（材料系）",
+        "id": "202027701",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.Z389",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "学士特定課題研究（材料系）",
+        "id": "202007640",
+        "teachers": [
+            "各教員"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.Z376",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "学士特定課題プロジェクトS6c（材料系）",
+        "id": "202027705",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.A360",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "材料工学インターンシップA",
+        "id": "202002234",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.A361",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "材料工学インターンシップB",
+        "id": "202002238",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.Z371",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "学士特定課題プロジェクトS1c（材料系）",
+        "id": "202027698",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.Z373",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "学士特定課題プロジェクトS3c（材料系）",
+        "id": "202027702",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.A361",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "材料工学インターンシップB",
+        "id": "202002239",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.Z391",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "学士特定課題プロジェクト1c（材料系）",
+        "id": "202007641",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.Z393",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "学士特定課題プロジェクト3c（材料系）",
+        "id": "202007645",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.Z381",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "研究プロジェクト（材料系） P",
+        "id": "202016754",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.M312",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "材料工学社会セミナー",
+        "id": "202002200",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.Z394",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "学士特定課題プロジェクト4c（材料系）",
+        "id": "202007647",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.Z389",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "学士特定課題研究（材料系）",
+        "id": "202016758",
+        "teachers": [
+            "各教員"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.A361",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "材料工学インターンシップB",
+        "id": "202002240",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.Z391",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "学士特定課題プロジェクト1c（材料系）",
+        "id": "202007642",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.Z392",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "学士特定課題プロジェクト2c（材料系）",
+        "id": "202007644",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.Z393",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "学士特定課題プロジェクト3c（材料系）",
+        "id": "202007646",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.Z381",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "研究プロジェクト（材料系） C",
+        "id": "202016747",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MAT.Z381",
+        "courseDigit": 3,
+        "department": "材料系",
+        "courseName": "研究プロジェクト（材料系） P",
+        "id": "202016755",
+        "teachers": [],
+        "isExist": false
+    }
+]

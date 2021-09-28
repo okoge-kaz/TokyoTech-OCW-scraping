@@ -1,0 +1,935 @@
+[
+    {
+        "courseId": "PHY.E205",
+        "courseDigit": 2,
+        "department": "物理学系",
+        "courseName": "電磁気学(講義）",
+        "id": "202001690",
+        "teachers": [
+            "西田 祐介"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Q207",
+        "courseDigit": 2,
+        "department": "物理学系",
+        "courseName": "量子力学入門(講義）",
+        "id": "202001721",
+        "teachers": [
+            "伊藤 克司"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "PHY.Q216",
+        "courseDigit": 2,
+        "department": "物理学系",
+        "courseName": "解析力学(演習） A",
+        "id": "202028941",
+        "teachers": [
+            "山口 昌英",
+            "綿引 芳之"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.E212",
+        "courseDigit": 2,
+        "department": "物理学系",
+        "courseName": "電磁気学II(講義）",
+        "id": "202001694",
+        "teachers": [
+            "西田 祐介"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "PHY.Q217",
+        "courseDigit": 2,
+        "department": "物理学系",
+        "courseName": "量子力学入門(演習） A",
+        "id": "202028943",
+        "teachers": [
+            "伊藤 克司",
+            "椎野 克"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.E222",
+        "courseDigit": 2,
+        "department": "物理学系",
+        "courseName": "電磁気学II(演習） A",
+        "id": "202028935",
+        "teachers": [
+            "西田 祐介",
+            "椎野 克"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "PHY.L203",
+        "courseDigit": 2,
+        "department": "物理学系",
+        "courseName": "物理学実験B",
+        "id": "202001701",
+        "teachers": [
+            "平原 徹",
+            "宗宮 健太郎",
+            "野村 竜司",
+            "家永 紘一郎",
+            "金子 真一",
+            "内田 誠",
+            "谷城 康眞",
+            "藤芳 暁",
+            "近藤 洋介",
+            "中野 健一",
+            "加来 滋",
+            "山口 洋平",
+            "一ノ倉 聖",
+            "山田 貴大",
+            "生出 秀行"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "PHY.S209",
+        "courseDigit": 2,
+        "department": "物理学系",
+        "courseName": "熱力学（物理）(講義）",
+        "id": "202001693",
+        "teachers": [
+            "田中 秀数"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "PHY.L210",
+        "courseDigit": 2,
+        "department": "物理学系",
+        "courseName": "計算物理",
+        "id": "202001702",
+        "teachers": [
+            "板橋 健太"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "PHY.M214",
+        "courseDigit": 2,
+        "department": "物理学系",
+        "courseName": "物理数学I(演習） A",
+        "id": "202028937",
+        "teachers": [
+            "古賀 昌久",
+            "豊田 雅之"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.M211",
+        "courseDigit": 2,
+        "department": "物理学系",
+        "courseName": "物理数学II(講義）",
+        "id": "202001695",
+        "teachers": [
+            "笹本 智弘"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.S219",
+        "courseDigit": 2,
+        "department": "物理学系",
+        "courseName": "熱力学（物理）(演習） B",
+        "id": "202029628",
+        "teachers": [
+            "田中 秀数",
+            "豊田 雅之"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "PHY.Q206",
+        "courseDigit": 2,
+        "department": "物理学系",
+        "courseName": "解析力学(講義）",
+        "id": "202001720",
+        "teachers": [
+            "山口 昌英"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "PHY.Q208",
+        "courseDigit": 2,
+        "department": "物理学系",
+        "courseName": "量子力学II(講義）",
+        "id": "202001692",
+        "teachers": [
+            "慈道 大介"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "PHY.E215",
+        "courseDigit": 2,
+        "department": "物理学系",
+        "courseName": "電磁気学(演習） A",
+        "id": "202028931",
+        "teachers": [
+            "西田 祐介",
+            "吉村 賢人"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.E222",
+        "courseDigit": 2,
+        "department": "物理学系",
+        "courseName": "電磁気学II(演習） B",
+        "id": "202029616",
+        "teachers": [
+            "西田 祐介",
+            "豊田 雅之"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.M221",
+        "courseDigit": 2,
+        "department": "物理学系",
+        "courseName": "物理数学II(演習） B",
+        "id": "202029620",
+        "teachers": [
+            "笹本 智弘",
+            "足立 聡"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Q216",
+        "courseDigit": 2,
+        "department": "物理学系",
+        "courseName": "解析力学(演習） B",
+        "id": "202029622",
+        "teachers": [
+            "山口 昌英",
+            "足立 聡"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Q217",
+        "courseDigit": 2,
+        "department": "物理学系",
+        "courseName": "量子力学入門(演習） B",
+        "id": "202029624",
+        "teachers": [
+            "伊藤 克司",
+            "足立 聡"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "PHY.M204",
+        "courseDigit": 2,
+        "department": "物理学系",
+        "courseName": "物理数学I(講義）",
+        "id": "202001691",
+        "teachers": [
+            "古賀 昌久"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.G230",
+        "courseDigit": 2,
+        "department": "物理学系",
+        "courseName": "現代物理学概論",
+        "id": "202001696",
+        "teachers": [
+            "藤岡 宏之",
+            "宗宮 健太郎",
+            "宗片 比呂夫"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.M221",
+        "courseDigit": 2,
+        "department": "物理学系",
+        "courseName": "物理数学II(演習） A",
+        "id": "202028939",
+        "teachers": [
+            "笹本 智弘",
+            "足立 聡"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.L202",
+        "courseDigit": 2,
+        "department": "物理学系",
+        "courseName": "物理学実験A",
+        "id": "202001699",
+        "teachers": [
+            "平原 徹",
+            "宗宮 健太郎",
+            "野村 竜司",
+            "家永 紘一郎",
+            "金子 真一",
+            "内田 誠",
+            "谷城 康眞",
+            "藤芳 暁",
+            "近藤 洋介",
+            "中野 健一",
+            "加来 滋",
+            "山口 洋平",
+            "一ノ倉 聖",
+            "山田 貴大",
+            "生出 秀行"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "PHY.S219",
+        "courseDigit": 2,
+        "department": "物理学系",
+        "courseName": "熱力学（物理）(演習） A",
+        "id": "202028947",
+        "teachers": [
+            "田中 秀数",
+            "豊田 雅之"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "PHY.Q218",
+        "courseDigit": 2,
+        "department": "物理学系",
+        "courseName": "量子力学II(演習） A",
+        "id": "202028945",
+        "teachers": [
+            "慈道 大介",
+            "村上 雄太"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Z201",
+        "courseDigit": 2,
+        "department": "物理学系",
+        "courseName": "B2D 研究基礎a（物理学系） J",
+        "id": "202028956",
+        "teachers": [
+            "河合 誠之"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.L203",
+        "courseDigit": 2,
+        "department": "物理学系",
+        "courseName": "物理学実験B",
+        "id": "202001700",
+        "teachers": [
+            "平原 徹",
+            "宗宮 健太郎",
+            "野村 竜司",
+            "家永 紘一郎",
+            "金子 真一",
+            "内田 誠",
+            "谷城 康眞",
+            "藤芳 暁",
+            "谷津 陽一",
+            "近藤 洋介",
+            "中野 健一",
+            "加来 滋",
+            "山口 洋平",
+            "一ノ倉 聖"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.L201",
+        "courseDigit": 2,
+        "department": "物理学系",
+        "courseName": "物理実験学",
+        "id": "202001697",
+        "teachers": [
+            "陣内 修"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "PHY.Q218",
+        "courseDigit": 2,
+        "department": "物理学系",
+        "courseName": "量子力学II(演習） B",
+        "id": "202029626",
+        "teachers": [
+            "慈道 大介",
+            "吉村 賢人"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "PHY.L202",
+        "courseDigit": 2,
+        "department": "物理学系",
+        "courseName": "物理学実験A",
+        "id": "202001698",
+        "teachers": [
+            "平原 徹",
+            "宗宮 健太郎",
+            "野村 竜司",
+            "家永 紘一郎",
+            "金子 真一",
+            "内田 誠",
+            "谷城 康眞",
+            "藤芳 暁",
+            "谷津 陽一",
+            "近藤 洋介",
+            "中野 健一",
+            "加来 滋",
+            "山口 洋平",
+            "一ノ倉 聖"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Z201",
+        "courseDigit": 2,
+        "department": "物理学系",
+        "courseName": "B2D 研究基礎a（物理学系） E",
+        "id": "202028957",
+        "teachers": [
+            "河合 誠之"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.F353",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "一般相対論",
+        "id": "202001718",
+        "teachers": [
+            "椎野 克"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.S311",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "統計力学(演習） B",
+        "id": "202029635",
+        "teachers": [
+            "古賀 昌久",
+            "綿引 芳之"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.S322",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "統計力学II(演習） B",
+        "id": "202029637",
+        "teachers": [
+            "高橋 和孝",
+            "綿引 芳之"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.C340",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "基礎固体物理学",
+        "id": "202001712",
+        "teachers": [
+            "佐藤 琢哉"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.F352",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "宇宙物理学",
+        "id": "202001710",
+        "teachers": [
+            "須山 輝明"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.C344",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "プラズマ物理学",
+        "id": "202001715",
+        "teachers": [
+            "河村 徹"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Q331",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "相対論的量子力学",
+        "id": "202001716",
+        "teachers": [
+            "山口 昌英"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.G332",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "物理学のフロンティア",
+        "id": "202001711",
+        "teachers": [
+            "伊藤 克司",
+            "河合 誠之",
+            "中村 隆司",
+            "齋藤 晋",
+            "西田 祐介",
+            "田中 秀数",
+            "納富 雅也",
+            "金森 英人",
+            "上妻 幹旺",
+            "松下 道雄",
+            "相川 清隆",
+            "平山 博之",
+            "藤澤 利正",
+            "谷津 陽一"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.S322",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "統計力学II(演習） A",
+        "id": "202028955",
+        "teachers": [
+            "高橋 和孝"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.F350",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "原子核物理学",
+        "id": "202001708",
+        "teachers": [
+            "中村 隆司",
+            "慈道 大介"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.F351",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "素粒子物理学",
+        "id": "202001709",
+        "teachers": [
+            "陣内 修"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.C343",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "化学物理学",
+        "id": "202001714",
+        "teachers": [
+            "金森 英人"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Z397",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "物理学先端研究基礎",
+        "id": "202023758",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.S312",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "統計力学II(講義）",
+        "id": "202001707",
+        "teachers": [
+            "高橋 和孝"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.M330",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "物理数学III",
+        "id": "202001717",
+        "teachers": [
+            "井田 大輔"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.E320",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "電磁気学III(演習） B",
+        "id": "202029631",
+        "teachers": [
+            "田中 秀数",
+            "横山 毅人"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Z381",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "研究プロジェクト（物理学系）",
+        "id": "202001723",
+        "teachers": [
+            "平原 徹",
+            "宗宮 健太郎",
+            "野村 竜司",
+            "家永 紘一郎",
+            "金子 真一",
+            "内田 誠",
+            "谷城 康眞",
+            "藤芳 暁",
+            "近藤 洋介",
+            "中野 健一",
+            "加来 滋",
+            "山口 洋平",
+            "一ノ倉 聖",
+            "山田 貴大",
+            "生出 秀行"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.C342",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "物性物理学II",
+        "id": "202001719",
+        "teachers": [
+            "齋藤 晋",
+            "古賀 昌久"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Q311",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "量子力学III(講義）",
+        "id": "202001706",
+        "teachers": [
+            "横山 毅人"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.S301",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "統計力学(講義）",
+        "id": "202001704",
+        "teachers": [
+            "古賀 昌久"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.E320",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "電磁気学III(演習） A",
+        "id": "202028949",
+        "teachers": [
+            "田中 秀数",
+            "村上 雄太"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.S311",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "統計力学(演習） A",
+        "id": "202028953",
+        "teachers": [
+            "古賀 昌久",
+            "足立 聡"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.C341",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "物性物理学I",
+        "id": "202001713",
+        "teachers": [
+            "平原 徹",
+            "平山 博之"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.E310",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "電磁気学III(講義）",
+        "id": "202001705",
+        "teachers": [
+            "田中 秀数"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Q321",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "量子力学III(演習） A",
+        "id": "202028951",
+        "teachers": [
+            "横山 毅人"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Q321",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "量子力学III(演習） B",
+        "id": "202029633",
+        "teachers": [
+            "横山 毅人",
+            "村上 雄太"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Z381",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "研究プロジェクト（物理学系）",
+        "id": "202001722",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Z371",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "学士特定課題プロジェクトS1c（物理学系）",
+        "id": "202027734",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Z389",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "学士特定課題研究（物理学系）",
+        "id": "202007560",
+        "teachers": [
+            "各教員"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Z374",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "学士特定課題プロジェクトS4c（物理学系）",
+        "id": "202027739",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Z391",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "学士特定課題プロジェクト1c（物理学系）",
+        "id": "202007562",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Z392",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "学士特定課題プロジェクト2c（物理学系）",
+        "id": "202007564",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Z397",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "物理学先端研究基礎",
+        "id": "202023757",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Z372",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "学士特定課題プロジェクトS2c（物理学系）",
+        "id": "202027736",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Z373",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "学士特定課題プロジェクトS3c（物理学系）",
+        "id": "202027738",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Z391",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "学士特定課題プロジェクト1c（物理学系）",
+        "id": "202007561",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Z389",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "学士特定課題研究（物理学系）",
+        "id": "202017326",
+        "teachers": [
+            "各教員"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Z371",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "学士特定課題プロジェクトS1c（物理学系）",
+        "id": "202027733",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Z372",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "学士特定課題プロジェクトS2c（物理学系）",
+        "id": "202027735",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Z373",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "学士特定課題プロジェクトS3c（物理学系）",
+        "id": "202027737",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Z375",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "学士特定課題プロジェクトS5c（物理学系）",
+        "id": "202027740",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Z376",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "学士特定課題プロジェクトS6c（物理学系）",
+        "id": "202027741",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Z392",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "学士特定課題プロジェクト2c（物理学系）",
+        "id": "202007563",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Z393",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "学士特定課題プロジェクト3c（物理学系）",
+        "id": "202007565",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Z394",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "学士特定課題プロジェクト4c（物理学系）",
+        "id": "202007567",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Z395",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "学士特定課題プロジェクト5c（物理学系）",
+        "id": "202007568",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Z396",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "学士特定課題プロジェクト6c（物理学系）",
+        "id": "202007569",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "PHY.Z393",
+        "courseDigit": 3,
+        "department": "物理学系",
+        "courseName": "学士特定課題プロジェクト3c（物理学系）",
+        "id": "202007566",
+        "teachers": [],
+        "isExist": false
+    }
+]

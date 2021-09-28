@@ -1,0 +1,2290 @@
+[
+    {
+        "courseId": "EEE.E202",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "電磁気学第二",
+        "id": "202002027",
+        "teachers": [
+            "西山 伸彦",
+            "植之原 裕行"
+        ]
+    },
+    {
+        "courseId": "EEE.E201",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "電磁気学第一",
+        "id": "202002026",
+        "teachers": [
+            "小寺 哲夫",
+            "廣川 二郎"
+        ]
+    },
+    {
+        "courseId": "CAP.C205",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "化学プロセス量論 A",
+        "id": "202002349",
+        "teachers": [
+            "松本 秀行"
+        ]
+    },
+    {
+        "courseId": "EEE.E211",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "波動工学",
+        "id": "202002019",
+        "teachers": [
+            "廣川 二郎",
+            "西方 敦博"
+        ]
+    },
+    {
+        "courseId": "MEC.H211",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "機械要素設計",
+        "id": "202001905",
+        "teachers": [
+            "武田 行生",
+            "山浦 弘",
+            "松村 茂樹",
+            "村上 陽一",
+            "小林 恒",
+            "松浦 大輔"
+        ]
+    },
+    {
+        "courseId": "EEE.C261",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "制御工学",
+        "id": "202002018",
+        "teachers": [
+            "千葉 明",
+            "西方 敦博"
+        ]
+    },
+    {
+        "courseId": "MEC.I211",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "ロボット機構学",
+        "id": "202001889",
+        "teachers": [
+            "武田 行生",
+            "鈴森 康一",
+            "菅原 雄介"
+        ]
+    },
+    {
+        "courseId": "EEE.D201",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "量子力学",
+        "id": "202002021",
+        "teachers": [
+            "伊藤 治彦",
+            "河野 行雄"
+        ]
+    },
+    {
+        "courseId": "MEC.H231",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "デザイン工学",
+        "id": "202001887",
+        "teachers": [
+            "齊藤 滋規",
+            "葭田 貴子",
+            "因幡 和晃",
+            "田岡 祐樹"
+        ]
+    },
+    {
+        "courseId": "ICT.I211",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "論理回路設計",
+        "id": "202002073",
+        "teachers": [
+            "熊澤 逸夫",
+            "原 祐子"
+        ]
+    },
+    {
+        "courseId": "CAP.C211",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "エネルギー操作",
+        "id": "202002341",
+        "teachers": [
+            "森 伸介"
+        ]
+    },
+    {
+        "courseId": "TSE.A231",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "工学計測基礎",
+        "id": "202002697",
+        "teachers": [
+            "秋田 大輔",
+            "高田 潤一",
+            "高橋 邦夫",
+            "中崎 清彦",
+            "飯尾 俊二",
+            "林崎 規託",
+            "高山 直彦",
+            "HEMTHAVY PASOMPHONE",
+            "ANDREWS EDEN MARIQUIT",
+            "SADEGHZADEH NAZARI MEHRDAD"
+        ]
+    },
+    {
+        "courseId": "CVE.B201",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "水理学第一",
+        "id": "202002655",
+        "teachers": [
+            "木内 豪",
+            "中村 恭志"
+        ]
+    },
+    {
+        "courseId": "MEC.D201",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "機械力学 A",
+        "id": "202001901",
+        "teachers": [
+            "大熊 政明",
+            "岩附 信行",
+            "山浦 弘",
+            "松村 茂樹",
+            "中野 寛",
+            "高原 弘樹"
+        ]
+    },
+    {
+        "courseId": "TSE.M203",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "線形システム論",
+        "id": "202002679",
+        "teachers": [
+            "小原 徹",
+            "山下 幸彦",
+            "高木 泰士",
+            "筒井 広明",
+            "VARQUEZ ALVIN CHRISTOPHER GALANG",
+            "SADEGHZADEH NAZARI MEHRDAD"
+        ]
+    },
+    {
+        "courseId": "CVE.N210",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "社会基盤と環境-概論",
+        "id": "202002661",
+        "teachers": [
+            "室町 泰徳",
+            "二羽 淳一郎",
+            "朝倉 康夫",
+            "屋井 鉄雄",
+            "竹村 次朗",
+            "盛川 仁",
+            "鼎 信次郎",
+            "福田 大輔",
+            "吉村 千洋",
+            "千々和 伸浩",
+            "岩波 光保",
+            "高橋 章浩",
+            "廣瀬 壮一",
+            "北詰 昌樹",
+            "齋藤 潮",
+            "坂野 達郎",
+            "WIJEYEWICKREMA ANIL CHRISTOPHER",
+            "佐々木 栄一",
+            "真田 純子",
+            "藤井 学",
+            "笠間 清伸"
+        ]
+    },
+    {
+        "courseId": "TSE.A231",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "工学計測基礎",
+        "id": "202002696",
+        "teachers": [
+            "ANDREWS EDEN MARIQUIT",
+            "SADEGHZADEH NAZARI MEHRDAD",
+            "秋田 大輔",
+            "高田 潤一",
+            "高橋 邦夫",
+            "中崎 清彦",
+            "飯尾 俊二",
+            "林崎 規託",
+            "高山 直彦",
+            "HEMTHAVY PASOMPHONE"
+        ]
+    },
+    {
+        "courseId": "CVE.D210",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "土木と環境の計画理論",
+        "id": "202002652",
+        "teachers": [
+            "屋井 鉄雄"
+        ]
+    },
+    {
+        "courseId": "TSE.A204",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "反応工学基礎",
+        "id": "202002689",
+        "teachers": [
+            "江頭 竜一",
+            "KURNIAWAN WINARTO",
+            "CROSS JEFFREY SCOTT",
+            "竹下 健二",
+            "中崎 清彦",
+            "千葉 敏",
+            "松本 義久",
+            "ANDREWS EDEN MARIQUIT"
+        ]
+    },
+    {
+        "courseId": "EEE.C211",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "アナログ電子回路",
+        "id": "202007984",
+        "teachers": [
+            "鈴木 左文",
+            "ファム ナムハイ"
+        ]
+    },
+    {
+        "courseId": "MEC.F211",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "実在流体力学",
+        "id": "202001898",
+        "teachers": [
+            "青木 尊之",
+            "店橋 護",
+            "肖 鋒",
+            "志村 祐康",
+            "源 勇気"
+        ]
+    },
+    {
+        "courseId": "CAP.C213",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "化学プロセスシステム第一（制御）",
+        "id": "202002347",
+        "teachers": [
+            "松本 秀行"
+        ]
+    },
+    {
+        "courseId": "MAT.M204",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "金属学概論",
+        "id": "202002243",
+        "teachers": [
+            "小林 郁夫",
+            "上田 光敏",
+            "三宮 工"
+        ]
+    },
+    {
+        "courseId": "CAP.B217",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "物理化学第二（化学平衡） B",
+        "id": "202002359",
+        "teachers": [
+            "谷口 泉"
+        ]
+    },
+    {
+        "courseId": "TSE.M204",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "統計とデータ解析",
+        "id": "202002682",
+        "teachers": [
+            "花岡 伸也",
+            "高橋 史武",
+            "相樂 洋",
+            "川崎 智也"
+        ]
+    },
+    {
+        "courseId": "TSE.M202",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "偏微分方程式と物理現象",
+        "id": "202002681",
+        "teachers": [
+            "木内 豪",
+            "中村 恭志",
+            "筒井 広明",
+            "中村 隆志"
+        ]
+    },
+    {
+        "courseId": "TSE.A206",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "生物工学基礎",
+        "id": "202002693",
+        "teachers": [
+            "中崎 清彦",
+            "松本 義久",
+            "中村 隆志",
+            "ANDREWS EDEN MARIQUIT"
+        ]
+    },
+    {
+        "courseId": "ICT.C201",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "情報通信概論",
+        "id": "202002072",
+        "teachers": [
+            "山田 功",
+            "高橋 篤司",
+            "植松 友彦",
+            "尾形 わかは",
+            "府川 和彦",
+            "山口 雅浩",
+            "高木 茂孝",
+            "中本 高道",
+            "一色 剛",
+            "山岡 克式",
+            "笠井 健太",
+            "篠崎 隆宏",
+            "原 祐子",
+            "中原 啓貴",
+            "北口 善明",
+            "松本 隆太郎"
+        ]
+    },
+    {
+        "courseId": "TSE.A205",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "流体工学基礎",
+        "id": "202002691",
+        "teachers": [
+            "木内 豪",
+            "高木 泰士",
+            "秋田 大輔",
+            "中村 恭志",
+            "因幡 和晃",
+            "近藤 正聡",
+            "嚴島 怜",
+            "ANDREWS EDEN MARIQUIT",
+            "SADEGHZADEH NAZARI MEHRDAD"
+        ]
+    },
+    {
+        "courseId": "MAT.A206",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "材料の熱的機械的性質",
+        "id": "202002241",
+        "teachers": [
+            "森川 淳子",
+            "塩谷 正俊",
+            "扇澤 敏明",
+            "淺井 茂雄"
+        ]
+    },
+    {
+        "courseId": "TSE.A202",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "固体・構造力学基礎",
+        "id": "202002695",
+        "teachers": [
+            "因幡 和晃",
+            "高橋 邦夫"
+        ]
+    },
+    {
+        "courseId": "TSE.C202",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "システムデザインプロジェクト",
+        "id": "202002698",
+        "teachers": [
+            "齊藤 滋規",
+            "因幡 和晃",
+            "大橋 匠",
+            "田岡 祐樹"
+        ]
+    },
+    {
+        "courseId": "MEC.G211",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "機械材料工学",
+        "id": "202001903",
+        "teachers": [
+            "吉野 雅彦",
+            "赤坂 大樹",
+            "山本 貴富喜",
+            "山崎 敬久",
+            "青野 祐子"
+        ]
+    },
+    {
+        "courseId": "CAP.C205",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "化学プロセス量論 B",
+        "id": "202002350",
+        "teachers": [
+            "谷口 泉"
+        ]
+    },
+    {
+        "courseId": "CAP.B224",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "無機化学（元素と化合物）",
+        "id": "202002353",
+        "teachers": [
+            "高尾 俊郎",
+            "大友 明"
+        ]
+    },
+    {
+        "courseId": "LST.A208",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "分子生物学第一",
+        "id": "202002544",
+        "teachers": [
+            "山口 雄輝",
+            "梶川 正樹",
+            "相澤 康則"
+        ]
+    },
+    {
+        "courseId": "CAP.B216",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "物理化学第一（熱力学法則） A",
+        "id": "202002354",
+        "teachers": [
+            "青木 才子"
+        ]
+    },
+    {
+        "courseId": "TSE.C201",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "融合理工学基礎",
+        "id": "202002699",
+        "teachers": [
+            "阿部 直也",
+            "千葉 敏",
+            "野原 佳代子",
+            "村山 武彦",
+            "HOPE THOMAS EDWIN",
+            "高橋 史武",
+            "中村 隆志"
+        ]
+    },
+    {
+        "courseId": "MEC.F201",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "基礎流体力学",
+        "id": "202001895",
+        "teachers": [
+            "花村 克悟",
+            "末包 哲也",
+            "店橋 護",
+            "肖 鋒",
+            "青木 尊之"
+        ]
+    },
+    {
+        "courseId": "TSE.C204",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "システムデザイン＆アセスメント",
+        "id": "202002702",
+        "teachers": [
+            "村山 武彦",
+            "竹下 健二",
+            "錦澤 滋雄",
+            "時松 宏治",
+            "佐藤 由利子",
+            "HOPE THOMAS EDWIN",
+            "高木 泰士",
+            "高橋 史武",
+            "相樂 洋",
+            "SUWANTEEP KULTIP"
+        ]
+    },
+    {
+        "courseId": "TSE.M204",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "統計とデータ解析",
+        "id": "202002683",
+        "teachers": [
+            "花岡 伸也",
+            "CHOI SUNKYUNG"
+        ]
+    },
+    {
+        "courseId": "TSE.A201",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "材料・物性工学基礎",
+        "id": "202002685",
+        "teachers": [
+            "高橋 邦夫",
+            "CROSS JEFFREY SCOTT",
+            "松本 義久"
+        ]
+    },
+    {
+        "courseId": "TSE.A201",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "材料・物性工学基礎",
+        "id": "202026507",
+        "teachers": [
+            "高橋 邦夫",
+            "CROSS JEFFREY SCOTT",
+            "松本 義久"
+        ]
+    },
+    {
+        "courseId": "TSE.Z201",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "B2D研究基礎a（融合理工学系） J",
+        "id": "202027830",
+        "teachers": [
+            "神田 学"
+        ]
+    },
+    {
+        "courseId": "TSE.Z201",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "B2D研究基礎a（融合理工学系） E",
+        "id": "202027831",
+        "teachers": [
+            "神田 学"
+        ]
+    },
+    {
+        "courseId": "MEC.E201",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "熱力学（機械） A",
+        "id": "202001906",
+        "teachers": [
+            "村上 陽一",
+            "平井 秀一郎",
+            "長崎 孝夫",
+            "大河 誠司"
+        ]
+    },
+    {
+        "courseId": "CAP.B217",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "物理化学第二（化学平衡） A",
+        "id": "202002358",
+        "teachers": [
+            "一杉 太郎"
+        ]
+    },
+    {
+        "courseId": "TSE.A206",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "生物工学基礎",
+        "id": "202002692",
+        "teachers": [
+            "中崎 清彦",
+            "松本 義久",
+            "中村 隆志",
+            "ANDREWS EDEN MARIQUIT"
+        ]
+    },
+    {
+        "courseId": "CVE.B202",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "水理学第二",
+        "id": "202002656",
+        "teachers": [
+            "鼎 信次郎",
+            "吉村 千洋"
+        ]
+    },
+    {
+        "courseId": "CVE.D211",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "国土・都市計画概論",
+        "id": "202002662",
+        "teachers": [
+            "朝倉 康夫",
+            "中井 検裕"
+        ]
+    },
+    {
+        "courseId": "TSE.A202",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "固体・構造力学基礎",
+        "id": "202002694",
+        "teachers": [
+            "BUI QUOC TINH",
+            "WIJEYEWICKREMA ANIL CHRISTOPHER",
+            "SADEGHZADEH NAZARI MEHRDAD",
+            "高橋 邦夫",
+            "因幡 和晃"
+        ]
+    },
+    {
+        "courseId": "CAP.B216",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "物理化学第一（熱力学法則） B",
+        "id": "202002355",
+        "teachers": [
+            "一杉 太郎"
+        ]
+    },
+    {
+        "courseId": "TSE.M203",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "線形システム論",
+        "id": "202002678",
+        "teachers": [
+            "VARQUEZ ALVIN CHRISTOPHER GALANG",
+            "SADEGHZADEH NAZARI MEHRDAD",
+            "小原 徹",
+            "山下 幸彦",
+            "高木 泰士",
+            "筒井 広明"
+        ]
+    },
+    {
+        "courseId": "TSE.C203",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "社会デザインプロジェクト",
+        "id": "202002701",
+        "teachers": [
+            "野原 佳代子",
+            "HOPE THOMAS EDWIN",
+            "阿部 直也",
+            "佐藤 由利子",
+            "時松 宏治",
+            "錦澤 滋雄"
+        ]
+    },
+    {
+        "courseId": "CAP.B218",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "物理化学第三（反応速度論） A",
+        "id": "202002356",
+        "teachers": [
+            "山中 一郎"
+        ]
+    },
+    {
+        "courseId": "CAP.B218",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "物理化学第三（反応速度論） B",
+        "id": "202002357",
+        "teachers": [
+            "本倉 健"
+        ]
+    },
+    {
+        "courseId": "CAP.C212",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "分離操作",
+        "id": "202002346",
+        "teachers": [
+            "谷口 泉"
+        ]
+    },
+    {
+        "courseId": "TSE.A203",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "電気・磁気工学基礎",
+        "id": "202026510",
+        "teachers": [
+            "林崎 規託",
+            "山下 幸彦",
+            "高田 潤一",
+            "CHOI SUNKYUNG",
+            "齋藤 健太郎"
+        ]
+    },
+    {
+        "courseId": "TSE.M202",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "偏微分方程式と物理現象",
+        "id": "202002680",
+        "teachers": [
+            "VARQUEZ ALVIN CHRISTOPHER GALANG"
+        ]
+    },
+    {
+        "courseId": "TSE.M201",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "常微分方程式と物理現象",
+        "id": "202002676",
+        "teachers": [
+            "VARQUEZ ALVIN CHRISTOPHER GALANG"
+        ]
+    },
+    {
+        "courseId": "TSE.M201",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "常微分方程式と物理現象",
+        "id": "202002677",
+        "teachers": [
+            "飯尾 俊二"
+        ]
+    },
+    {
+        "courseId": "CVE.G230",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "環境計画プロジェクト演習",
+        "id": "202002660",
+        "teachers": [
+            "吉村 千洋",
+            "中村 恭志",
+            "鼎 信次郎",
+            "木内 豪",
+            "中村 隆志",
+            "藤井 学",
+            "真田 純子",
+            "関口 雄祐",
+            "瀬戸 里枝",
+            "田中 由乃"
+        ]
+    },
+    {
+        "courseId": "TSE.A205",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "流体工学基礎",
+        "id": "202002690",
+        "teachers": [
+            "ANDREWS EDEN MARIQUIT",
+            "SADEGHZADEH NAZARI MEHRDAD",
+            "木内 豪",
+            "高木 泰士",
+            "秋田 大輔",
+            "中村 恭志",
+            "因幡 和晃",
+            "近藤 正聡",
+            "嚴島 怜"
+        ]
+    },
+    {
+        "courseId": "TSE.A203",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "電気・磁気工学基礎",
+        "id": "202002687",
+        "teachers": [
+            "高田 潤一",
+            "CHOI SUNKYUNG",
+            "齋藤 健太郎",
+            "林崎 規託",
+            "山下 幸彦"
+        ]
+    },
+    {
+        "courseId": "TSE.A204",
+        "courseDigit": 2,
+        "department": "融合理工学系",
+        "courseName": "反応工学基礎",
+        "id": "202002688",
+        "teachers": [
+            "ANDREWS EDEN MARIQUIT",
+            "江頭 竜一",
+            "CROSS JEFFREY SCOTT",
+            "竹下 健二",
+            "中崎 清彦",
+            "千葉 敏",
+            "松本 義久"
+        ]
+    },
+    {
+        "courseId": "CVE.D312",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "公共システム論",
+        "id": "202002650",
+        "teachers": [
+            "坂野 達郎"
+        ]
+    },
+    {
+        "courseId": "TSE.A307",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "プログラミングと数値解析基礎 b",
+        "id": "202017037",
+        "teachers": [
+            "筒井 広明",
+            "相樂 洋",
+            "長谷川 純",
+            "林崎 規託",
+            "辻 潔",
+            "CHENG SHUO"
+        ]
+    },
+    {
+        "courseId": "TSE.A313",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "資源・エネルギー工学概論",
+        "id": "202002709",
+        "teachers": [
+            "中崎 清彦",
+            "CROSS JEFFREY SCOTT",
+            "江頭 竜一"
+        ]
+    },
+    {
+        "courseId": "TSE.A337",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "原子核工学基礎第１",
+        "id": "202017033",
+        "teachers": [
+            "小原 徹"
+        ]
+    },
+    {
+        "courseId": "EEE.P331",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "高電圧工学",
+        "id": "202002028",
+        "teachers": [
+            "竹内 希",
+            "赤塚 洋"
+        ]
+    },
+    {
+        "courseId": "TSE.A311",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "原子核工学概論",
+        "id": "202002719",
+        "teachers": [
+            "小原 徹",
+            "小栗 慶之",
+            "飯尾 俊二",
+            "赤塚 洋",
+            "木倉 宏成",
+            "片渕 竜也"
+        ]
+    },
+    {
+        "courseId": "TSE.A324",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "プログラミングと数値解析応用",
+        "id": "202018090",
+        "teachers": [
+            "山下 幸彦",
+            "秋田 大輔"
+        ]
+    },
+    {
+        "courseId": "CVE.B311",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "河川工学",
+        "id": "202002658",
+        "teachers": [
+            "鼎 信次郎"
+        ]
+    },
+    {
+        "courseId": "EEE.P321",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "電力工学第一",
+        "id": "202002022",
+        "teachers": [
+            "藤田 英明",
+            "河辺 賢一",
+            "佐野 憲一朗"
+        ]
+    },
+    {
+        "courseId": "CVE.D301",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "交通システム工学",
+        "id": "202002649",
+        "teachers": [
+            "朝倉 康夫"
+        ]
+    },
+    {
+        "courseId": "MEC.F331",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "応用流体力学",
+        "id": "202001900",
+        "teachers": [
+            "吉田 和弘",
+            "木倉 宏成",
+            "近藤 正聡"
+        ]
+    },
+    {
+        "courseId": "TSE.C302",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "開発経済学入門",
+        "id": "202002707",
+        "teachers": [
+            "阿部 直也"
+        ]
+    },
+    {
+        "courseId": "TSE.A318",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "エンジニアリングデザイン概論",
+        "id": "202002715",
+        "teachers": [
+            "西條 美紀",
+            "大橋 匠"
+        ]
+    },
+    {
+        "courseId": "EEE.P301",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "電気機器工学",
+        "id": "202002025",
+        "teachers": [
+            "萩原 誠",
+            "清田 恭平"
+        ]
+    },
+    {
+        "courseId": "CVE.G310",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "水環境工学",
+        "id": "202002657",
+        "teachers": [
+            "吉村 千洋",
+            "藤井 学"
+        ]
+    },
+    {
+        "courseId": "MEC.E311",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "伝熱学 A",
+        "id": "202001891",
+        "teachers": [
+            "井上 剛良",
+            "齊藤 卓志",
+            "岡村 哲至",
+            "野崎 智洋"
+        ]
+    },
+    {
+        "courseId": "TSE.C303",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "プロジェクトマネジメント",
+        "id": "202002703",
+        "teachers": [
+            "花岡 伸也",
+            "佐藤 由利子",
+            "松川 圭輔",
+            "AUNG KYAW MIN"
+        ]
+    },
+    {
+        "courseId": "TSE.C304",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "国際プロジェクト演習",
+        "id": "202017039",
+        "teachers": [
+            "佐々木 正和",
+            "花岡 伸也"
+        ]
+    },
+    {
+        "courseId": "TSE.A342",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "国際エンジニアリングデザインプロジェクト基礎S",
+        "id": "202002718",
+        "teachers": [
+            "調 麻佐志",
+            "西條 美紀",
+            "齊藤 滋規",
+            "因幡 和晃",
+            "大橋 匠"
+        ]
+    },
+    {
+        "courseId": "EEE.S341",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "通信理論（電気電子）",
+        "id": "202002020",
+        "teachers": [
+            "青柳 貴洋",
+            "TRAN GIA KHANH"
+        ]
+    },
+    {
+        "courseId": "EEE.P322",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "電力工学第二",
+        "id": "202007993",
+        "teachers": [
+            "藤田 英明",
+            "河辺 賢一"
+        ]
+    },
+    {
+        "courseId": "LST.A363",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "環境生物工学",
+        "id": "202002545",
+        "teachers": [
+            "福居 俊昭",
+            "山本 直之",
+            "折原 芳波"
+        ]
+    },
+    {
+        "courseId": "TSE.A304",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "工業化学",
+        "id": "202017024",
+        "teachers": [
+            "ANDREWS EDEN MARIQUIT",
+            "KURNIAWAN WINARTO"
+        ]
+    },
+    {
+        "courseId": "CVE.D310",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "景観学",
+        "id": "202002654",
+        "teachers": [
+            "齋藤 潮"
+        ]
+    },
+    {
+        "courseId": "TSE.C318",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "エンジニアリングデザインと技術経営基礎",
+        "id": "202019213",
+        "teachers": [
+            "中丸 麻由子",
+            "齊藤 滋規",
+            "西條 美紀",
+            "因幡 和晃",
+            "後藤 美香",
+            "仙石 愼太郎",
+            "辻本 将晴",
+            "大橋 匠",
+            "田岡 祐樹"
+        ]
+    },
+    {
+        "courseId": "TSE.C301",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "国際開発共創概論",
+        "id": "202002706",
+        "teachers": [
+            "阿部 直也",
+            "木内 真理子",
+            "坂井 正実",
+            "市口 知英",
+            "堀田 康彦",
+            "森尾 康治",
+            "齋藤 法雄"
+        ]
+    },
+    {
+        "courseId": "TSE.A315",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "気象学基礎",
+        "id": "202002712",
+        "teachers": [
+            "神田 学"
+        ]
+    },
+    {
+        "courseId": "EEE.C301",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "電子計測",
+        "id": "202002024",
+        "teachers": [
+            "中本 高道",
+            "沖野 晃俊"
+        ]
+    },
+    {
+        "courseId": "CAP.E362",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "原子力化学工学",
+        "id": "202002351",
+        "teachers": [
+            "加藤 之貴",
+            "竹下 健二",
+            "塚原 剛彦",
+            "鷹尾 康一朗",
+            "原田 琢也"
+        ]
+    },
+    {
+        "courseId": "CVE.B310",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "海岸・海洋工学",
+        "id": "202002659",
+        "teachers": [
+            "中村 隆志",
+            "中川 康之",
+            "鼎 信次郎"
+        ]
+    },
+    {
+        "courseId": "MEC.I331",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "メカトロニクス工学（機械）",
+        "id": "202001888",
+        "teachers": [
+            "鈴森 康一",
+            "岩附 信行",
+            "遠藤 玄"
+        ]
+    },
+    {
+        "courseId": "TSE.A307",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "プログラミングと数値解析基礎 a",
+        "id": "202017036",
+        "teachers": [
+            "筒井 広明",
+            "相樂 洋",
+            "長谷川 純",
+            "林崎 規託",
+            "辻 潔",
+            "CHENG SHUO"
+        ]
+    },
+    {
+        "courseId": "MEC.M333",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "宇宙開発工学",
+        "id": "202001897",
+        "teachers": [
+            "岩田 隆敬",
+            "野田 篤司",
+            "小澤 悟",
+            "内海 政春",
+            "松永 三郎"
+        ]
+    },
+    {
+        "courseId": "EEE.P311",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "パワーエレクトロニクス",
+        "id": "202002017",
+        "teachers": [
+            "萩原 誠",
+            "佐野 憲一朗"
+        ]
+    },
+    {
+        "courseId": "TSE.A351",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学実験A",
+        "id": "202002704",
+        "teachers": [
+            "高橋 邦夫",
+            "高田 潤一",
+            "中崎 清彦",
+            "秋田 大輔",
+            "山下 幸彦",
+            "江頭 竜一",
+            "HEMTHAVY PASOMPHONE",
+            "齋藤 健太郎",
+            "小山 光彦",
+            "はばき 広顕"
+        ]
+    },
+    {
+        "courseId": "TSE.A351",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学実験A",
+        "id": "202028899",
+        "teachers": [
+            "高橋 邦夫",
+            "高田 潤一",
+            "中崎 清彦",
+            "秋田 大輔",
+            "山下 幸彦",
+            "江頭 竜一",
+            "HEMTHAVY PASOMPHONE",
+            "齋藤 健太郎",
+            "小山 光彦",
+            "はばき 広顕"
+        ]
+    },
+    {
+        "courseId": "TSE.C312",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "社会環境政策概論",
+        "id": "202002710",
+        "teachers": [
+            "村山 武彦",
+            "錦澤 滋雄",
+            "時松 宏治",
+            "高橋 史武",
+            "佐藤 由利子"
+        ]
+    },
+    {
+        "courseId": "CAP.C322",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "ケミカルエンジニアリングデザイン",
+        "id": "202002342",
+        "teachers": [
+            "下山 裕介",
+            "田巻 孝敬",
+            "古田 智史",
+            "松澤 克明",
+            "二宮 航"
+        ]
+    },
+    {
+        "courseId": "TSE.A312",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "地球・地域生態学概論",
+        "id": "202002720",
+        "teachers": [
+            "中村 隆志"
+        ]
+    },
+    {
+        "courseId": "CVE.M301",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "数値解析基礎・演習",
+        "id": "202002653",
+        "teachers": [
+            "廣瀬 壮一",
+            "中西 航",
+            "瀬戸 里枝"
+        ]
+    },
+    {
+        "courseId": "TSE.A321",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "実用材料の冶金学基礎",
+        "id": "202017026",
+        "teachers": [
+            "高橋 邦夫",
+            "秋田 大輔"
+        ]
+    },
+    {
+        "courseId": "CAP.C313",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "化学プロセスシステム第二（設計・制御）",
+        "id": "202002348",
+        "teachers": [
+            "渕野 哲郎"
+        ]
+    },
+    {
+        "courseId": "TSE.A308",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "基礎熱力学（融合理工）",
+        "id": "202018089",
+        "teachers": [
+            "CHENG SHUO"
+        ]
+    },
+    {
+        "courseId": "MEC.G311",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "加工学概論",
+        "id": "202001893",
+        "teachers": [
+            "平田 敦",
+            "赤坂 大樹",
+            "大竹 尚登",
+            "山本 貴富喜",
+            "山崎 敬久",
+            "佐藤 千明",
+            "吉野 雅彦",
+            "田中 智久",
+            "青野 祐子"
+        ]
+    },
+    {
+        "courseId": "TSE.A352",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学実験B",
+        "id": "202002705",
+        "teachers": [
+            "神田 学",
+            "村山 武彦",
+            "小原 徹",
+            "高木 泰士",
+            "中村 隆志",
+            "稲垣 厚至",
+            "片渕 竜也",
+            "島田 幹男",
+            "石塚 知香子",
+            "SUWANTEEP KULTIP"
+        ]
+    },
+    {
+        "courseId": "TSE.A301",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "剛体の運動力学",
+        "id": "202017027",
+        "teachers": [
+            "高橋 邦夫",
+            "秋田 大輔"
+        ]
+    },
+    {
+        "courseId": "TSE.A339",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "原子核工学基礎第３",
+        "id": "202017454",
+        "teachers": [
+            "長谷川 純"
+        ]
+    },
+    {
+        "courseId": "TSE.A352",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学実験B",
+        "id": "202028901",
+        "teachers": [
+            "神田 学",
+            "村山 武彦",
+            "小原 徹",
+            "高木 泰士",
+            "中村 隆志",
+            "稲垣 厚至",
+            "片渕 竜也",
+            "島田 幹男",
+            "石塚 知香子",
+            "SUWANTEEP KULTIP"
+        ]
+    },
+    {
+        "courseId": "CVE.D313",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "インフラストラクチャーの都市計画",
+        "id": "202002648",
+        "teachers": [
+            "室町 泰徳"
+        ]
+    },
+    {
+        "courseId": "TSE.A314",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "水・物質循環システム概論",
+        "id": "202002711",
+        "teachers": [
+            "木内 豪"
+        ]
+    },
+    {
+        "courseId": "TSE.A317",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "環境流体力学基礎",
+        "id": "202002714",
+        "teachers": [
+            "中村 恭志"
+        ]
+    },
+    {
+        "courseId": "MEC.E331",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "エネルギー変換工学",
+        "id": "202011975",
+        "teachers": [
+            "平井 秀一郎",
+            "小酒 英範",
+            "奥野 喜裕",
+            "伏信 一慶",
+            "未定"
+        ]
+    },
+    {
+        "courseId": "TSE.C317",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合技術論",
+        "id": "202014935",
+        "teachers": [
+            "野原 佳代子"
+        ]
+    },
+    {
+        "courseId": "TSE.A305",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "電磁気学（融合理工）",
+        "id": "202017028",
+        "teachers": [
+            "飯尾 俊二",
+            "片渕 竜也"
+        ]
+    },
+    {
+        "courseId": "TSE.C345",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学海外研修（短期）A",
+        "id": "202017107",
+        "teachers": []
+    },
+    {
+        "courseId": "CVE.D311",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "公共経済学",
+        "id": "202002651",
+        "teachers": [
+            "福田 大輔",
+            "坂野 達郎",
+            "田辺 勝巳"
+        ]
+    },
+    {
+        "courseId": "MEC.J311",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "精密機械基礎学 A",
+        "id": "202001908",
+        "teachers": [
+            "進士 忠彦",
+            "吉岡 勇人",
+            "土方 亘"
+        ]
+    },
+    {
+        "courseId": "TSE.A335",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "地域・地球環境概論第１",
+        "id": "202017031",
+        "teachers": [
+            "神田 学",
+            "木内 豪",
+            "村山 武彦",
+            "鼎 信次郎",
+            "高木 泰士",
+            "中村 恭志",
+            "吉村 千洋",
+            "藤井 学",
+            "中村 隆志",
+            "稲垣 厚至",
+            "瀬戸 里枝"
+        ]
+    },
+    {
+        "courseId": "TSE.A322",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "通信とネットワーク",
+        "id": "202017029",
+        "teachers": [
+            "齋藤 健太郎",
+            "山下 幸彦"
+        ]
+    },
+    {
+        "courseId": "CAP.E361",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "放射化学",
+        "id": "202002352",
+        "teachers": [
+            "塚原 剛彦",
+            "加藤 之貴",
+            "鷹尾 康一朗"
+        ]
+    },
+    {
+        "courseId": "TSE.A303",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "操作論",
+        "id": "202017023",
+        "teachers": [
+            "江頭 竜一",
+            "はばき 広顕",
+            "ANDREWS EDEN MARIQUIT"
+        ]
+    },
+    {
+        "courseId": "TSE.A336",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "地域・地球環境概論第２",
+        "id": "202017032",
+        "teachers": [
+            "神田 学",
+            "木内 豪",
+            "村山 武彦",
+            "鼎 信次郎",
+            "高木 泰士",
+            "中村 恭志",
+            "吉村 千洋",
+            "藤井 学",
+            "中村 隆志",
+            "稲垣 厚至",
+            "瀬戸 里枝"
+        ]
+    },
+    {
+        "courseId": "TSE.C356",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学海外研修（長期）D",
+        "id": "202017119",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.A302",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "強度の力学",
+        "id": "202017025",
+        "teachers": [
+            "因幡 和晃",
+            "高橋 邦夫",
+            "秋田 大輔"
+        ]
+    },
+    {
+        "courseId": "TSE.M301",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "確率論（融合理工）",
+        "id": "202017038",
+        "teachers": [
+            "千葉 敏"
+        ]
+    },
+    {
+        "courseId": "TSE.A340",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "原子核工学基礎第４",
+        "id": "202017455",
+        "teachers": [
+            "松本 義久"
+        ]
+    },
+    {
+        "courseId": "TSE.C373",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学インターンシップ（長期）A",
+        "id": "202017230",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z374",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクトS4c（融合理工学系）",
+        "id": "202027764",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z376",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクトS6c（融合理工学系）",
+        "id": "202027768",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.C346",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学海外研修（短期）B",
+        "id": "202017109",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z393",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクト3c（融合理工学系）",
+        "id": "202007716",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.C344",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学海外研修（超短期）D",
+        "id": "202017106",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.A316",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "防災工学基礎",
+        "id": "202002713",
+        "teachers": [
+            "高木 泰士"
+        ]
+    },
+    {
+        "courseId": "TSE.A338",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "原子核工学基礎第２",
+        "id": "202017034",
+        "teachers": [
+            "竹下 健二",
+            "加藤 之貴",
+            "塚原 剛彦"
+        ]
+    },
+    {
+        "courseId": "TSE.Z381",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "研究プロジェクト（融合理工学系）",
+        "id": "202002721",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.C349",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学海外研修（中期）A",
+        "id": "202017112",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.C369",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学インターンシップ（中期）A",
+        "id": "202017226",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z373",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクトS3c（融合理工学系）",
+        "id": "202027760",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.C350",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学海外研修（中期）B",
+        "id": "202017113",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.C374",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学インターンシップ（長期）B",
+        "id": "202017231",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z371",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクトS1c（融合理工学系）",
+        "id": "202027754",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.C355",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学海外研修（長期）C",
+        "id": "202017118",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.C367",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学インターンシップ（短期）C",
+        "id": "202017126",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z389",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題研究（融合理工学系）",
+        "id": "202016813",
+        "teachers": [
+            "各教員"
+        ]
+    },
+    {
+        "courseId": "TSE.Z396",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクト6c（融合理工学系）",
+        "id": "202023941",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.C376",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学インターンシップ（長期）D",
+        "id": "202017233",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.C341",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学海外研修（超短期）A",
+        "id": "202017050",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.C353",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学海外研修（長期）A",
+        "id": "202017116",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.C361",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学インターンシップ（超短期）A",
+        "id": "202017120",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.C365",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学インターンシップ（短期）A",
+        "id": "202017124",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z381",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "研究プロジェクト（融合理工学系）",
+        "id": "202023907",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z371",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクトS1c（融合理工学系）",
+        "id": "202027751",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z371",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクトS1c（融合理工学系）",
+        "id": "202027752",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z372",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクトS2c（融合理工学系）",
+        "id": "202027755",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z372",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクトS2c（融合理工学系）",
+        "id": "202027756",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z373",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクトS3c（融合理工学系）",
+        "id": "202027759",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z389",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題研究（融合理工学系）",
+        "id": "202007710",
+        "teachers": [
+            "各教員"
+        ]
+    },
+    {
+        "courseId": "TSE.C357",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学海外研修（単位認定併用）S",
+        "id": "202026638",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z374",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクトS4c（融合理工学系）",
+        "id": "202027763",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z375",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクトS5c（融合理工学系）",
+        "id": "202027765",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z375",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクトS5c（融合理工学系）",
+        "id": "202027766",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z376",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクトS6c（融合理工学系）",
+        "id": "202027767",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.C342",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学海外研修（超短期）B",
+        "id": "202017104",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.C354",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学海外研修（長期）B",
+        "id": "202017117",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.C362",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学インターンシップ（超短期）B",
+        "id": "202017121",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.C366",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学インターンシップ（短期）B",
+        "id": "202017125",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.C370",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学インターンシップ（中期）B",
+        "id": "202017227",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z371",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクトS1c（融合理工学系）",
+        "id": "202027753",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z372",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクトS2c（融合理工学系）",
+        "id": "202027757",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z372",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクトS2c（融合理工学系）",
+        "id": "202027758",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z373",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクトS3c（融合理工学系）",
+        "id": "202027761",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z373",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクトS3c（融合理工学系）",
+        "id": "202027762",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z381",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "研究プロジェクト（融合理工学系）",
+        "id": "202002722",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z391",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクト1c（融合理工学系）",
+        "id": "202007711",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z392",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクト2c（融合理工学系）",
+        "id": "202007713",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z393",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクト3c（融合理工学系）",
+        "id": "202007715",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.C343",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学海外研修（超短期）C",
+        "id": "202017105",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.C347",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学海外研修（短期）C",
+        "id": "202017110",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.C351",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学海外研修（中期）C",
+        "id": "202017114",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.C363",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学インターンシップ（超短期）C",
+        "id": "202017122",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.C371",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学インターンシップ（中期）C",
+        "id": "202017228",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.C375",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学インターンシップ（長期）C",
+        "id": "202017232",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z381",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "研究プロジェクト（融合理工学系）",
+        "id": "202023908",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z391",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクト1c（融合理工学系）",
+        "id": "202023915",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z392",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクト2c（融合理工学系）",
+        "id": "202023924",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z393",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクト3c（融合理工学系）",
+        "id": "202023931",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z394",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクト4c（融合理工学系）",
+        "id": "202007717",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z395",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクト5c（融合理工学系）",
+        "id": "202007718",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z396",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクト6c（融合理工学系）",
+        "id": "202007719",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z394",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクト4c（融合理工学系）",
+        "id": "202023936",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z395",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクト5c（融合理工学系）",
+        "id": "202023939",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.C358",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学海外研修（単位認定併用）F",
+        "id": "202026639",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z391",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクト1c（融合理工学系）",
+        "id": "202007712",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z392",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクト2c（融合理工学系）",
+        "id": "202007714",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.C348",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学海外研修（短期）D",
+        "id": "202017111",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.C352",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学海外研修（中期）D",
+        "id": "202017115",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.C364",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学インターンシップ（超短期）D",
+        "id": "202017123",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.C368",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学インターンシップ（短期）D",
+        "id": "202017127",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.C372",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "融合理工学インターンシップ（中期）D",
+        "id": "202017229",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z391",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクト1c（融合理工学系）",
+        "id": "202023917",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z392",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクト2c（融合理工学系）",
+        "id": "202023926",
+        "teachers": []
+    },
+    {
+        "courseId": "TSE.Z393",
+        "courseDigit": 3,
+        "department": "融合理工学系",
+        "courseName": "学士特定課題プロジェクト3c（融合理工学系）",
+        "id": "202023932",
+        "teachers": []
+    }
+]

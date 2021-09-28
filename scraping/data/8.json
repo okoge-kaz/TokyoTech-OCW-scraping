@@ -1,0 +1,919 @@
+[
+    {
+        "courseId": "EEE.M201",
+        "courseDigit": 2,
+        "department": "電気電子系",
+        "courseName": "解析学（電気電子）",
+        "id": "202001975",
+        "teachers": [
+            "渡辺 正裕",
+            "赤塚 洋"
+        ]
+    },
+    {
+        "courseId": "EEE.C201",
+        "courseDigit": 2,
+        "department": "電気電子系",
+        "courseName": "電気回路第一",
+        "id": "202001980",
+        "teachers": [
+            "ファム ナムハイ",
+            "徳田 崇"
+        ]
+    },
+    {
+        "courseId": "EEE.M231",
+        "courseDigit": 2,
+        "department": "電気電子系",
+        "courseName": "応用確率統計",
+        "id": "202001978",
+        "teachers": [
+            "梶川 浩太郎",
+            "阪口 啓"
+        ]
+    },
+    {
+        "courseId": "EEE.E202",
+        "courseDigit": 2,
+        "department": "電気電子系",
+        "courseName": "電磁気学第二",
+        "id": "202002027",
+        "teachers": [
+            "西山 伸彦",
+            "植之原 裕行"
+        ]
+    },
+    {
+        "courseId": "EEE.E201",
+        "courseDigit": 2,
+        "department": "電気電子系",
+        "courseName": "電磁気学第一",
+        "id": "202002026",
+        "teachers": [
+            "小寺 哲夫",
+            "廣川 二郎"
+        ]
+    },
+    {
+        "courseId": "EEE.E211",
+        "courseDigit": 2,
+        "department": "電気電子系",
+        "courseName": "波動工学",
+        "id": "202002019",
+        "teachers": [
+            "廣川 二郎",
+            "西方 敦博"
+        ]
+    },
+    {
+        "courseId": "EEE.C261",
+        "courseDigit": 2,
+        "department": "電気電子系",
+        "courseName": "制御工学",
+        "id": "202002018",
+        "teachers": [
+            "千葉 明",
+            "西方 敦博"
+        ]
+    },
+    {
+        "courseId": "EEE.M211",
+        "courseDigit": 2,
+        "department": "電気電子系",
+        "courseName": "フーリエ変換とラプラス変換",
+        "id": "202001976",
+        "teachers": [
+            "角嶋 邦之",
+            "伊藤 浩之"
+        ]
+    },
+    {
+        "courseId": "EEE.D201",
+        "courseDigit": 2,
+        "department": "電気電子系",
+        "courseName": "量子力学",
+        "id": "202002021",
+        "teachers": [
+            "伊藤 治彦",
+            "河野 行雄"
+        ]
+    },
+    {
+        "courseId": "EEE.G291",
+        "courseDigit": 2,
+        "department": "電気電子系",
+        "courseName": "エレクトロニクスの基礎",
+        "id": "202002727",
+        "teachers": [
+            "宮本 恭幸"
+        ]
+    },
+    {
+        "courseId": "EEE.C202",
+        "courseDigit": 2,
+        "department": "電気電子系",
+        "courseName": "電気回路第二",
+        "id": "202001981",
+        "teachers": [
+            "岡田 健一",
+            "鈴木 左文"
+        ]
+    },
+    {
+        "courseId": "EEE.C211",
+        "courseDigit": 2,
+        "department": "電気電子系",
+        "courseName": "アナログ電子回路",
+        "id": "202007984",
+        "teachers": [
+            "鈴木 左文",
+            "ファム ナムハイ"
+        ]
+    },
+    {
+        "courseId": "EEE.M221",
+        "courseDigit": 2,
+        "department": "電気電子系",
+        "courseName": "計算アルゴリズムとプログラミング",
+        "id": "202001977",
+        "teachers": [
+            "庄司 雄哉",
+            "間中 孝彰"
+        ]
+    },
+    {
+        "courseId": "EEE.L221",
+        "courseDigit": 2,
+        "department": "電気電子系",
+        "courseName": "電気電子工学実験第二A",
+        "id": "202011249",
+        "teachers": [
+            "植之原 裕行",
+            "田口 大",
+            "高村 陽太",
+            "雨宮 智宏",
+            "横式 康史",
+            "和田 有司"
+        ]
+    },
+    {
+        "courseId": "EEE.D211",
+        "courseDigit": 2,
+        "department": "電気電子系",
+        "courseName": "半導体物性",
+        "id": "202001991",
+        "teachers": [
+            "宮島 晋介",
+            "中川 茂樹"
+        ]
+    },
+    {
+        "courseId": "EEE.M241",
+        "courseDigit": 2,
+        "department": "電気電子系",
+        "courseName": "離散時間システム",
+        "id": "202001979",
+        "teachers": [
+            "黒澤 実"
+        ]
+    },
+    {
+        "courseId": "EEE.T281",
+        "courseDigit": 2,
+        "department": "電気電子系",
+        "courseName": "B2D研究基礎a（電気電子系） J",
+        "id": "202027905",
+        "teachers": [
+            "宮島 晋介"
+        ]
+    },
+    {
+        "courseId": "EEE.L211",
+        "courseDigit": 2,
+        "department": "電気電子系",
+        "courseName": "電気電子工学実験第一A",
+        "id": "202001982",
+        "teachers": [
+            "山田 明",
+            "星井 拓也",
+            "當麻 真奈",
+            "宗田 伊理也",
+            "戸村 崇",
+            "荒井 慧悟"
+        ]
+    },
+    {
+        "courseId": "EEE.L222",
+        "courseDigit": 2,
+        "department": "電気電子系",
+        "courseName": "電気電子工学実験第二B",
+        "id": "202001985",
+        "teachers": [
+            "植之原 裕行",
+            "田口 大",
+            "高村 陽太",
+            "雨宮 智宏",
+            "戸村 崇",
+            "白根 篤史"
+        ]
+    },
+    {
+        "courseId": "EEE.L212",
+        "courseDigit": 2,
+        "department": "電気電子系",
+        "courseName": "電気電子工学実験第一B",
+        "id": "202001983",
+        "teachers": [
+            "山田 明",
+            "星井 拓也",
+            "當麻 真奈",
+            "宗田 伊理也",
+            "戸村 崇",
+            "荒井 慧悟"
+        ]
+    },
+    {
+        "courseId": "EEE.T281",
+        "courseDigit": 2,
+        "department": "電気電子系",
+        "courseName": "B2D研究基礎a（電気電子系） E",
+        "id": "202027906",
+        "teachers": [
+            "宮島 晋介"
+        ]
+    },
+    {
+        "courseId": "EEE.D351",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "電子デバイス第一",
+        "id": "202001994",
+        "teachers": [
+            "宮本 恭幸",
+            "岩崎 孝之"
+        ]
+    },
+    {
+        "courseId": "EEE.D332",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "光物性基礎とデバイス応用",
+        "id": "202027437",
+        "teachers": [
+            "渡辺 正裕"
+        ]
+    },
+    {
+        "courseId": "EEE.C321",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "デジタル回路",
+        "id": "202001988",
+        "teachers": [
+            "田原 麻梨江",
+            "黒澤 実"
+        ]
+    },
+    {
+        "courseId": "EEE.P331",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "高電圧工学",
+        "id": "202002028",
+        "teachers": [
+            "竹内 希",
+            "赤塚 洋"
+        ]
+    },
+    {
+        "courseId": "TSE.A311",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "原子核工学概論",
+        "id": "202002719",
+        "teachers": [
+            "小原 徹",
+            "小栗 慶之",
+            "飯尾 俊二",
+            "赤塚 洋",
+            "木倉 宏成",
+            "片渕 竜也"
+        ]
+    },
+    {
+        "courseId": "EEE.P381",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "電気鉄道",
+        "id": "202002009",
+        "teachers": [
+            "鈴木 雅彦"
+        ]
+    },
+    {
+        "courseId": "EEE.D371",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "記憶デバイス",
+        "id": "202001997",
+        "teachers": [
+            "菅原 聡"
+        ]
+    },
+    {
+        "courseId": "EEE.C311",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "応用電子回路",
+        "id": "202001990",
+        "teachers": [
+            "岡田 健一",
+            "伊藤 浩之"
+        ]
+    },
+    {
+        "courseId": "EEE.P351",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "電気機器設計および製図",
+        "id": "202002007",
+        "teachers": [
+            "村岡 政義"
+        ]
+    },
+    {
+        "courseId": "EEE.Z381",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "研究プロジェクト（電気電子系）",
+        "id": "202002029",
+        "teachers": [
+            "渡辺 正裕"
+        ]
+    },
+    {
+        "courseId": "EEE.P321",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "電力工学第一",
+        "id": "202002022",
+        "teachers": [
+            "藤田 英明",
+            "河辺 賢一",
+            "佐野 憲一朗"
+        ]
+    },
+    {
+        "courseId": "EEE.P301",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "電気機器工学",
+        "id": "202002025",
+        "teachers": [
+            "萩原 誠",
+            "清田 恭平"
+        ]
+    },
+    {
+        "courseId": "EEE.S361",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "光エレクトロニクス",
+        "id": "202002002",
+        "teachers": [
+            "植之原 裕行",
+            "西山 伸彦"
+        ]
+    },
+    {
+        "courseId": "EEE.P361",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "電気法規および施設管理",
+        "id": "202007994",
+        "teachers": [
+            "清田 恭平"
+        ]
+    },
+    {
+        "courseId": "EEE.C341",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "集積回路工学",
+        "id": "202002000",
+        "teachers": [
+            "若林 整"
+        ]
+    },
+    {
+        "courseId": "EEE.S341",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "通信理論（電気電子）",
+        "id": "202002020",
+        "teachers": [
+            "青柳 貴洋",
+            "TRAN GIA KHANH"
+        ]
+    },
+    {
+        "courseId": "EEE.P322",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "電力工学第二",
+        "id": "202007993",
+        "teachers": [
+            "藤田 英明",
+            "河辺 賢一"
+        ]
+    },
+    {
+        "courseId": "EEE.D352",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "電子デバイス第二",
+        "id": "202001995",
+        "teachers": [
+            "角嶋 邦之"
+        ]
+    },
+    {
+        "courseId": "EEE.L342",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "電力工学実験B",
+        "id": "202007991",
+        "teachers": [
+            "萩原 誠",
+            "清田 恭平",
+            "全 俊豪",
+            "佐野 憲一朗"
+        ]
+    },
+    {
+        "courseId": "EEE.S301",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "導波路工学および電波法",
+        "id": "202002003",
+        "teachers": [
+            "廣川 二郎",
+            "戸村 崇"
+        ]
+    },
+    {
+        "courseId": "EEE.D301",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "電気電子材料",
+        "id": "202001992",
+        "teachers": [
+            "筒井 一生",
+            "飯野 裕明"
+        ]
+    },
+    {
+        "courseId": "EEE.L341",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "電力工学実験A",
+        "id": "202002006",
+        "teachers": [
+            "萩原 誠",
+            "清田 恭平",
+            "全 俊豪",
+            "佐野 憲一朗"
+        ]
+    },
+    {
+        "courseId": "EEE.P396",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "一般機械工学",
+        "id": "202002013",
+        "teachers": [
+            "井上 裕嗣",
+            "平田 敦",
+            "花村 克悟",
+            "小酒 英範",
+            "武田 行生",
+            "山浦 弘",
+            "中島 求",
+            "天谷 賢治"
+        ]
+    },
+    {
+        "courseId": "EEE.C301",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "電子計測",
+        "id": "202002024",
+        "teachers": [
+            "中本 高道",
+            "沖野 晃俊"
+        ]
+    },
+    {
+        "courseId": "EEE.Z382",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "電気電子プロジェクト",
+        "id": "202026534",
+        "teachers": [
+            "指導教員"
+        ]
+    },
+    {
+        "courseId": "EEE.Z381",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "研究プロジェクト（電気電子系）",
+        "id": "202002030",
+        "teachers": [
+            "渡辺 正裕"
+        ]
+    },
+    {
+        "courseId": "EEE.D341",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "材料力学概論S",
+        "id": "202002014",
+        "teachers": [
+            "因幡 和晃",
+            "阪口 基己"
+        ]
+    },
+    {
+        "courseId": "EEE.S351",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "信号システム",
+        "id": "202001989",
+        "teachers": [
+            "西山 伸彦",
+            "庄司 雄哉"
+        ]
+    },
+    {
+        "courseId": "EEE.D311",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "電子材料科学",
+        "id": "202001993",
+        "teachers": [
+            "菅原 聡"
+        ]
+    },
+    {
+        "courseId": "EEE.P311",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "パワーエレクトロニクス",
+        "id": "202002017",
+        "teachers": [
+            "萩原 誠",
+            "佐野 憲一朗"
+        ]
+    },
+    {
+        "courseId": "EEE.C331",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "コンピュータアーキテクチャ（電気電子）",
+        "id": "202002001",
+        "teachers": [
+            "中村 健太郎"
+        ]
+    },
+    {
+        "courseId": "EEE.D381",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "電力デバイス",
+        "id": "202002005",
+        "teachers": [
+            "波多野 睦子"
+        ]
+    },
+    {
+        "courseId": "EEE.R351",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "海外留学（電気電子）",
+        "id": "202008339",
+        "teachers": [
+            "藤田 英明",
+            "若林 整"
+        ]
+    },
+    {
+        "courseId": "EEE.P332",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "環境浄化工学実験",
+        "id": "202013685",
+        "teachers": [
+            "竹内 希",
+            "全 俊豪"
+        ]
+    },
+    {
+        "courseId": "EEE.L312",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "電気電子工学実験第三B",
+        "id": "202001987",
+        "teachers": [
+            "宮本 恭幸",
+            "TRAN GIA KHANH",
+            "河辺 賢一",
+            "NAKADA VITORIO KAZUYOSHI",
+            "白根 篤史",
+            "後藤 高寛"
+        ]
+    },
+    {
+        "courseId": "EEE.P341",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "電力エネルギー変換工学",
+        "id": "202013985",
+        "teachers": [
+            "小栗 慶之"
+        ]
+    },
+    {
+        "courseId": "EEE.L321",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "技術論文（Lゼミ）",
+        "id": "202002010",
+        "teachers": [
+            "藤田 英明"
+        ]
+    },
+    {
+        "courseId": "EEE.D391",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "半導体加工プロセス",
+        "id": "202001999",
+        "teachers": [
+            "大見 俊一郎"
+        ]
+    },
+    {
+        "courseId": "EEE.C361",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "線形制御理論",
+        "id": "202002728",
+        "teachers": [
+            "三平 満司"
+        ]
+    },
+    {
+        "courseId": "EEE.Z374",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "学士特定課題プロジェクトS4c（電気電子系）",
+        "id": "202027658",
+        "teachers": []
+    },
+    {
+        "courseId": "EEE.R351",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "海外留学（電気電子）",
+        "id": "202008341",
+        "teachers": [
+            "藤田 英明",
+            "若林 整"
+        ]
+    },
+    {
+        "courseId": "EEE.L331",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "技術者倫理（電気電子）",
+        "id": "202002011",
+        "teachers": [
+            "波多野 睦子"
+        ]
+    },
+    {
+        "courseId": "EEE.L311",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "電気電子工学実験第三A",
+        "id": "202001986",
+        "teachers": [
+            "宮本 恭幸",
+            "TRAN GIA KHANH",
+            "河辺 賢一",
+            "NAKADA VITORIO KAZUYOSHI",
+            "白根 篤史",
+            "後藤 高寛"
+        ]
+    },
+    {
+        "courseId": "EEE.Z375",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "学士特定課題プロジェクトS5c（電気電子系）",
+        "id": "202027659",
+        "teachers": []
+    },
+    {
+        "courseId": "EEE.L361",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "インターンシップ（電気電子）",
+        "id": "202002012",
+        "teachers": [
+            "藤田 英明",
+            "若林 整"
+        ]
+    },
+    {
+        "courseId": "EEE.R351",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "海外留学（電気電子）",
+        "id": "202002726",
+        "teachers": [
+            "藤田 英明",
+            "若林 整"
+        ]
+    },
+    {
+        "courseId": "EEE.Z391",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "学士特定課題プロジェクト1c（電気電子系）",
+        "id": "202007612",
+        "teachers": []
+    },
+    {
+        "courseId": "EEE.R351",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "海外留学（電気電子）",
+        "id": "202008340",
+        "teachers": [
+            "藤田 英明",
+            "若林 整"
+        ]
+    },
+    {
+        "courseId": "EEE.Z372",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "学士特定課題プロジェクトS2c（電気電子系）",
+        "id": "202027654",
+        "teachers": []
+    },
+    {
+        "courseId": "EEE.Z389",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "学士特定課題研究（電気電子系）",
+        "id": "202007610",
+        "teachers": [
+            "各教員"
+        ]
+    },
+    {
+        "courseId": "EEE.Z382",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "電気電子プロジェクト",
+        "id": "202027461",
+        "teachers": [
+            "指導教員"
+        ]
+    },
+    {
+        "courseId": "EEE.Z393",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "学士特定課題プロジェクト3c（電気電子系）",
+        "id": "202007615",
+        "teachers": []
+    },
+    {
+        "courseId": "EEE.Z389",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "学士特定課題研究（電気電子系）",
+        "id": "202002016",
+        "teachers": [
+            "各教員"
+        ]
+    },
+    {
+        "courseId": "EEE.Z394",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "学士特定課題プロジェクト4c（電気電子系）",
+        "id": "202007617",
+        "teachers": []
+    },
+    {
+        "courseId": "EEE.Z371",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "学士特定課題プロジェクトS1c（電気電子系）",
+        "id": "202027652",
+        "teachers": []
+    },
+    {
+        "courseId": "EEE.Z373",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "学士特定課題プロジェクトS3c（電気電子系）",
+        "id": "202027656",
+        "teachers": []
+    },
+    {
+        "courseId": "EEE.Z376",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "学士特定課題プロジェクトS6c（電気電子系）",
+        "id": "202027660",
+        "teachers": []
+    },
+    {
+        "courseId": "EEE.Z371",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "学士特定課題プロジェクトS1c（電気電子系）",
+        "id": "202027653",
+        "teachers": []
+    },
+    {
+        "courseId": "EEE.Z372",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "学士特定課題プロジェクトS2c（電気電子系）",
+        "id": "202027655",
+        "teachers": []
+    },
+    {
+        "courseId": "EEE.Z373",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "学士特定課題プロジェクトS3c（電気電子系）",
+        "id": "202027657",
+        "teachers": []
+    },
+    {
+        "courseId": "EEE.Z391",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "学士特定課題プロジェクト1c（電気電子系）",
+        "id": "202007611",
+        "teachers": []
+    },
+    {
+        "courseId": "EEE.Z392",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "学士特定課題プロジェクト2c（電気電子系）",
+        "id": "202007613",
+        "teachers": []
+    },
+    {
+        "courseId": "EEE.Z395",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "学士特定課題プロジェクト5c（電気電子系）",
+        "id": "202007618",
+        "teachers": []
+    },
+    {
+        "courseId": "EEE.Z396",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "学士特定課題プロジェクト6c（電気電子系）",
+        "id": "202007619",
+        "teachers": []
+    },
+    {
+        "courseId": "EEE.Z392",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "学士特定課題プロジェクト2c（電気電子系）",
+        "id": "202007614",
+        "teachers": []
+    },
+    {
+        "courseId": "EEE.Z393",
+        "courseDigit": 3,
+        "department": "電気電子系",
+        "courseName": "学士特定課題プロジェクト3c（電気電子系）",
+        "id": "202007616",
+        "teachers": []
+    }
+]

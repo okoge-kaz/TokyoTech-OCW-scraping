@@ -1,0 +1,617 @@
+[
+    {
+        "courseId": "MCS.T203",
+        "courseDigit": 2,
+        "department": "数理・計算科学系",
+        "courseName": "応用線形代数",
+        "id": "202002379",
+        "teachers": [
+            "福田 光浩",
+            "山下 真",
+            "澄田 範奈"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.T223",
+        "courseDigit": 2,
+        "department": "数理・計算科学系",
+        "courseName": "数理統計学",
+        "id": "202002381",
+        "teachers": [
+            "金森 敬文",
+            "川島 孝行"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MCS.T232",
+        "courseDigit": 2,
+        "department": "数理・計算科学系",
+        "courseName": "複素解析",
+        "id": "202002378",
+        "teachers": [
+            "鈴木 咲衣",
+            "梅原 雅顕",
+            "三浦 英之",
+            "室伏 俊明",
+            "西畑 伸也",
+            "土岡 俊介",
+            "高澤 光彦",
+            "高橋 仁"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MCS.T233",
+        "courseDigit": 2,
+        "department": "数理・計算科学系",
+        "courseName": "計算機システム",
+        "id": "202002387",
+        "teachers": [
+            "遠藤 敏夫",
+            "野村 哲弘"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.T231",
+        "courseDigit": 2,
+        "department": "数理・計算科学系",
+        "courseName": "代数系",
+        "id": "202002377",
+        "teachers": [
+            "土岡 俊介",
+            "梅原 雅顕",
+            "西畑 伸也",
+            "三浦 英之",
+            "室伏 俊明",
+            "鈴木 咲衣",
+            "高澤 光彦",
+            "高橋 仁",
+            "一木 俊助"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.T204",
+        "courseDigit": 2,
+        "department": "数理・計算科学系",
+        "courseName": "計算機科学概論",
+        "id": "202002383",
+        "teachers": [
+            "鹿島 亮",
+            "田中 圭介",
+            "叢 悠悠"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.T211",
+        "courseDigit": 2,
+        "department": "数理・計算科学系",
+        "courseName": "応用微分積分",
+        "id": "202002372",
+        "teachers": [
+            "三浦 英之",
+            "西畑 伸也",
+            "梅原 雅顕",
+            "室伏 俊明",
+            "鈴木 咲衣",
+            "土岡 俊介"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.T213",
+        "courseDigit": 2,
+        "department": "数理・計算科学系",
+        "courseName": "アルゴリズムとデータ構造",
+        "id": "202002382",
+        "teachers": [
+            "森 立平"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MCS.T214",
+        "courseDigit": 2,
+        "department": "数理・計算科学系",
+        "courseName": "オートマトンと数理言語論",
+        "id": "202002385",
+        "teachers": [
+            "伊東 利哉",
+            "田中 圭介"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MCS.T222",
+        "courseDigit": 2,
+        "department": "数理・計算科学系",
+        "courseName": "集合と位相第二演習",
+        "id": "202002376",
+        "teachers": [
+            "室伏 俊明",
+            "土岡 俊介",
+            "一木 俊助",
+            "梅原 雅顕"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.T224",
+        "courseDigit": 2,
+        "department": "数理・計算科学系",
+        "courseName": "プログラミング第一",
+        "id": "202002384",
+        "teachers": [
+            "脇田 建",
+            "叢 悠悠",
+            "森 立平",
+            "増原 英彦"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.T202",
+        "courseDigit": 2,
+        "department": "数理・計算科学系",
+        "courseName": "集合と位相第一演習",
+        "id": "202002374",
+        "teachers": [
+            "梅原 雅顕",
+            "西畑 伸也",
+            "三浦 英之",
+            "室伏 俊明",
+            "鈴木 咲衣",
+            "土岡 俊介",
+            "高澤 光彦",
+            "高橋 仁",
+            "一木 俊助"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.T221",
+        "courseDigit": 2,
+        "department": "数理・計算科学系",
+        "courseName": "集合と位相第二",
+        "id": "202002375",
+        "teachers": [
+            "室伏 俊明",
+            "土岡 俊介",
+            "梅原 雅顕"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.T212",
+        "courseDigit": 2,
+        "department": "数理・計算科学系",
+        "courseName": "確率論基礎",
+        "id": "202002380",
+        "teachers": [
+            "三好 直人",
+            "中野 張",
+            "矢島 萌子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.T201",
+        "courseDigit": 2,
+        "department": "数理・計算科学系",
+        "courseName": "集合と位相第一",
+        "id": "202002373",
+        "teachers": [
+            "梅原 雅顕",
+            "西畑 伸也",
+            "三浦 英之",
+            "室伏 俊明",
+            "鈴木 咲衣",
+            "土岡 俊介"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.T301",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "ベクトル解析と関数解析",
+        "id": "202002388",
+        "teachers": [
+            "西畑 伸也",
+            "高橋 仁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.T313",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "数理論理学",
+        "id": "202002397",
+        "teachers": [
+            "鹿島 亮"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.T312",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "マルコフ解析",
+        "id": "202002394",
+        "teachers": [
+            "中野 張",
+            "三好 直人"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.T332",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "データ解析",
+        "id": "202002395",
+        "teachers": [
+            "渡辺 澄夫"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.T303",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "プログラミング第二",
+        "id": "202002398",
+        "teachers": [
+            "増原 英彦",
+            "脇田 建"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MCS.T323",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "計算の理論",
+        "id": "202002399",
+        "teachers": [
+            "田中 圭介"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.T331",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "離散構造",
+        "id": "202002390",
+        "teachers": [
+            "鈴木 咲衣",
+            "梅原 雅顕",
+            "西畑 伸也",
+            "三浦 英之",
+            "室伏 俊明",
+            "土岡 俊介"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.T334",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "プログラミング言語処理系",
+        "id": "202002400",
+        "teachers": [
+            "南出 靖彦"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.T333",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "情報理論",
+        "id": "202002396",
+        "teachers": [
+            "樺島 祥介"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.T321",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "数値解析学",
+        "id": "202002391",
+        "teachers": [
+            "西畑 伸也",
+            "高橋 仁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.T315",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "モデリングの数理",
+        "id": "202002402",
+        "teachers": [
+            "高安 美佐子",
+            "高安 秀樹"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.T322",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "組合せアルゴリズム",
+        "id": "202002393",
+        "teachers": [
+            "澄田 範奈",
+            "山下 真"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.T302",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "数理最適化",
+        "id": "202002392",
+        "teachers": [
+            "山下 真",
+            "福田 光浩",
+            "澄田 範奈",
+            "川島 孝行"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.T311",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "応用微分方程式論",
+        "id": "202002389",
+        "teachers": [
+            "三浦 英之"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.Z390",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "学士特定演習（数理・計算科学系）",
+        "id": "202024103",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.Z374",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "学士特定課題プロジェクトS4c（数理・計算科学系）",
+        "id": "202027712",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.Z391",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "学士特定課題プロジェクト1c（数理・計算科学系）",
+        "id": "202007662",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.Z392",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "学士特定課題プロジェクト2c（数理・計算科学系）",
+        "id": "202007664",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.T314",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "オペレーティングシステム",
+        "id": "202002401",
+        "teachers": [
+            "首藤 一幸",
+            "遠藤 敏夫"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.Z389",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "学士特定課題研究（数理・計算科学系）",
+        "id": "202007660",
+        "teachers": [
+            "各教員"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.Z381",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "研究プロジェクト（数理・計算科学系）",
+        "id": "202002403",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.Z373",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "学士特定課題プロジェクトS3c（数理・計算科学系）",
+        "id": "202027711",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.Z391",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "学士特定課題プロジェクト1c（数理・計算科学系）",
+        "id": "202007661",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.Z392",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "学士特定課題プロジェクト2c（数理・計算科学系）",
+        "id": "202007663",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.Z395",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "学士特定課題プロジェクト5c（数理・計算科学系）",
+        "id": "202007668",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.Z393",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "学士特定課題プロジェクト3c（数理・計算科学系）",
+        "id": "202007666",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.Z371",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "学士特定課題プロジェクトS1c（数理・計算科学系）",
+        "id": "202027706",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.Z372",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "学士特定課題プロジェクトS2c（数理・計算科学系）",
+        "id": "202027708",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.Z373",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "学士特定課題プロジェクトS3c（数理・計算科学系）",
+        "id": "202027710",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.Z375",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "学士特定課題プロジェクトS5c（数理・計算科学系）",
+        "id": "202027713",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.Z376",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "学士特定課題プロジェクトS6c（数理・計算科学系）",
+        "id": "202027714",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.Z371",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "学士特定課題プロジェクトS1c（数理・計算科学系）",
+        "id": "202027707",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.Z372",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "学士特定課題プロジェクトS2c（数理・計算科学系）",
+        "id": "202027709",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.Z393",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "学士特定課題プロジェクト3c（数理・計算科学系）",
+        "id": "202007665",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.Z381",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "研究プロジェクト（数理・計算科学系）",
+        "id": "202002404",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.Z394",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "学士特定課題プロジェクト4c（数理・計算科学系）",
+        "id": "202007667",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.Z396",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "学士特定課題プロジェクト6c（数理・計算科学系）",
+        "id": "202007669",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.Z389",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "学士特定課題研究（数理・計算科学系）",
+        "id": "202017363",
+        "teachers": [
+            "各教員"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MCS.Z390",
+        "courseDigit": 3,
+        "department": "数理・計算科学系",
+        "courseName": "学士特定演習（数理・計算科学系）",
+        "id": "202024104",
+        "teachers": [],
+        "isExist": false
+    }
+]

@@ -1,0 +1,652 @@
+[
+    {
+        "courseId": "ICT.S210",
+        "courseDigit": 2,
+        "department": "情報通信系",
+        "courseName": "ディジタル信号処理",
+        "id": "202002044",
+        "teachers": [
+            "山口 雅浩",
+            "吉村 奈津江"
+        ]
+    },
+    {
+        "courseId": "ICT.C209",
+        "courseDigit": 2,
+        "department": "情報通信系",
+        "courseName": "代数系と符号理論",
+        "id": "202002041",
+        "teachers": [
+            "笠井 健太"
+        ]
+    },
+    {
+        "courseId": "ICT.H217",
+        "courseDigit": 2,
+        "department": "情報通信系",
+        "courseName": "論理と推論",
+        "id": "202002049",
+        "teachers": [
+            "篠崎 隆宏",
+            "船越 孝太郎"
+        ]
+    },
+    {
+        "courseId": "ICT.I211",
+        "courseDigit": 2,
+        "department": "情報通信系",
+        "courseName": "論理回路設計",
+        "id": "202002073",
+        "teachers": [
+            "熊澤 逸夫",
+            "原 祐子"
+        ]
+    },
+    {
+        "courseId": "ICT.P208",
+        "courseDigit": 2,
+        "department": "情報通信系",
+        "courseName": "プログラミング発展",
+        "id": "202002051",
+        "teachers": [
+            "尾形 わかは",
+            "松本 隆太郎",
+            "神原 裕行",
+            "CHU VAN THIEM"
+        ]
+    },
+    {
+        "courseId": "ICT.H212",
+        "courseDigit": 2,
+        "department": "情報通信系",
+        "courseName": "オートマトンと言語（情報通信）",
+        "id": "202002048",
+        "teachers": [
+            "奥村 学",
+            "篠崎 隆宏"
+        ]
+    },
+    {
+        "courseId": "ICT.M202",
+        "courseDigit": 2,
+        "department": "情報通信系",
+        "courseName": "確率と統計（情報通信）",
+        "id": "202002038",
+        "teachers": [
+            "植松 友彦",
+            "永井 岳大"
+        ]
+    },
+    {
+        "courseId": "ICT.E213",
+        "courseDigit": 2,
+        "department": "情報通信系",
+        "courseName": "情報通信実験1",
+        "id": "202002052",
+        "teachers": [
+            "山口 雅浩",
+            "篠崎 隆宏",
+            "船越 孝太郎"
+        ]
+    },
+    {
+        "courseId": "ICT.E218",
+        "courseDigit": 2,
+        "department": "情報通信系",
+        "courseName": "情報通信実験2",
+        "id": "202002053",
+        "teachers": [
+            "笠井 健太",
+            "小尾 高史",
+            "佐々木 広",
+            "山岸 昌夫"
+        ]
+    },
+    {
+        "courseId": "ICT.C201",
+        "courseDigit": 2,
+        "department": "情報通信系",
+        "courseName": "情報通信概論",
+        "id": "202002072",
+        "teachers": [
+            "山田 功",
+            "高橋 篤司",
+            "植松 友彦",
+            "尾形 わかは",
+            "府川 和彦",
+            "山口 雅浩",
+            "高木 茂孝",
+            "中本 高道",
+            "一色 剛",
+            "山岡 克式",
+            "笠井 健太",
+            "篠崎 隆宏",
+            "原 祐子",
+            "中原 啓貴",
+            "北口 善明",
+            "松本 隆太郎"
+        ]
+    },
+    {
+        "courseId": "ICT.I207",
+        "courseDigit": 2,
+        "department": "情報通信系",
+        "courseName": "線形回路",
+        "id": "202002046",
+        "teachers": [
+            "中本 高道"
+        ]
+    },
+    {
+        "courseId": "ICT.I216",
+        "courseDigit": 2,
+        "department": "情報通信系",
+        "courseName": "計算機論理設計（情報通信）",
+        "id": "202002047",
+        "teachers": [
+            "一色 剛",
+            "渡辺 義浩"
+        ]
+    },
+    {
+        "courseId": "ICT.C205",
+        "courseDigit": 2,
+        "department": "情報通信系",
+        "courseName": "通信理論（情報通信）",
+        "id": "202002040",
+        "teachers": [
+            "府川 和彦",
+            "尾形 わかは"
+        ]
+    },
+    {
+        "courseId": "ICT.S206",
+        "courseDigit": 2,
+        "department": "情報通信系",
+        "courseName": "信号とシステム解析",
+        "id": "202002043",
+        "teachers": [
+            "山田 功",
+            "吉村 奈津江"
+        ]
+    },
+    {
+        "courseId": "ICT.P204",
+        "courseDigit": 2,
+        "department": "情報通信系",
+        "courseName": "プログラミング基礎（情報通信）",
+        "id": "202002050",
+        "teachers": [
+            "中山 実",
+            "金子 寛彦",
+            "赤羽 克仁",
+            "伊藤 泉"
+        ]
+    },
+    {
+        "courseId": "ICT.C214",
+        "courseDigit": 2,
+        "department": "情報通信系",
+        "courseName": "通信方式",
+        "id": "202002042",
+        "teachers": [
+            "府川 和彦"
+        ]
+    },
+    {
+        "courseId": "ICT.Z291",
+        "courseDigit": 2,
+        "department": "情報通信系",
+        "courseName": "B2D研究基礎a（情報通信系）",
+        "id": "202027915",
+        "teachers": [
+            "中山 実"
+        ]
+    },
+    {
+        "courseId": "ICT.Z291",
+        "courseDigit": 2,
+        "department": "情報通信系",
+        "courseName": "B2D研究基礎a（情報通信系）",
+        "id": "202027916",
+        "teachers": [
+            "中山 実"
+        ]
+    },
+    {
+        "courseId": "ICT.M215",
+        "courseDigit": 2,
+        "department": "情報通信系",
+        "courseName": "離散構造とアルゴリズム",
+        "id": "202002039",
+        "teachers": [
+            "高橋 篤司"
+        ]
+    },
+    {
+        "courseId": "ICT.I203",
+        "courseDigit": 2,
+        "department": "情報通信系",
+        "courseName": "交流回路",
+        "id": "202002045",
+        "teachers": [
+            "高木 茂孝",
+            "一色 剛"
+        ]
+    },
+    {
+        "courseId": "ICT.S311",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "機械学習（情報通信）",
+        "id": "202007330",
+        "teachers": [
+            "熊澤 逸夫",
+            "中原 啓貴"
+        ]
+    },
+    {
+        "courseId": "ICT.I308",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "計算機アーキテクチャ（情報通信）",
+        "id": "202002064",
+        "teachers": [
+            "本村 真人",
+            "渡辺 義浩"
+        ]
+    },
+    {
+        "courseId": "ICT.M310",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "数理計画法",
+        "id": "202007523",
+        "teachers": [
+            "小池 康晴"
+        ]
+    },
+    {
+        "courseId": "ICT.S307",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "統計的信号処理",
+        "id": "202002062",
+        "teachers": [
+            "山口 雅浩",
+            "小尾 高史"
+        ]
+    },
+    {
+        "courseId": "ICT.E314",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "情報通信実験4",
+        "id": "202002070",
+        "teachers": [
+            "府川 和彦",
+            "山岡 克式",
+            "田湯 智",
+            "松田 哲直"
+        ]
+    },
+    {
+        "courseId": "XEG.G301",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "工学と理学のための確率と統計 A",
+        "id": "202009480",
+        "teachers": [
+            "BERRAR DANIEL PETER"
+        ]
+    },
+    {
+        "courseId": "ICT.C309",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "マルチメディア伝送工学",
+        "id": "202002059",
+        "teachers": [
+            "長谷川 晶一",
+            "山岡 克式"
+        ]
+    },
+    {
+        "courseId": "ICT.E304",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "情報通信実験3",
+        "id": "202002069",
+        "teachers": [
+            "一色 剛",
+            "熊澤 逸夫",
+            "佐藤 真平",
+            "佐藤 広生",
+            "張 裕淵",
+            "李 冬菊"
+        ]
+    },
+    {
+        "courseId": "ICT.M306",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "コンピュータ数学",
+        "id": "202002054",
+        "teachers": [
+            "植松 友彦",
+            "田湯 智"
+        ]
+    },
+    {
+        "courseId": "ICT.S302",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "関数解析と逆問題",
+        "id": "202002061",
+        "teachers": [
+            "山田 功",
+            "小尾 高史"
+        ]
+    },
+    {
+        "courseId": "ICT.I303",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "集積回路設計",
+        "id": "202002063",
+        "teachers": [
+            "一色 剛",
+            "原 祐子"
+        ]
+    },
+    {
+        "courseId": "ICT.H313",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "感覚知覚システム",
+        "id": "202002067",
+        "teachers": [
+            "中山 実",
+            "金子 寛彦"
+        ]
+    },
+    {
+        "courseId": "ICT.I317",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "組み込みシステム",
+        "id": "202002066",
+        "teachers": [
+            "長谷川 晶一",
+            "中原 啓貴"
+        ]
+    },
+    {
+        "courseId": "ICT.C305",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "ネットワーク構成",
+        "id": "202002058",
+        "teachers": [
+            "山岡 克式",
+            "北口 善明"
+        ]
+    },
+    {
+        "courseId": "ICT.H318",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "人工知能基礎（情報通信）",
+        "id": "202002068",
+        "teachers": [
+            "奥村 学",
+            "中山 実"
+        ]
+    },
+    {
+        "courseId": "ICT.C301",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "ネットワーク基礎理論",
+        "id": "202002057",
+        "teachers": [
+            "植松 友彦",
+            "山岡 克式"
+        ]
+    },
+    {
+        "courseId": "ICT.M316",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "数値解析（情報通信）",
+        "id": "202002056",
+        "teachers": [
+            "金子 寛彦",
+            "長谷川 晶一"
+        ]
+    },
+    {
+        "courseId": "ICT.E319",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "情報通信実験5",
+        "id": "202002071",
+        "teachers": [
+            "中山 実",
+            "金子 寛彦",
+            "中原 啓貴",
+            "長谷川 晶一",
+            "三武 裕玄",
+            "久方 瑠美"
+        ]
+    },
+    {
+        "courseId": "ICT.C315",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "暗号技術とネットワークセキュリティ",
+        "id": "202002060",
+        "teachers": [
+            "尾形 わかは",
+            "北口 善明"
+        ]
+    },
+    {
+        "courseId": "ICT.I312",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "線形電子回路",
+        "id": "202002065",
+        "teachers": [
+            "高木 茂孝"
+        ]
+    },
+    {
+        "courseId": "ICT.Z381",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "研究プロジェクト（情報通信系）",
+        "id": "202021575",
+        "teachers": []
+    },
+    {
+        "courseId": "ICT.Z373",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "学士特定課題プロジェクトS3c（情報通信系）",
+        "id": "202027674",
+        "teachers": []
+    },
+    {
+        "courseId": "ICT.Z389",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "学士特定課題研究（情報通信系）",
+        "id": "202007620",
+        "teachers": [
+            "各教員"
+        ]
+    },
+    {
+        "courseId": "ICT.Z371",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "学士特定課題プロジェクトS1c（情報通信系）",
+        "id": "202027671",
+        "teachers": []
+    },
+    {
+        "courseId": "ICT.Z391",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "学士特定課題プロジェクト1c（情報通信系）",
+        "id": "202007621",
+        "teachers": []
+    },
+    {
+        "courseId": "ICT.Z392",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "学士特定課題プロジェクト2c（情報通信系）",
+        "id": "202007623",
+        "teachers": []
+    },
+    {
+        "courseId": "ICT.Z393",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "学士特定課題プロジェクト3c（情報通信系）",
+        "id": "202007625",
+        "teachers": []
+    },
+    {
+        "courseId": "ICT.Z394",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "学士特定課題プロジェクト4c（情報通信系）",
+        "id": "202007627",
+        "teachers": []
+    },
+    {
+        "courseId": "ICT.Z389",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "学士特定課題研究（情報通信系）",
+        "id": "202011248",
+        "teachers": [
+            "各教員"
+        ]
+    },
+    {
+        "courseId": "ICT.Z392",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "学士特定課題プロジェクト2c（情報通信系）",
+        "id": "202007624",
+        "teachers": []
+    },
+    {
+        "courseId": "ICT.Z393",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "学士特定課題プロジェクト3c（情報通信系）",
+        "id": "202007626",
+        "teachers": []
+    },
+    {
+        "courseId": "ICT.Z381",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "研究プロジェクト（情報通信系）",
+        "id": "202007256",
+        "teachers": []
+    },
+    {
+        "courseId": "ICT.Z371",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "学士特定課題プロジェクトS1c（情報通信系）",
+        "id": "202027670",
+        "teachers": []
+    },
+    {
+        "courseId": "ICT.Z372",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "学士特定課題プロジェクトS2c（情報通信系）",
+        "id": "202027672",
+        "teachers": []
+    },
+    {
+        "courseId": "ICT.Z374",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "学士特定課題プロジェクトS4c（情報通信系）",
+        "id": "202027676",
+        "teachers": []
+    },
+    {
+        "courseId": "ICT.Z375",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "学士特定課題プロジェクトS5c（情報通信系）",
+        "id": "202027677",
+        "teachers": []
+    },
+    {
+        "courseId": "ICT.Z376",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "学士特定課題プロジェクトS6c（情報通信系）",
+        "id": "202027678",
+        "teachers": []
+    },
+    {
+        "courseId": "ICT.Z372",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "学士特定課題プロジェクトS2c（情報通信系）",
+        "id": "202027673",
+        "teachers": []
+    },
+    {
+        "courseId": "ICT.Z373",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "学士特定課題プロジェクトS3c（情報通信系）",
+        "id": "202027675",
+        "teachers": []
+    },
+    {
+        "courseId": "ICT.Z381",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "研究プロジェクト（情報通信系）",
+        "id": "202007257",
+        "teachers": []
+    },
+    {
+        "courseId": "ICT.Z395",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "学士特定課題プロジェクト5c（情報通信系）",
+        "id": "202007628",
+        "teachers": []
+    },
+    {
+        "courseId": "ICT.Z396",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "学士特定課題プロジェクト6c（情報通信系）",
+        "id": "202007629",
+        "teachers": []
+    },
+    {
+        "courseId": "ICT.Z391",
+        "courseDigit": 3,
+        "department": "情報通信系",
+        "courseName": "学士特定課題プロジェクト1c（情報通信系）",
+        "id": "202007622",
+        "teachers": []
+    }
+]

@@ -1,0 +1,834 @@
+[
+    {
+        "courseId": "CVE.N232",
+        "courseDigit": 2,
+        "department": "土木・環境工学系",
+        "courseName": "構造・空間デザイン演習",
+        "id": "202002644",
+        "teachers": [
+            "齋藤 潮",
+            "田中 由乃",
+            "伊藤 登",
+            "松井 幹雄",
+            "二井 昭佳"
+        ]
+    },
+    {
+        "courseId": "CVE.B201",
+        "courseDigit": 2,
+        "department": "土木・環境工学系",
+        "courseName": "水理学第一",
+        "id": "202002655",
+        "teachers": [
+            "木内 豪",
+            "中村 恭志"
+        ]
+    },
+    {
+        "courseId": "CVE.M230",
+        "courseDigit": 2,
+        "department": "土木・環境工学系",
+        "courseName": "測量学実習 2年次",
+        "id": "202002621",
+        "teachers": [
+            "千々和 伸浩",
+            "中山 一秀",
+            "田中 由乃"
+        ]
+    },
+    {
+        "courseId": "CVE.N210",
+        "courseDigit": 2,
+        "department": "土木・環境工学系",
+        "courseName": "社会基盤と環境-概論",
+        "id": "202002661",
+        "teachers": [
+            "室町 泰徳",
+            "二羽 淳一郎",
+            "朝倉 康夫",
+            "屋井 鉄雄",
+            "竹村 次朗",
+            "盛川 仁",
+            "鼎 信次郎",
+            "福田 大輔",
+            "吉村 千洋",
+            "千々和 伸浩",
+            "岩波 光保",
+            "高橋 章浩",
+            "廣瀬 壮一",
+            "北詰 昌樹",
+            "齋藤 潮",
+            "坂野 達郎",
+            "WIJEYEWICKREMA ANIL CHRISTOPHER",
+            "佐々木 栄一",
+            "真田 純子",
+            "藤井 学",
+            "笠間 清伸"
+        ]
+    },
+    {
+        "courseId": "CVE.D210",
+        "courseDigit": 2,
+        "department": "土木・環境工学系",
+        "courseName": "土木と環境の計画理論",
+        "id": "202002652",
+        "teachers": [
+            "屋井 鉄雄"
+        ]
+    },
+    {
+        "courseId": "CVE.N230",
+        "courseDigit": 2,
+        "department": "土木・環境工学系",
+        "courseName": "構造力学・水理学実験第一",
+        "id": "202002619",
+        "teachers": [
+            "廣瀬 壮一",
+            "盛川 仁",
+            "佐々木 栄一",
+            "WIJEYEWICKREMA ANIL CHRISTOPHER",
+            "鼎 信次郎",
+            "吉村 千洋",
+            "藤井 学",
+            "木内 豪",
+            "中村 恭志",
+            "中村 隆志",
+            "古川 陽",
+            "飯山 かほり",
+            "瀬戸 里枝"
+        ]
+    },
+    {
+        "courseId": "CVE.E201",
+        "courseDigit": 2,
+        "department": "土木・環境工学系",
+        "courseName": "コンクリート工学",
+        "id": "202002627",
+        "teachers": [
+            "岩波 光保"
+        ]
+    },
+    {
+        "courseId": "CVE.M203",
+        "courseDigit": 2,
+        "department": "土木・環境工学系",
+        "courseName": "測量学",
+        "id": "202002632",
+        "teachers": [
+            "千々和 伸浩",
+            "新名 恭仁"
+        ]
+    },
+    {
+        "courseId": "CVE.D201",
+        "courseDigit": 2,
+        "department": "土木・環境工学系",
+        "courseName": "土木計画学基礎",
+        "id": "202002623",
+        "teachers": [
+            "福田 大輔"
+        ]
+    },
+    {
+        "courseId": "CVE.A201",
+        "courseDigit": 2,
+        "department": "土木・環境工学系",
+        "courseName": "材料と部材の力学",
+        "id": "202002624",
+        "teachers": [
+            "廣瀬 壮一"
+        ]
+    },
+    {
+        "courseId": "CVE.D230",
+        "courseDigit": 2,
+        "department": "土木・環境工学系",
+        "courseName": "都市・交通計画プロジェクト演習",
+        "id": "202002616",
+        "teachers": [
+            "屋井 鉄雄",
+            "朝倉 康夫",
+            "室町 泰徳",
+            "福田 大輔",
+            "中西 航"
+        ]
+    },
+    {
+        "courseId": "CVE.L211",
+        "courseDigit": 2,
+        "department": "土木・環境工学系",
+        "courseName": "土木工学英語第二",
+        "id": "202002641",
+        "teachers": [
+            "WIJEYEWICKREMA ANIL CHRISTOPHER",
+            "BUI QUOC TINH"
+        ]
+    },
+    {
+        "courseId": "CVE.A210",
+        "courseDigit": 2,
+        "department": "土木・環境工学系",
+        "courseName": "土木振動学",
+        "id": "202002639",
+        "teachers": [
+            "盛川 仁"
+        ]
+    },
+    {
+        "courseId": "CVE.M201",
+        "courseDigit": 2,
+        "department": "土木・環境工学系",
+        "courseName": "物理数学基礎・演習",
+        "id": "202002630",
+        "teachers": [
+            "盛川 仁",
+            "WIJEYEWICKREMA ANIL CHRISTOPHER"
+        ]
+    },
+    {
+        "courseId": "CVE.N231",
+        "courseDigit": 2,
+        "department": "土木・環境工学系",
+        "courseName": "コンクリート・地盤工学実験第一",
+        "id": "202002617",
+        "teachers": [
+            "岩波 光保",
+            "二羽 淳一郎",
+            "千々和 伸浩",
+            "北詰 昌樹",
+            "竹村 次朗",
+            "高橋 章浩",
+            "笠間 清伸",
+            "堀越 一輝",
+            "中山 一秀"
+        ]
+    },
+    {
+        "courseId": "CVE.L212",
+        "courseDigit": 2,
+        "department": "土木・環境工学系",
+        "courseName": "土木工学英語第三",
+        "id": "202002642",
+        "teachers": [
+            "WIJEYEWICKREMA ANIL CHRISTOPHER",
+            "BUI QUOC TINH"
+        ]
+    },
+    {
+        "courseId": "CVE.A202",
+        "courseDigit": 2,
+        "department": "土木・環境工学系",
+        "courseName": "構造力学第一",
+        "id": "202002625",
+        "teachers": [
+            "佐々木 栄一"
+        ]
+    },
+    {
+        "courseId": "CVE.C201",
+        "courseDigit": 2,
+        "department": "土木・環境工学系",
+        "courseName": "土質力学第一",
+        "id": "202002633",
+        "teachers": [
+            "竹村 次朗"
+        ]
+    },
+    {
+        "courseId": "CVE.C202",
+        "courseDigit": 2,
+        "department": "土木・環境工学系",
+        "courseName": "土質力学第二",
+        "id": "202002634",
+        "teachers": [
+            "北詰 昌樹",
+            "笠間 清伸"
+        ]
+    },
+    {
+        "courseId": "CVE.B202",
+        "courseDigit": 2,
+        "department": "土木・環境工学系",
+        "courseName": "水理学第二",
+        "id": "202002656",
+        "teachers": [
+            "鼎 信次郎",
+            "吉村 千洋"
+        ]
+    },
+    {
+        "courseId": "CVE.D211",
+        "courseDigit": 2,
+        "department": "土木・環境工学系",
+        "courseName": "国土・都市計画概論",
+        "id": "202002662",
+        "teachers": [
+            "朝倉 康夫",
+            "中井 検裕"
+        ]
+    },
+    {
+        "courseId": "CVE.M202",
+        "courseDigit": 2,
+        "department": "土木・環境工学系",
+        "courseName": "システム数理基礎・演習",
+        "id": "202002629",
+        "teachers": [
+            "千々和 伸浩",
+            "室町 泰徳"
+        ]
+    },
+    {
+        "courseId": "CVE.L210",
+        "courseDigit": 2,
+        "department": "土木・環境工学系",
+        "courseName": "土木工学英語第一",
+        "id": "202002640",
+        "teachers": [
+            "WIJEYEWICKREMA ANIL CHRISTOPHER",
+            "BUI QUOC TINH"
+        ]
+    },
+    {
+        "courseId": "CVE.M230",
+        "courseDigit": 2,
+        "department": "土木・環境工学系",
+        "courseName": "測量学実習 3年次",
+        "id": "202030580",
+        "teachers": [
+            "千々和 伸浩",
+            "中山 一秀",
+            "田中 由乃"
+        ]
+    },
+    {
+        "courseId": "CVE.G230",
+        "courseDigit": 2,
+        "department": "土木・環境工学系",
+        "courseName": "環境計画プロジェクト演習",
+        "id": "202002660",
+        "teachers": [
+            "吉村 千洋",
+            "中村 恭志",
+            "鼎 信次郎",
+            "木内 豪",
+            "中村 隆志",
+            "藤井 学",
+            "真田 純子",
+            "関口 雄祐",
+            "瀬戸 里枝",
+            "田中 由乃"
+        ]
+    },
+    {
+        "courseId": "CVE.Y230",
+        "courseDigit": 2,
+        "department": "土木・環境工学系",
+        "courseName": "B2D研究基礎a（土木・環境工学系）",
+        "id": "202027853",
+        "teachers": [
+            "廣瀬 壮一"
+        ]
+    },
+    {
+        "courseId": "CVE.D312",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "公共システム論",
+        "id": "202002650",
+        "teachers": [
+            "坂野 達郎"
+        ]
+    },
+    {
+        "courseId": "CVE.B311",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "河川工学",
+        "id": "202002658",
+        "teachers": [
+            "鼎 信次郎"
+        ]
+    },
+    {
+        "courseId": "CVE.D301",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "交通システム工学",
+        "id": "202002649",
+        "teachers": [
+            "朝倉 康夫"
+        ]
+    },
+    {
+        "courseId": "CVE.G310",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "水環境工学",
+        "id": "202002657",
+        "teachers": [
+            "吉村 千洋",
+            "藤井 学"
+        ]
+    },
+    {
+        "courseId": "CVE.N331",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "コンクリート・地盤工学実験第二",
+        "id": "202002618",
+        "teachers": [
+            "二羽 淳一郎",
+            "岩波 光保",
+            "千々和 伸浩",
+            "北詰 昌樹",
+            "竹村 次朗",
+            "高橋 章浩",
+            "笠間 清伸",
+            "堀越 一輝",
+            "中山 一秀"
+        ]
+    },
+    {
+        "courseId": "CVE.D310",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "景観学",
+        "id": "202002654",
+        "teachers": [
+            "齋藤 潮"
+        ]
+    },
+    {
+        "courseId": "CVE.N330",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "構造力学・水理学実験第二",
+        "id": "202002620",
+        "teachers": [
+            "鼎 信次郎",
+            "中村 隆志",
+            "吉村 千洋",
+            "藤井 学",
+            "木内 豪",
+            "中村 恭志",
+            "瀬戸 里枝",
+            "廣瀬 壮一",
+            "WIJEYEWICKREMA ANIL CHRISTOPHER",
+            "盛川 仁",
+            "佐々木 栄一"
+        ]
+    },
+    {
+        "courseId": "CVE.B310",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "海岸・海洋工学",
+        "id": "202002659",
+        "teachers": [
+            "中村 隆志",
+            "中川 康之",
+            "鼎 信次郎"
+        ]
+    },
+    {
+        "courseId": "CVE.E301",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "コンクリート構造",
+        "id": "202002628",
+        "teachers": [
+            "二羽 淳一郎",
+            "千々和 伸浩"
+        ]
+    },
+    {
+        "courseId": "CVE.A301",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "構造力学第二",
+        "id": "202002626",
+        "teachers": [
+            "廣瀬 壮一",
+            "WIJEYEWICKREMA ANIL CHRISTOPHER"
+        ]
+    },
+    {
+        "courseId": "CVE.N333",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "土木・環境工学インターンシップ",
+        "id": "202010863",
+        "teachers": [
+            "真田 純子"
+        ]
+    },
+    {
+        "courseId": "TSE.A312",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "地球・地域生態学概論",
+        "id": "202002720",
+        "teachers": [
+            "中村 隆志"
+        ]
+    },
+    {
+        "courseId": "CVE.M301",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "数値解析基礎・演習",
+        "id": "202002653",
+        "teachers": [
+            "廣瀬 壮一",
+            "中西 航",
+            "瀬戸 里枝"
+        ]
+    },
+    {
+        "courseId": "CVE.N310",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "社会基盤と環境−特別講義",
+        "id": "202002645",
+        "teachers": [
+            "佐藤 直良",
+            "池田 直太",
+            "浅輪 宇充",
+            "竹内 研一",
+            "渡辺 浩司",
+            "伊東 雅幸",
+            "信田 智",
+            "濵口 耕平",
+            "田村 央",
+            "北詰 昌樹",
+            "屋井 鉄雄",
+            "朝倉 康夫",
+            "竹村 次朗",
+            "吉村 千洋",
+            "福田 大輔"
+        ]
+    },
+    {
+        "courseId": "CVE.N333",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "土木・環境工学インターンシップ",
+        "id": "202002646",
+        "teachers": [
+            "真田 純子"
+        ]
+    },
+    {
+        "courseId": "CVE.N333",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "土木・環境工学インターンシップ",
+        "id": "202010862",
+        "teachers": [
+            "真田 純子"
+        ]
+    },
+    {
+        "courseId": "CVE.A311",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "マトリックス構造解析",
+        "id": "202002637",
+        "teachers": [
+            "WIJEYEWICKREMA ANIL CHRISTOPHER"
+        ]
+    },
+    {
+        "courseId": "CVE.D313",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "インフラストラクチャーの都市計画",
+        "id": "202002648",
+        "teachers": [
+            "室町 泰徳"
+        ]
+    },
+    {
+        "courseId": "CVE.A310",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "鋼構造学",
+        "id": "202002638",
+        "teachers": [
+            "佐々木 栄一"
+        ]
+    },
+    {
+        "courseId": "CVE.L310",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "土木工学英語第四",
+        "id": "202002643",
+        "teachers": [
+            "WIJEYEWICKREMA ANIL CHRISTOPHER",
+            "BUI QUOC TINH"
+        ]
+    },
+    {
+        "courseId": "CVE.D311",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "公共経済学",
+        "id": "202002651",
+        "teachers": [
+            "福田 大輔",
+            "坂野 達郎",
+            "田辺 勝巳"
+        ]
+    },
+    {
+        "courseId": "CVE.N332",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "土木・環境工学総合演習",
+        "id": "202002647",
+        "teachers": [
+            "中西 航",
+            "堀越 一輝",
+            "瀬戸 里枝",
+            "田中 由乃",
+            "中山 一秀"
+        ]
+    },
+    {
+        "courseId": "CVE.N301",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "土木史・土木技術者倫理",
+        "id": "202002622",
+        "teachers": [
+            "朝倉 康夫",
+            "北詰 昌樹",
+            "真田 純子"
+        ]
+    },
+    {
+        "courseId": "CVE.M302",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "応用数値解析・演習",
+        "id": "202002631",
+        "teachers": [
+            "中村 恭志"
+        ]
+    },
+    {
+        "courseId": "CVE.C311",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "地盤調査・施工学",
+        "id": "202002636",
+        "teachers": [
+            "北詰 昌樹",
+            "竹村 次朗",
+            "高橋 章浩",
+            "川越 健"
+        ]
+    },
+    {
+        "courseId": "CVE.Z371",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "学士特定課題プロジェクトS1c（土木・環境工学系）",
+        "id": "202027643",
+        "teachers": []
+    },
+    {
+        "courseId": "CVE.Z389",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "学士特定課題研究（土木・環境工学系）",
+        "id": "202007700",
+        "teachers": [
+            "各教員"
+        ]
+    },
+    {
+        "courseId": "CVE.N333",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "土木・環境工学インターンシップ",
+        "id": "202010864",
+        "teachers": [
+            "真田 純子"
+        ]
+    },
+    {
+        "courseId": "CVE.C310",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "土質基礎工学",
+        "id": "202002635",
+        "teachers": [
+            "高橋 章浩"
+        ]
+    },
+    {
+        "courseId": "CVE.Z381",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "研究プロジェクト（土木・環境工学系）",
+        "id": "202002663",
+        "teachers": []
+    },
+    {
+        "courseId": "CVE.Z373",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "学士特定課題プロジェクトS3c（土木・環境工学系）",
+        "id": "202027647",
+        "teachers": []
+    },
+    {
+        "courseId": "CVE.Z392",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "学士特定課題プロジェクト2c（土木・環境工学系）",
+        "id": "202007703",
+        "teachers": []
+    },
+    {
+        "courseId": "CVE.Z395",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "学士特定課題プロジェクト5c（土木・環境工学系）",
+        "id": "202007708",
+        "teachers": []
+    },
+    {
+        "courseId": "CVE.Z372",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "学士特定課題プロジェクトS2c（土木・環境工学系）",
+        "id": "202027645",
+        "teachers": []
+    },
+    {
+        "courseId": "CVE.Z374",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "学士特定課題プロジェクトS4c（土木・環境工学系）",
+        "id": "202027649",
+        "teachers": []
+    },
+    {
+        "courseId": "CVE.Z375",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "学士特定課題プロジェクトS5c（土木・環境工学系）",
+        "id": "202027650",
+        "teachers": []
+    },
+    {
+        "courseId": "CVE.Z376",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "学士特定課題プロジェクトS6c（土木・環境工学系）",
+        "id": "202027651",
+        "teachers": []
+    },
+    {
+        "courseId": "CVE.Z371",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "学士特定課題プロジェクトS1c（土木・環境工学系）",
+        "id": "202027644",
+        "teachers": []
+    },
+    {
+        "courseId": "CVE.Z372",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "学士特定課題プロジェクトS2c（土木・環境工学系）",
+        "id": "202027646",
+        "teachers": []
+    },
+    {
+        "courseId": "CVE.Z373",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "学士特定課題プロジェクトS3c（土木・環境工学系）",
+        "id": "202027648",
+        "teachers": []
+    },
+    {
+        "courseId": "CVE.Z391",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "学士特定課題プロジェクト1c（土木・環境工学系）",
+        "id": "202007701",
+        "teachers": []
+    },
+    {
+        "courseId": "CVE.Z393",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "学士特定課題プロジェクト3c（土木・環境工学系）",
+        "id": "202007705",
+        "teachers": []
+    },
+    {
+        "courseId": "CVE.Z394",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "学士特定課題プロジェクト4c（土木・環境工学系）",
+        "id": "202007707",
+        "teachers": []
+    },
+    {
+        "courseId": "CVE.Z396",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "学士特定課題プロジェクト6c（土木・環境工学系）",
+        "id": "202007709",
+        "teachers": []
+    },
+    {
+        "courseId": "CVE.Z389",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "学士特定課題研究（土木・環境工学系）",
+        "id": "202017019",
+        "teachers": [
+            "各教員"
+        ]
+    },
+    {
+        "courseId": "CVE.Z381",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "研究プロジェクト（土木・環境工学系）",
+        "id": "202002664",
+        "teachers": []
+    },
+    {
+        "courseId": "CVE.Z391",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "学士特定課題プロジェクト1c（土木・環境工学系）",
+        "id": "202007702",
+        "teachers": []
+    },
+    {
+        "courseId": "CVE.Z392",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "学士特定課題プロジェクト2c（土木・環境工学系）",
+        "id": "202007704",
+        "teachers": []
+    },
+    {
+        "courseId": "CVE.Z393",
+        "courseDigit": 3,
+        "department": "土木・環境工学系",
+        "courseName": "学士特定課題プロジェクト3c（土木・環境工学系）",
+        "id": "202007706",
+        "teachers": []
+    }
+]

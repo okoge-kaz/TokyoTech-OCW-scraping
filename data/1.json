@@ -1,0 +1,680 @@
+[
+    {
+        "courseId": "MTH.B211",
+        "courseDigit": 2,
+        "department": "数学系",
+        "courseName": "幾何学概論第一",
+        "id": "202007019",
+        "teachers": [
+            "山田 光太郎"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "PHY.Q207",
+        "courseDigit": 2,
+        "department": "数学系",
+        "courseName": "量子力学入門(講義）",
+        "id": "202001721",
+        "teachers": [
+            "伊藤 克司"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.B212",
+        "courseDigit": 2,
+        "department": "数学系",
+        "courseName": "幾何学概論第二",
+        "id": "202007020",
+        "teachers": [
+            "山田 光太郎"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.B201",
+        "courseDigit": 2,
+        "department": "数学系",
+        "courseName": "位相空間論第一",
+        "id": "202007005",
+        "teachers": [
+            "KALMAN TAMAS",
+            "橋本 義規"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.U212",
+        "courseDigit": 2,
+        "department": "数学系",
+        "courseName": "基礎工業数学第一b",
+        "id": "202007040",
+        "teachers": [
+            "滝口 孝志"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.U211",
+        "courseDigit": 2,
+        "department": "数学系",
+        "courseName": "基礎工業数学第一a",
+        "id": "202007039",
+        "teachers": [
+            "滝口 孝志"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.A204",
+        "courseDigit": 2,
+        "department": "数学系",
+        "courseName": "代数学概論第四",
+        "id": "202007012",
+        "teachers": [
+            "谷田川 友里",
+            "KELLY SHANE ANDREW",
+            "染川 睦郎"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "PHY.Q206",
+        "courseDigit": 2,
+        "department": "数学系",
+        "courseName": "解析力学(講義）",
+        "id": "202001720",
+        "teachers": [
+            "山口 昌英"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.U213",
+        "courseDigit": 2,
+        "department": "数学系",
+        "courseName": "基礎工業数学第二a",
+        "id": "202007041",
+        "teachers": [
+            "滝口 孝志"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.C201",
+        "courseDigit": 2,
+        "department": "数学系",
+        "courseName": "解析学概論第一",
+        "id": "202007013",
+        "teachers": [
+            "隠居 良行",
+            "三浦 達哉"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.B203",
+        "courseDigit": 2,
+        "department": "数学系",
+        "courseName": "位相空間論第三",
+        "id": "202007007",
+        "teachers": [
+            "五味 清紀",
+            "正井 秀俊"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.C203",
+        "courseDigit": 2,
+        "department": "数学系",
+        "courseName": "解析学概論第三",
+        "id": "202007015",
+        "teachers": [
+            "隠居 良行",
+            "三浦 達哉"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.A201",
+        "courseDigit": 2,
+        "department": "数学系",
+        "courseName": "代数学概論第一",
+        "id": "202007009",
+        "teachers": [
+            "内藤 聡",
+            "染川 睦郎",
+            "皆川 龍博"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.B204",
+        "courseDigit": 2,
+        "department": "数学系",
+        "courseName": "位相空間論第四",
+        "id": "202007008",
+        "teachers": [
+            "五味 清紀",
+            "正井 秀俊"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.C202",
+        "courseDigit": 2,
+        "department": "数学系",
+        "courseName": "解析学概論第二",
+        "id": "202007014",
+        "teachers": [
+            "隠居 良行",
+            "三浦 達哉"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.A212",
+        "courseDigit": 2,
+        "department": "数学系",
+        "courseName": "線形空間論第二",
+        "id": "202007018",
+        "teachers": [
+            "水本 信一郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.C204",
+        "courseDigit": 2,
+        "department": "数学系",
+        "courseName": "解析学概論第四",
+        "id": "202007016",
+        "teachers": [
+            "隠居 良行",
+            "三浦 達哉"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.A211",
+        "courseDigit": 2,
+        "department": "数学系",
+        "courseName": "線形空間論第一",
+        "id": "202007017",
+        "teachers": [
+            "水本 信一郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.U214",
+        "courseDigit": 2,
+        "department": "数学系",
+        "courseName": "基礎工業数学第二b",
+        "id": "202007042",
+        "teachers": [
+            "滝口 孝志"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.B202",
+        "courseDigit": 2,
+        "department": "数学系",
+        "courseName": "位相空間論第二",
+        "id": "202007006",
+        "teachers": [
+            "KALMAN TAMAS",
+            "橋本 義規"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.C211",
+        "courseDigit": 2,
+        "department": "数学系",
+        "courseName": "応用解析序論第一",
+        "id": "202007021",
+        "teachers": [
+            "利根川 吉廣"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.A203",
+        "courseDigit": 2,
+        "department": "数学系",
+        "courseName": "代数学概論第三",
+        "id": "202007011",
+        "teachers": [
+            "内藤 聡",
+            "KELLY SHANE ANDREW",
+            "染川 睦郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.C212",
+        "courseDigit": 2,
+        "department": "数学系",
+        "courseName": "応用解析序論第二",
+        "id": "202007022",
+        "teachers": [
+            "利根川 吉廣"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.A202",
+        "courseDigit": 2,
+        "department": "数学系",
+        "courseName": "代数学概論第二",
+        "id": "202007010",
+        "teachers": [
+            "内藤 聡",
+            "染川 睦郎",
+            "皆川 龍博"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.B331",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "幾何学続論",
+        "id": "202007028",
+        "teachers": [
+            "服部 俊昭"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.C351",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "函数解析",
+        "id": "202007036",
+        "teachers": [
+            "小野寺 有紹"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.C305",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "実解析第一",
+        "id": "202007029",
+        "teachers": [
+            "利根川 吉廣"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.C301",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "複素解析第一",
+        "id": "202007031",
+        "teachers": [
+            "藤川 英華"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.C331",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "複素解析続論",
+        "id": "202007033",
+        "teachers": [
+            "藤川 英華"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.B341",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "位相幾何学",
+        "id": "202007038",
+        "teachers": [
+            "遠藤 久顕"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.Z381",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "研究プロジェクト（数学系）",
+        "id": "202000573",
+        "teachers": [],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.C341",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "微分方程式概論第一",
+        "id": "202007034",
+        "teachers": [
+            "二宮 祥一"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.C361",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "確率論",
+        "id": "202007037",
+        "teachers": [
+            "二宮 祥一"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.Z374",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "学士特定課題プロジェクトS4c（数学系）",
+        "id": "202027730",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.C306",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "実解析第二",
+        "id": "202007030",
+        "teachers": [
+            "利根川 吉廣"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.B301",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "幾何学第一",
+        "id": "202007026",
+        "teachers": [
+            "本多 宣博"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.B302",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "幾何学第二",
+        "id": "202007027",
+        "teachers": [
+            "本多 宣博"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.A302",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "代数学第二",
+        "id": "202007024",
+        "teachers": [
+            "KELLY SHANE ANDREW",
+            "若林 泰央"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.C342",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "微分方程式概論第二",
+        "id": "202007035",
+        "teachers": [
+            "二宮 祥一"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.A331",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "代数学続論",
+        "id": "202007025",
+        "teachers": [
+            "田口 雄一郎"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.Z385",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "数学先端研究基礎",
+        "id": "202023534",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.Z391",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "学士特定課題プロジェクト1c（数学系）",
+        "id": "202007552",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.A301",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "代数学第一",
+        "id": "202007023",
+        "teachers": [
+            "KELLY SHANE ANDREW",
+            "若林 泰央"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.C302",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "複素解析第二",
+        "id": "202007032",
+        "teachers": [
+            "柳田 英二"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MTH.Z372",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "学士特定課題プロジェクトS2c（数学系）",
+        "id": "202027726",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.Z373",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "学士特定課題プロジェクトS3c（数学系）",
+        "id": "202027728",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.Z389",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "学士特定課題研究（数学系）",
+        "id": "202007550",
+        "teachers": [
+            "各教員"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.Z385",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "数学先端研究基礎",
+        "id": "202023533",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.Z371",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "学士特定課題プロジェクトS1c（数学系）",
+        "id": "202027725",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.Z372",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "学士特定課題プロジェクトS2c（数学系）",
+        "id": "202027727",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.Z392",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "学士特定課題プロジェクト2c（数学系）",
+        "id": "202007553",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.Z394",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "学士特定課題プロジェクト4c（数学系）",
+        "id": "202007557",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.Z396",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "学士特定課題プロジェクト6c（数学系）",
+        "id": "202007559",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.Z389",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "学士特定課題研究（数学系）",
+        "id": "202017325",
+        "teachers": [
+            "各教員"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.Z393",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "学士特定課題プロジェクト3c（数学系）",
+        "id": "202007556",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.Z381",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "研究プロジェクト（数学系）",
+        "id": "202000572",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.Z371",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "学士特定課題プロジェクトS1c（数学系）",
+        "id": "202027724",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.Z375",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "学士特定課題プロジェクトS5c（数学系）",
+        "id": "202027731",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.Z376",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "学士特定課題プロジェクトS6c（数学系）",
+        "id": "202027732",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.Z373",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "学士特定課題プロジェクトS3c（数学系）",
+        "id": "202027729",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.Z391",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "学士特定課題プロジェクト1c（数学系）",
+        "id": "202007551",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.Z393",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "学士特定課題プロジェクト3c（数学系）",
+        "id": "202007555",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.Z395",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "学士特定課題プロジェクト5c（数学系）",
+        "id": "202007558",
+        "teachers": [],
+        "isExist": false
+    },
+    {
+        "courseId": "MTH.Z392",
+        "courseDigit": 3,
+        "department": "数学系",
+        "courseName": "学士特定課題プロジェクト2c（数学系）",
+        "id": "202007554",
+        "teachers": [],
+        "isExist": false
+    }
+]

@@ -1,0 +1,1302 @@
+[
+    {
+        "courseId": "MEC.M231",
+        "courseDigit": 2,
+        "department": "機械系",
+        "courseName": "宇宙工学基礎",
+        "id": "202001869",
+        "teachers": [
+            "松永 三郎",
+            "古谷 寛",
+            "中条 俊大",
+            "小笠原 宏"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MEC.A201",
+        "courseDigit": 2,
+        "department": "機械系",
+        "courseName": "工業力学 A",
+        "id": "202001820",
+        "teachers": [
+            "岡田 昌史",
+            "吉岡 勇人"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.H211",
+        "courseDigit": 2,
+        "department": "機械系",
+        "courseName": "機械要素設計",
+        "id": "202001905",
+        "teachers": [
+            "武田 行生",
+            "山浦 弘",
+            "松村 茂樹",
+            "村上 陽一",
+            "小林 恒",
+            "松浦 大輔"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.H212",
+        "courseDigit": 2,
+        "department": "機械系",
+        "courseName": "機械設計製図基礎 A",
+        "id": "202001845",
+        "teachers": [
+            "轟 章",
+            "水谷 義弘",
+            "青野 祐子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.I211",
+        "courseDigit": 2,
+        "department": "機械系",
+        "courseName": "ロボット機構学",
+        "id": "202001889",
+        "teachers": [
+            "武田 行生",
+            "鈴森 康一",
+            "菅原 雄介"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MEC.H231",
+        "courseDigit": 2,
+        "department": "機械系",
+        "courseName": "デザイン工学",
+        "id": "202001887",
+        "teachers": [
+            "齊藤 滋規",
+            "葭田 貴子",
+            "因幡 和晃",
+            "田岡 祐樹"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MEC.C211",
+        "courseDigit": 2,
+        "department": "機械系",
+        "courseName": "弾塑性力学 A",
+        "id": "202001837",
+        "teachers": [
+            "井上 裕嗣",
+            "水谷 義弘"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MEC.Q201",
+        "courseDigit": 2,
+        "department": "機械系",
+        "courseName": "機械システム学",
+        "id": "202011236",
+        "teachers": [
+            "赤坂 大樹",
+            "高原 弘樹",
+            "伏信 一慶",
+            "佐藤 千明",
+            "吉田 和弘",
+            "八木 透",
+            "長崎 孝夫",
+            "三浦 智",
+            "池田 生馬",
+            "田中 真二",
+            "難波江 裕之",
+            "遠藤 玄",
+            "高山 俊男",
+            "黒川 悠",
+            "荒木 裕次",
+            "矢部 昇",
+            "潘 剛毅",
+            "梅田 光",
+            "谷川 優一郎",
+            "西本 篤史",
+            "山田 健太郎",
+            "石原 聡仁",
+            "大久保 尚浩"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MEC.C201",
+        "courseDigit": 2,
+        "department": "機械系",
+        "courseName": "材料力学",
+        "id": "202001822",
+        "teachers": [
+            "轟 章",
+            "阪口 基己",
+            "黒川 悠",
+            "鈴木 良郎"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MEC.D201",
+        "courseDigit": 2,
+        "department": "機械系",
+        "courseName": "機械力学 A",
+        "id": "202001901",
+        "teachers": [
+            "大熊 政明",
+            "岩附 信行",
+            "山浦 弘",
+            "松村 茂樹",
+            "中野 寛",
+            "高原 弘樹"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MEC.B232",
+        "courseDigit": 2,
+        "department": "機械系",
+        "courseName": "基礎数値計算法",
+        "id": "202001852",
+        "teachers": [
+            "長崎 孝夫",
+            "肖 鋒"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MEC.B231",
+        "courseDigit": 2,
+        "department": "機械系",
+        "courseName": "確率・統計",
+        "id": "202001853",
+        "teachers": [
+            "阪口 基己",
+            "志村 祐康"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "EEE.G291",
+        "courseDigit": 2,
+        "department": "機械系",
+        "courseName": "エレクトロニクスの基礎",
+        "id": "202002727",
+        "teachers": [
+            "宮本 恭幸"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.P211",
+        "courseDigit": 2,
+        "department": "機械系",
+        "courseName": "機械系基礎実験 B",
+        "id": "202001849",
+        "teachers": [
+            "桃園 聡",
+            "池田 生馬",
+            "水谷 義弘",
+            "黒川 悠",
+            "川口 達也",
+            "兒玉 学",
+            "関口 悠",
+            "嚴 祥仁",
+            "寳積 勉",
+            "杉田 直広",
+            "山田 哲也",
+            "舛屋 賢",
+            "松下 真太郎",
+            "高橋 秀治"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MEC.F211",
+        "courseDigit": 2,
+        "department": "機械系",
+        "courseName": "実在流体力学",
+        "id": "202001898",
+        "teachers": [
+            "青木 尊之",
+            "店橋 護",
+            "肖 鋒",
+            "志村 祐康",
+            "源 勇気"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MEC.P211",
+        "courseDigit": 2,
+        "department": "機械系",
+        "courseName": "機械系基礎実験 C",
+        "id": "202030511",
+        "teachers": [
+            "桃園 聡",
+            "池田 生馬",
+            "水谷 義弘",
+            "黒川 悠",
+            "川口 達也",
+            "寳積 勉",
+            "高橋 秀治",
+            "松下 真太郎",
+            "舛屋 賢",
+            "山田 哲也",
+            "杉田 直広",
+            "関口 悠",
+            "兒玉 学",
+            "嚴 祥仁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.B213",
+        "courseDigit": 2,
+        "department": "機械系",
+        "courseName": "偏微分方程式",
+        "id": "202001835",
+        "teachers": [
+            "奥野 喜裕",
+            "青野 祐子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.K231",
+        "courseDigit": 2,
+        "department": "機械系",
+        "courseName": "基礎情報処理及び演習（機械）",
+        "id": "202001865",
+        "teachers": [
+            "青木 尊之",
+            "田中 智久",
+            "肖 鋒"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.B214",
+        "courseDigit": 2,
+        "department": "機械系",
+        "courseName": "ベクトル解析",
+        "id": "202001833",
+        "teachers": [
+            "長谷川 純",
+            "笹部 崇",
+            "店橋 護"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.B212",
+        "courseDigit": 2,
+        "department": "機械系",
+        "courseName": "複素関数論",
+        "id": "202001829",
+        "teachers": [
+            "山本 貴富喜",
+            "末包 哲也"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.B211",
+        "courseDigit": 2,
+        "department": "機械系",
+        "courseName": "常微分方程式",
+        "id": "202001831",
+        "teachers": [
+            "山崎 敬久",
+            "吉田 和弘"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.H201",
+        "courseDigit": 2,
+        "department": "機械系",
+        "courseName": "機械要素及び機械製図",
+        "id": "202001826",
+        "teachers": [
+            "野崎 智洋",
+            "中川 佑貴",
+            "古谷 寛",
+            "安井 位夫",
+            "山崎 敬久",
+            "吉岡 勇人",
+            "寳積 勉"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.G211",
+        "courseDigit": 2,
+        "department": "機械系",
+        "courseName": "機械材料工学",
+        "id": "202001903",
+        "teachers": [
+            "吉野 雅彦",
+            "赤坂 大樹",
+            "山本 貴富喜",
+            "山崎 敬久",
+            "青野 祐子"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MEC.D231",
+        "courseDigit": 2,
+        "department": "機械系",
+        "courseName": "解析力学基礎（機械）",
+        "id": "202001858",
+        "teachers": [
+            "高原 弘樹"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MEC.P211",
+        "courseDigit": 2,
+        "department": "機械系",
+        "courseName": "機械系基礎実験 A",
+        "id": "202001848",
+        "teachers": [
+            "桃園 聡",
+            "水谷 義弘",
+            "池田 生馬",
+            "黒川 悠",
+            "川口 達也",
+            "舛屋 賢",
+            "松下 真太郎",
+            "関口 悠",
+            "兒玉 学",
+            "嚴 祥仁",
+            "寳積 勉",
+            "杉田 直広",
+            "山田 哲也",
+            "高橋 秀治"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MEC.F201",
+        "courseDigit": 2,
+        "department": "機械系",
+        "courseName": "基礎流体力学",
+        "id": "202001895",
+        "teachers": [
+            "花村 克悟",
+            "末包 哲也",
+            "店橋 護",
+            "肖 鋒",
+            "青木 尊之"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MEC.P212",
+        "courseDigit": 2,
+        "department": "機械系",
+        "courseName": "機械系応用実験 A",
+        "id": "202001850",
+        "teachers": [
+            "桃園 聡",
+            "水谷 義弘",
+            "池田 生馬",
+            "黒川 悠",
+            "川口 達也",
+            "兒玉 学",
+            "嚴 祥仁",
+            "関口 悠"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.E201",
+        "courseDigit": 2,
+        "department": "機械系",
+        "courseName": "熱力学（機械） A",
+        "id": "202001906",
+        "teachers": [
+            "村上 陽一",
+            "平井 秀一郎",
+            "長崎 孝夫",
+            "大河 誠司"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.A201",
+        "courseDigit": 2,
+        "department": "機械系",
+        "courseName": "工業力学 B",
+        "id": "202001821",
+        "teachers": [
+            "土方 亘"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.H212",
+        "courseDigit": 2,
+        "department": "機械系",
+        "courseName": "機械設計製図基礎 B",
+        "id": "202001846",
+        "teachers": [
+            "轟 章",
+            "水谷 義弘",
+            "青野 祐子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.C211",
+        "courseDigit": 2,
+        "department": "機械系",
+        "courseName": "弾塑性力学 B",
+        "id": "202001838",
+        "teachers": [
+            "井上 裕嗣",
+            "水谷 義弘"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.N331",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "自動車技術",
+        "id": "202001874",
+        "teachers": [
+            "花村 克悟",
+            "木崎 幹士",
+            "浅見 良和",
+            "金田 亮",
+            "栗原 卓也",
+            "平田 耕一",
+            "中川 崇",
+            "三浦 光博",
+            "濱口 剛",
+            "高橋 智史",
+            "星原 光太郞",
+            "澤本 晃一",
+            "前澤 俊樹",
+            "吉岡 良",
+            "立松 孝徳"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MEC.M332",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "宇宙システムプロジェクト",
+        "id": "202001871",
+        "teachers": [
+            "松永 三郎",
+            "中西 洋喜",
+            "中条 俊大"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.H331",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "機械設計製図",
+        "id": "202001867",
+        "teachers": [
+            "大河 誠司",
+            "平田 敦",
+            "赤坂 大樹",
+            "平田 祐樹",
+            "未定"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.I311",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "計測工学基礎",
+        "id": "202001841",
+        "teachers": [
+            "吉岡 勇人",
+            "八木 透"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "TSE.A311",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "原子核工学概論",
+        "id": "202002719",
+        "teachers": [
+            "小原 徹",
+            "小栗 慶之",
+            "飯尾 俊二",
+            "赤塚 洋",
+            "木倉 宏成",
+            "片渕 竜也"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MEC.M331",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "宇宙システム工学",
+        "id": "202001870",
+        "teachers": [
+            "古谷 寛",
+            "松永 三郎",
+            "中条 俊大",
+            "津田 雄一"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.I312",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "モデリングと制御 A",
+        "id": "202001842",
+        "teachers": [
+            "山浦 弘",
+            "吉岡 勇人",
+            "小俣 透"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.M334",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "航空工学概論",
+        "id": "202001872",
+        "teachers": [
+            "井上 剛良",
+            "田頭 剛",
+            "佐々 修一",
+            "原田 正志",
+            "中北 和之",
+            "森 晶彦",
+            "平野 義鎭"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MEC.F331",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "応用流体力学",
+        "id": "202001900",
+        "teachers": [
+            "吉田 和弘",
+            "木倉 宏成",
+            "近藤 正聡"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MEC.Q310",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "機械工作実習と安全",
+        "id": "202012780",
+        "teachers": [
+            "赤坂 大樹",
+            "木倉 宏成",
+            "吉岡 勇人",
+            "朱 疆",
+            "平田 敦",
+            "青野 祐子",
+            "安井 位夫",
+            "関口 悠"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.E311",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "伝熱学 A",
+        "id": "202001891",
+        "teachers": [
+            "井上 剛良",
+            "齊藤 卓志",
+            "岡村 哲至",
+            "野崎 智洋"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.C331",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "材料強度学（機械）",
+        "id": "202001857",
+        "teachers": [
+            "佐藤 千明",
+            "轟 章",
+            "水谷 義弘",
+            "黒川 悠",
+            "鈴木 良郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.Q301",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "機械システムデザイン",
+        "id": "202001825",
+        "teachers": [
+            "八木 透",
+            "赤坂 大樹",
+            "伏信 一慶",
+            "坂本 啓",
+            "齊藤 卓志",
+            "小俣 透",
+            "進士 忠彦",
+            "柳田 保子",
+            "村上 陽一",
+            "澤田 哲生",
+            "渡部 弘達"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.J333",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "トライボロジーの基礎",
+        "id": "202001866",
+        "teachers": [
+            "田中 智久",
+            "大竹 尚登",
+            "平田 敦",
+            "田中 真二"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.J311",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "精密機械基礎学 B",
+        "id": "202001909",
+        "teachers": [
+            "進士 忠彦",
+            "吉岡 勇人",
+            "土方 亘"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.P331",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "機械系発展実験",
+        "id": "202001875",
+        "teachers": [
+            "水谷 義弘",
+            "鈴木 良郎",
+            "難波江 裕之",
+            "中野 寛",
+            "源 勇気",
+            "中川 佑貴",
+            "鈴木 祐二",
+            "渡部 弘達"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.Z381",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "研究プロジェクト（機械系）",
+        "id": "202001913",
+        "teachers": [
+            "大河 誠司",
+            "遠藤 玄",
+            "青野 祐子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.B332",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "応用数値計算法",
+        "id": "202001855",
+        "teachers": [
+            "花村 克悟"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.I331",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "メカトロニクス工学（機械）",
+        "id": "202001888",
+        "teachers": [
+            "鈴森 康一",
+            "岩附 信行",
+            "遠藤 玄"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MEC.Z381",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "研究プロジェクト（機械系）",
+        "id": "202001914",
+        "teachers": [
+            "大河 誠司",
+            "青野 祐子",
+            "遠藤 玄"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MEC.Z389",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "学士特定課題研究（機械系）",
+        "id": "202017492",
+        "teachers": [
+            "各教員",
+            "中西 洋喜",
+            "山崎 敬久"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MEC.M333",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "宇宙開発工学",
+        "id": "202001897",
+        "teachers": [
+            "岩田 隆敬",
+            "野田 篤司",
+            "小澤 悟",
+            "内海 政春",
+            "松永 三郎"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MEC.I334",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "ロボット技術",
+        "id": "202001862",
+        "teachers": [
+            "武田 行生",
+            "菅原 雄介",
+            "只野 耕太郎",
+            "土方 亘",
+            "松本 治",
+            "谷川 民生",
+            "安藤 慶昭",
+            "佐藤 雄隆",
+            "小関 義彦",
+            "金広 文男",
+            "加藤 晋",
+            "有隅 仁",
+            "田中 英一郎",
+            "神村 明哉",
+            "村上 弘記"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.B333",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "スペクトル解析",
+        "id": "202001856",
+        "teachers": [
+            "大熊 政明"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.L332",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "機器の設計と脳科学",
+        "id": "202017529",
+        "teachers": [
+            "葭田 貴子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.D311",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "振動解析学 A",
+        "id": "202001839",
+        "teachers": [
+            "大熊 政明",
+            "山浦 弘",
+            "高原 弘樹",
+            "松村 茂樹",
+            "中野 寛"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.I333",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "ロボットの力学と制御",
+        "id": "202001861",
+        "teachers": [
+            "岡田 昌史"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MEC.K331",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "CAE概論",
+        "id": "202001885",
+        "teachers": [
+            "大熊 政明",
+            "高原 弘樹",
+            "伏信 一慶",
+            "肖 鋒",
+            "田中 真二",
+            "和崎 知紀"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.K332",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "有限要素法",
+        "id": "202001847",
+        "teachers": [
+            "吉野 雅彦",
+            "中野 寛",
+            "大熊 政明"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.Q301",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "機械システムデザイン",
+        "id": "202030563",
+        "teachers": [
+            "八木 透",
+            "赤坂 大樹",
+            "伏信 一慶",
+            "坂本 啓",
+            "齊藤 卓志",
+            "小俣 透",
+            "進士 忠彦",
+            "柳田 保子",
+            "村上 陽一",
+            "澤田 哲生",
+            "渡部 弘達"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MEC.L331",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "生体工学基礎",
+        "id": "202001859",
+        "teachers": [
+            "八木 透",
+            "葭田 貴子",
+            "田中 博人"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.J331",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "マイクロ・ナノ加工基礎",
+        "id": "202001863",
+        "teachers": [
+            "金 俊完",
+            "進士 忠彦",
+            "山本 貴富喜",
+            "西迫 貴志",
+            "初澤 毅"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.Z372",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "学士特定課題プロジェクトS2c（機械系）",
+        "id": "202027717",
+        "teachers": [
+            "中西 洋喜",
+            "山崎 敬久"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.Z372",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "学士特定課題プロジェクトS2c（機械系）",
+        "id": "202027718",
+        "teachers": [
+            "中西 洋喜",
+            "山崎 敬久"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.B331",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "信号処理基礎",
+        "id": "202001854",
+        "teachers": [
+            "大河 誠司",
+            "佐藤 千明"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.Z389",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "学士特定課題研究（機械系）",
+        "id": "202007590",
+        "teachers": [
+            "中西 洋喜",
+            "山崎 敬久"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.G311",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "加工学概論",
+        "id": "202001893",
+        "teachers": [
+            "平田 敦",
+            "赤坂 大樹",
+            "大竹 尚登",
+            "山本 貴富喜",
+            "山崎 敬久",
+            "佐藤 千明",
+            "吉野 雅彦",
+            "田中 智久",
+            "青野 祐子"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MEC.I332",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "メカトロニクス演習",
+        "id": "202001860",
+        "teachers": [
+            "金 俊完",
+            "石田 忠",
+            "小俣 透",
+            "高山 俊男"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MEC.E331",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "エネルギー変換工学",
+        "id": "202011975",
+        "teachers": [
+            "平井 秀一郎",
+            "小酒 英範",
+            "奥野 喜裕",
+            "伏信 一慶",
+            "未定"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "MEC.E311",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "伝熱学 B",
+        "id": "202001892",
+        "teachers": [
+            "岡村 哲至",
+            "野崎 智洋"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.Z374",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "学士特定課題プロジェクトS4c（機械系）",
+        "id": "202027721",
+        "teachers": [
+            "山崎 敬久",
+            "中西 洋喜"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.Z375",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "学士特定課題プロジェクトS5c（機械系）",
+        "id": "202027722",
+        "teachers": [
+            "山崎 敬久",
+            "中西 洋喜"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.Z376",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "学士特定課題プロジェクトS6c（機械系）",
+        "id": "202027723",
+        "teachers": [
+            "山崎 敬久",
+            "中西 洋喜"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.I312",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "モデリングと制御 B",
+        "id": "202001843",
+        "teachers": [
+            "小俣 透",
+            "只野 耕太郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.Z395",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "学士特定課題プロジェクト5c（機械系）",
+        "id": "202007598",
+        "teachers": [
+            "山崎 敬久",
+            "中西 洋喜"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.Z391",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "学士特定課題プロジェクト1c（機械系）",
+        "id": "202007592",
+        "teachers": [
+            "山崎 敬久",
+            "中西 洋喜"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.Z393",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "学士特定課題プロジェクト3c（機械系）",
+        "id": "202007596",
+        "teachers": [
+            "中西 洋喜",
+            "山崎 敬久"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.J311",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "精密機械基礎学 A",
+        "id": "202001908",
+        "teachers": [
+            "進士 忠彦",
+            "吉岡 勇人",
+            "土方 亘"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.D311",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "振動解析学 B",
+        "id": "202001840",
+        "teachers": [
+            "大熊 政明",
+            "山浦 弘",
+            "高原 弘樹",
+            "松村 茂樹",
+            "中野 寛"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.Z371",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "学士特定課題プロジェクトS1c（機械系）",
+        "id": "202027716",
+        "teachers": [
+            "中西 洋喜",
+            "山崎 敬久"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.Z373",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "学士特定課題プロジェクトS3c（機械系）",
+        "id": "202027720",
+        "teachers": [
+            "中西 洋喜",
+            "山崎 敬久"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.Z391",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "学士特定課題プロジェクト1c（機械系）",
+        "id": "202007591",
+        "teachers": [
+            "山崎 敬久",
+            "中西 洋喜"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.Z392",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "学士特定課題プロジェクト2c（機械系）",
+        "id": "202007593",
+        "teachers": [
+            "山崎 敬久",
+            "中西 洋喜"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.Z393",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "学士特定課題プロジェクト3c（機械系）",
+        "id": "202007595",
+        "teachers": [
+            "山崎 敬久",
+            "中西 洋喜"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.Z396",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "学士特定課題プロジェクト6c（機械系）",
+        "id": "202007599",
+        "teachers": [
+            "山崎 敬久",
+            "中西 洋喜"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.Z392",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "学士特定課題プロジェクト2c（機械系）",
+        "id": "202007594",
+        "teachers": [
+            "山崎 敬久",
+            "中西 洋喜"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.J332",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "精密測定学",
+        "id": "202001864",
+        "teachers": [
+            "初澤 毅",
+            "原 精一郎",
+            "只野 耕太郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.Z371",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "学士特定課題プロジェクトS1c（機械系）",
+        "id": "202027715",
+        "teachers": [
+            "中西 洋喜",
+            "山崎 敬久"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.Z373",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "学士特定課題プロジェクトS3c（機械系）",
+        "id": "202027719",
+        "teachers": [
+            "山崎 敬久",
+            "中西 洋喜"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "MEC.Z394",
+        "courseDigit": 3,
+        "department": "機械系",
+        "courseName": "学士特定課題プロジェクト4c（機械系）",
+        "id": "202007597",
+        "teachers": [
+            "山崎 敬久",
+            "中西 洋喜"
+        ],
+        "isExist": false
+    }
+]

@@ -1,0 +1,620 @@
+[
+    {
+        "courseId": "SCE.C201",
+        "courseDigit": 2,
+        "department": "システム制御系",
+        "courseName": "動的システム基礎",
+        "id": "202001943",
+        "teachers": [
+            "井村 順一"
+        ]
+    },
+    {
+        "courseId": "SCE.S202",
+        "courseDigit": 2,
+        "department": "システム制御系",
+        "courseName": "組込システム基礎",
+        "id": "202001938",
+        "teachers": [
+            "大山 真司",
+            "原 精一郎",
+            "土田 崇弘",
+            "長澤 剛"
+        ]
+    },
+    {
+        "courseId": "SCE.E202",
+        "courseDigit": 2,
+        "department": "システム制御系",
+        "courseName": "基礎情報処理及び演習（システム制御）",
+        "id": "202001944",
+        "teachers": [
+            "山北 昌毅",
+            "石崎 孝幸",
+            "紋野 雄介"
+        ]
+    },
+    {
+        "courseId": "SCE.C202",
+        "courseDigit": 2,
+        "department": "システム制御系",
+        "courseName": "フィードバック制御",
+        "id": "202001935",
+        "teachers": [
+            "藤田 政之",
+            "畑中 健志"
+        ]
+    },
+    {
+        "courseId": "SCE.S201",
+        "courseDigit": 2,
+        "department": "システム制御系",
+        "courseName": "メカトロニクス設計概論",
+        "id": "202001946",
+        "teachers": [
+            "山北 昌毅",
+            "小酒 英範",
+            "小川 秀樹"
+        ]
+    },
+    {
+        "courseId": "SCE.I202",
+        "courseDigit": 2,
+        "department": "システム制御系",
+        "courseName": "不規則信号処理",
+        "id": "202001940",
+        "teachers": [
+            "田中 正行"
+        ]
+    },
+    {
+        "courseId": "SCE.P201",
+        "courseDigit": 2,
+        "department": "システム制御系",
+        "courseName": "システム創造設計",
+        "id": "202001947",
+        "teachers": [
+            "塚越 秀行",
+            "天谷 賢治",
+            "井村 順一",
+            "奥冨 正敏",
+            "倉林 大輔",
+            "小酒 英範",
+            "三平 満司",
+            "中島 求",
+            "蜂屋 弘之",
+            "藤田 政之",
+            "早川 朋久",
+            "田中 正行",
+            "中尾 裕也",
+            "原 精一郎",
+            "山北 昌毅",
+            "宮崎 祐介",
+            "大山 真司",
+            "大西 有希",
+            "石崎 孝幸",
+            "鳥居 秋彦",
+            "土田 崇弘",
+            "佐藤 進",
+            "中野 隆",
+            "伊吹 竜也",
+            "平田 慎之介",
+            "山内 淳矢",
+            "長澤 剛"
+        ]
+    },
+    {
+        "courseId": "SCE.Z281",
+        "courseDigit": 2,
+        "department": "システム制御系",
+        "courseName": "B2D研究基礎a（システム制御系）",
+        "id": "202027900",
+        "teachers": [
+            "倉林 大輔"
+        ]
+    },
+    {
+        "courseId": "SCE.E201",
+        "courseDigit": 2,
+        "department": "システム制御系",
+        "courseName": "電気回路基礎",
+        "id": "202001939",
+        "teachers": [
+            "西田 健次"
+        ]
+    },
+    {
+        "courseId": "SCE.I201",
+        "courseDigit": 2,
+        "department": "システム制御系",
+        "courseName": "計測・信号処理基礎",
+        "id": "202001933",
+        "teachers": [
+            "蜂屋 弘之"
+        ]
+    },
+    {
+        "courseId": "SCE.A202",
+        "courseDigit": 2,
+        "department": "システム制御系",
+        "courseName": "システム制御数学Ｂ",
+        "id": "202001937",
+        "teachers": [
+            "小酒 英範"
+        ]
+    },
+    {
+        "courseId": "SCE.S203",
+        "courseDigit": 2,
+        "department": "システム制御系",
+        "courseName": "ロボットの機構と力学",
+        "id": "202001945",
+        "teachers": [
+            "山北 昌毅",
+            "塚越 秀行"
+        ]
+    },
+    {
+        "courseId": "SCE.A201",
+        "courseDigit": 2,
+        "department": "システム制御系",
+        "courseName": "システム制御数学Ａ",
+        "id": "202001936",
+        "teachers": [
+            "早川 朋久"
+        ]
+    },
+    {
+        "courseId": "SCE.I203",
+        "courseDigit": 2,
+        "department": "システム制御系",
+        "courseName": "デジタル信号処理",
+        "id": "202001941",
+        "teachers": [
+            "原 精一郎"
+        ]
+    },
+    {
+        "courseId": "SCE.M201",
+        "courseDigit": 2,
+        "department": "システム制御系",
+        "courseName": "機械の運動と力学",
+        "id": "202001934",
+        "teachers": [
+            "中島 求"
+        ]
+    },
+    {
+        "courseId": "SCE.M202",
+        "courseDigit": 2,
+        "department": "システム制御系",
+        "courseName": "解析力学基礎（システム制御）",
+        "id": "202001942",
+        "teachers": [
+            "中尾 裕也"
+        ]
+    },
+    {
+        "courseId": "SCE.P301",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "システム創造プロジェクト",
+        "id": "202001932",
+        "teachers": [
+            "佐藤 進",
+            "石崎 孝幸",
+            "早川 朋久",
+            "倉林 大輔",
+            "倉元 昭季"
+        ]
+    },
+    {
+        "courseId": "SCE.M306",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "熱エネルギー変換学",
+        "id": "202007525",
+        "teachers": [
+            "佐藤 進"
+        ]
+    },
+    {
+        "courseId": "SCE.I351",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "先端センシングテクノロジー",
+        "id": "202001951",
+        "teachers": [
+            "金川 信康",
+            "古谷 利器",
+            "大山 真司"
+        ]
+    },
+    {
+        "courseId": "SCE.P351",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "システム制御インターンシップ",
+        "id": "202001963",
+        "teachers": [
+            "佐藤 進"
+        ]
+    },
+    {
+        "courseId": "SCE.P351",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "システム制御インターンシップ",
+        "id": "202001965",
+        "teachers": [
+            "佐藤 進"
+        ]
+    },
+    {
+        "courseId": "SCE.M301",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "連続体の力学",
+        "id": "202001953",
+        "teachers": [
+            "天谷 賢治",
+            "宮崎 祐介"
+        ]
+    },
+    {
+        "courseId": "SCE.S303",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "バイオシステム基礎",
+        "id": "202001961",
+        "teachers": [
+            "中島 求",
+            "倉林 大輔",
+            "塚越 秀行",
+            "宮崎 祐介",
+            "中臺 一博"
+        ]
+    },
+    {
+        "courseId": "SCE.M304",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "計算力学",
+        "id": "202001962",
+        "teachers": [
+            "天谷 賢治",
+            "宮崎 祐介"
+        ]
+    },
+    {
+        "courseId": "SCE.S351",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "ロボット・ビークルテクノロジー",
+        "id": "202001959",
+        "teachers": [
+            "小島 英樹",
+            "梶田 秀司",
+            "箕輪 利通",
+            "山中 浩二",
+            "塚越 秀行"
+        ]
+    },
+    {
+        "courseId": "SCE.I303",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "計測システム論",
+        "id": "202001971",
+        "teachers": [
+            "大山 真司"
+        ]
+    },
+    {
+        "courseId": "SCE.P351",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "システム制御インターンシップ",
+        "id": "202001964",
+        "teachers": [
+            "佐藤 進"
+        ]
+    },
+    {
+        "courseId": "SCE.E381",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "電磁アクチュエータ学",
+        "id": "202001948",
+        "teachers": [
+            "藤田 英明"
+        ]
+    },
+    {
+        "courseId": "SCE.C351",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "プロセス制御",
+        "id": "202001957",
+        "teachers": [
+            "綛田 長生",
+            "星野 毅夫",
+            "最上 博之",
+            "荒川 正裕",
+            "秋元 智",
+            "藤野 謙司",
+            "舩木 達也",
+            "稲垣 信",
+            "塚越 秀行"
+        ]
+    },
+    {
+        "courseId": "SCE.P351",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "システム制御インターンシップ",
+        "id": "202001966",
+        "teachers": [
+            "佐藤 進"
+        ]
+    },
+    {
+        "courseId": "SCE.M302",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "熱工学基礎",
+        "id": "202001954",
+        "teachers": [
+            "小酒 英範"
+        ]
+    },
+    {
+        "courseId": "SCE.Z381",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "研究プロジェクト（システム制御系）",
+        "id": "202001967",
+        "teachers": [
+            "蜂屋 弘之",
+            "宮崎 祐介",
+            "平田 慎之介",
+            "糸山 克寿",
+            "紋野 雄介",
+            "石崎 孝幸",
+            "鳥居 秋彦",
+            "大山 真司",
+            "原 精一郎"
+        ]
+    },
+    {
+        "courseId": "SCE.S302",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "システムの数理科学",
+        "id": "202001960",
+        "teachers": [
+            "石井 秀明",
+            "青西 亨",
+            "小野 功",
+            "高安 美佐子",
+            "瀧ノ上 正浩",
+            "出口 弘",
+            "三宅 美博",
+            "山村 雅幸"
+        ]
+    },
+    {
+        "courseId": "SCE.I301",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "画像センシング",
+        "id": "202001950",
+        "teachers": [
+            "奥冨 正敏"
+        ]
+    },
+    {
+        "courseId": "SCE.C302",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "システムモデリング",
+        "id": "202001956",
+        "teachers": [
+            "畑中 健志"
+        ]
+    },
+    {
+        "courseId": "SCE.S301",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "ロボットシステムと制御",
+        "id": "202001958",
+        "teachers": [
+            "倉林 大輔"
+        ]
+    },
+    {
+        "courseId": "SCE.Z389",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "学士特定課題研究（システム制御系）",
+        "id": "202016804",
+        "teachers": [
+            "各教員"
+        ]
+    },
+    {
+        "courseId": "SCE.M303",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "振動学",
+        "id": "202001952",
+        "teachers": [
+            "中尾 裕也"
+        ]
+    },
+    {
+        "courseId": "SCE.Z373",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "学士特定課題プロジェクトS3c（システム制御系）",
+        "id": "202027746",
+        "teachers": []
+    },
+    {
+        "courseId": "SCE.Z389",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "学士特定課題研究（システム制御系）",
+        "id": "202007600",
+        "teachers": [
+            "各教員"
+        ]
+    },
+    {
+        "courseId": "SCE.Z375",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "学士特定課題プロジェクトS5c（システム制御系）",
+        "id": "202027749",
+        "teachers": []
+    },
+    {
+        "courseId": "SCE.Z372",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "学士特定課題プロジェクトS2c（システム制御系）",
+        "id": "202027745",
+        "teachers": []
+    },
+    {
+        "courseId": "SCE.Z373",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "学士特定課題プロジェクトS3c（システム制御系）",
+        "id": "202027747",
+        "teachers": []
+    },
+    {
+        "courseId": "SCE.Z391",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "学士特定課題プロジェクト1c（システム制御系）",
+        "id": "202007602",
+        "teachers": []
+    },
+    {
+        "courseId": "SCE.Z393",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "学士特定課題プロジェクト3c（システム制御系）",
+        "id": "202007606",
+        "teachers": []
+    },
+    {
+        "courseId": "SCE.C301",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "線形システム制御論",
+        "id": "202001970",
+        "teachers": [
+            "三平 満司"
+        ]
+    },
+    {
+        "courseId": "SCE.Z371",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "学士特定課題プロジェクトS1c（システム制御系）",
+        "id": "202027742",
+        "teachers": []
+    },
+    {
+        "courseId": "SCE.Z372",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "学士特定課題プロジェクトS2c（システム制御系）",
+        "id": "202027744",
+        "teachers": []
+    },
+    {
+        "courseId": "SCE.Z374",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "学士特定課題プロジェクトS4c（システム制御系）",
+        "id": "202027748",
+        "teachers": []
+    },
+    {
+        "courseId": "SCE.Z376",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "学士特定課題プロジェクトS6c（システム制御系）",
+        "id": "202027750",
+        "teachers": []
+    },
+    {
+        "courseId": "SCE.Z371",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "学士特定課題プロジェクトS1c（システム制御系）",
+        "id": "202027743",
+        "teachers": []
+    },
+    {
+        "courseId": "SCE.Z391",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "学士特定課題プロジェクト1c（システム制御系）",
+        "id": "202007601",
+        "teachers": []
+    },
+    {
+        "courseId": "SCE.Z392",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "学士特定課題プロジェクト2c（システム制御系）",
+        "id": "202007603",
+        "teachers": []
+    },
+    {
+        "courseId": "SCE.Z393",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "学士特定課題プロジェクト3c（システム制御系）",
+        "id": "202007605",
+        "teachers": []
+    },
+    {
+        "courseId": "SCE.Z394",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "学士特定課題プロジェクト4c（システム制御系）",
+        "id": "202007607",
+        "teachers": []
+    },
+    {
+        "courseId": "SCE.Z395",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "学士特定課題プロジェクト5c（システム制御系）",
+        "id": "202007608",
+        "teachers": []
+    },
+    {
+        "courseId": "SCE.Z396",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "学士特定課題プロジェクト6c（システム制御系）",
+        "id": "202007609",
+        "teachers": []
+    },
+    {
+        "courseId": "SCE.Z392",
+        "courseDigit": 3,
+        "department": "システム制御系",
+        "courseName": "学士特定課題プロジェクト2c（システム制御系）",
+        "id": "202007604",
+        "teachers": []
+    }
+]

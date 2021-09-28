@@ -1,0 +1,2810 @@
+[
+    {
+        "courseId": "LAH.S150",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（法学ゼミ）導入１",
+        "id": "202008434",
+        "teachers": [
+            "金子 宏直"
+        ]
+    },
+    {
+        "courseId": "LAH.S102",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "法学（民事法）Ａ",
+        "id": "202000860",
+        "teachers": [
+            "金子 宏直"
+        ]
+    },
+    {
+        "courseId": "LAH.H101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "哲学Ａ",
+        "id": "202000848",
+        "teachers": [
+            "長門 裕介"
+        ]
+    },
+    {
+        "courseId": "LAH.T108",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "意思決定論Ａ",
+        "id": "202000876",
+        "teachers": [
+            "猪原 健弘"
+        ]
+    },
+    {
+        "courseId": "LAH.S103",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "政治学Ａ",
+        "id": "202000861",
+        "teachers": [
+            "中島 岳志"
+        ]
+    },
+    {
+        "courseId": "LAH.S110",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "教養特論：ファッション論",
+        "id": "202000868",
+        "teachers": [
+            "高村 是州"
+        ]
+    },
+    {
+        "courseId": "LAH.T109",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "言語学Ａ",
+        "id": "202000877",
+        "teachers": [
+            "山元 啓史"
+        ]
+    },
+    {
+        "courseId": "LAH.H107",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "コミュニケーション論Ａ",
+        "id": "202000854",
+        "teachers": [
+            "中野 民夫"
+        ]
+    },
+    {
+        "courseId": "LAH.H104",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "文学Ａ",
+        "id": "202000851",
+        "teachers": [
+            "磯崎 憲一郎"
+        ]
+    },
+    {
+        "courseId": "LAH.T113",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "教養特論：未来社会デザイン入門",
+        "id": "202026045",
+        "teachers": [
+            "中野 民夫",
+            "柳瀬 博一"
+        ]
+    },
+    {
+        "courseId": "LAH.S151",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（法学ゼミ）導入２",
+        "id": "202008435",
+        "teachers": [
+            "金子 宏直"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 9",
+        "id": "202000776",
+        "teachers": [
+            "猪原 健弘"
+        ]
+    },
+    {
+        "courseId": "LAH.S159",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（政治と社会）導入２",
+        "id": "202027107",
+        "teachers": [
+            "中島 岳志"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 28",
+        "id": "202000795",
+        "teachers": [
+            "金子 宏直"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 8",
+        "id": "202000775",
+        "teachers": [
+            "金子 宏直"
+        ]
+    },
+    {
+        "courseId": "LAH.T107",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "社会モデリングＡ",
+        "id": "202000875",
+        "teachers": [
+            "岩井 淳"
+        ]
+    },
+    {
+        "courseId": "LAH.T106",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "科学哲学Ａ",
+        "id": "202000874",
+        "teachers": [
+            "田子山 和歌子"
+        ]
+    },
+    {
+        "courseId": "LAH.S112",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "メディア論Ａ",
+        "id": "202019045",
+        "teachers": [
+            "柳瀬 博一"
+        ]
+    },
+    {
+        "courseId": "LAH.S158",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（政治と社会）導入１",
+        "id": "202027106",
+        "teachers": [
+            "中島 岳志"
+        ]
+    },
+    {
+        "courseId": "LAH.H105",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "歴史学Ａ",
+        "id": "202000852",
+        "teachers": [
+            "福留 真紀"
+        ]
+    },
+    {
+        "courseId": "LAH.S111",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "教養特論：東南アジア",
+        "id": "202013810",
+        "teachers": [
+            "堀場 明子"
+        ]
+    },
+    {
+        "courseId": "LAH.H114",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "人間文化論Ａ",
+        "id": "202019001",
+        "teachers": [
+            "若松 英輔"
+        ]
+    },
+    {
+        "courseId": "LAH.H108",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "教養特論：多文化共生論",
+        "id": "202000855",
+        "teachers": [
+            "佐藤 礼子"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 36",
+        "id": "202000803",
+        "teachers": [
+            "河村 彩"
+        ]
+    },
+    {
+        "courseId": "LAH.H103",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "文化人類学Ａ",
+        "id": "202000850",
+        "teachers": [
+            "上田 紀行"
+        ]
+    },
+    {
+        "courseId": "LAH.S107",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "社会学Ａ",
+        "id": "202000865",
+        "teachers": [
+            "西田 亮介"
+        ]
+    },
+    {
+        "courseId": "LAH.H113",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "表象文化論Ａ",
+        "id": "202018998",
+        "teachers": [
+            "北村 匡平"
+        ]
+    },
+    {
+        "courseId": "LAH.T150",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "融合系ゼミ（意思決定論）導入１",
+        "id": "202008438",
+        "teachers": [
+            "猪原 健弘"
+        ]
+    },
+    {
+        "courseId": "LAH.S157",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（心理学）導入２",
+        "id": "202024031",
+        "teachers": [
+            "永岑 光恵"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 2",
+        "id": "202000769",
+        "teachers": [
+            "鈴木 悠太"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 11",
+        "id": "202000778",
+        "teachers": [
+            "渡辺 暁"
+        ]
+    },
+    {
+        "courseId": "LAH.H110",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "外国語への招待１",
+        "id": "202000857",
+        "teachers": [
+            "戦 暁梅",
+            "安徳 万貴子",
+            "三ツ堀 広一郎",
+            "山崎 太郎",
+            "劉 岸偉",
+            "JEAN FRANCOISE MARIE-MONIQUE",
+            "河村 彩",
+            "渡辺 暁"
+        ]
+    },
+    {
+        "courseId": "LAH.S109",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "経済学Ａ",
+        "id": "202000867",
+        "teachers": [
+            "楊 起中"
+        ]
+    },
+    {
+        "courseId": "LAH.S101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "法学（憲法）Ａ",
+        "id": "202000859",
+        "teachers": [
+            "篠島 正幸"
+        ]
+    },
+    {
+        "courseId": "LAH.T103",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "技術史Ａ",
+        "id": "202000871",
+        "teachers": [
+            "小林 学"
+        ]
+    },
+    {
+        "courseId": "LAH.T151",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "融合系ゼミ（意思決定論）導入２",
+        "id": "202008439",
+        "teachers": [
+            "猪原 健弘"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 29",
+        "id": "202000796",
+        "teachers": [
+            "猪原 健弘"
+        ]
+    },
+    {
+        "courseId": "LAH.T157",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "融合系ゼミ（社会科学への量的アプローチ入門）導入２",
+        "id": "202020142",
+        "teachers": [
+            "毛塚 和宏"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 5",
+        "id": "202000772",
+        "teachers": [
+            "永岑 光恵",
+            "西田 亮介"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 18",
+        "id": "202000785",
+        "teachers": [
+            "戦 暁梅"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 22",
+        "id": "202000789",
+        "teachers": [
+            "鈴木 悠太"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 27",
+        "id": "202000794",
+        "teachers": [
+            "多久和 理実"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 41",
+        "id": "202008422",
+        "teachers": [
+            "阿部 直也",
+            "ANDREWS EDEN MARIQUIT",
+            "VARQUEZ ALVIN CHRISTOPHER GALANG",
+            "SADEGHZADEH NAZARI MEHRDAD",
+            "CHOI SUNKYUNG"
+        ]
+    },
+    {
+        "courseId": "LAH.S105",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "心理学Ａ",
+        "id": "202000863",
+        "teachers": [
+            "永岑 光恵"
+        ]
+    },
+    {
+        "courseId": "LAH.T105",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "科学技術倫理Ａ",
+        "id": "202000873",
+        "teachers": [
+            "眞嶋 俊造"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 再履修",
+        "id": "202009098",
+        "teachers": [
+            "佐久間 邦弘"
+        ]
+    },
+    {
+        "courseId": "LAH.T102",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "科学史Ａ",
+        "id": "202000870",
+        "teachers": [
+            "多久和 理実"
+        ]
+    },
+    {
+        "courseId": "LAH.H150",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（自分発見、社会・文化・人間探求セッション）導入１",
+        "id": "202008426",
+        "teachers": [
+            "上田 紀行"
+        ]
+    },
+    {
+        "courseId": "LAH.S152",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（政策とメディアの社会学）導入１",
+        "id": "202008436",
+        "teachers": [
+            "西田 亮介"
+        ]
+    },
+    {
+        "courseId": "LAH.S156",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（心理学）導入１",
+        "id": "202024030",
+        "teachers": [
+            "永岑 光恵"
+        ]
+    },
+    {
+        "courseId": "LAH.T156",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "融合系ゼミ（社会科学への量的アプローチ入門）導入１",
+        "id": "202024032",
+        "teachers": [
+            "毛塚 和宏"
+        ]
+    },
+    {
+        "courseId": "LAH.H153",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（参加と協働と至福の場づくり）導入２",
+        "id": "202008429",
+        "teachers": [
+            "中野 民夫"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 1",
+        "id": "202000768",
+        "teachers": [
+            "岡田 佐織"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 6",
+        "id": "202000773",
+        "teachers": [
+            "毛塚 和宏"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 10",
+        "id": "202000777",
+        "teachers": [
+            "高橋 将記"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 16",
+        "id": "202000783",
+        "teachers": [
+            "北村 匡平"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 39",
+        "id": "202000806",
+        "teachers": [
+            "小松 翠"
+        ]
+    },
+    {
+        "courseId": "LAH.T104",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "科学技術社会論・科学技術政策Ａ",
+        "id": "202000872",
+        "teachers": [
+            "調 麻佐志"
+        ]
+    },
+    {
+        "courseId": "LAH.T110",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "学びのデザイン",
+        "id": "202011607",
+        "teachers": [
+            "室田 真男",
+            "田中 岳",
+            "大浦 弘樹"
+        ]
+    },
+    {
+        "courseId": "LAH.H109",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "教養特論：言語と文化",
+        "id": "202000856",
+        "teachers": [
+            "赤間 啓之",
+            "佐藤 礼子",
+            "山元 啓史"
+        ]
+    },
+    {
+        "courseId": "LAH.H111",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "外国語への招待２",
+        "id": "202000858",
+        "teachers": [
+            "戦 暁梅",
+            "安徳 万貴子",
+            "三ツ堀 広一郎",
+            "山崎 太郎",
+            "劉 岸偉",
+            "JEAN FRANCOISE MARIE-MONIQUE",
+            "河村 彩",
+            "渡辺 暁",
+            "金澤 修"
+        ]
+    },
+    {
+        "courseId": "LAH.S108",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "教養特論：現代社会の課題とコミュニケーション",
+        "id": "202000866",
+        "teachers": [
+            "久地楽 雅也"
+        ]
+    },
+    {
+        "courseId": "LAH.T111",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "教養特論：技術と美術の哲学",
+        "id": "202017044",
+        "teachers": [
+            "BEKTAS YAKUP"
+        ]
+    },
+    {
+        "courseId": "LAH.H152",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（参加と協働と至福の場づくり）導入１",
+        "id": "202008428",
+        "teachers": [
+            "中野 民夫"
+        ]
+    },
+    {
+        "courseId": "LAH.H156",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（現代宗教／スピリチュアリティ論）導入１",
+        "id": "202008432",
+        "teachers": [
+            "弓山 達也"
+        ]
+    },
+    {
+        "courseId": "LAH.S154",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（日米関係と沖縄）導入１",
+        "id": "202017043",
+        "teachers": [
+            "川名 晋史"
+        ]
+    },
+    {
+        "courseId": "LAH.H158",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（博物館と歴史学）導入１",
+        "id": "202017534",
+        "teachers": [
+            "福留 真紀"
+        ]
+    },
+    {
+        "courseId": "LAH.H151",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（自分発見、社会・文化・人間探求セッション）導入２",
+        "id": "202008427",
+        "teachers": [
+            "上田 紀行"
+        ]
+    },
+    {
+        "courseId": "LAH.H155",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（創造と思考のレッスン）導入２",
+        "id": "202008431",
+        "teachers": [
+            "伊藤 亜紗"
+        ]
+    },
+    {
+        "courseId": "LAH.H157",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（現代宗教／スピリチュアリティ論）導入２",
+        "id": "202008433",
+        "teachers": [
+            "弓山 達也"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 7",
+        "id": "202000774",
+        "teachers": [
+            "多久和 理実"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 13",
+        "id": "202000780",
+        "teachers": [
+            "中野 民夫"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 14",
+        "id": "202000781",
+        "teachers": [
+            "丸山 剛生"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 15",
+        "id": "202000782",
+        "teachers": [
+            "山崎 太郎"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 20",
+        "id": "202000787",
+        "teachers": [
+            "川名 晋史"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 26",
+        "id": "202000793",
+        "teachers": [
+            "毛塚 和宏"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 33",
+        "id": "202000800",
+        "teachers": [
+            "西田 亮介"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 34",
+        "id": "202000801",
+        "teachers": [
+            "須田 和裕"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 37",
+        "id": "202000804",
+        "teachers": [
+            "福留 真紀"
+        ]
+    },
+    {
+        "courseId": "LAH.T101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "統計学Ａ",
+        "id": "202000869",
+        "teachers": [
+            "毛塚 和宏"
+        ]
+    },
+    {
+        "courseId": "LAH.H102",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "芸術Ａ",
+        "id": "202000849",
+        "teachers": [
+            "伊藤 亜紗"
+        ]
+    },
+    {
+        "courseId": "LAH.H159",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（博物館と歴史学）導入２",
+        "id": "202017538",
+        "teachers": [
+            "福留 真紀"
+        ]
+    },
+    {
+        "courseId": "LAH.H154",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（創造と思考のレッスン）導入１",
+        "id": "202008430",
+        "teachers": [
+            "伊藤 亜紗"
+        ]
+    },
+    {
+        "courseId": "LAH.S153",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（政策とメディアの社会学）導入２",
+        "id": "202008437",
+        "teachers": [
+            "西田 亮介"
+        ]
+    },
+    {
+        "courseId": "LAH.S155",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（日米関係と沖縄）導入２",
+        "id": "202014764",
+        "teachers": [
+            "川名 晋史"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 3",
+        "id": "202000770",
+        "teachers": [
+            "谷岡 健彦"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 17",
+        "id": "202000784",
+        "teachers": [
+            "安納 真理子"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 23",
+        "id": "202000790",
+        "teachers": [
+            "谷岡 健彦"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 25",
+        "id": "202000792",
+        "teachers": [
+            "永岑 光恵"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 30",
+        "id": "202000797",
+        "teachers": [
+            "佐久間 邦弘"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 31",
+        "id": "202000798",
+        "teachers": [
+            "柳瀬 博一"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 32",
+        "id": "202000799",
+        "teachers": [
+            "室田 真男"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 35",
+        "id": "202000802",
+        "teachers": [
+            "三ツ堀 広一郎"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 38",
+        "id": "202000805",
+        "teachers": [
+            "調 麻佐志"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 40",
+        "id": "202000807",
+        "teachers": [
+            "畑中 健二"
+        ]
+    },
+    {
+        "courseId": "LAH.S104",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "国際関係論Ａ",
+        "id": "202000862",
+        "teachers": [
+            "川名 晋史"
+        ]
+    },
+    {
+        "courseId": "LAH.T112",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "教養特論：ミュージアムから学ぶ科学・技術・文化コミュニケーション",
+        "id": "202017544",
+        "teachers": [
+            "BEKTAS YAKUP"
+        ]
+    },
+    {
+        "courseId": "LAH.H106",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "宗教学Ａ",
+        "id": "202000853",
+        "teachers": [
+            "弓山 達也"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 4",
+        "id": "202000771",
+        "teachers": [
+            "弓山 達也"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 12",
+        "id": "202000779",
+        "teachers": [
+            "林 直亨"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 19",
+        "id": "202000786",
+        "teachers": [
+            "安徳 万貴子"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 21",
+        "id": "202000788",
+        "teachers": [
+            "岡田 佐織"
+        ]
+    },
+    {
+        "courseId": "LAH.C101",
+        "courseDigit": 1,
+        "department": "文系教養科目",
+        "courseName": "東工大立志プロジェクト 24",
+        "id": "202000791",
+        "teachers": [
+            "弓山 達也"
+        ]
+    },
+    {
+        "courseId": "LAH.T208",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "意思決定論Ｂ",
+        "id": "202000906",
+        "teachers": [
+            "猪原 健弘"
+        ]
+    },
+    {
+        "courseId": "LAH.S208",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "教養特論：現代社会論",
+        "id": "202000896",
+        "teachers": [
+            "池上 彰",
+            "大里 英里"
+        ]
+    },
+    {
+        "courseId": "LAH.S202",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "法学（民事法）Ｂ",
+        "id": "202000890",
+        "teachers": [
+            "金子 宏直"
+        ]
+    },
+    {
+        "courseId": "LAH.S250",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（法学ゼミ）１",
+        "id": "202000955",
+        "teachers": [
+            "金子 宏直"
+        ]
+    },
+    {
+        "courseId": "LAH.T210",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "言語学Ｂ",
+        "id": "202000908",
+        "teachers": [
+            "山元 啓史",
+            "佐藤 礼子",
+            "森田 淳子"
+        ]
+    },
+    {
+        "courseId": "LAH.H205",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "歴史学Ｂ",
+        "id": "202000886",
+        "teachers": [
+            "福留 真紀"
+        ]
+    },
+    {
+        "courseId": "LAH.S201",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "法学（憲法）Ｂ",
+        "id": "202000889",
+        "teachers": [
+            "松村 芳明",
+            "松村 芳明"
+        ]
+    },
+    {
+        "courseId": "LAH.H206",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "宗教学Ｂ",
+        "id": "202000887",
+        "teachers": [
+            "弓山 達也"
+        ]
+    },
+    {
+        "courseId": "LAH.H204",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "文学Ｂ",
+        "id": "202000885",
+        "teachers": [
+            "磯崎 憲一郎"
+        ]
+    },
+    {
+        "courseId": "LAH.H209",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "国際文化論：アジア・アフリカ",
+        "id": "202000909",
+        "teachers": [
+            "三ツ堀 広一郎",
+            "鈴木 真弥",
+            "崔 盛旭",
+            "戸田 美佳子",
+            "辻上 奈美江",
+            "工藤 裕子",
+            "馮 青",
+            "佐治 奈通子"
+        ]
+    },
+    {
+        "courseId": "LAH.T201",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "統計学Ｂ",
+        "id": "202000899",
+        "teachers": [
+            "毛塚 和宏"
+        ]
+    },
+    {
+        "courseId": "LAH.S215",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "教養特論：データとトピックで知る日本経済",
+        "id": "202027337",
+        "teachers": [
+            "柳瀬 博一",
+            "倉品 武文",
+            "安西 巧",
+            "上田 敬",
+            "久保田 啓介",
+            "西條 都夫",
+            "斉藤 徹弥",
+            "田中 陽",
+            "玉利 伸吾",
+            "中山 直紀",
+            "藤田 和明",
+            "前田 裕之",
+            "松尾 博文",
+            "武類 雅典",
+            "山口 聡"
+        ]
+    },
+    {
+        "courseId": "LAH.H215",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "表象文化論Ｂ",
+        "id": "202018999",
+        "teachers": [
+            "北村 匡平"
+        ]
+    },
+    {
+        "courseId": "LAH.H251",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（自分発見、社会・文化・人間探求セッション）２",
+        "id": "202007845",
+        "teachers": [
+            "上田 紀行"
+        ]
+    },
+    {
+        "courseId": "LAH.T202",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "科学史Ｂ",
+        "id": "202000900",
+        "teachers": [
+            "多久和 理実"
+        ]
+    },
+    {
+        "courseId": "LAH.T204",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "教養特論：大学史",
+        "id": "202000902",
+        "teachers": [
+            "亀井 宏行",
+            "山崎 鯛介",
+            "広瀬 茂久",
+            "山口 雅浩",
+            "多久和 理実",
+            "鈴木 悠太"
+        ]
+    },
+    {
+        "courseId": "LAH.T205",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "科学技術社会論・科学技術政策Ｂ",
+        "id": "202000903",
+        "teachers": [
+            "調 麻佐志"
+        ]
+    },
+    {
+        "courseId": "LAH.T206",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "科学技術倫理Ｂ",
+        "id": "202000904",
+        "teachers": [
+            "眞嶋 俊造"
+        ]
+    },
+    {
+        "courseId": "LAH.S251",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（法学ゼミ）２",
+        "id": "202000956",
+        "teachers": [
+            "金子 宏直"
+        ]
+    },
+    {
+        "courseId": "LAH.T252",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "融合系ゼミ（意思決定論）１",
+        "id": "202000961",
+        "teachers": [
+            "猪原 健弘"
+        ]
+    },
+    {
+        "courseId": "LAH.S259",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（政治と社会）２",
+        "id": "202027109",
+        "teachers": [
+            "中島 岳志"
+        ]
+    },
+    {
+        "courseId": "LAH.H216",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "人間文化論Ｂ",
+        "id": "202019044",
+        "teachers": [
+            "若松 英輔"
+        ]
+    },
+    {
+        "courseId": "LAH.S205",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "心理学Ｂ",
+        "id": "202000893",
+        "teachers": [
+            "永岑 光恵"
+        ]
+    },
+    {
+        "courseId": "LAH.T211",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "教養特論：身体教養科学",
+        "id": "202000914",
+        "teachers": [
+            "高橋 将記",
+            "福岡 俊彦",
+            "田中 英登",
+            "林 直亨",
+            "佐久間 邦弘",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAH.H207",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "コミュニケーション論Ｂ",
+        "id": "202000888",
+        "teachers": [
+            "中野 民夫"
+        ]
+    },
+    {
+        "courseId": "LAH.T253",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "融合系ゼミ（意思決定論）２",
+        "id": "202007866",
+        "teachers": [
+            "猪原 健弘"
+        ]
+    },
+    {
+        "courseId": "LAH.H252",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（参加と協働と至福の場づくり）１",
+        "id": "202007840",
+        "teachers": [
+            "中野 民夫"
+        ]
+    },
+    {
+        "courseId": "LAH.S258",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（政治と社会）１",
+        "id": "202027108",
+        "teachers": [
+            "中島 岳志"
+        ]
+    },
+    {
+        "courseId": "LAH.H253",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（参加と協働と至福の場づくり）２",
+        "id": "202007843",
+        "teachers": [
+            "中野 民夫"
+        ]
+    },
+    {
+        "courseId": "LAH.H202",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "芸術Ｂ",
+        "id": "202000883",
+        "teachers": [
+            "伊藤 亜紗"
+        ]
+    },
+    {
+        "courseId": "LAH.S204",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "国際関係論Ｂ",
+        "id": "202000892",
+        "teachers": [
+            "川名 晋史"
+        ]
+    },
+    {
+        "courseId": "LAH.H210",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "国際文化論：ヨーロッパ・ラテンアメリカ",
+        "id": "202000910",
+        "teachers": [
+            "三ツ堀 広一郎",
+            "河村 英和",
+            "土田 久美子",
+            "TAKAHASCHI SUENAGA EUNICE TOMOMI",
+            "梶田 裕",
+            "宮崎 淳史",
+            "伏見 岳志",
+            "若松 功一郎"
+        ]
+    },
+    {
+        "courseId": "LAH.T207",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "科学哲学Ｂ",
+        "id": "202000905",
+        "teachers": [
+            "東 克明"
+        ]
+    },
+    {
+        "courseId": "LAH.H213",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "教養特論：オペラへの招待",
+        "id": "202000913",
+        "teachers": [
+            "山崎 太郎"
+        ]
+    },
+    {
+        "courseId": "LAH.S213",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "メディア論Ｂ",
+        "id": "202019046",
+        "teachers": [
+            "柳瀬 博一"
+        ]
+    },
+    {
+        "courseId": "LAH.H203",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "文化人類学Ｂ",
+        "id": "202000884",
+        "teachers": [
+            "田中 理恵子"
+        ]
+    },
+    {
+        "courseId": "LAH.T258",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "融合系ゼミ（社会科学への量的アプローチ入門）１",
+        "id": "202024036",
+        "teachers": [
+            "毛塚 和宏"
+        ]
+    },
+    {
+        "courseId": "LAH.H255",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（創造と思考のレッスン）２",
+        "id": "202007861",
+        "teachers": [
+            "伊藤 亜紗"
+        ]
+    },
+    {
+        "courseId": "LAH.S203",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "政治学Ｂ",
+        "id": "202000891",
+        "teachers": [
+            "中島 岳志"
+        ]
+    },
+    {
+        "courseId": "LAH.S211",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "教養特論：国際社会とコミュニケーション",
+        "id": "202012956",
+        "teachers": [
+            "パトリック ハーラン"
+        ]
+    },
+    {
+        "courseId": "LAH.T209",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "社会モデリングＢ",
+        "id": "202000907",
+        "teachers": [
+            "岩井 淳"
+        ]
+    },
+    {
+        "courseId": "LAH.H212",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "世界文学２",
+        "id": "202000912",
+        "teachers": [
+            "三ツ堀 広一郎",
+            "劉 岸偉",
+            "戦 暁梅",
+            "安徳 万貴子",
+            "河村 彩",
+            "渡辺 暁",
+            "JEAN FRANCOISE MARIE-MONIQUE"
+        ]
+    },
+    {
+        "courseId": "LAH.H254",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（創造と思考のレッスン）１",
+        "id": "202000953",
+        "teachers": [
+            "伊藤 亜紗"
+        ]
+    },
+    {
+        "courseId": "LAH.H250",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（自分発見、社会・文化・人間探求セッション）１",
+        "id": "202007829",
+        "teachers": [
+            "上田 紀行"
+        ]
+    },
+    {
+        "courseId": "LAH.S256",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（心理学）１",
+        "id": "202024033",
+        "teachers": [
+            "永岑 光恵"
+        ]
+    },
+    {
+        "courseId": "LAH.H257",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（現代宗教／スピリチュアリティ論）２",
+        "id": "202007842",
+        "teachers": [
+            "弓山 達也"
+        ]
+    },
+    {
+        "courseId": "LAH.T259",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "融合系ゼミ（社会科学への量的アプローチ入門）２",
+        "id": "202020143",
+        "teachers": [
+            "毛塚 和宏"
+        ]
+    },
+    {
+        "courseId": "LAH.S207",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "社会学Ｂ",
+        "id": "202000895",
+        "teachers": [
+            "未定"
+        ]
+    },
+    {
+        "courseId": "LAH.H211",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "世界文学１",
+        "id": "202000911",
+        "teachers": [
+            "三ツ堀 広一郎",
+            "劉 岸偉",
+            "戦 暁梅",
+            "安徳 万貴子",
+            "河村 彩",
+            "JEAN FRANCOISE MARIE-MONIQUE",
+            "渡辺 暁"
+        ]
+    },
+    {
+        "courseId": "LAH.H259",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（博物館と歴史学）２",
+        "id": "202017541",
+        "teachers": [
+            "福留 真紀"
+        ]
+    },
+    {
+        "courseId": "LAH.S252",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（政策とメディアの社会学）１",
+        "id": "202007853",
+        "teachers": [
+            "西田 亮介"
+        ]
+    },
+    {
+        "courseId": "LAH.H258",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（博物館と歴史学）１",
+        "id": "202017539",
+        "teachers": [
+            "福留 真紀"
+        ]
+    },
+    {
+        "courseId": "LAH.S253",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（政策とメディアの社会学）２",
+        "id": "202007848",
+        "teachers": [
+            "西田 亮介"
+        ]
+    },
+    {
+        "courseId": "LAH.S255",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（日米関係と沖縄）２",
+        "id": "202017046",
+        "teachers": [
+            "川名 晋史"
+        ]
+    },
+    {
+        "courseId": "LAH.S257",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（心理学）２",
+        "id": "202024034",
+        "teachers": [
+            "永岑 光恵"
+        ]
+    },
+    {
+        "courseId": "LAH.T213",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "教養特論：生物学史",
+        "id": "202024035",
+        "teachers": [
+            "矢島 道子"
+        ]
+    },
+    {
+        "courseId": "LAH.T203",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "技術史Ｂ",
+        "id": "202000901",
+        "teachers": [
+            "詫間 直樹"
+        ]
+    },
+    {
+        "courseId": "LAH.T212",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "教養特論：科学とヒューマニズム",
+        "id": "202012444",
+        "teachers": [
+            "BEKTAS YAKUP"
+        ]
+    },
+    {
+        "courseId": "LAH.H256",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（現代宗教／スピリチュアリティ論）１",
+        "id": "202007865",
+        "teachers": [
+            "弓山 達也"
+        ]
+    },
+    {
+        "courseId": "LAH.S254",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（日米関係と沖縄）１",
+        "id": "202017045",
+        "teachers": [
+            "川名 晋史"
+        ]
+    },
+    {
+        "courseId": "LAH.H201",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "哲学Ｂ",
+        "id": "202000882",
+        "teachers": [
+            "原島 大輔"
+        ]
+    },
+    {
+        "courseId": "LAH.S209",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "経済学Ｂ",
+        "id": "202000897",
+        "teachers": [
+            "庫川 幸秀"
+        ]
+    },
+    {
+        "courseId": "LAH.H217",
+        "courseDigit": 2,
+        "department": "文系教養科目",
+        "courseName": "教養特論：アートとデザイン",
+        "id": "202020141",
+        "teachers": [
+            "田中 みゆき"
+        ]
+    },
+    {
+        "courseId": "LAH.T307",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "意思決定論Ｃ",
+        "id": "202000937",
+        "teachers": [
+            "猪原 健弘"
+        ]
+    },
+    {
+        "courseId": "LAH.S311",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養特論：メディア心理学",
+        "id": "202000941",
+        "teachers": [
+            "岩男 征樹"
+        ]
+    },
+    {
+        "courseId": "LAH.T309",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "言語学Ｃ",
+        "id": "202000939",
+        "teachers": [
+            "赤間 啓之",
+            "山元 啓史"
+        ]
+    },
+    {
+        "courseId": "LAH.S302",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "法学（民事法）Ｃ",
+        "id": "202000922",
+        "teachers": [
+            "金子 宏直"
+        ]
+    },
+    {
+        "courseId": "LAH.T355",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "融合系ゼミ（意思決定論）４",
+        "id": "202007816",
+        "teachers": [
+            "猪原 健弘"
+        ]
+    },
+    {
+        "courseId": "LAH.T313",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養特論：人間関係論",
+        "id": "202000945",
+        "teachers": [
+            "齋藤 憲司",
+            "安宅 勝弘"
+        ]
+    },
+    {
+        "courseId": "LAH.S303",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "法学（民事法・知財）Ｃ",
+        "id": "202000923",
+        "teachers": [
+            "金子 宏直",
+            "太田 昌孝",
+            "田川 陽一",
+            "菅野 智子",
+            "井口 加奈子",
+            "岡本 守弘",
+            "辻河 哲爾",
+            "小川 憲久",
+            "椙山 敬士",
+            "田中 園子",
+            "小倉 秀夫",
+            "島影 圭佑",
+            "土佐 信道"
+        ]
+    },
+    {
+        "courseId": "LAH.S304",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "政治学Ｃ",
+        "id": "202000924",
+        "teachers": [
+            "中島 岳志"
+        ]
+    },
+    {
+        "courseId": "LAH.H306",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "宗教学Ｃ",
+        "id": "202000920",
+        "teachers": [
+            "弓山 達也"
+        ]
+    },
+    {
+        "courseId": "LAH.S312",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "メディア論Ｃ",
+        "id": "202019047",
+        "teachers": [
+            "柳瀬 博一"
+        ]
+    },
+    {
+        "courseId": "LAH.C301",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養卒論 12",
+        "id": "202000819",
+        "teachers": [
+            "鈴木 悠太"
+        ]
+    },
+    {
+        "courseId": "LAH.S356",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（政策とメディアの社会学）５",
+        "id": "202007825",
+        "teachers": [
+            "西田 亮介"
+        ]
+    },
+    {
+        "courseId": "LAH.S306",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "心理学Ｃ",
+        "id": "202000926",
+        "teachers": [
+            "永岑 光恵"
+        ]
+    },
+    {
+        "courseId": "LAH.S354",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（政策とメディアの社会学）３",
+        "id": "202007831",
+        "teachers": [
+            "西田 亮介"
+        ]
+    },
+    {
+        "courseId": "LAH.S368",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（政治と社会）５",
+        "id": "202027112",
+        "teachers": [
+            "中島 岳志"
+        ]
+    },
+    {
+        "courseId": "LAH.H310",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養特論：オンライン学習コース概論",
+        "id": "202012957",
+        "teachers": [
+            "CROSS JEFFREY SCOTT"
+        ]
+    },
+    {
+        "courseId": "LAH.T301",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "統計学Ｃ",
+        "id": "202000931",
+        "teachers": [
+            "毛塚 和宏"
+        ]
+    },
+    {
+        "courseId": "LAH.T357",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "融合系ゼミ（意思決定論）６",
+        "id": "202007818",
+        "teachers": [
+            "猪原 健弘"
+        ]
+    },
+    {
+        "courseId": "LAH.S367",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（政治と社会）４",
+        "id": "202027111",
+        "teachers": [
+            "中島 岳志"
+        ]
+    },
+    {
+        "courseId": "LAH.C301",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養卒論 16",
+        "id": "202000823",
+        "teachers": [
+            "永岑 光恵"
+        ]
+    },
+    {
+        "courseId": "LAH.C301",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養卒論 17",
+        "id": "202000824",
+        "teachers": [
+            "高橋 将記"
+        ]
+    },
+    {
+        "courseId": "LAH.C301",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養卒論 21",
+        "id": "202000828",
+        "teachers": [
+            "小泉 勇人",
+            "木村 大輔",
+            "林 直亨",
+            "阿部 直也",
+            "ANDREWS EDEN MARIQUIT",
+            "VARQUEZ ALVIN CHRISTOPHER GALANG",
+            "SADEGHZADEH NAZARI MEHRDAD",
+            "CHOI SUNKYUNG"
+        ]
+    },
+    {
+        "courseId": "LAH.T312",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養特論：スポーツ科学",
+        "id": "202000944",
+        "teachers": [
+            "林 直亨",
+            "丸山 剛生"
+        ]
+    },
+    {
+        "courseId": "LAH.T303",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "技術史Ｃ",
+        "id": "202000933",
+        "teachers": [
+            "河村 豊"
+        ]
+    },
+    {
+        "courseId": "LAH.S301",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "法学（憲法）Ｃ",
+        "id": "202000921",
+        "teachers": [
+            "辻 健太",
+            "上田 宏和"
+        ]
+    },
+    {
+        "courseId": "LAH.H312",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養特論：都市の表象",
+        "id": "202017048",
+        "teachers": [
+            "木内 久美子"
+        ]
+    },
+    {
+        "courseId": "LAH.H315",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "人間文化論Ｃ",
+        "id": "202024037",
+        "teachers": [
+            "若松 英輔"
+        ]
+    },
+    {
+        "courseId": "LAH.C301",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養卒論 20",
+        "id": "202000827",
+        "teachers": [
+            "眞嶋 俊造"
+        ]
+    },
+    {
+        "courseId": "LAH.S350",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（法学ゼミ）３",
+        "id": "202000957",
+        "teachers": [
+            "金子 宏直"
+        ]
+    },
+    {
+        "courseId": "LAH.H354",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（参加と協働と至福の場づくり）３",
+        "id": "202007820",
+        "teachers": [
+            "中野 民夫"
+        ]
+    },
+    {
+        "courseId": "LAH.H358",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（創造と思考のレッスン）３",
+        "id": "202007857",
+        "teachers": [
+            "伊藤 亜紗"
+        ]
+    },
+    {
+        "courseId": "LAH.T366",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "融合系ゼミ（社会科学への量的アプローチ入門）３",
+        "id": "202024042",
+        "teachers": [
+            "毛塚 和宏"
+        ]
+    },
+    {
+        "courseId": "LAH.S366",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（政治と社会）３",
+        "id": "202027110",
+        "teachers": [
+            "中島 岳志"
+        ]
+    },
+    {
+        "courseId": "LAH.C301",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養卒論 2",
+        "id": "202000809",
+        "teachers": [
+            "室田 真男"
+        ]
+    },
+    {
+        "courseId": "LAH.S365",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（心理学）６",
+        "id": "202024041",
+        "teachers": [
+            "永岑 光恵"
+        ]
+    },
+    {
+        "courseId": "LAH.C301",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養卒論 18",
+        "id": "202000825",
+        "teachers": [
+            "佐久間 邦弘"
+        ]
+    },
+    {
+        "courseId": "LAH.S308",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "社会学Ｃ",
+        "id": "202000928",
+        "teachers": [
+            "西田 亮介"
+        ]
+    },
+    {
+        "courseId": "LAH.T308",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "社会モデリングＣ",
+        "id": "202000938",
+        "teachers": [
+            "大堀 耕太郎",
+            "穴井 宏和"
+        ]
+    },
+    {
+        "courseId": "LAH.H303",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "文化人類学Ｃ",
+        "id": "202000917",
+        "teachers": [
+            "上田 紀行"
+        ]
+    },
+    {
+        "courseId": "LAH.C301",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養卒論 4",
+        "id": "202000811",
+        "teachers": [
+            "北村 匡平"
+        ]
+    },
+    {
+        "courseId": "LAH.H313",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養特論：都市",
+        "id": "202017533",
+        "teachers": [
+            "木内 久美子"
+        ]
+    },
+    {
+        "courseId": "LAH.H356",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（参加と協働と至福の場づくり）５",
+        "id": "202007822",
+        "teachers": [
+            "中野 民夫"
+        ]
+    },
+    {
+        "courseId": "LAH.S352",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（法学ゼミ）５",
+        "id": "202007823",
+        "teachers": [
+            "金子 宏直"
+        ]
+    },
+    {
+        "courseId": "LAH.H352",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（自分発見、社会・文化・人間探求セッション）５",
+        "id": "202007832",
+        "teachers": [
+            "上田 紀行"
+        ]
+    },
+    {
+        "courseId": "LAH.H368",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（博物館と歴史学）5",
+        "id": "202017543",
+        "teachers": [
+            "福留 真紀"
+        ]
+    },
+    {
+        "courseId": "LAH.S362",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（心理学）３",
+        "id": "202024038",
+        "teachers": [
+            "永岑 光恵"
+        ]
+    },
+    {
+        "courseId": "LAH.S351",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（法学ゼミ）４",
+        "id": "202000958",
+        "teachers": [
+            "金子 宏直"
+        ]
+    },
+    {
+        "courseId": "LAH.H355",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（参加と協働と至福の場づくり）４",
+        "id": "202007815",
+        "teachers": [
+            "中野 民夫"
+        ]
+    },
+    {
+        "courseId": "LAH.H361",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（創造と思考のレッスン）６",
+        "id": "202007834",
+        "teachers": [
+            "伊藤 亜紗"
+        ]
+    },
+    {
+        "courseId": "LAH.S361",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（日米関係と沖縄）６",
+        "id": "202017053",
+        "teachers": [
+            "川名 晋史"
+        ]
+    },
+    {
+        "courseId": "LAH.H367",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（博物館と歴史学）４",
+        "id": "202017542",
+        "teachers": [
+            "福留 真紀"
+        ]
+    },
+    {
+        "courseId": "LAH.T367",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "融合系ゼミ（社会科学への量的アプローチ入門）４",
+        "id": "202020144",
+        "teachers": [
+            "毛塚 和宏"
+        ]
+    },
+    {
+        "courseId": "LAH.S363",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（心理学）４",
+        "id": "202024039",
+        "teachers": [
+            "永岑 光恵"
+        ]
+    },
+    {
+        "courseId": "LAH.S369",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（政治と社会）６",
+        "id": "202027113",
+        "teachers": [
+            "中島 岳志"
+        ]
+    },
+    {
+        "courseId": "LAH.T302",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "科学史Ｃ",
+        "id": "202000932",
+        "teachers": [
+            "多久和 理実"
+        ]
+    },
+    {
+        "courseId": "LAH.C301",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養卒論 1",
+        "id": "202000808",
+        "teachers": [
+            "山崎 太郎",
+            "戦 暁梅"
+        ]
+    },
+    {
+        "courseId": "LAH.C301",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養卒論 8",
+        "id": "202000815",
+        "teachers": [
+            "柳瀬 博一",
+            "川名 晋史"
+        ]
+    },
+    {
+        "courseId": "LAH.C301",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養卒論 9",
+        "id": "202000816",
+        "teachers": [
+            "谷岡 健彦"
+        ]
+    },
+    {
+        "courseId": "LAH.C301",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養卒論 19",
+        "id": "202000826",
+        "teachers": [
+            "畑中 健二",
+            "安徳 万貴子"
+        ]
+    },
+    {
+        "courseId": "LAH.H305",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "歴史学Ｃ",
+        "id": "202000919",
+        "teachers": [
+            "福留 真紀"
+        ]
+    },
+    {
+        "courseId": "LAH.H308",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養特論：ジェンダー",
+        "id": "202000946",
+        "teachers": [
+            "森山 至貴"
+        ]
+    },
+    {
+        "courseId": "LAH.T356",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "融合系ゼミ（意思決定論）５",
+        "id": "202007830",
+        "teachers": [
+            "猪原 健弘"
+        ]
+    },
+    {
+        "courseId": "LAH.T354",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "融合系ゼミ（意思決定論）３",
+        "id": "202007851",
+        "teachers": [
+            "猪原 健弘"
+        ]
+    },
+    {
+        "courseId": "LAH.H350",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（自分発見、社会・文化・人間探求セッション）３",
+        "id": "202007855",
+        "teachers": [
+            "上田 紀行"
+        ]
+    },
+    {
+        "courseId": "LAH.S360",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（日米関係と沖縄）５",
+        "id": "202017052",
+        "teachers": [
+            "川名 晋史"
+        ]
+    },
+    {
+        "courseId": "LAH.H366",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（博物館と歴史学）３",
+        "id": "202017540",
+        "teachers": [
+            "福留 真紀"
+        ]
+    },
+    {
+        "courseId": "LAH.S364",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（心理学）５",
+        "id": "202024040",
+        "teachers": [
+            "永岑 光恵"
+        ]
+    },
+    {
+        "courseId": "LAH.T368",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "融合系ゼミ（社会科学への量的アプローチ入門）５",
+        "id": "202024043",
+        "teachers": [
+            "毛塚 和宏"
+        ]
+    },
+    {
+        "courseId": "LAH.H311",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養特論：オンライン学習コース制作実習",
+        "id": "202012958",
+        "teachers": [
+            "CROSS JEFFREY SCOTT"
+        ]
+    },
+    {
+        "courseId": "LAH.H357",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（参加と協働と至福の場づくり）６",
+        "id": "202007824",
+        "teachers": [
+            "中野 民夫"
+        ]
+    },
+    {
+        "courseId": "LAH.H353",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（自分発見、社会・文化・人間探求セッション）６",
+        "id": "202007827",
+        "teachers": [
+            "上田 紀行"
+        ]
+    },
+    {
+        "courseId": "LAH.S357",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（政策とメディアの社会学）６",
+        "id": "202007828",
+        "teachers": [
+            "西田 亮介"
+        ]
+    },
+    {
+        "courseId": "LAH.S353",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（法学ゼミ）６",
+        "id": "202007850",
+        "teachers": [
+            "金子 宏直"
+        ]
+    },
+    {
+        "courseId": "LAH.H363",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（現代宗教／スピリチュアリティ論）４",
+        "id": "202007863",
+        "teachers": [
+            "弓山 達也"
+        ]
+    },
+    {
+        "courseId": "LAH.H369",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（博物館と歴史学）６",
+        "id": "202017545",
+        "teachers": [
+            "福留 真紀"
+        ]
+    },
+    {
+        "courseId": "LAH.T369",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "融合系ゼミ（社会科学への量的アプローチ入門）６",
+        "id": "202020145",
+        "teachers": [
+            "毛塚 和宏"
+        ]
+    },
+    {
+        "courseId": "LAH.S305",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "国際関係論Ｃ",
+        "id": "202000925",
+        "teachers": [
+            "川名 晋史"
+        ]
+    },
+    {
+        "courseId": "LAH.T306",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "科学哲学Ｃ",
+        "id": "202000936",
+        "teachers": [
+            "小山田 圭一"
+        ]
+    },
+    {
+        "courseId": "LAH.H304",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "文学Ｃ",
+        "id": "202000918",
+        "teachers": [
+            "磯崎 憲一郎"
+        ]
+    },
+    {
+        "courseId": "LAH.T304",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "科学技術社会論・科学技術政策Ｃ",
+        "id": "202000934",
+        "teachers": [
+            "調 麻佐志"
+        ]
+    },
+    {
+        "courseId": "LAH.H314",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "表象文化論Ｃ",
+        "id": "202019000",
+        "teachers": [
+            "北村 匡平"
+        ]
+    },
+    {
+        "courseId": "LAH.C301",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養卒論 7",
+        "id": "202000814",
+        "teachers": [
+            "林 直亨"
+        ]
+    },
+    {
+        "courseId": "LAH.C301",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養卒論 11",
+        "id": "202000818",
+        "teachers": [
+            "渡辺 暁",
+            "林 直亨"
+        ]
+    },
+    {
+        "courseId": "LAH.C301",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養卒論 14",
+        "id": "202000821",
+        "teachers": [
+            "北村 匡平",
+            "福留 真紀"
+        ]
+    },
+    {
+        "courseId": "LAH.C301",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養卒論 15",
+        "id": "202000822",
+        "teachers": [
+            "多久和 理実"
+        ]
+    },
+    {
+        "courseId": "LAH.H364",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（現代宗教／スピリチュアリティ論）５",
+        "id": "202007836",
+        "teachers": [
+            "弓山 達也"
+        ]
+    },
+    {
+        "courseId": "LAH.H362",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（現代宗教／スピリチュアリティ論）３",
+        "id": "202007859",
+        "teachers": [
+            "弓山 達也"
+        ]
+    },
+    {
+        "courseId": "LAH.H360",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（創造と思考のレッスン）５",
+        "id": "202007867",
+        "teachers": [
+            "伊藤 亜紗"
+        ]
+    },
+    {
+        "courseId": "LAH.S358",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（日米関係と沖縄）３",
+        "id": "202017049",
+        "teachers": [
+            "川名 晋史"
+        ]
+    },
+    {
+        "courseId": "LAH.H302",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "芸術Ｃ",
+        "id": "202000916",
+        "teachers": [
+            "伊藤 亜紗"
+        ]
+    },
+    {
+        "courseId": "LAH.H351",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（自分発見、社会・文化・人間探求セッション）４",
+        "id": "202007835",
+        "teachers": [
+            "上田 紀行"
+        ]
+    },
+    {
+        "courseId": "LAH.S355",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（政策とメディアの社会学）４",
+        "id": "202007844",
+        "teachers": [
+            "西田 亮介"
+        ]
+    },
+    {
+        "courseId": "LAH.H359",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（創造と思考のレッスン）４",
+        "id": "202007852",
+        "teachers": [
+            "伊藤 亜紗"
+        ]
+    },
+    {
+        "courseId": "LAH.H365",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "人文学系ゼミ（現代宗教／スピリチュアリティ論）６",
+        "id": "202007864",
+        "teachers": [
+            "弓山 達也"
+        ]
+    },
+    {
+        "courseId": "LAH.S359",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "社会科学系ゼミ（日米関係と沖縄）４",
+        "id": "202017051",
+        "teachers": [
+            "川名 晋史"
+        ]
+    },
+    {
+        "courseId": "LAH.H301",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "哲学Ｃ",
+        "id": "202000915",
+        "teachers": [
+            "長門 裕介"
+        ]
+    },
+    {
+        "courseId": "LAH.H307",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養特論：日本思想史",
+        "id": "202000940",
+        "teachers": [
+            "畑中 健二"
+        ]
+    },
+    {
+        "courseId": "LAH.H316",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養特論 ： 日本伝統芸能と音楽（能と狂言）",
+        "id": "202028686",
+        "teachers": [
+            "安納 真理子"
+        ]
+    },
+    {
+        "courseId": "LAH.C301",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養卒論 3",
+        "id": "202000810",
+        "teachers": [
+            "調 麻佐志"
+        ]
+    },
+    {
+        "courseId": "LAH.C301",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養卒論 5",
+        "id": "202000812",
+        "teachers": [
+            "毛塚 和宏"
+        ]
+    },
+    {
+        "courseId": "LAH.C301",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養卒論 6",
+        "id": "202000813",
+        "teachers": [
+            "岡田 佐織"
+        ]
+    },
+    {
+        "courseId": "LAH.H317",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養特論 ： 日本伝統芸能と音楽（歌舞伎と文楽）",
+        "id": "202028687",
+        "teachers": [
+            "安納 真理子"
+        ]
+    },
+    {
+        "courseId": "LAH.C301",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養卒論 10",
+        "id": "202000817",
+        "teachers": [
+            "弓山 達也"
+        ]
+    },
+    {
+        "courseId": "LAH.C301",
+        "courseDigit": 3,
+        "department": "文系教養科目",
+        "courseName": "教養卒論 13",
+        "id": "202000820",
+        "teachers": [
+            "谷岡 健彦"
+        ]
+    }
+]

@@ -1,0 +1,4717 @@
+[
+    {
+        "courseId": "LAS.P103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎１ B",
+        "id": "202000159",
+        "teachers": [
+            "椎野 克"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第一 k",
+        "id": "202000188",
+        "teachers": [
+            "椎野 克"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.M102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "線形代数学第一・演習 C（14～20）",
+        "id": "202000073",
+        "teachers": [
+            "馬 昭平",
+            "染川 睦郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎１ K",
+        "id": "202000162",
+        "teachers": [
+            "谷津 陽一"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I121",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "コンピュータサイエンス第一 4a(CS1)",
+        "id": "202007206",
+        "teachers": [
+            "南出 靖彦"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.A102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "宇宙地球科学Ｂ",
+        "id": "202002776",
+        "teachers": [
+            "中本 泰史",
+            "中島 淳一",
+            "奥住 聡",
+            "横山 哲也",
+            "佐藤 文衛",
+            "上野 雄一郎",
+            "太田 健二",
+            "石川 晃",
+            "井田 茂",
+            "玄田 英典",
+            "関根 康人"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M107",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "微分積分学演習第二 T(71～80)",
+        "id": "202000109",
+        "teachers": [
+            "川内 毅"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.I121",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "コンピュータサイエンス第一 6b(CS1)",
+        "id": "202007211",
+        "teachers": [
+            "伊知地 宏",
+            "西崎 真也",
+            "増原 英彦"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎１ F",
+        "id": "202000129",
+        "teachers": [
+            "綿引 芳之"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.M101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "微分積分学第一・演習 A(1～7)",
+        "id": "202000058",
+        "teachers": [
+            "馬 昭平",
+            "皆川 龍博"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第一 p",
+        "id": "202000197",
+        "teachers": [
+            "綿引 芳之"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.F101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "科学・技術の最前線 a",
+        "id": "202000510",
+        "teachers": [
+            "一杉 太郎",
+            "平岡 裕章",
+            "山本 卓",
+            "納口 恭明",
+            "永田 聡",
+            "札野 順",
+            "齊藤 卓志"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P106",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第二 b",
+        "id": "202000207",
+        "teachers": [
+            "椎野 克"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.F101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "科学・技術の最前線 b",
+        "id": "202000511",
+        "teachers": [
+            "竹山 雅夫",
+            "若山 正人",
+            "小島 定吉",
+            "落合 博",
+            "児玉 親亮",
+            "高瀬 覚",
+            "木舩 尚子",
+            "藤澤 俊雄",
+            "陸 鐘驍",
+            "札野 順",
+            "齊藤 卓志"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.D111",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "図学・図形デザイン第一",
+        "id": "202000456",
+        "teachers": [
+            "安田 幸一",
+            "奥山 信一",
+            "塚本 由晴",
+            "山崎 鯛介",
+            "村田 涼",
+            "塩崎 太伸",
+            "那須 聖",
+            "香月 歩",
+            "佐々木 啓"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P107",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学実験第一",
+        "id": "202000216",
+        "teachers": [
+            "陣内 修",
+            "平山 博之",
+            "谷津 陽一",
+            "森竹 勇斗",
+            "栗田 伸之",
+            "谷城 康眞",
+            "秦 徳郎",
+            "山崎 詩郎",
+            "生出 秀行",
+            "菊地 俊行"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.D103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "図形科学とCG1 A",
+        "id": "202024828",
+        "teachers": [
+            "岩附 信行",
+            "菅原 雄介",
+            "早川 朋久",
+            "鈴木 左文",
+            "渡辺 義浩",
+            "木村 仁",
+            "池田 生馬"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎１ K",
+        "id": "202000124",
+        "teachers": [
+            "椎野 克"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I111",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第一 1a(IL1)",
+        "id": "202007164",
+        "teachers": [
+            "新山 祐介"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.M101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "微分積分学第一・演習 H（48～53）",
+        "id": "202000065",
+        "teachers": [
+            "馬 昭平",
+            "皆川 龍博"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "量子化学基礎 K",
+        "id": "202000276",
+        "teachers": [
+            "石川 謙"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第一 f",
+        "id": "202000193",
+        "teachers": [
+            "綿引 芳之"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎２ K",
+        "id": "202000140",
+        "teachers": [
+            "椎野 克"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎１ L",
+        "id": "202000128",
+        "teachers": [
+            "綿引 芳之"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎１ G",
+        "id": "202000164",
+        "teachers": [
+            "足立 聡"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C112",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "化学実験第二 A",
+        "id": "202000312",
+        "teachers": [
+            "小松 隆之",
+            "豊田 真司",
+            "小澤 健一",
+            "大塚 拓洋",
+            "藤井 孝太郎",
+            "鶴巻 英治",
+            "高山 大鑑",
+            "山科 雅裕"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.B105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎実験 金Ⅰ",
+        "id": "202000352",
+        "teachers": [
+            "本郷 裕一",
+            "福居 俊昭",
+            "田守 正樹",
+            "八波 利恵",
+            "二階堂 雅人",
+            "桑原 宏和",
+            "長澤 竜樹"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P104",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎２ L",
+        "id": "202000179",
+        "teachers": [
+            "石塚 大晃"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "微分積分学第二 T(71～80)",
+        "id": "202000091",
+        "teachers": [
+            "川内 毅"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第一 l",
+        "id": "202000192",
+        "teachers": [
+            "綿引 芳之"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎２ B",
+        "id": "202000147",
+        "teachers": [
+            "椎野 克"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.F101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "科学・技術の最前線 d",
+        "id": "202000513",
+        "teachers": [
+            "竹山 雅夫",
+            "若山 正人",
+            "岩坂 照之",
+            "小島 定吉",
+            "山本 卓",
+            "武田 朗子",
+            "札野 順",
+            "齊藤 卓志"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎１ P",
+        "id": "202000133",
+        "teachers": [
+            "綿引 芳之"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C107",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "化学熱力学基礎 M",
+        "id": "202000298",
+        "teachers": [
+            "西野 智昭"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.I122",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "コンピュータサイエンス第二 1b(CS2)",
+        "id": "202007213",
+        "teachers": [
+            "DEFAGO XAVIER"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎２ C",
+        "id": "202000136",
+        "teachers": [
+            "上妻 幹旺"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎１ B",
+        "id": "202000131",
+        "teachers": [
+            "椎野 克"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎２ P",
+        "id": "202000149",
+        "teachers": [
+            "綿引 芳之"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.M101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "微分積分学第一・演習 I（54～60）",
+        "id": "202000066",
+        "teachers": [
+            "川内 毅"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.M106",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "線形代数学第二 M(1～10)",
+        "id": "202000093",
+        "teachers": [
+            "村山 光孝"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎１ H",
+        "id": "202000166",
+        "teachers": [
+            "河村 徹"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P104",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎２ J",
+        "id": "202000173",
+        "teachers": [
+            "平山 博之"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P104",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎２ B",
+        "id": "202000175",
+        "teachers": [
+            "椎野 克"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第一 b",
+        "id": "202000195",
+        "teachers": [
+            "椎野 克"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.M106",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "線形代数学第二 O(21～30)",
+        "id": "202000095",
+        "teachers": [
+            "梶原 健"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "微分積分学第二 P(31～40)",
+        "id": "202000087",
+        "teachers": [
+            "梶原 健"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "微分積分学第一・演習 B(8～13)",
+        "id": "202000059",
+        "teachers": [
+            "KALMAN TAMAS",
+            "染川 睦郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "有機化学基礎 K",
+        "id": "202000256",
+        "teachers": [
+            "豊田 真司"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.A101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "宇宙地球科学Ａ B",
+        "id": "202002775",
+        "teachers": [
+            "中本 泰史",
+            "中島 淳一",
+            "奥住 聡",
+            "横山 哲也",
+            "佐藤 文衛",
+            "上野 雄一郎",
+            "太田 健二",
+            "石川 晃",
+            "井田 茂",
+            "玄田 英典",
+            "関根 康人"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎１ O",
+        "id": "202000152",
+        "teachers": [
+            "足立 聡"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎１ A",
+        "id": "202000153",
+        "teachers": [
+            "相川 清隆"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎１ E",
+        "id": "202000155",
+        "teachers": [
+            "吉野 淳二"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P108",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学実験第二 Thu3Q",
+        "id": "202000222",
+        "teachers": [
+            "陣内 修",
+            "平山 博之",
+            "谷津 陽一",
+            "森竹 勇斗",
+            "栗田 伸之",
+            "谷城 康眞",
+            "秦 徳郎",
+            "山崎 詩郎",
+            "菊地 俊行"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C107",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "化学熱力学基礎 I",
+        "id": "202000294",
+        "teachers": [
+            "前田 和彦"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.I121",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "コンピュータサイエンス第一 1b(CS1)",
+        "id": "202007201",
+        "teachers": [
+            "DEFAGO XAVIER"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P106",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第二 c",
+        "id": "202000206",
+        "teachers": [
+            "宗片 比呂夫"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P106",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第二 l",
+        "id": "202000211",
+        "teachers": [
+            "石塚 大晃"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.B104",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第二２ A",
+        "id": "202000344",
+        "teachers": [
+            "本郷 裕一",
+            "二階堂 雅人",
+            "近藤 科江",
+            "長澤 竜樹",
+            "田守 正樹"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.B104",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第二２ F",
+        "id": "202000349",
+        "teachers": [
+            "本郷 裕一",
+            "二階堂 雅人",
+            "近藤 科江",
+            "長澤 竜樹",
+            "田守 正樹"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.I122",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "コンピュータサイエンス第二 1a(CS2)",
+        "id": "202007212",
+        "teachers": [
+            "脇田 建"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.B102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第一２ D",
+        "id": "202000331",
+        "teachers": [
+            "福居 俊昭",
+            "宮下 英三",
+            "増田 真二",
+            "伊藤 武彦",
+            "折原 芳波",
+            "加藤 明",
+            "鈴木 崇之",
+            "藤田 尚信",
+            "八波 利恵",
+            "山本 直之",
+            "若林 憲一"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.M102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "線形代数学第一・演習 K(68～73)",
+        "id": "202000081",
+        "teachers": [
+            "遠藤 久顕",
+            "坂本 祥太"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "微分積分学第一・演習 K（68～73）",
+        "id": "202000068",
+        "teachers": [
+            "野坂 武史",
+            "田辺 正晴"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.E101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "環境安全論 B",
+        "id": "202000503",
+        "teachers": [
+            "小野 公輔",
+            "錦澤 滋雄",
+            "木村 好里",
+            "笹部 崇",
+            "福居 俊昭",
+            "近藤 正聡"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎２ N",
+        "id": "202000150",
+        "teachers": [
+            "松下 道雄"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎１ L",
+        "id": "202000163",
+        "teachers": [
+            "石塚 大晃"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎１ I",
+        "id": "202000167",
+        "teachers": [
+            "TILMA TODD EDWARD"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.B103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第二１ A",
+        "id": "202000336",
+        "teachers": [
+            "山口 雄輝",
+            "田口 英樹",
+            "木村 宏",
+            "小倉 俊一郎",
+            "太田 啓之",
+            "北口 哲也",
+            "粂 昭苑"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P106",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第二 a",
+        "id": "202000201",
+        "teachers": [
+            "相川 清隆"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P106",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第二 h",
+        "id": "202000214",
+        "teachers": [
+            "河村 徹"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.D112",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "図学・図形デザイン第二",
+        "id": "202000457",
+        "teachers": [
+            "安田 幸一",
+            "奥山 信一",
+            "塚本 由晴",
+            "山崎 鯛介",
+            "村田 涼",
+            "塩崎 太伸",
+            "香月 歩",
+            "佐々木 啓"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.R101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "ものつくり",
+        "id": "202000027",
+        "teachers": [
+            "間中 孝彰",
+            "齊藤 卓志"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.F101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "科学・技術の最前線 c",
+        "id": "202000512",
+        "teachers": [
+            "一杉 太郎",
+            "塚越 秀行",
+            "平岡 裕章",
+            "山本 卓",
+            "納口 恭明",
+            "札野 順",
+            "齊藤 卓志"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎２ L",
+        "id": "202000144",
+        "teachers": [
+            "綿引 芳之"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I121",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "コンピュータサイエンス第一 5a(CS1)",
+        "id": "202007208",
+        "teachers": [
+            "新山 祐介"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.A112",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "宇宙地球科学基礎ラボ（天文宇宙） A",
+        "id": "202002780",
+        "teachers": [
+            "佐藤 文衛",
+            "大宮 正士",
+            "植田 高啓"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "微分積分学第二 M(1～10)",
+        "id": "202000084",
+        "teachers": [
+            "土岡 俊介"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "線形代数学第一・演習 A（1～7）",
+        "id": "202000071",
+        "teachers": [
+            "村山 光孝",
+            "柴田 将敬"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P108",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学実験第二 Mon4Q",
+        "id": "202030557",
+        "teachers": [
+            "陣内 修",
+            "平山 博之",
+            "谷津 陽一",
+            "森竹 勇斗",
+            "栗田 伸之",
+            "谷城 康眞",
+            "秦 徳郎",
+            "山崎 詩郎",
+            "菊地 俊行"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.D113",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "図学製図",
+        "id": "202000458",
+        "teachers": [
+            "安田 幸一",
+            "奥山 信一",
+            "塚本 由晴",
+            "山崎 鯛介",
+            "村田 涼",
+            "塩崎 太伸",
+            "香月 歩",
+            "佐々木 啓"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C110",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "化学実験第一 E",
+        "id": "202030303",
+        "teachers": [
+            "小松 隆之",
+            "豊田 真司",
+            "小澤 健一",
+            "大塚 拓洋",
+            "藤井 孝太郎",
+            "鶴巻 英治",
+            "高山 大鑑",
+            "山科 雅裕"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.B101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第一１ B",
+        "id": "202000321",
+        "teachers": [
+            "本郷 裕一",
+            "福居 俊昭",
+            "岩崎 博史",
+            "中戸川 仁",
+            "中村 信大",
+            "田中 幹子",
+            "立花 和則",
+            "下嶋 美恵"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎１ D",
+        "id": "202000122",
+        "teachers": [
+            "相川 清隆"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎１ J",
+        "id": "202000123",
+        "teachers": [
+            "須山 輝明"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "有機化学基礎 F",
+        "id": "202000249",
+        "teachers": [
+            "鷹谷 絢"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I112",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第二 5a(IL2)",
+        "id": "202007194",
+        "teachers": [
+            "DEFAGO XAVIER"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎１ M",
+        "id": "202000160",
+        "teachers": [
+            "横山 毅人"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "量子化学基礎 English Class",
+        "id": "202000272",
+        "teachers": [
+            "JUHASZ GERGELY MIKLOS"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I121",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "コンピュータサイエンス第一 2b(CS1)",
+        "id": "202007203",
+        "teachers": [
+            "DEFAGO XAVIER"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C112",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "化学実験第二 D",
+        "id": "202000315",
+        "teachers": [
+            "小松 隆之",
+            "豊田 真司",
+            "小澤 健一",
+            "大塚 拓洋",
+            "藤井 孝太郎",
+            "鶴巻 英治",
+            "高山 大鑑",
+            "山科 雅裕"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.B105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎実験 月Ⅰ",
+        "id": "202000354",
+        "teachers": [
+            "本郷 裕一",
+            "福居 俊昭",
+            "田守 正樹",
+            "八波 利恵",
+            "二階堂 雅人",
+            "桑原 宏和",
+            "長澤 竜樹"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M106",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "線形代数学第二 Q(41～50)",
+        "id": "202000097",
+        "teachers": [
+            "寺尾 宏明"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P104",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎２ E",
+        "id": "202000171",
+        "teachers": [
+            "吉野 淳二"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "量子化学基礎 M",
+        "id": "202000278",
+        "teachers": [
+            "小松 隆之"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.B104",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第二２ H",
+        "id": "202000351",
+        "teachers": [
+            "本郷 裕一",
+            "二階堂 雅人",
+            "近藤 科江",
+            "長澤 竜樹",
+            "田守 正樹"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.D104",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "図形科学とCG2 A",
+        "id": "202024829",
+        "teachers": [
+            "岩附 信行",
+            "菅原 雄介",
+            "早川 朋久",
+            "鈴木 左文",
+            "渡辺 義浩",
+            "木村 仁",
+            "池田 生馬"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.I121",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "コンピュータサイエンス第一 1a(CS1)",
+        "id": "202007200",
+        "teachers": [
+            "首藤 一幸"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M107",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "微分積分学演習第二 M(1～10)",
+        "id": "202000102",
+        "teachers": [
+            "柴田 将敬"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P108",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学実験第二 Fri4Q",
+        "id": "202030560",
+        "teachers": [
+            "陣内 修",
+            "平山 博之",
+            "谷津 陽一",
+            "森竹 勇斗",
+            "栗田 伸之",
+            "谷城 康眞",
+            "秦 徳郎",
+            "山崎 詩郎",
+            "菊地 俊行"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第一 c",
+        "id": "202000184",
+        "teachers": [
+            "上妻 幹旺"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.E101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "環境安全論 A",
+        "id": "202000506",
+        "teachers": [
+            "小野 公輔",
+            "末包 哲也",
+            "豊田 栄",
+            "福居 俊昭",
+            "湯淺 和博",
+            "小原 徹"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.B101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第一１ D",
+        "id": "202000323",
+        "teachers": [
+            "本郷 裕一",
+            "福居 俊昭",
+            "岩崎 博史",
+            "中戸川 仁",
+            "中村 信大",
+            "田中 幹子",
+            "立花 和則",
+            "下嶋 美恵"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.M101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "微分積分学第一・演習 G（41～47）",
+        "id": "202000064",
+        "teachers": [
+            "井上 尚夫",
+            "河井 真吾"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎１ M",
+        "id": "202000125",
+        "teachers": [
+            "河合 誠之"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "無機化学基礎 B",
+        "id": "202000225",
+        "teachers": [
+            "鎌田 慶吾",
+            "北野 政明"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "無機化学基礎 F",
+        "id": "202000229",
+        "teachers": [
+            "植草 秀裕"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "無機化学基礎 H",
+        "id": "202000231",
+        "teachers": [
+            "原田 誠"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.B101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第一１ G",
+        "id": "202000326",
+        "teachers": [
+            "本郷 裕一",
+            "福居 俊昭",
+            "岩崎 博史",
+            "中戸川 仁",
+            "中村 信大",
+            "田中 幹子",
+            "立花 和則",
+            "下嶋 美恵"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第一 a",
+        "id": "202000194",
+        "teachers": [
+            "陣内 修"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.M102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "線形代数学第一・演習 J(61～67)",
+        "id": "202000080",
+        "teachers": [
+            "遠藤 久顕",
+            "若林 泰央"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "無機化学基礎 J",
+        "id": "202000235",
+        "teachers": [
+            "鎌田 慶吾",
+            "北野 政明"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "有機化学基礎 D",
+        "id": "202000247",
+        "teachers": [
+            "豊田 真司"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C110",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "化学実験第一 A",
+        "id": "202000304",
+        "teachers": [
+            "小松 隆之",
+            "豊田 真司",
+            "小澤 健一",
+            "大塚 拓洋",
+            "藤井 孝太郎",
+            "鶴巻 英治",
+            "高山 大鑑",
+            "山科 雅裕"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.B102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第一２ G",
+        "id": "202000334",
+        "teachers": [
+            "福居 俊昭",
+            "宮下 英三",
+            "増田 真二",
+            "伊藤 武彦",
+            "折原 芳波",
+            "加藤 明",
+            "鈴木 崇之",
+            "藤田 尚信",
+            "八波 利恵",
+            "山本 直之",
+            "若林 憲一"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.A110",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "宇宙地球科学基礎ラボ（地球物理） A",
+        "id": "202002777",
+        "teachers": [
+            "岡元 太郎",
+            "松島 政貴"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.B102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第一２ K",
+        "id": "202008081",
+        "teachers": [
+            "TAKAHASHI MASAYUKI"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.M108",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "線形代数学演習第二 M(1～10)",
+        "id": "202000111",
+        "teachers": [
+            "皆川 龍博"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎１ D",
+        "id": "202000156",
+        "teachers": [
+            "中村 隆司"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎１ J",
+        "id": "202000157",
+        "teachers": [
+            "平山 博之"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎１ C",
+        "id": "202000158",
+        "teachers": [
+            "宗片 比呂夫"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎１ F",
+        "id": "202000165",
+        "teachers": [
+            "久世 正弘"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C107",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "化学熱力学基礎 L",
+        "id": "202000297",
+        "teachers": [
+            "北島 昌史"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.B103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第二１ C",
+        "id": "202000338",
+        "teachers": [
+            "山口 雄輝",
+            "田口 英樹",
+            "木村 宏",
+            "小倉 俊一郎",
+            "太田 啓之",
+            "北口 哲也",
+            "粂 昭苑"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.B103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第二１ E",
+        "id": "202000340",
+        "teachers": [
+            "山口 雄輝",
+            "田口 英樹",
+            "木村 宏",
+            "小倉 俊一郎",
+            "太田 啓之",
+            "北口 哲也",
+            "粂 昭苑"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.B103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第二１ F",
+        "id": "202000341",
+        "teachers": [
+            "山口 雄輝",
+            "田口 英樹",
+            "木村 宏",
+            "小倉 俊一郎",
+            "太田 啓之",
+            "北口 哲也",
+            "粂 昭苑"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.B103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第二１ H",
+        "id": "202000343",
+        "teachers": [
+            "山口 雄輝",
+            "田口 英樹",
+            "木村 宏",
+            "小倉 俊一郎",
+            "太田 啓之",
+            "北口 哲也",
+            "粂 昭苑"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P106",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第二 p",
+        "id": "202000202",
+        "teachers": [
+            "今村 洋介"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M106",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "線形代数学第二 T(71～80)",
+        "id": "202000100",
+        "teachers": [
+            "内藤 聡"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P104",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎２ O",
+        "id": "202000168",
+        "teachers": [
+            "足立 聡"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P104",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎２ A",
+        "id": "202000169",
+        "teachers": [
+            "相川 清隆"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P104",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎２ G",
+        "id": "202000180",
+        "teachers": [
+            "足立 聡"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P104",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎２ H",
+        "id": "202000182",
+        "teachers": [
+            "河村 徹"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C107",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "化学熱力学基礎 A",
+        "id": "202000284",
+        "teachers": [
+            "岡田 哲男"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C107",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "化学熱力学基礎 English Class",
+        "id": "202000292",
+        "teachers": [
+            "JUHASZ GERGELY MIKLOS"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.I122",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "コンピュータサイエンス第二 4a(CS2)",
+        "id": "202007218",
+        "teachers": [
+            "南出 靖彦"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.I111",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第一 6b(IL1)",
+        "id": "202007180",
+        "teachers": [
+            "伊知地 宏"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P107",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学実験第一 Tu",
+        "id": "202000217",
+        "teachers": [
+            "陣内 修",
+            "平山 博之",
+            "谷津 陽一",
+            "森竹 勇斗",
+            "栗田 伸之",
+            "谷城 康眞",
+            "秦 徳郎",
+            "山崎 詩郎",
+            "生出 秀行"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P107",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学実験第一 Th",
+        "id": "202000218",
+        "teachers": [
+            "陣内 修",
+            "平山 博之",
+            "谷津 陽一",
+            "森竹 勇斗",
+            "栗田 伸之",
+            "谷城 康眞",
+            "秦 徳郎",
+            "山崎 詩郎",
+            "生出 秀行"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "有機化学基礎 G",
+        "id": "202000250",
+        "teachers": [
+            "大森 建"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I122",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "コンピュータサイエンス第二 5a(CS2)",
+        "id": "202007220",
+        "teachers": [
+            "新山 祐介"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "量子化学基礎 F",
+        "id": "202000269",
+        "teachers": [
+            "穂坂 綱一"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P108",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学実験第二 Thu4Q",
+        "id": "202030559",
+        "teachers": [
+            "陣内 修",
+            "平山 博之",
+            "谷津 陽一",
+            "森竹 勇斗",
+            "栗田 伸之",
+            "谷城 康眞",
+            "秦 徳郎",
+            "山崎 詩郎",
+            "菊地 俊行"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎１ C",
+        "id": "202000120",
+        "teachers": [
+            "上妻 幹旺"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C110",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "化学実験第一 F",
+        "id": "202030304",
+        "teachers": [
+            "小松 隆之",
+            "豊田 真司",
+            "小澤 健一",
+            "大塚 拓洋",
+            "藤井 孝太郎",
+            "鶴巻 英治",
+            "高山 大鑑",
+            "山科 雅裕"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C110",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "化学実験第一 G",
+        "id": "202030305",
+        "teachers": [
+            "小松 隆之",
+            "豊田 真司",
+            "小澤 健一",
+            "大塚 拓洋",
+            "藤井 孝太郎",
+            "鶴巻 英治",
+            "高山 大鑑",
+            "山科 雅裕"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C110",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "化学実験第一 H",
+        "id": "202030306",
+        "teachers": [
+            "小松 隆之",
+            "豊田 真司",
+            "小澤 健一",
+            "大塚 拓洋",
+            "藤井 孝太郎",
+            "鶴巻 英治",
+            "高山 大鑑",
+            "山科 雅裕"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "有機化学基礎 J",
+        "id": "202000255",
+        "teachers": [
+            "佐藤 浩太郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第一 j",
+        "id": "202000187",
+        "teachers": [
+            "須山 輝明"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.B102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第一２ C",
+        "id": "202000330",
+        "teachers": [
+            "福居 俊昭",
+            "宮下 英三",
+            "増田 真二",
+            "伊藤 武彦",
+            "折原 芳波",
+            "加藤 明",
+            "鈴木 崇之",
+            "藤田 尚信",
+            "八波 利恵",
+            "山本 直之",
+            "若林 憲一"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.B102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第一２ B",
+        "id": "202000329",
+        "teachers": [
+            "福居 俊昭",
+            "宮下 英三",
+            "増田 真二",
+            "伊藤 武彦",
+            "折原 芳波",
+            "加藤 明",
+            "鈴木 崇之",
+            "藤田 尚信",
+            "八波 利恵",
+            "山本 直之",
+            "若林 憲一"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.B102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第一２ A",
+        "id": "202000328",
+        "teachers": [
+            "福居 俊昭",
+            "宮下 英三",
+            "増田 真二",
+            "伊藤 武彦",
+            "折原 芳波",
+            "加藤 明",
+            "鈴木 崇之",
+            "藤田 尚信",
+            "八波 利恵",
+            "山本 直之",
+            "若林 憲一"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.B102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第一２ H",
+        "id": "202000335",
+        "teachers": [
+            "福居 俊昭",
+            "宮下 英三",
+            "増田 真二",
+            "伊藤 武彦",
+            "折原 芳波",
+            "加藤 明",
+            "鈴木 崇之",
+            "藤田 尚信",
+            "八波 利恵",
+            "山本 直之",
+            "若林 憲一"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.B101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第一１ A",
+        "id": "202000320",
+        "teachers": [
+            "本郷 裕一",
+            "福居 俊昭",
+            "岩崎 博史",
+            "中戸川 仁",
+            "中村 信大",
+            "田中 幹子",
+            "立花 和則",
+            "下嶋 美恵"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.M101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "微分積分学第一・演習 D(21～27)",
+        "id": "202000061",
+        "teachers": [
+            "小野寺 有紹",
+            "坂本 祥太"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎１ O",
+        "id": "202000121",
+        "teachers": [
+            "金森 英人"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎１ H",
+        "id": "202000132",
+        "teachers": [
+            "谷城 康眞"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎１ N",
+        "id": "202000134",
+        "teachers": [
+            "松下 道雄"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "無機化学基礎 C",
+        "id": "202000226",
+        "teachers": [
+            "穐田 宗隆",
+            "豊田 栄"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "無機化学基礎 E",
+        "id": "202000228",
+        "teachers": [
+            "石谷 治"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "無機化学基礎 G",
+        "id": "202000230",
+        "teachers": [
+            "関根 あき子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "無機化学基礎 English Class",
+        "id": "202000232",
+        "teachers": [
+            "JUHASZ GERGELY MIKLOS"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "有機化学基礎 M",
+        "id": "202000258",
+        "teachers": [
+            "江口 正"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "有機化学基礎 O",
+        "id": "202000260",
+        "teachers": [
+            "鷹谷 絢"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.B101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第一１ F",
+        "id": "202000325",
+        "teachers": [
+            "本郷 裕一",
+            "福居 俊昭",
+            "岩崎 博史",
+            "中戸川 仁",
+            "中村 信大",
+            "田中 幹子",
+            "立花 和則",
+            "下嶋 美恵"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.B101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第一１ H",
+        "id": "202000327",
+        "teachers": [
+            "本郷 裕一",
+            "福居 俊昭",
+            "岩崎 博史",
+            "中戸川 仁",
+            "中村 信大",
+            "田中 幹子",
+            "立花 和則",
+            "下嶋 美恵"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.A101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "宇宙地球科学Ａ A",
+        "id": "202002774",
+        "teachers": [
+            "中本 泰史",
+            "中島 淳一",
+            "奥住 聡",
+            "横山 哲也",
+            "佐藤 文衛",
+            "上野 雄一郎",
+            "太田 健二",
+            "石川 晃",
+            "井田 茂",
+            "玄田 英典",
+            "関根 康人"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第一 o",
+        "id": "202000185",
+        "teachers": [
+            "金森 英人"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第一 d",
+        "id": "202000186",
+        "teachers": [
+            "相川 清隆"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第一 i",
+        "id": "202000199",
+        "teachers": [
+            "TILMA TODD EDWARD"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.M102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "線形代数学第一・演習 D（21～27）",
+        "id": "202000074",
+        "teachers": [
+            "梶原 健",
+            "田辺 正晴"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.M102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "線形代数学第一・演習 E（28～33）",
+        "id": "202000075",
+        "teachers": [
+            "鈴木 咲衣",
+            "長町 一平"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.M102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "線形代数学第一・演習 F（34～40）",
+        "id": "202000076",
+        "teachers": [
+            "野坂 武史",
+            "長町 一平"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.M102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "線形代数学第一・演習 G(41～47)",
+        "id": "202000077",
+        "teachers": [
+            "寺尾 宏明",
+            "河井 真吾"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎２ O",
+        "id": "202000137",
+        "teachers": [
+            "金森 英人"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎２ D",
+        "id": "202000138",
+        "teachers": [
+            "相川 清隆"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎２ E",
+        "id": "202000142",
+        "teachers": [
+            "吉野 淳二"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎２ I",
+        "id": "202000151",
+        "teachers": [
+            "TILMA TODD EDWARD"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "無機化学基礎 P",
+        "id": "202000241",
+        "teachers": [
+            "石谷 治"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C110",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "化学実験第一 B",
+        "id": "202000305",
+        "teachers": [
+            "小松 隆之",
+            "豊田 真司",
+            "小澤 健一",
+            "大塚 拓洋",
+            "藤井 孝太郎",
+            "鶴巻 英治",
+            "高山 大鑑",
+            "山科 雅裕"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C110",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "化学実験第一 C",
+        "id": "202000306",
+        "teachers": [
+            "小松 隆之",
+            "豊田 真司",
+            "小澤 健一",
+            "大塚 拓洋",
+            "藤井 孝太郎",
+            "鶴巻 英治",
+            "高山 大鑑",
+            "山科 雅裕"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C110",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "化学実験第一 D",
+        "id": "202000307",
+        "teachers": [
+            "小松 隆之",
+            "豊田 真司",
+            "小澤 健一",
+            "大塚 拓洋",
+            "藤井 孝太郎",
+            "鶴巻 英治",
+            "高山 大鑑",
+            "山科 雅裕"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M106",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "線形代数学第二 P(31～40)",
+        "id": "202000096",
+        "teachers": [
+            "野坂 武史"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M106",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "線形代数学第二 X",
+        "id": "202000101",
+        "teachers": [
+            "PURKAIT SOMA"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M107",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "微分積分学演習第二 R(51～60)",
+        "id": "202000107",
+        "teachers": [
+            "坂本 祥太"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎１ N",
+        "id": "202000161",
+        "teachers": [
+            "藤岡 宏之"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P108",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学実験第二 Mon3Q",
+        "id": "202000220",
+        "teachers": [
+            "陣内 修",
+            "平山 博之",
+            "谷津 陽一",
+            "森竹 勇斗",
+            "栗田 伸之",
+            "谷城 康眞",
+            "秦 徳郎",
+            "山崎 詩郎",
+            "菊地 俊行"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P108",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学実験第二 Tue3Q",
+        "id": "202000221",
+        "teachers": [
+            "陣内 修",
+            "平山 博之",
+            "谷津 陽一",
+            "森竹 勇斗",
+            "栗田 伸之",
+            "谷城 康眞",
+            "秦 徳郎",
+            "山崎 詩郎",
+            "菊地 俊行"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P108",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学実験第二 Fri3Q",
+        "id": "202000223",
+        "teachers": [
+            "陣内 修",
+            "平山 博之",
+            "谷津 陽一",
+            "森竹 勇斗",
+            "栗田 伸之",
+            "谷城 康眞",
+            "秦 徳郎",
+            "山崎 詩郎",
+            "菊地 俊行"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.B103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第二１ B",
+        "id": "202000337",
+        "teachers": [
+            "山口 雄輝",
+            "田口 英樹",
+            "木村 宏",
+            "小倉 俊一郎",
+            "太田 啓之",
+            "北口 哲也",
+            "粂 昭苑"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.I121",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "コンピュータサイエンス第一 6a(CS1)",
+        "id": "202007210",
+        "teachers": [
+            "滝本 宗宏",
+            "西崎 真也",
+            "増原 英彦"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.D103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "図形科学とCG1 B",
+        "id": "202026586",
+        "teachers": [
+            "岩附 信行",
+            "菅原 雄介",
+            "早川 朋久",
+            "鈴木 左文",
+            "渡辺 義浩",
+            "木村 仁",
+            "池田 生馬"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P106",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第二 e",
+        "id": "202000203",
+        "teachers": [
+            "吉野 淳二"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P106",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第二 j",
+        "id": "202000205",
+        "teachers": [
+            "平山 博之"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P106",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第二 g",
+        "id": "202000212",
+        "teachers": [
+            "足立 聡"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P106",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第二 i",
+        "id": "202000215",
+        "teachers": [
+            "TILMA TODD EDWARD"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C112",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "化学実験第二 C",
+        "id": "202000314",
+        "teachers": [
+            "小松 隆之",
+            "豊田 真司",
+            "小澤 健一",
+            "大塚 拓洋",
+            "藤井 孝太郎",
+            "鶴巻 英治",
+            "高山 大鑑",
+            "山科 雅裕"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "微分積分学第二 N(11～20)",
+        "id": "202000085",
+        "teachers": [
+            "川平 友規"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M106",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "線形代数学第二 R(51～60)",
+        "id": "202000098",
+        "teachers": [
+            "加藤 文元"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M107",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "微分積分学演習第二 P(31～40)",
+        "id": "202000105",
+        "teachers": [
+            "河井 真吾"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M108",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "線形代数学演習第二 S(61～70)",
+        "id": "202000117",
+        "teachers": [
+            "橋本 義規"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P104",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎２ C",
+        "id": "202000174",
+        "teachers": [
+            "宗片 比呂夫"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P104",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎２ K",
+        "id": "202000178",
+        "teachers": [
+            "谷津 陽一"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "量子化学基礎 I",
+        "id": "202000274",
+        "teachers": [
+            "大島 康裕"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "量子化学基礎 P",
+        "id": "202000281",
+        "teachers": [
+            "長村 吉洋"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C107",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "化学熱力学基礎 B",
+        "id": "202000285",
+        "teachers": [
+            "前田 和彦"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C107",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "化学熱力学基礎 F",
+        "id": "202000289",
+        "teachers": [
+            "河村 憲一"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C107",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "化学熱力学基礎 H",
+        "id": "202000291",
+        "teachers": [
+            "石内 俊一"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.B104",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第二２ C",
+        "id": "202000346",
+        "teachers": [
+            "本郷 裕一",
+            "二階堂 雅人",
+            "近藤 科江",
+            "長澤 竜樹",
+            "田守 正樹"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.B104",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第二２ D",
+        "id": "202000347",
+        "teachers": [
+            "本郷 裕一",
+            "二階堂 雅人",
+            "近藤 科江",
+            "長澤 竜樹",
+            "田守 正樹"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.B104",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第二２ G",
+        "id": "202000350",
+        "teachers": [
+            "本郷 裕一",
+            "二階堂 雅人",
+            "近藤 科江",
+            "長澤 竜樹",
+            "田守 正樹"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I122",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "コンピュータサイエンス第二 2b(CS2)",
+        "id": "202007215",
+        "teachers": [
+            "DEFAGO XAVIER"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎２ F",
+        "id": "202000145",
+        "teachers": [
+            "綿引 芳之"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P107",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学実験第一 Fr",
+        "id": "202000219",
+        "teachers": [
+            "陣内 修",
+            "平山 博之",
+            "谷津 陽一",
+            "森竹 勇斗",
+            "栗田 伸之",
+            "谷城 康眞",
+            "秦 徳郎",
+            "山崎 詩郎",
+            "生出 秀行"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I112",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第二 6b(IL2)",
+        "id": "202007198",
+        "teachers": [
+            "伊知地 宏"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.I121",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "コンピュータサイエンス第一 2a(CS1)",
+        "id": "202007202",
+        "teachers": [
+            "首藤 一幸"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P108",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学実験第二 Tue4Q",
+        "id": "202030558",
+        "teachers": [
+            "陣内 修",
+            "平山 博之",
+            "谷津 陽一",
+            "森竹 勇斗",
+            "栗田 伸之",
+            "谷城 康眞",
+            "秦 徳郎",
+            "山崎 詩郎",
+            "菊地 俊行"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.B101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第一１ E",
+        "id": "202000324",
+        "teachers": [
+            "本郷 裕一",
+            "福居 俊昭",
+            "岩崎 博史",
+            "中戸川 仁",
+            "中村 信大",
+            "田中 幹子",
+            "立花 和則",
+            "下嶋 美恵"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.M101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "微分積分学第一・演習 E(28～33)",
+        "id": "202000062",
+        "teachers": [
+            "藤川 英華",
+            "長町 一平"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.M101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "微分積分学第一・演習 F(34～40)",
+        "id": "202000063",
+        "teachers": [
+            "柴田 将敬",
+            "長町 一平"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.M101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "微分積分学第一・演習 J（61～67）",
+        "id": "202000067",
+        "teachers": [
+            "谷田川 友里",
+            "正井 秀俊"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.M101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "微分積分学第一・演習 L（74～80）",
+        "id": "202000069",
+        "teachers": [
+            "鈴木 正俊",
+            "若林 泰央"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎１ G",
+        "id": "202000127",
+        "teachers": [
+            "大熊 哲"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "無機化学基礎 A",
+        "id": "202000224",
+        "teachers": [
+            "川口 博之"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "有機化学基礎 I",
+        "id": "202000254",
+        "teachers": [
+            "工藤 史貴"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.E101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "環境安全論 A",
+        "id": "202000502",
+        "teachers": [
+            "小野 公輔",
+            "末包 哲也",
+            "豊田 栄",
+            "小倉 俊一郎",
+            "鼎 信次郎",
+            "小原 徹"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I111",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第一 1b(IL1)",
+        "id": "202007165",
+        "teachers": [
+            "田中 圭介"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I111",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第一 4b(IL1)",
+        "id": "202007174",
+        "teachers": [
+            "小林 憲正",
+            "小宮 健"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第一 e",
+        "id": "202000190",
+        "teachers": [
+            "吉野 淳二"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第一 g",
+        "id": "202000191",
+        "teachers": [
+            "大熊 哲"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第一 n",
+        "id": "202000198",
+        "teachers": [
+            "松下 道雄"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎２ G",
+        "id": "202000143",
+        "teachers": [
+            "大熊 哲"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎２ A",
+        "id": "202000146",
+        "teachers": [
+            "陣内 修"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "無機化学基礎 L",
+        "id": "202000237",
+        "teachers": [
+            "玉置 悠祐",
+            "高山 大鑑"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "有機化学基礎 B",
+        "id": "202000245",
+        "teachers": [
+            "冨田 育義",
+            "稲木 信介"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.B102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第一２ E",
+        "id": "202000332",
+        "teachers": [
+            "福居 俊昭",
+            "宮下 英三",
+            "増田 真二",
+            "伊藤 武彦",
+            "折原 芳波",
+            "加藤 明",
+            "鈴木 崇之",
+            "藤田 尚信",
+            "八波 利恵",
+            "山本 直之",
+            "若林 憲一"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.E101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "環境安全論 B",
+        "id": "202000507",
+        "teachers": [
+            "小野 公輔",
+            "笹部 崇",
+            "立花 和則",
+            "木村 好里",
+            "村山 武彦",
+            "近藤 正聡"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.A110",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "宇宙地球科学基礎ラボ（地球物理） B",
+        "id": "202002778",
+        "teachers": [
+            "岡元 太郎",
+            "松島 政貴"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I112",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第二 1a(IL2)",
+        "id": "202007182",
+        "teachers": [
+            "新山 祐介"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I112",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第二 2b(IL2)",
+        "id": "202007186",
+        "teachers": [
+            "永藤 直行"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I112",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第二 EN(IL2)",
+        "id": "202011488",
+        "teachers": [
+            "BONNET FRANCOIS PIERRE ANDRE"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.M107",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "微分積分学演習第二 Q(41～50)",
+        "id": "202000106",
+        "teachers": [
+            "河井 真吾"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M107",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "微分積分学演習第二 S(61～70)",
+        "id": "202000108",
+        "teachers": [
+            "坂本 祥太"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M108",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "線形代数学演習第二 N(11～20)",
+        "id": "202000112",
+        "teachers": [
+            "若林 泰央"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M108",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "線形代数学演習第二 O(21～30)",
+        "id": "202000113",
+        "teachers": [
+            "若林 泰央"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎１ P",
+        "id": "202000154",
+        "teachers": [
+            "今村 洋介"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "量子化学基礎 B",
+        "id": "202000265",
+        "teachers": [
+            "小松 隆之"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "量子化学基礎 D",
+        "id": "202000267",
+        "teachers": [
+            "中村 吉男"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "量子化学基礎 G",
+        "id": "202000270",
+        "teachers": [
+            "大島 康裕"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C107",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "化学熱力学基礎 N",
+        "id": "202000299",
+        "teachers": [
+            "北島 昌史"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C107",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "化学熱力学基礎 O",
+        "id": "202000300",
+        "teachers": [
+            "石内 俊一"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.I121",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "コンピュータサイエンス第一 EN(CS1)",
+        "id": "202011489",
+        "teachers": [
+            "BONNET FRANCOIS PIERRE ANDRE"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P106",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第二 f",
+        "id": "202000213",
+        "teachers": [
+            "久世 正弘"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C112",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "化学実験第二 B",
+        "id": "202000313",
+        "teachers": [
+            "小松 隆之",
+            "豊田 真司",
+            "小澤 健一",
+            "大塚 拓洋",
+            "藤井 孝太郎",
+            "鶴巻 英治",
+            "高山 大鑑",
+            "山科 雅裕"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.B105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎実験 金Ⅱ",
+        "id": "202000353",
+        "teachers": [
+            "本郷 裕一",
+            "福居 俊昭",
+            "田守 正樹",
+            "八波 利恵",
+            "二階堂 雅人",
+            "桑原 宏和",
+            "長澤 竜樹"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M108",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "線形代数学演習第二 R(51～60)",
+        "id": "202000116",
+        "teachers": [
+            "長町 一平"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P104",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎２ I",
+        "id": "202000183",
+        "teachers": [
+            "TILMA TODD EDWARD"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "量子化学基礎 J",
+        "id": "202000275",
+        "teachers": [
+            "腰原 伸也"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "量子化学基礎 L",
+        "id": "202000277",
+        "teachers": [
+            "川本 正"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C107",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "化学熱力学基礎 E",
+        "id": "202000288",
+        "teachers": [
+            "福原 学"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.I122",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "コンピュータサイエンス第二 EN(CS2)",
+        "id": "202011490",
+        "teachers": [
+            "BONNET FRANCOIS PIERRE ANDRE"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.I111",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第一 5b(IL1)",
+        "id": "202007177",
+        "teachers": [
+            "伊知地 宏"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "有機化学基礎 A",
+        "id": "202000244",
+        "teachers": [
+            "大森 建"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "有機化学基礎 E",
+        "id": "202000248",
+        "teachers": [
+            "後藤 敬"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I121",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "コンピュータサイエンス第一 5b(CS1)",
+        "id": "202007209",
+        "teachers": [
+            "伊知地 宏",
+            "増原 英彦",
+            "西崎 真也"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M107",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "微分積分学演習第二 O(21～30)",
+        "id": "202000104",
+        "teachers": [
+            "三浦 達哉"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C107",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "化学熱力学基礎 C",
+        "id": "202000286",
+        "teachers": [
+            "西野 智昭"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I122",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "コンピュータサイエンス第二 2a(CS2)",
+        "id": "202007214",
+        "teachers": [
+            "脇田 建"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.I122",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "コンピュータサイエンス第二 5b(CS2)",
+        "id": "202007221",
+        "teachers": [
+            "伊知地 宏"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I122",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "コンピュータサイエンス第二 6b(CS2)",
+        "id": "202007223",
+        "teachers": [
+            "伊知地 宏"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎１ E",
+        "id": "202000126",
+        "teachers": [
+            "吉野 淳二"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "無機化学基礎 D",
+        "id": "202000227",
+        "teachers": [
+            "藤井 孝太郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "有機化学基礎 L",
+        "id": "202000257",
+        "teachers": [
+            "江口 正"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I111",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第一 3b(IL1)",
+        "id": "202007171",
+        "teachers": [
+            "増原 英彦"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I111",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第一 5a(IL1)",
+        "id": "202007176",
+        "teachers": [
+            "DEFAGO XAVIER"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.B101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第一１ K",
+        "id": "202008080",
+        "teachers": [
+            "TAKAHASHI MASAYUKI"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I111",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第一 EN(IL1)",
+        "id": "202011487",
+        "teachers": [
+            "BONNET FRANCOIS PIERRE ANDRE"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第一 m",
+        "id": "202000189",
+        "teachers": [
+            "河合 誠之"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第一 h",
+        "id": "202000196",
+        "teachers": [
+            "谷城 康眞"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.M102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "線形代数学第一・演習 H(48～53)",
+        "id": "202000078",
+        "teachers": [
+            "田口 雄一郎",
+            "正井 秀俊"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "線形代数学第一・演習 I(54～60)",
+        "id": "202000079",
+        "teachers": [
+            "服部 俊昭",
+            "坂本 祥太"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.M102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "線形代数学第一・演習 V",
+        "id": "202000083",
+        "teachers": [
+            "PURKAIT SOMA"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎２ M",
+        "id": "202000141",
+        "teachers": [
+            "河合 誠之"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "無機化学基礎 M",
+        "id": "202000238",
+        "teachers": [
+            "植草 秀裕"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "無機化学基礎 N",
+        "id": "202000239",
+        "teachers": [
+            "河野 正規"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "有機化学基礎 English Class",
+        "id": "202000252",
+        "teachers": [
+            "JUHASZ GERGELY MIKLOS"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.B102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第一２ F",
+        "id": "202000333",
+        "teachers": [
+            "福居 俊昭",
+            "宮下 英三",
+            "増田 真二",
+            "伊藤 武彦",
+            "折原 芳波",
+            "加藤 明",
+            "鈴木 崇之",
+            "藤田 尚信",
+            "八波 利恵",
+            "山本 直之",
+            "若林 憲一"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.A111",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "宇宙地球科学基礎ラボ（地球物質）",
+        "id": "202002779",
+        "teachers": [
+            "太田 健二",
+            "東 真太郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I112",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第二 3b(IL2)",
+        "id": "202007189",
+        "teachers": [
+            "増原 英彦"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I112",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第二 4b(IL2)",
+        "id": "202007192",
+        "teachers": [
+            "小林 憲正",
+            "小宮 健"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.M105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "微分積分学第二 R(51～60)",
+        "id": "202000089",
+        "teachers": [
+            "柴田 将敬"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M108",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "線形代数学演習第二 P(31～40)",
+        "id": "202000114",
+        "teachers": [
+            "田辺 正晴"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M108",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "線形代数学演習第二 X",
+        "id": "202000119",
+        "teachers": [
+            "PURKAIT SOMA"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "量子化学基礎 A",
+        "id": "202000264",
+        "teachers": [
+            "沖本 洋一"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C107",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "化学熱力学基礎 K",
+        "id": "202000296",
+        "teachers": [
+            "福原 学"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.B103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第二１ D",
+        "id": "202000339",
+        "teachers": [
+            "山口 雄輝",
+            "田口 英樹",
+            "木村 宏",
+            "小倉 俊一郎",
+            "太田 啓之",
+            "北口 哲也",
+            "粂 昭苑"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I121",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "コンピュータサイエンス第一 3a(CS1)",
+        "id": "202007204",
+        "teachers": [
+            "熊澤 努"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.B103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第二１ K",
+        "id": "202008082",
+        "teachers": [
+            "TAKAHASHI MASAYUKI"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P106",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第二 o",
+        "id": "202000200",
+        "teachers": [
+            "足立 聡"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P106",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第二 n",
+        "id": "202000209",
+        "teachers": [
+            "藤岡 宏之"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.B105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎実験 月Ⅱ",
+        "id": "202000355",
+        "teachers": [
+            "本郷 裕一",
+            "福居 俊昭",
+            "田守 正樹",
+            "八波 利恵",
+            "二階堂 雅人",
+            "桑原 宏和",
+            "長澤 竜樹"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.M105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "微分積分学第二 O(21～30)",
+        "id": "202000086",
+        "teachers": [
+            "服部 俊昭"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "微分積分学第二 W",
+        "id": "202000092",
+        "teachers": [
+            "PURKAIT SOMA"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M108",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "線形代数学演習第二 Q(41～50)",
+        "id": "202000115",
+        "teachers": [
+            "皆川 龍博"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M108",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "線形代数学演習第二 T(71～80)",
+        "id": "202000118",
+        "teachers": [
+            "長町 一平"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P104",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎２ P",
+        "id": "202000170",
+        "teachers": [
+            "今村 洋介"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P104",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎２ D",
+        "id": "202000172",
+        "teachers": [
+            "中村 隆司"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P104",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎２ N",
+        "id": "202000177",
+        "teachers": [
+            "藤岡 宏之"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P104",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎２ F",
+        "id": "202000181",
+        "teachers": [
+            "久世 正弘"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "量子化学基礎 N",
+        "id": "202000279",
+        "teachers": [
+            "沖本 洋一"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C107",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "化学熱力学基礎 G",
+        "id": "202000290",
+        "teachers": [
+            "伊原 学"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.B104",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第二２ E",
+        "id": "202000348",
+        "teachers": [
+            "本郷 裕一",
+            "二階堂 雅人",
+            "近藤 科江",
+            "長澤 竜樹",
+            "田守 正樹"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.D104",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "図形科学とCG2 B",
+        "id": "202026588",
+        "teachers": [
+            "岩附 信行",
+            "菅原 雄介",
+            "早川 朋久",
+            "鈴木 左文",
+            "渡辺 義浩",
+            "木村 仁",
+            "池田 生馬"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "有機化学基礎 C",
+        "id": "202000246",
+        "teachers": [
+            "後藤 敬"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I112",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第二 5b(IL2)",
+        "id": "202007195",
+        "teachers": [
+            "伊知地 宏"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I122",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "コンピュータサイエンス第二 6a(CS2)",
+        "id": "202007222",
+        "teachers": [
+            "滝本 宗宏"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "無機化学基礎 O",
+        "id": "202000240",
+        "teachers": [
+            "大津 博義"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.B101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第一１ C",
+        "id": "202000322",
+        "teachers": [
+            "本郷 裕一",
+            "福居 俊昭",
+            "岩崎 博史",
+            "中戸川 仁",
+            "中村 信大",
+            "田中 幹子",
+            "立花 和則",
+            "下嶋 美恵"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎１ A",
+        "id": "202000130",
+        "teachers": [
+            "陣内 修"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎１ I",
+        "id": "202000135",
+        "teachers": [
+            "TILMA TODD EDWARD"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "有機化学基礎 N",
+        "id": "202000259",
+        "teachers": [
+            "工藤 史貴"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I111",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第一 2a(IL1)",
+        "id": "202007167",
+        "teachers": [
+            "滝本 宗宏",
+            "滝本 宗宏"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I111",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第一 6a(IL1)",
+        "id": "202007179",
+        "teachers": [
+            "永藤 直行"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "線形代数学第一・演習 L(74～80)",
+        "id": "202000082",
+        "teachers": [
+            "鈴木 正俊",
+            "河井 真吾"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎２ J",
+        "id": "202000139",
+        "teachers": [
+            "須山 輝明"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "無機化学基礎 K",
+        "id": "202000236",
+        "teachers": [
+            "川口 博之"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "有機化学基礎 H",
+        "id": "202000251",
+        "teachers": [
+            "田中 浩士"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I112",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第二 1b(IL2)",
+        "id": "202007183",
+        "teachers": [
+            "田中 圭介"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I112",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第二 3c(IL2)",
+        "id": "202007190",
+        "teachers": [
+            "仲道 嘉夫"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I112",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第二 5c(IL2)",
+        "id": "202007196",
+        "teachers": [
+            "地引 昌弘"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I112",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第二 6a(IL2)",
+        "id": "202007197",
+        "teachers": [
+            "永藤 直行"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.M105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "微分積分学第二 Q(41～50)",
+        "id": "202000088",
+        "teachers": [
+            "井上 尚夫"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M106",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "線形代数学第二 N(11～20)",
+        "id": "202000094",
+        "teachers": [
+            "本多 宣博"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "量子化学基礎 E",
+        "id": "202000268",
+        "teachers": [
+            "腰原 伸也"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C107",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "化学熱力学基礎 J",
+        "id": "202000295",
+        "teachers": [
+            "多湖 輝興"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.B103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第二１ G",
+        "id": "202000342",
+        "teachers": [
+            "山口 雄輝",
+            "田口 英樹",
+            "木村 宏",
+            "小倉 俊一郎",
+            "太田 啓之",
+            "北口 哲也",
+            "粂 昭苑"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I121",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "コンピュータサイエンス第一 4b(CS1)",
+        "id": "202007207",
+        "teachers": [
+            "永藤 直行"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P106",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第二 d",
+        "id": "202000204",
+        "teachers": [
+            "中村 隆司"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P106",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第二 m",
+        "id": "202000208",
+        "teachers": [
+            "横山 毅人"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P106",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "物理学演習第二 k",
+        "id": "202000210",
+        "teachers": [
+            "谷津 陽一"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M106",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "線形代数学第二 S(61～70)",
+        "id": "202000099",
+        "teachers": [
+            "大下 達也"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M107",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "微分積分学演習第二 N(11～20)",
+        "id": "202000103",
+        "teachers": [
+            "田辺 正晴"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.M107",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "微分積分学演習第二 W",
+        "id": "202000110",
+        "teachers": [
+            "PURKAIT SOMA"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C107",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "化学熱力学基礎 D",
+        "id": "202000287",
+        "teachers": [
+            "飯田 肇"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.B104",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第二２ B",
+        "id": "202000345",
+        "teachers": [
+            "本郷 裕一",
+            "二階堂 雅人",
+            "近藤 科江",
+            "長澤 竜樹",
+            "田守 正樹"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.I122",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "コンピュータサイエンス第二 3a(CS2)",
+        "id": "202007216",
+        "teachers": [
+            "熊澤 努"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.B104",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "生命科学基礎第二２ K",
+        "id": "202008083",
+        "teachers": [
+            "TAKAHASHI MASAYUKI"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C103",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "有機化学基礎 P",
+        "id": "202000261",
+        "teachers": [
+            "戸谷 希一郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.M101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "微分積分学第一・演習 C(14～20)",
+        "id": "202000060",
+        "teachers": [
+            "川平 友規",
+            "河井 真吾"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.M101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "微分積分学第一・演習 U",
+        "id": "202000070",
+        "teachers": [
+            "PURKAIT SOMA"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.I111",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第一 1c(IL1)",
+        "id": "202007166",
+        "teachers": [
+            "山田 聖",
+            "山田 聖"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.I111",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第一 2b(IL1)",
+        "id": "202007168",
+        "teachers": [
+            "永藤 直行"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I111",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第一 3a(IL1)",
+        "id": "202007170",
+        "teachers": [
+            "久野 禎子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I111",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第一 6c(IL1)",
+        "id": "202007181",
+        "teachers": [
+            "地引 昌弘"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.M102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "線形代数学第一・演習 B（8～１3）",
+        "id": "202000072",
+        "teachers": [
+            "井上 尚夫",
+            "高澤 光彦"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.P102",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "力学基礎２ H",
+        "id": "202000148",
+        "teachers": [
+            "谷城 康眞"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C101",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "無機化学基礎 I",
+        "id": "202000234",
+        "teachers": [
+            "河野 正規"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.I112",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第二 1c(IL2)",
+        "id": "202007184",
+        "teachers": [
+            "山田 聖"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I112",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第二 2a(IL2)",
+        "id": "202007185",
+        "teachers": [
+            "滝本 宗宏"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I112",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第二 3a(IL2)",
+        "id": "202007188",
+        "teachers": [
+            "久野 禎子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I112",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第二 4a(IL2)",
+        "id": "202007191",
+        "teachers": [
+            "久野 禎子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I112",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第二 4c(IL2)",
+        "id": "202007193",
+        "teachers": [
+            "永藤 直行"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I112",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第二 6c(IL2)",
+        "id": "202007199",
+        "teachers": [
+            "地引 昌弘"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.M105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "微分積分学第二 S(61～70)",
+        "id": "202000090",
+        "teachers": [
+            "川平 友規"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "量子化学基礎 C",
+        "id": "202000266",
+        "teachers": [
+            "山崎 優一"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C107",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "化学熱力学基礎 P",
+        "id": "202000301",
+        "teachers": [
+            "飯田 肇"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.P104",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "電磁気学基礎２ M",
+        "id": "202000176",
+        "teachers": [
+            "横山 毅人"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.C105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "量子化学基礎 O",
+        "id": "202000280",
+        "teachers": [
+            "山崎 優一"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.I122",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "コンピュータサイエンス第二 3b(CS2)",
+        "id": "202007217",
+        "teachers": [
+            "仲道 嘉夫"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I122",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "コンピュータサイエンス第二 4b(CS2)",
+        "id": "202007219",
+        "teachers": [
+            "永藤 直行"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.I111",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第一 3c(IL1)",
+        "id": "202007172",
+        "teachers": [
+            "仲道 嘉夫"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I111",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第一 4a(IL1)",
+        "id": "202007173",
+        "teachers": [
+            "久野 禎子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I111",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第一 4c(IL1)",
+        "id": "202007175",
+        "teachers": [
+            "永藤 直行"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.I111",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "情報リテラシ第一 5c(IL1)",
+        "id": "202007178",
+        "teachers": [
+            "地引 昌弘"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAS.C105",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "量子化学基礎 H",
+        "id": "202000271",
+        "teachers": [
+            "長村 吉洋"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAS.I121",
+        "courseDigit": 1,
+        "department": "理工系教養科目",
+        "courseName": "コンピュータサイエンス第一 3b(CS1)",
+        "id": "202007205",
+        "teachers": [
+            "仲道 嘉夫"
+        ],
+        "isExist": true
+    }
+]

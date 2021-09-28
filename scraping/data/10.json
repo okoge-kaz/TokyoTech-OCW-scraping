@@ -1,0 +1,625 @@
+[
+    {
+        "courseId": "IEE.C203",
+        "courseDigit": 2,
+        "department": "経営工学系",
+        "courseName": "工業心理学",
+        "id": "202002099",
+        "teachers": [
+            "梅室 博行"
+        ]
+    },
+    {
+        "courseId": "IEE.B207",
+        "courseDigit": 2,
+        "department": "経営工学系",
+        "courseName": "計量経済学第一",
+        "id": "202002119",
+        "teachers": [
+            "小笠原 浩太"
+        ]
+    },
+    {
+        "courseId": "IEE.A202",
+        "courseDigit": 2,
+        "department": "経営工学系",
+        "courseName": "経営・経済数学",
+        "id": "202002087",
+        "teachers": [
+            "水野 眞治",
+            "塩浦 昭義"
+        ]
+    },
+    {
+        "courseId": "IEE.B208",
+        "courseDigit": 2,
+        "department": "経営工学系",
+        "courseName": "社会と経済",
+        "id": "202002120",
+        "teachers": [
+            "山室 恭子"
+        ]
+    },
+    {
+        "courseId": "IEE.D202",
+        "courseDigit": 2,
+        "department": "経営工学系",
+        "courseName": "会計基礎論",
+        "id": "202002095",
+        "teachers": [
+            "永田 京子"
+        ]
+    },
+    {
+        "courseId": "IEE.C202",
+        "courseDigit": 2,
+        "department": "経営工学系",
+        "courseName": "インダストリアル・エンジニアリング",
+        "id": "202002098",
+        "teachers": [
+            "伊藤 謙治",
+            "青木 洋貴",
+            "顧 秀珠"
+        ]
+    },
+    {
+        "courseId": "IEE.D203",
+        "courseDigit": 2,
+        "department": "経営工学系",
+        "courseName": "マーケティング",
+        "id": "202002096",
+        "teachers": [
+            "鍾 淑玲"
+        ]
+    },
+    {
+        "courseId": "IEE.A201",
+        "courseDigit": 2,
+        "department": "経営工学系",
+        "courseName": "経営・経済のための基礎数理",
+        "id": "202002100",
+        "teachers": [
+            "松井 知己"
+        ]
+    },
+    {
+        "courseId": "IEE.A207",
+        "courseDigit": 2,
+        "department": "経営工学系",
+        "courseName": "プログラミング基礎（経営工学）",
+        "id": "202002092",
+        "teachers": [
+            "中田 和秀"
+        ]
+    },
+    {
+        "courseId": "IEE.A203",
+        "courseDigit": 2,
+        "department": "経営工学系",
+        "courseName": "数理工学",
+        "id": "202002088",
+        "teachers": [
+            "中田 和秀"
+        ]
+    },
+    {
+        "courseId": "IEE.B201",
+        "courseDigit": 2,
+        "department": "経営工学系",
+        "courseName": "ミクロ経済学第一",
+        "id": "202002113",
+        "teachers": [
+            "大和 毅彦"
+        ]
+    },
+    {
+        "courseId": "IEE.B206",
+        "courseDigit": 2,
+        "department": "経営工学系",
+        "courseName": "実験経済学",
+        "id": "202002118",
+        "teachers": [
+            "大和 毅彦",
+            "數村 友也"
+        ]
+    },
+    {
+        "courseId": "IEE.D201",
+        "courseDigit": 2,
+        "department": "経営工学系",
+        "courseName": "経営管理論",
+        "id": "202002094",
+        "teachers": [
+            "井上 光太郎",
+            "鍾 淑玲",
+            "永田 京子"
+        ]
+    },
+    {
+        "courseId": "IEE.A230",
+        "courseDigit": 2,
+        "department": "経営工学系",
+        "courseName": "プログラミング応用",
+        "id": "202002093",
+        "teachers": [
+            "河瀬 康志",
+            "松井 知己"
+        ]
+    },
+    {
+        "courseId": "IEE.A205",
+        "courseDigit": 2,
+        "department": "経営工学系",
+        "courseName": "経営・経済のための統計",
+        "id": "202002089",
+        "teachers": [
+            "宮川 雅巳",
+            "鈴木 定省"
+        ]
+    },
+    {
+        "courseId": "IEE.B203",
+        "courseDigit": 2,
+        "department": "経営工学系",
+        "courseName": "マクロ経済学第一",
+        "id": "202002115",
+        "teachers": [
+            "大土井 涼二"
+        ]
+    },
+    {
+        "courseId": "IEE.A206",
+        "courseDigit": 2,
+        "department": "経営工学系",
+        "courseName": "オペレーションズ・リサーチ 基礎",
+        "id": "202002091",
+        "teachers": [
+            "水野 眞治",
+            "中田 和秀",
+            "塩浦 昭義"
+        ]
+    },
+    {
+        "courseId": "IEE.B205",
+        "courseDigit": 2,
+        "department": "経営工学系",
+        "courseName": "非協力ゲーム理論",
+        "id": "202002117",
+        "teachers": [
+            "福田 恵美子"
+        ]
+    },
+    {
+        "courseId": "IEE.B202",
+        "courseDigit": 2,
+        "department": "経営工学系",
+        "courseName": "ミクロ経済学第二",
+        "id": "202002114",
+        "teachers": [
+            "大和 毅彦",
+            "數村 友也"
+        ]
+    },
+    {
+        "courseId": "IEE.B204",
+        "courseDigit": 2,
+        "department": "経営工学系",
+        "courseName": "マクロ経済学第二",
+        "id": "202002116",
+        "teachers": [
+            "大土井 涼二"
+        ]
+    },
+    {
+        "courseId": "IEE.A204",
+        "courseDigit": 2,
+        "department": "経営工学系",
+        "courseName": "経営・経済のための確率",
+        "id": "202002090",
+        "teachers": [
+            "宮川 雅巳"
+        ]
+    },
+    {
+        "courseId": "IEE.B337",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "経営・経済のための最適化理論",
+        "id": "202002129",
+        "teachers": [
+            "塩浦 昭義"
+        ]
+    },
+    {
+        "courseId": "IEE.C330",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "先端経営工学",
+        "id": "202002112",
+        "teachers": [
+            "熊倉 佑哉",
+            "新徳 顕大",
+            "根岸 久実",
+            "山岸 拓也",
+            "吉村 研太郎",
+            "前村 菜緒",
+            "久野 祐揮",
+            "黒木 学",
+            "杉原 匡周",
+            "山本 修",
+            "金子 雅也",
+            "武内 陽子",
+            "池田 淳",
+            "梅室 博行"
+        ]
+    },
+    {
+        "courseId": "IEE.B335",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "比較経済分析",
+        "id": "202002126",
+        "teachers": [
+            "山室 恭子"
+        ]
+    },
+    {
+        "courseId": "IEE.C304",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "人間工学",
+        "id": "202002110",
+        "teachers": [
+            "伊藤 謙治",
+            "青木 洋貴",
+            "顧 秀珠"
+        ]
+    },
+    {
+        "courseId": "IEE.D301",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "経営戦略・組織論",
+        "id": "202002104",
+        "teachers": [
+            "妹尾 大"
+        ]
+    },
+    {
+        "courseId": "IEE.D302",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "経営財務論",
+        "id": "202002106",
+        "teachers": [
+            "井上 光太郎"
+        ]
+    },
+    {
+        "courseId": "IEE.B302",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "協力ゲーム理論",
+        "id": "202012776",
+        "teachers": [
+            "河崎 亮"
+        ]
+    },
+    {
+        "courseId": "IEE.C305",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "データ収集・分析",
+        "id": "202002111",
+        "teachers": [
+            "梅室 博行"
+        ]
+    },
+    {
+        "courseId": "IEE.B333",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "環境経済学",
+        "id": "202002123",
+        "teachers": [
+            "棟居 洋介",
+            "増井 利彦",
+            "金森 有子"
+        ]
+    },
+    {
+        "courseId": "IEE.C302",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "品質管理",
+        "id": "202002108",
+        "teachers": [
+            "宮川 雅巳",
+            "鈴木 定省"
+        ]
+    },
+    {
+        "courseId": "IEE.B334",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "数量経済史",
+        "id": "202002125",
+        "teachers": [
+            "山室 恭子",
+            "栗栖 大輔"
+        ]
+    },
+    {
+        "courseId": "IEE.B331",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "持続可能社会・経済論",
+        "id": "202002121",
+        "teachers": [
+            "増井 利彦",
+            "金森 有子",
+            "大和 毅彦"
+        ]
+    },
+    {
+        "courseId": "IEE.C301",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "経営情報システム",
+        "id": "202002107",
+        "teachers": [
+            "妹尾 大"
+        ]
+    },
+    {
+        "courseId": "IEE.B330",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "行動経済・経営論",
+        "id": "202002105",
+        "teachers": [
+            "大和 毅彦",
+            "井上 光太郎",
+            "梅室 博行",
+            "妹尾 大"
+        ]
+    },
+    {
+        "courseId": "IEE.Z381",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "研究プロジェクト（経営工学系）",
+        "id": "202002134",
+        "teachers": [
+            "梅室 博行"
+        ]
+    },
+    {
+        "courseId": "IEE.C303",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "生産管理",
+        "id": "202002109",
+        "teachers": [
+            "鈴木 定省"
+        ]
+    },
+    {
+        "courseId": "IEE.Z374",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "学士特定課題プロジェクトS4c（経営工学系）",
+        "id": "202027685",
+        "teachers": []
+    },
+    {
+        "courseId": "IEE.B332",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "応用マクロ経済学",
+        "id": "202002122",
+        "teachers": [
+            "堀 健夫"
+        ]
+    },
+    {
+        "courseId": "IEE.Z381",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "研究プロジェクト（経営工学系）",
+        "id": "202002135",
+        "teachers": [
+            "梅室 博行"
+        ]
+    },
+    {
+        "courseId": "IEE.Z392",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "学士特定課題プロジェクト2c（経営工学系）",
+        "id": "202007634",
+        "teachers": []
+    },
+    {
+        "courseId": "IEE.A330",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "オペレーションズ・リサーチ応用",
+        "id": "202002102",
+        "teachers": [
+            "松井 知己"
+        ]
+    },
+    {
+        "courseId": "IEE.Z373",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "学士特定課題プロジェクトS3c（経営工学系）",
+        "id": "202027683",
+        "teachers": []
+    },
+    {
+        "courseId": "IEE.Z372",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "学士特定課題プロジェクトS2c（経営工学系）",
+        "id": "202027682",
+        "teachers": []
+    },
+    {
+        "courseId": "IEE.Z373",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "学士特定課題プロジェクトS3c（経営工学系）",
+        "id": "202027684",
+        "teachers": []
+    },
+    {
+        "courseId": "IEE.Z394",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "学士特定課題プロジェクト4c（経営工学系）",
+        "id": "202007637",
+        "teachers": []
+    },
+    {
+        "courseId": "IEE.Z395",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "学士特定課題プロジェクト5c（経営工学系）",
+        "id": "202007638",
+        "teachers": []
+    },
+    {
+        "courseId": "IEE.Z389",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "学士特定課題研究（経営工学系）",
+        "id": "202016812",
+        "teachers": [
+            "各教員"
+        ]
+    },
+    {
+        "courseId": "IEE.Z393",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "学士特定課題プロジェクト3c（経営工学系）",
+        "id": "202007636",
+        "teachers": []
+    },
+    {
+        "courseId": "IEE.Z371",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "学士特定課題プロジェクトS1c（経営工学系）",
+        "id": "202027679",
+        "teachers": []
+    },
+    {
+        "courseId": "IEE.Z372",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "学士特定課題プロジェクトS2c（経営工学系）",
+        "id": "202027681",
+        "teachers": []
+    },
+    {
+        "courseId": "IEE.E331",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "異文化体験実習",
+        "id": "202002131",
+        "teachers": []
+    },
+    {
+        "courseId": "IEE.Z389",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "学士特定課題研究（経営工学系）",
+        "id": "202007630",
+        "teachers": [
+            "各教員"
+        ]
+    },
+    {
+        "courseId": "IEE.Z375",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "学士特定課題プロジェクトS5c（経営工学系）",
+        "id": "202027686",
+        "teachers": []
+    },
+    {
+        "courseId": "IEE.Z376",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "学士特定課題プロジェクトS6c（経営工学系）",
+        "id": "202027687",
+        "teachers": []
+    },
+    {
+        "courseId": "IEE.Z371",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "学士特定課題プロジェクトS1c（経営工学系）",
+        "id": "202027680",
+        "teachers": []
+    },
+    {
+        "courseId": "IEE.E330",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "経営工学インターンシップ",
+        "id": "202002130",
+        "teachers": []
+    },
+    {
+        "courseId": "IEE.Z391",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "学士特定課題プロジェクト1c（経営工学系）",
+        "id": "202007631",
+        "teachers": []
+    },
+    {
+        "courseId": "IEE.Z392",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "学士特定課題プロジェクト2c（経営工学系）",
+        "id": "202007633",
+        "teachers": []
+    },
+    {
+        "courseId": "IEE.Z393",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "学士特定課題プロジェクト3c（経営工学系）",
+        "id": "202007635",
+        "teachers": []
+    },
+    {
+        "courseId": "IEE.E331",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "異文化体験実習",
+        "id": "202002132",
+        "teachers": []
+    },
+    {
+        "courseId": "IEE.Z396",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "学士特定課題プロジェクト6c（経営工学系）",
+        "id": "202007639",
+        "teachers": []
+    },
+    {
+        "courseId": "IEE.Z391",
+        "courseDigit": 3,
+        "department": "経営工学系",
+        "courseName": "学士特定課題プロジェクト1c（経営工学系）",
+        "id": "202007632",
+        "teachers": []
+    }
+]

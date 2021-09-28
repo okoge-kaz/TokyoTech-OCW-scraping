@@ -1,0 +1,755 @@
+[
+    {
+        "courseId": "CHM.C202",
+        "courseDigit": 2,
+        "department": "化学系",
+        "courseName": "化学統計熱力学",
+        "id": "202001739",
+        "teachers": [
+            "西野 智昭",
+            "腰原 伸也"
+        ]
+    },
+    {
+        "courseId": "CHM.C201",
+        "courseDigit": 2,
+        "department": "化学系",
+        "courseName": "量子化学序論",
+        "id": "202001736",
+        "teachers": [
+            "大島 康裕",
+            "山崎 優一"
+        ]
+    },
+    {
+        "courseId": "CHM.C204",
+        "courseDigit": 2,
+        "department": "化学系",
+        "courseName": "化学統計熱力学演習",
+        "id": "202001751",
+        "teachers": [
+            "西野 智昭",
+            "金子 哲"
+        ]
+    },
+    {
+        "courseId": "CHM.A201",
+        "courseDigit": 2,
+        "department": "化学系",
+        "courseName": "安全の化学",
+        "id": "202001740",
+        "teachers": [
+            "小野 公輔",
+            "篠原 直秀",
+            "井口 泰泉",
+            "橋本 晴男",
+            "加藤 博子"
+        ]
+    },
+    {
+        "courseId": "CHM.B203",
+        "courseDigit": 2,
+        "department": "化学系",
+        "courseName": "無機化学演習第一",
+        "id": "202001746",
+        "teachers": [
+            "前田 和彦",
+            "玉置 悠祐",
+            "関根 あき子",
+            "原田 誠",
+            "大津 博義",
+            "高山 大鑑"
+        ]
+    },
+    {
+        "courseId": "CHM.B201",
+        "courseDigit": 2,
+        "department": "化学系",
+        "courseName": "無機化学第一",
+        "id": "202001734",
+        "teachers": [
+            "前田 和彦"
+        ]
+    },
+    {
+        "courseId": "CHM.B205",
+        "courseDigit": 2,
+        "department": "化学系",
+        "courseName": "無機・分析化学基礎実験",
+        "id": "202001744",
+        "teachers": [
+            "福原 学",
+            "岡田 哲男",
+            "石谷 治",
+            "川口 博之",
+            "河野 正規",
+            "植草 秀裕",
+            "前田 和彦",
+            "関根 あき子",
+            "大塚 拓洋",
+            "原田 誠",
+            "石田 豊",
+            "玉置 悠祐",
+            "大津 博義"
+        ]
+    },
+    {
+        "courseId": "CHM.B204",
+        "courseDigit": 2,
+        "department": "化学系",
+        "courseName": "基礎分析化学演習",
+        "id": "202001750",
+        "teachers": [
+            "岡田 哲男",
+            "河野 正規",
+            "原田 誠",
+            "石田 豊",
+            "大津 博義"
+        ]
+    },
+    {
+        "courseId": "CHM.D201",
+        "courseDigit": 2,
+        "department": "化学系",
+        "courseName": "有機化学第一",
+        "id": "202001735",
+        "teachers": [
+            "後藤 敬",
+            "小野 公輔"
+        ]
+    },
+    {
+        "courseId": "CHM.C203",
+        "courseDigit": 2,
+        "department": "化学系",
+        "courseName": "量子化学序論演習",
+        "id": "202001747",
+        "teachers": [
+            "大島 康裕",
+            "山崎 優一",
+            "水瀬 賢太"
+        ]
+    },
+    {
+        "courseId": "CHM.B202",
+        "courseDigit": 2,
+        "department": "化学系",
+        "courseName": "基礎分析化学",
+        "id": "202001737",
+        "teachers": [
+            "岡田 哲男",
+            "河野 正規"
+        ]
+    },
+    {
+        "courseId": "CHM.C205",
+        "courseDigit": 2,
+        "department": "化学系",
+        "courseName": "物理化学基礎実験",
+        "id": "202001743",
+        "teachers": [
+            "腰原 伸也",
+            "大島 康裕",
+            "北島 昌史",
+            "沖本 洋一",
+            "西野 智昭",
+            "山崎 優一",
+            "石川 忠彦",
+            "穂坂 綱一",
+            "金子 哲",
+            "水瀬 賢太"
+        ]
+    },
+    {
+        "courseId": "CHM.D205",
+        "courseDigit": 2,
+        "department": "化学系",
+        "courseName": "有機化学基礎実験",
+        "id": "202001745",
+        "teachers": [
+            "江口 正",
+            "岩澤 伸治",
+            "後藤 敬",
+            "大森 建",
+            "工藤 史貴",
+            "鷹谷 絢",
+            "小野 公輔",
+            "安藤 吉勇",
+            "宮永 顕正",
+            "高橋 講平"
+        ]
+    },
+    {
+        "courseId": "CHM.D204",
+        "courseDigit": 2,
+        "department": "化学系",
+        "courseName": "有機化学演習第二",
+        "id": "202001749",
+        "teachers": [
+            "江口 正",
+            "岩澤 伸治",
+            "後藤 敬",
+            "大森 建",
+            "工藤 史貴",
+            "鷹谷 絢",
+            "小野 公輔",
+            "安藤 吉勇",
+            "宮永 顕正",
+            "高橋 講平"
+        ]
+    },
+    {
+        "courseId": "CHM.Z201",
+        "courseDigit": 2,
+        "department": "化学系",
+        "courseName": "B2D 研究基礎a（化学系）",
+        "id": "202027847",
+        "teachers": [
+            "河野 正規"
+        ]
+    },
+    {
+        "courseId": "CHM.A221",
+        "courseDigit": 2,
+        "department": "化学系",
+        "courseName": "コンピュータ実習",
+        "id": "202001752",
+        "teachers": [
+            "JUHASZ GERGELY MIKLOS"
+        ]
+    },
+    {
+        "courseId": "CHM.D203",
+        "courseDigit": 2,
+        "department": "化学系",
+        "courseName": "有機化学演習第一",
+        "id": "202001748",
+        "teachers": [
+            "江口 正",
+            "岩澤 伸治",
+            "後藤 敬",
+            "大森 建",
+            "工藤 史貴",
+            "鷹谷 絢",
+            "安藤 吉勇",
+            "小野 公輔",
+            "宮永 顕正",
+            "高橋 講平"
+        ]
+    },
+    {
+        "courseId": "CHM.D202",
+        "courseDigit": 2,
+        "department": "化学系",
+        "courseName": "有機化学第二",
+        "id": "202001738",
+        "teachers": [
+            "江口 正"
+        ]
+    },
+    {
+        "courseId": "CHM.B335",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "固体化学",
+        "id": "202001764",
+        "teachers": [
+            "小松 隆之",
+            "八島 正知"
+        ]
+    },
+    {
+        "courseId": "CHM.B332",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "光化学",
+        "id": "202001758",
+        "teachers": [
+            "石谷 治",
+            "前田 和彦"
+        ]
+    },
+    {
+        "courseId": "CHM.B305",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "無機・分析化学総合実験",
+        "id": "202001770",
+        "teachers": [
+            "植草 秀裕",
+            "岡田 哲男",
+            "石谷 治",
+            "川口 博之",
+            "小松 隆之",
+            "河野 正規",
+            "前田 和彦",
+            "福原 学",
+            "関根 あき子",
+            "大塚 拓洋",
+            "原田 誠",
+            "石田 豊",
+            "玉置 悠祐",
+            "大津 博義",
+            "高山 大鑑"
+        ]
+    },
+    {
+        "courseId": "CHM.C333",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "分子構造学",
+        "id": "202001765",
+        "teachers": [
+            "腰原 伸也",
+            "沖本 洋一"
+        ]
+    },
+    {
+        "courseId": "CHM.B334",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "地球化学",
+        "id": "202002907",
+        "teachers": [
+            "野上 健治",
+            "寺田 暁彦"
+        ]
+    },
+    {
+        "courseId": "CHM.A302",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "計算化学・情報演習２",
+        "id": "202010811",
+        "teachers": [
+            "大森 建",
+            "安藤 吉勇",
+            "宮永 顕正",
+            "高橋 講平",
+            "鍬野 哲"
+        ]
+    },
+    {
+        "courseId": "CHM.C303",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "反応物理化学序論演習",
+        "id": "202001771",
+        "teachers": [
+            "北島 昌史",
+            "穂坂 綱一"
+        ]
+    },
+    {
+        "courseId": "CHM.Z396",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "学士特定課題プロジェクト6c（化学系）",
+        "id": "202007579",
+        "teachers": []
+    },
+    {
+        "courseId": "CHM.Z381",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "研究プロジェクト（化学系）",
+        "id": "202017345",
+        "teachers": [
+            "豊田 真司",
+            "八島 正知",
+            "福原 学",
+            "腰原 伸也"
+        ]
+    },
+    {
+        "courseId": "CHM.C332",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "量子化学",
+        "id": "202001762",
+        "teachers": [
+            "大島 康裕",
+            "山崎 優一"
+        ]
+    },
+    {
+        "courseId": "CHM.C301",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "反応物理化学序論",
+        "id": "202001754",
+        "teachers": [
+            "腰原 伸也",
+            "北島 昌史"
+        ]
+    },
+    {
+        "courseId": "CHM.D332",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "有機構造化学",
+        "id": "202001757",
+        "teachers": [
+            "工藤 史貴",
+            "鷹谷 絢",
+            "豊田 真司"
+        ]
+    },
+    {
+        "courseId": "CHM.A301",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "計算化学・情報演習１",
+        "id": "202010810",
+        "teachers": [
+            "植草 秀裕",
+            "関根 あき子",
+            "上野 京子"
+        ]
+    },
+    {
+        "courseId": "CHM.D303",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "有機化学演習第三",
+        "id": "202001773",
+        "teachers": [
+            "江口 正",
+            "岩澤 伸治",
+            "後藤 敬",
+            "大森 建",
+            "工藤 史貴",
+            "鷹谷 絢",
+            "小野 公輔",
+            "安藤 吉勇",
+            "宮永 顕正",
+            "高橋 講平"
+        ]
+    },
+    {
+        "courseId": "CHM.D301",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "有機化学第三",
+        "id": "202001755",
+        "teachers": [
+            "大森 建"
+        ]
+    },
+    {
+        "courseId": "CHM.D331",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "合成有機化学",
+        "id": "202001767",
+        "teachers": [
+            "大森 建"
+        ]
+    },
+    {
+        "courseId": "CHM.Z392",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "学士特定課題プロジェクト2c（化学系）",
+        "id": "202007574",
+        "teachers": []
+    },
+    {
+        "courseId": "CHM.B301",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "無機化学第二",
+        "id": "202001753",
+        "teachers": [
+            "川口 博之"
+        ]
+    },
+    {
+        "courseId": "CHM.B333",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "結晶化学",
+        "id": "202001760",
+        "teachers": [
+            "植草 秀裕"
+        ]
+    },
+    {
+        "courseId": "CHM.B303",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "無機化学演習第二",
+        "id": "202001772",
+        "teachers": [
+            "川口 博之",
+            "植草 秀裕",
+            "石田 豊",
+            "玉置 悠祐",
+            "関根 あき子"
+        ]
+    },
+    {
+        "courseId": "CHM.B331",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "化学計測学",
+        "id": "202001756",
+        "teachers": [
+            "岡田 哲男",
+            "福原 学"
+        ]
+    },
+    {
+        "courseId": "CHM.D333",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "有機反応論",
+        "id": "202001763",
+        "teachers": [
+            "岩澤 伸治"
+        ]
+    },
+    {
+        "courseId": "CHM.C305",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "物理化学総合実験",
+        "id": "202001769",
+        "teachers": [
+            "沖本 洋一",
+            "腰原 伸也",
+            "大島 康裕",
+            "北島 昌史",
+            "西野 智昭",
+            "山崎 優一",
+            "石川 忠彦",
+            "穂坂 綱一",
+            "金子 哲",
+            "水瀬 賢太"
+        ]
+    },
+    {
+        "courseId": "CHM.C334",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "反応物理化学",
+        "id": "202001766",
+        "teachers": [
+            "北島 昌史",
+            "腰原 伸也"
+        ]
+    },
+    {
+        "courseId": "CHM.D305",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "有機化学総合実験",
+        "id": "202001768",
+        "teachers": [
+            "江口 正",
+            "岩澤 伸治",
+            "後藤 敬",
+            "大森 建",
+            "工藤 史貴",
+            "鷹谷 絢",
+            "小野 公輔",
+            "安藤 吉勇",
+            "宮永 顕正",
+            "高橋 講平"
+        ]
+    },
+    {
+        "courseId": "CHM.Z374",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "学士特定課題プロジェクトS4c（化学系）",
+        "id": "202027631",
+        "teachers": []
+    },
+    {
+        "courseId": "CHM.D334",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "天然物化学",
+        "id": "202001759",
+        "teachers": [
+            "江口 正",
+            "工藤 史貴"
+        ]
+    },
+    {
+        "courseId": "CHM.C331",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "物性化学",
+        "id": "202001761",
+        "teachers": [
+            "西野 智昭",
+            "沖本 洋一"
+        ]
+    },
+    {
+        "courseId": "CHM.Z373",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "学士特定課題プロジェクトS3c（化学系）",
+        "id": "202027629",
+        "teachers": []
+    },
+    {
+        "courseId": "CHM.Z381",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "研究プロジェクト（化学系）",
+        "id": "202001774",
+        "teachers": []
+    },
+    {
+        "courseId": "CHM.Z372",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "学士特定課題プロジェクトS2c（化学系）",
+        "id": "202027627",
+        "teachers": []
+    },
+    {
+        "courseId": "CHM.Z376",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "学士特定課題プロジェクトS6c（化学系）",
+        "id": "202027633",
+        "teachers": []
+    },
+    {
+        "courseId": "CHM.Z371",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "学士特定課題プロジェクトS1c（化学系）",
+        "id": "202027626",
+        "teachers": []
+    },
+    {
+        "courseId": "CHM.Z372",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "学士特定課題プロジェクトS2c（化学系）",
+        "id": "202027628",
+        "teachers": []
+    },
+    {
+        "courseId": "CHM.Z394",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "学士特定課題プロジェクト4c（化学系）",
+        "id": "202007577",
+        "teachers": []
+    },
+    {
+        "courseId": "CHM.Z395",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "学士特定課題プロジェクト5c（化学系）",
+        "id": "202007578",
+        "teachers": []
+    },
+    {
+        "courseId": "CHM.Z389",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "学士特定課題研究（化学系）",
+        "id": "202017408",
+        "teachers": [
+            "各教員"
+        ]
+    },
+    {
+        "courseId": "CHM.Z385",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "化学先端研究基礎",
+        "id": "202023353",
+        "teachers": []
+    },
+    {
+        "courseId": "CHM.Z391",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "学士特定課題プロジェクト1c（化学系）",
+        "id": "202007572",
+        "teachers": []
+    },
+    {
+        "courseId": "CHM.Z393",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "学士特定課題プロジェクト3c（化学系）",
+        "id": "202007576",
+        "teachers": []
+    },
+    {
+        "courseId": "CHM.Z371",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "学士特定課題プロジェクトS1c（化学系）",
+        "id": "202027625",
+        "teachers": []
+    },
+    {
+        "courseId": "CHM.Z389",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "学士特定課題研究（化学系）",
+        "id": "202007570",
+        "teachers": [
+            "各教員"
+        ]
+    },
+    {
+        "courseId": "CHM.Z385",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "化学先端研究基礎",
+        "id": "202023352",
+        "teachers": []
+    },
+    {
+        "courseId": "CHM.Z375",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "学士特定課題プロジェクトS5c（化学系）",
+        "id": "202027632",
+        "teachers": []
+    },
+    {
+        "courseId": "CHM.Z373",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "学士特定課題プロジェクトS3c（化学系）",
+        "id": "202027630",
+        "teachers": []
+    },
+    {
+        "courseId": "CHM.Z391",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "学士特定課題プロジェクト1c（化学系）",
+        "id": "202007571",
+        "teachers": []
+    },
+    {
+        "courseId": "CHM.Z392",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "学士特定課題プロジェクト2c（化学系）",
+        "id": "202007573",
+        "teachers": []
+    },
+    {
+        "courseId": "CHM.Z393",
+        "courseDigit": 3,
+        "department": "化学系",
+        "courseName": "学士特定課題プロジェクト3c（化学系）",
+        "id": "202007575",
+        "teachers": []
+    }
+]

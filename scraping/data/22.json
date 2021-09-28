@@ -1,0 +1,331 @@
+[
+    {
+        "courseId": "LAJ.J102",
+        "courseDigit": 1,
+        "department": "日本語・日本文化科目",
+        "courseName": "日本語１Ｂ C",
+        "id": "202007132",
+        "teachers": [
+            "吉沢 由香里"
+        ]
+    },
+    {
+        "courseId": "LAJ.J101",
+        "courseDigit": 1,
+        "department": "日本語・日本文化科目",
+        "courseName": "日本語１Ａ C",
+        "id": "202007129",
+        "teachers": [
+            "吉沢 由香里"
+        ]
+    },
+    {
+        "courseId": "LAJ.J103",
+        "courseDigit": 1,
+        "department": "日本語・日本文化科目",
+        "courseName": "日本語２Ａ GSEP",
+        "id": "202012524",
+        "teachers": [
+            "小松 翠",
+            "若松 史恵"
+        ]
+    },
+    {
+        "courseId": "LAJ.J104",
+        "courseDigit": 1,
+        "department": "日本語・日本文化科目",
+        "courseName": "日本語２Ｂ GSEP",
+        "id": "202012528",
+        "teachers": [
+            "小松 翠",
+            "若松 史恵"
+        ]
+    },
+    {
+        "courseId": "LAJ.J102",
+        "courseDigit": 1,
+        "department": "日本語・日本文化科目",
+        "courseName": "日本語１Ｂ GSEP",
+        "id": "202012519",
+        "teachers": [
+            "小松 翠",
+            "若松 史恵"
+        ]
+    },
+    {
+        "courseId": "LAJ.C102",
+        "courseDigit": 1,
+        "department": "日本語・日本文化科目",
+        "courseName": "日本文化演習：適応",
+        "id": "202007162",
+        "teachers": [
+            "佐藤 礼子",
+            "森田 淳子",
+            "小松 翠",
+            "山元 啓史"
+        ]
+    },
+    {
+        "courseId": "LAJ.J103",
+        "courseDigit": 1,
+        "department": "日本語・日本文化科目",
+        "courseName": "日本語２Ａ A",
+        "id": "202007133",
+        "teachers": [
+            "山元 啓史"
+        ]
+    },
+    {
+        "courseId": "LAJ.J101",
+        "courseDigit": 1,
+        "department": "日本語・日本文化科目",
+        "courseName": "日本語第一 B",
+        "id": "202007128",
+        "teachers": [
+            "佐藤 礼子"
+        ]
+    },
+    {
+        "courseId": "LAJ.J101",
+        "courseDigit": 1,
+        "department": "日本語・日本文化科目",
+        "courseName": "日本語第一 A",
+        "id": "202007127",
+        "teachers": [
+            "山元 啓史"
+        ]
+    },
+    {
+        "courseId": "LAJ.J103",
+        "courseDigit": 1,
+        "department": "日本語・日本文化科目",
+        "courseName": "日本語第三 B",
+        "id": "202007134",
+        "teachers": [
+            "佐藤 礼子"
+        ]
+    },
+    {
+        "courseId": "LAJ.J101",
+        "courseDigit": 1,
+        "department": "日本語・日本文化科目",
+        "courseName": "日本語１Ａ GSEP",
+        "id": "202012518",
+        "teachers": [
+            "小松 翠",
+            "若松 史恵"
+        ]
+    },
+    {
+        "courseId": "LAJ.J102",
+        "courseDigit": 1,
+        "department": "日本語・日本文化科目",
+        "courseName": "日本語１Ｂ A",
+        "id": "202007130",
+        "teachers": [
+            "山元 啓史"
+        ]
+    },
+    {
+        "courseId": "LAJ.J104",
+        "courseDigit": 1,
+        "department": "日本語・日本文化科目",
+        "courseName": "日本語２Ｂ A",
+        "id": "202007136",
+        "teachers": [
+            "山元 啓史"
+        ]
+    },
+    {
+        "courseId": "LAJ.J102",
+        "courseDigit": 1,
+        "department": "日本語・日本文化科目",
+        "courseName": "日本語第二 B",
+        "id": "202007131",
+        "teachers": [
+            "佐藤 礼子"
+        ]
+    },
+    {
+        "courseId": "LAJ.J104",
+        "courseDigit": 1,
+        "department": "日本語・日本文化科目",
+        "courseName": "日本語第四 B",
+        "id": "202007137",
+        "teachers": [
+            "佐藤 礼子"
+        ]
+    },
+    {
+        "courseId": "LAJ.J204",
+        "courseDigit": 2,
+        "department": "日本語・日本文化科目",
+        "courseName": "日本語４Ｂ A",
+        "id": "202007147",
+        "teachers": [
+            "森田 淳子"
+        ]
+    },
+    {
+        "courseId": "LAJ.J202",
+        "courseDigit": 2,
+        "department": "日本語・日本文化科目",
+        "courseName": "日本語第六 A",
+        "id": "202007142",
+        "teachers": [
+            "森田 淳子"
+        ]
+    },
+    {
+        "courseId": "LAJ.J201",
+        "courseDigit": 2,
+        "department": "日本語・日本文化科目",
+        "courseName": "日本語３Ａ A",
+        "id": "202007139",
+        "teachers": [
+            "森田 淳子"
+        ]
+    },
+    {
+        "courseId": "LAJ.J201",
+        "courseDigit": 2,
+        "department": "日本語・日本文化科目",
+        "courseName": "日本語３Ａ GSEP",
+        "id": "202012532",
+        "teachers": [
+            "吉沢 由香里"
+        ]
+    },
+    {
+        "courseId": "LAJ.J203",
+        "courseDigit": 2,
+        "department": "日本語・日本文化科目",
+        "courseName": "日本語４Ａ A",
+        "id": "202007145",
+        "teachers": [
+            "森田 淳子"
+        ]
+    },
+    {
+        "courseId": "LAJ.J203",
+        "courseDigit": 2,
+        "department": "日本語・日本文化科目",
+        "courseName": "日本語４Ａ GSEP",
+        "id": "202012723",
+        "teachers": [
+            "吉沢 由香里"
+        ]
+    },
+    {
+        "courseId": "LAJ.J204",
+        "courseDigit": 2,
+        "department": "日本語・日本文化科目",
+        "courseName": "日本語４Ｂ GSEP",
+        "id": "202012726",
+        "teachers": [
+            "吉沢 由香里"
+        ]
+    },
+    {
+        "courseId": "LAJ.J202",
+        "courseDigit": 2,
+        "department": "日本語・日本文化科目",
+        "courseName": "日本語３Ｂ GSEP",
+        "id": "202012536",
+        "teachers": [
+            "吉沢 由香里"
+        ]
+    },
+    {
+        "courseId": "LAJ.T301",
+        "courseDigit": 3,
+        "department": "日本語・日本文化科目",
+        "courseName": "サバイバルジャパニーズ301 B",
+        "id": "202011600",
+        "teachers": [
+            "未定"
+        ]
+    },
+    {
+        "courseId": "LAJ.T301",
+        "courseDigit": 3,
+        "department": "日本語・日本文化科目",
+        "courseName": "サバイバルジャパニーズ301 C",
+        "id": "202011601",
+        "teachers": [
+            "未定"
+        ]
+    },
+    {
+        "courseId": "LAJ.C301",
+        "courseDigit": 3,
+        "department": "日本語・日本文化科目",
+        "courseName": "日本文化演習：ことばと文学",
+        "id": "202026988",
+        "teachers": [
+            "山元 啓史"
+        ]
+    },
+    {
+        "courseId": "LAJ.J301",
+        "courseDigit": 3,
+        "department": "日本語・日本文化科目",
+        "courseName": "日本語５A GSEP",
+        "id": "202018880",
+        "teachers": [
+            "佐藤 礼子"
+        ]
+    },
+    {
+        "courseId": "LAJ.T301",
+        "courseDigit": 3,
+        "department": "日本語・日本文化科目",
+        "courseName": "サバイバルジャパニーズ301 A",
+        "id": "202011599",
+        "teachers": [
+            "榎原 実香",
+            "若松 史恵",
+            "市江 愛"
+        ]
+    },
+    {
+        "courseId": "LAJ.J301",
+        "courseDigit": 3,
+        "department": "日本語・日本文化科目",
+        "courseName": "日本語５A GSEP",
+        "id": "202018881",
+        "teachers": [
+            "佐藤 礼子"
+        ]
+    },
+    {
+        "courseId": "LAJ.J301",
+        "courseDigit": 3,
+        "department": "日本語・日本文化科目",
+        "courseName": "日本語５A GSEP",
+        "id": "202018882",
+        "teachers": [
+            "佐藤 礼子"
+        ]
+    },
+    {
+        "courseId": "LAJ.J301",
+        "courseDigit": 3,
+        "department": "日本語・日本文化科目",
+        "courseName": "日本語５A GSEP",
+        "id": "202018883",
+        "teachers": [
+            "佐藤 礼子"
+        ]
+    },
+    {
+        "courseId": "LAJ.C302",
+        "courseDigit": 3,
+        "department": "日本語・日本文化科目",
+        "courseName": "日本文化演習：ことばと社会",
+        "id": "202026989",
+        "teachers": [
+            "山元 啓史"
+        ]
+    }
+]

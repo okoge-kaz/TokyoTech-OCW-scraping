@@ -1,0 +1,3026 @@
+[
+    {
+        "courseId": "LAW.W111",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "健康科学演習 C2",
+        "id": "202000631",
+        "teachers": [
+            "丸山 剛生",
+            "若山 章信"
+        ]
+    },
+    {
+        "courseId": "LAW.W131",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "生涯ウェルネス実習 B7",
+        "id": "202000668",
+        "teachers": [
+            "高井 秀明"
+        ]
+    },
+    {
+        "courseId": "LAW.W131",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "生涯ウェルネス実習 B5",
+        "id": "202000666",
+        "teachers": [
+            "高井 秀明"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 A4",
+        "id": "202000602",
+        "teachers": [
+            "田中 英登"
+        ]
+    },
+    {
+        "courseId": "LAW.W111",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "健康科学演習 C1",
+        "id": "202000630",
+        "teachers": [
+            "佐久間 邦弘"
+        ]
+    },
+    {
+        "courseId": "LAW.W111",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "健康科学演習 C5",
+        "id": "202027484",
+        "teachers": [
+            "伊藤 信之"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 D8",
+        "id": "202008935",
+        "teachers": [
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W101",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "健康科学概論 A2",
+        "id": "202000590",
+        "teachers": [
+            "石川 国広",
+            "須田 和裕"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 S4月(申告専用）",
+        "id": "202000629",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W101",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "健康科学概論 B4",
+        "id": "202000597",
+        "teachers": [
+            "田中 英登",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 A8",
+        "id": "202027486",
+        "teachers": [
+            "高橋 将記"
+        ]
+    },
+    {
+        "courseId": "LAW.W131",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "生涯ウェルネス実習 A18",
+        "id": "202000651",
+        "teachers": [
+            "山元 健太"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 D3",
+        "id": "202000624",
+        "teachers": [
+            "浅川 陽介"
+        ]
+    },
+    {
+        "courseId": "LAW.W101",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "健康科学概論 A1",
+        "id": "202000589",
+        "teachers": [
+            "須田 和裕",
+            "石川 国広"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 A5",
+        "id": "202000603",
+        "teachers": [
+            "江口 潤"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 B4",
+        "id": "202000610",
+        "teachers": [
+            "田中 英登",
+            "高橋 将記"
+        ]
+    },
+    {
+        "courseId": "LAW.W111",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "健康科学演習 C3",
+        "id": "202017371",
+        "teachers": [
+            "伊藤 信之"
+        ]
+    },
+    {
+        "courseId": "LAW.W131",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "生涯ウェルネス実習 A20",
+        "id": "202027487",
+        "teachers": [
+            "高橋 将記"
+        ]
+    },
+    {
+        "courseId": "LAW.W111",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "健康科学演習 D1",
+        "id": "202000632",
+        "teachers": [
+            "林 直亨"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 S2月(申告専用）",
+        "id": "202000614",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.X101",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人入門 4",
+        "id": "202020201",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 C5",
+        "id": "202000619",
+        "teachers": [
+            "田中 英登"
+        ]
+    },
+    {
+        "courseId": "LAW.W131",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "生涯ウェルネス実習 A19",
+        "id": "202000652",
+        "teachers": [
+            "林 葉子"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 S3金(申告専用）",
+        "id": "202008940",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.X153",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門１B’ d",
+        "id": "202015103",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.W131",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "生涯ウェルネス実習 S4A(申告専用）",
+        "id": "202020421",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W131",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "生涯ウェルネス実習 S4B(申告専用)",
+        "id": "202026896",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W131",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "生涯ウェルネス実習 D8",
+        "id": "202028301",
+        "teachers": [
+            "高橋 将記"
+        ]
+    },
+    {
+        "courseId": "LAW.W101",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "健康科学概論 A3",
+        "id": "202000591",
+        "teachers": [
+            "須田 和裕",
+            "石川 国広"
+        ]
+    },
+    {
+        "courseId": "LAW.W101",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "健康科学概論 B1",
+        "id": "202000594",
+        "teachers": [
+            "丸山 剛生",
+            "小谷 泰則",
+            "高橋 将記"
+        ]
+    },
+    {
+        "courseId": "LAW.W101",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "健康科学概論 B3",
+        "id": "202017370",
+        "teachers": [
+            "伊藤 信之",
+            "佐久間 邦弘"
+        ]
+    },
+    {
+        "courseId": "LAW.W101",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "健康科学概論 B6",
+        "id": "202027483",
+        "teachers": [
+            "高橋 将記",
+            "小谷 泰則",
+            "丸山 剛生"
+        ]
+    },
+    {
+        "courseId": "LAW.X101",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人入門 1",
+        "id": "202007914",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.W111",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "健康科学演習 D3",
+        "id": "202017372",
+        "teachers": [
+            "伊藤 信之"
+        ]
+    },
+    {
+        "courseId": "LAW.W101",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "健康科学概論 A4",
+        "id": "202000592",
+        "teachers": [
+            "石川 国広",
+            "須田 和裕"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 S1金（申告専用）",
+        "id": "202011429",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W101",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "健康科学概論 B5",
+        "id": "202000596",
+        "teachers": [
+            "佐久間 邦弘",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 B2",
+        "id": "202000608",
+        "teachers": [
+            "浅川 陽介",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 S2木（申告専用）",
+        "id": "202011432",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 C3",
+        "id": "202000617",
+        "teachers": [
+            "浅川 陽介"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 C6",
+        "id": "202000620",
+        "teachers": [
+            "江口 潤"
+        ]
+    },
+    {
+        "courseId": "LAW.W131",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "生涯ウェルネス実習 A7",
+        "id": "202000640",
+        "teachers": [
+            "高井 秀明"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 S3水(申告専用）",
+        "id": "202008938",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 S3木(申告専用）",
+        "id": "202008939",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W131",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "生涯ウェルネス実習 S3(申告専用）",
+        "id": "202020420",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 D6",
+        "id": "202000627",
+        "teachers": [
+            "江口 潤"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 S4水(申告専用）",
+        "id": "202008942",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 S4木(申告専用）",
+        "id": "202008943",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 B5",
+        "id": "202000611",
+        "teachers": [
+            "江口 潤",
+            "高橋 将記"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 B7",
+        "id": "202000613",
+        "teachers": [
+            "伊藤 信之",
+            "高橋 将記"
+        ]
+    },
+    {
+        "courseId": "LAW.W131",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "生涯ウェルネス実習 A5",
+        "id": "202000638",
+        "teachers": [
+            "高井 秀明"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 S3火(申告専用）",
+        "id": "202008937",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 D2",
+        "id": "202000623",
+        "teachers": [
+            "須田 和裕"
+        ]
+    },
+    {
+        "courseId": "LAW.W111",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "健康科学演習 D2",
+        "id": "202000633",
+        "teachers": [
+            "丸山 剛生",
+            "若山 章信"
+        ]
+    },
+    {
+        "courseId": "LAW.X101",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人入門 2",
+        "id": "202008062",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.W101",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "健康科学概論 S1(申告専用）",
+        "id": "202000593",
+        "teachers": [
+            "須田 和裕",
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 S1月(申告専用）",
+        "id": "202000606",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 S1火（申告専用）",
+        "id": "202011426",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 S1水（申告専用）",
+        "id": "202011427",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 S1木（申告専用）",
+        "id": "202011428",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.X104",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門１Ｃ a",
+        "id": "202007530",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X102",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門１Ａ a",
+        "id": "202000030",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X106",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門２Ａ",
+        "id": "202000034",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.W101",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "健康科学概論 B2",
+        "id": "202000595",
+        "teachers": [
+            "小谷 泰則",
+            "丸山 剛生"
+        ]
+    },
+    {
+        "courseId": "LAW.W101",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "健康科学概論 S2(申告専用）",
+        "id": "202000598",
+        "teachers": [
+            "須田 和裕",
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 B3",
+        "id": "202000609",
+        "teachers": [
+            "浅川 陽介",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.X102",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門１Ａ o",
+        "id": "202008521",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X102",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門１Ａ p",
+        "id": "202008522",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映",
+            "ANANDA KUMARA"
+        ]
+    },
+    {
+        "courseId": "LAW.X102",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門１Ａ s",
+        "id": "202008525",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 S2火（申告専用）",
+        "id": "202011430",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 S2水（申告専用）",
+        "id": "202011431",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 S2金（申告専用）",
+        "id": "202011433",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.X116",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門4Ａ",
+        "id": "202012897",
+        "teachers": [
+            "村上 理映",
+            "太田 絵里"
+        ]
+    },
+    {
+        "courseId": "LAW.X152",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門１A’ s",
+        "id": "202024081",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 C1",
+        "id": "202000615",
+        "teachers": [
+            "狐塚 賢一郎"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 S3月(申告専用）",
+        "id": "202000621",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W131",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "生涯ウェルネス実習 S3B(申告専用)",
+        "id": "202027488",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.X109",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門２Ｄ a",
+        "id": "202007533",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X113",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門３Ｄ",
+        "id": "202007535",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 D1",
+        "id": "202000622",
+        "teachers": [
+            "狐塚 賢一郎"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 D4",
+        "id": "202000625",
+        "teachers": [
+            "浅川 陽介"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 D5",
+        "id": "202000626",
+        "teachers": [
+            "田中 英登"
+        ]
+    },
+    {
+        "courseId": "LAW.W131",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "生涯ウェルネス実習 B4",
+        "id": "202000665",
+        "teachers": [
+            "石川 国広"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 S4火(申告専用）",
+        "id": "202008941",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 S4金(申告専用）",
+        "id": "202008944",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.X103",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門１Ｂ f",
+        "id": "202009673",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X103",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門１Ｂ g",
+        "id": "202022507",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 A6",
+        "id": "202000604",
+        "teachers": [
+            "若山 章信"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 B1",
+        "id": "202000607",
+        "teachers": [
+            "狐塚 賢一郎"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 B6",
+        "id": "202000612",
+        "teachers": [
+            "若山 章信",
+            "高橋 将記"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 C2",
+        "id": "202000616",
+        "teachers": [
+            "須田 和裕"
+        ]
+    },
+    {
+        "courseId": "LAW.W111",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "健康科学演習 D5",
+        "id": "202027485",
+        "teachers": [
+            "伊藤 信之"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 A1",
+        "id": "202000599",
+        "teachers": [
+            "狐塚 賢一郎"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 A2",
+        "id": "202000600",
+        "teachers": [
+            "浅川 陽介"
+        ]
+    },
+    {
+        "courseId": "LAW.X102",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門１Ａ d",
+        "id": "202008415",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X102",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門１Ａ n",
+        "id": "202008417",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X102",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門１Ａ q",
+        "id": "202008523",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 B（集中）",
+        "id": "202011434",
+        "teachers": [
+            "石川 国広"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 C4",
+        "id": "202000618",
+        "teachers": [
+            "浅川 陽介"
+        ]
+    },
+    {
+        "courseId": "LAW.W131",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "生涯ウェルネス実習 A16",
+        "id": "202000649",
+        "teachers": [
+            "山元 健太"
+        ]
+    },
+    {
+        "courseId": "LAW.X111",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門３Ｂ",
+        "id": "202000041",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.W131",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "生涯ウェルネス実習 B17",
+        "id": "202000678",
+        "teachers": [
+            "林 葉子"
+        ]
+    },
+    {
+        "courseId": "LAW.W131",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "生涯ウェルネス実習 B18",
+        "id": "202000679",
+        "teachers": [
+            "山元 健太"
+        ]
+    },
+    {
+        "courseId": "LAW.X103",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門１Ｂ b",
+        "id": "202009669",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X117",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門4B",
+        "id": "202012898",
+        "teachers": [
+            "村上 理映",
+            "太田 絵里"
+        ]
+    },
+    {
+        "courseId": "LAW.X101",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人入門 5",
+        "id": "202020202",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X103",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門１Ｂ h",
+        "id": "202022511",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 A7",
+        "id": "202000605",
+        "teachers": [
+            "伊藤 信之"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 A3",
+        "id": "202000601",
+        "teachers": [
+            "浅川 陽介"
+        ]
+    },
+    {
+        "courseId": "LAW.X108",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門２Ｃ a",
+        "id": "202007532",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X112",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門３Ｃ",
+        "id": "202007534",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X118",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門4C",
+        "id": "202012899",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X110",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門３Ａ",
+        "id": "202000038",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X102",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門１Ａ b",
+        "id": "202008413",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X102",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門１Ａ c",
+        "id": "202008414",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X102",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門１Ａ m",
+        "id": "202008416",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X102",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門１Ａ r",
+        "id": "202008524",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X102",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門１Ａ t",
+        "id": "202008526",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X102",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門１Ａ u",
+        "id": "202008527",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X152",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門１A’ a",
+        "id": "202019797",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X102",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門１Ａ f",
+        "id": "202020273",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.W131",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "生涯ウェルネス実習 A4",
+        "id": "202000637",
+        "teachers": [
+            "石川 国広"
+        ]
+    },
+    {
+        "courseId": "LAW.X105",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門１Ｄ",
+        "id": "202007531",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X119",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門4D",
+        "id": "202012900",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X103",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門１Ｂ a",
+        "id": "202000033",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X107",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門２Ｂ",
+        "id": "202000037",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.W131",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "生涯ウェルネス実習 B16",
+        "id": "202000677",
+        "teachers": [
+            "山元 健太"
+        ]
+    },
+    {
+        "courseId": "LAW.W131",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "生涯ウェルネス実習 B19",
+        "id": "202000680",
+        "teachers": [
+            "林 葉子"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 D（集中）",
+        "id": "202009116",
+        "teachers": [
+            "石川 国広"
+        ]
+    },
+    {
+        "courseId": "LAW.X103",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門１Ｂ c",
+        "id": "202009670",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X103",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門１Ｂ d",
+        "id": "202009671",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X103",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修入門１Ｂ e",
+        "id": "202009672",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.W131",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "生涯ウェルネス実習 A17",
+        "id": "202000650",
+        "teachers": [
+            "林 葉子"
+        ]
+    },
+    {
+        "courseId": "LAW.W121",
+        "courseDigit": 1,
+        "department": "広域教養科目",
+        "courseName": "ウェルネス実習 C8",
+        "id": "202009115",
+        "teachers": [
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.X202",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "囲碁で学ぶ実践力",
+        "id": "202000054",
+        "teachers": [
+            "天谷 賢治",
+            "原 幸子",
+            "大橋 拓文"
+        ]
+    },
+    {
+        "courseId": "LAW.X203",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "技術経営I",
+        "id": "202008484",
+        "teachers": [
+            "辻本 将晴",
+            "藤村 修三",
+            "後藤 美香",
+            "日高 一義",
+            "因幡 和晃",
+            "仙石 愼太郎",
+            "杉原 太郎"
+        ]
+    },
+    {
+        "courseId": "LAW.X204",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "技術経営II",
+        "id": "202008487",
+        "teachers": [
+            "辻本 将晴",
+            "齊藤 滋規",
+            "橋本 正洋",
+            "比嘉 邦彦",
+            "池上 雅子",
+            "西條 美紀",
+            "中丸 麻由子",
+            "梶川 裕矢",
+            "大橋 匠"
+        ]
+    },
+    {
+        "courseId": "LAW.X206",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "技術経営IV",
+        "id": "202027095",
+        "teachers": [
+            "橋本 正洋"
+        ]
+    },
+    {
+        "courseId": "LAW.X201",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人概論 3",
+        "id": "202008060",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映",
+            "ANANDA KUMARA"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 B7",
+        "id": "202024935",
+        "teachers": [
+            "高井 秀明"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 A5",
+        "id": "202024916",
+        "teachers": [
+            "高井 秀明"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 A13",
+        "id": "202024922",
+        "teachers": [
+            "田中 英登"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 C15",
+        "id": "202000705",
+        "teachers": [
+            "江口 潤"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 D4",
+        "id": "202000725",
+        "teachers": [
+            "狐塚 賢一郎"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 D15",
+        "id": "202000736",
+        "teachers": [
+            "江口 潤"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 A15",
+        "id": "202024924",
+        "teachers": [
+            "佐久間 邦弘"
+        ]
+    },
+    {
+        "courseId": "LAW.X201",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人概論 2",
+        "id": "202000029",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映",
+            "ANANDA KUMARA"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 C6",
+        "id": "202000696",
+        "teachers": [
+            "佐久間 邦弘"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 S3(申告専用）",
+        "id": "202000721",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 S4B(申告専用)",
+        "id": "202026895",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 A12",
+        "id": "202024921",
+        "teachers": [
+            "伊藤 信之"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 A16",
+        "id": "202024925",
+        "teachers": [
+            "山元 健太"
+        ]
+    },
+    {
+        "courseId": "LAW.X205",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "技術経営III",
+        "id": "202008485",
+        "teachers": [
+            "橋本 正洋"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 S3A(申告専用)",
+        "id": "202027491",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 A3",
+        "id": "202024912",
+        "teachers": [
+            "狐塚 賢一郎"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 A7",
+        "id": "202024917",
+        "teachers": [
+            "高井 秀明"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 S1(申告専用)",
+        "id": "202024929",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 B1",
+        "id": "202024930",
+        "teachers": [
+            "井手口 学"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 B5",
+        "id": "202024934",
+        "teachers": [
+            "高井 秀明"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 S2(申告専用)",
+        "id": "202024945",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 C1",
+        "id": "202000691",
+        "teachers": [
+            "井手口 学"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 C2",
+        "id": "202000692",
+        "teachers": [
+            "須田 和裕"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 C3",
+        "id": "202000693",
+        "teachers": [
+            "井手口 学"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 C5",
+        "id": "202000695",
+        "teachers": [
+            "須田 和裕"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 C13",
+        "id": "202000703",
+        "teachers": [
+            "韓 一栄"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 C20",
+        "id": "202000710",
+        "teachers": [
+            "林 直亨"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 D6",
+        "id": "202000727",
+        "teachers": [
+            "佐久間 邦弘"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 D12",
+        "id": "202000733",
+        "teachers": [
+            "韓 一栄"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 S4A(申告専用）",
+        "id": "202000753",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 A10",
+        "id": "202024919",
+        "teachers": [
+            "韓 一栄"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 A18",
+        "id": "202024927",
+        "teachers": [
+            "山元 健太"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 B3",
+        "id": "202024932",
+        "teachers": [
+            "狐塚 賢一郎"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 B9",
+        "id": "202024936",
+        "teachers": [
+            "韓 一栄",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 B15",
+        "id": "202024940",
+        "teachers": [
+            "佐久間 邦弘"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 B16",
+        "id": "202024941",
+        "teachers": [
+            "山元 健太"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 B18",
+        "id": "202024943",
+        "teachers": [
+            "山元 健太"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 D2",
+        "id": "202000723",
+        "teachers": [
+            "須田 和裕"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 A11",
+        "id": "202024920",
+        "teachers": [
+            "江口 潤"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 C12",
+        "id": "202000702",
+        "teachers": [
+            "韓 一栄"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 C17",
+        "id": "202000707",
+        "teachers": [
+            "伊藤 信之"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 D1",
+        "id": "202000722",
+        "teachers": [
+            "井手口 学"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 D5",
+        "id": "202000726",
+        "teachers": [
+            "須田 和裕"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 D13",
+        "id": "202000734",
+        "teachers": [
+            "韓 一栄"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 D16",
+        "id": "202000737",
+        "teachers": [
+            "若山 章信"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 D19",
+        "id": "202000740",
+        "teachers": [
+            "若山 章信"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 D（集中）",
+        "id": "202000746",
+        "teachers": [
+            "布目 靖則"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 C23",
+        "id": "202030543",
+        "teachers": [
+            "田中 英登"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 A17",
+        "id": "202024926",
+        "teachers": [
+            "林 葉子"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 A19",
+        "id": "202024928",
+        "teachers": [
+            "林 葉子"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 B10",
+        "id": "202024937",
+        "teachers": [
+            "韓 一栄",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 B11",
+        "id": "202024938",
+        "teachers": [
+            "江口 潤",
+            "高橋 将記"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 B14",
+        "id": "202024939",
+        "teachers": [
+            "若山 章信",
+            "高橋 将記"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 A1",
+        "id": "202024910",
+        "teachers": [
+            "井手口 学"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 A2",
+        "id": "202024911",
+        "teachers": [
+            "井手口 学"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 A4",
+        "id": "202024914",
+        "teachers": [
+            "石川 国広"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 B2",
+        "id": "202024931",
+        "teachers": [
+            "井手口 学"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 B4",
+        "id": "202024933",
+        "teachers": [
+            "石川 国広"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 C4",
+        "id": "202000694",
+        "teachers": [
+            "狐塚 賢一郎"
+        ]
+    },
+    {
+        "courseId": "LAW.X201",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人概論 4",
+        "id": "202008061",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 D3",
+        "id": "202000724",
+        "teachers": [
+            "井手口 学"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 D17",
+        "id": "202000738",
+        "teachers": [
+            "伊藤 信之"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 D20",
+        "id": "202000741",
+        "teachers": [
+            "林 直亨"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 A9",
+        "id": "202024918",
+        "teachers": [
+            "韓 一栄"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 A14",
+        "id": "202024923",
+        "teachers": [
+            "若山 章信"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 B17",
+        "id": "202024942",
+        "teachers": [
+            "林 葉子"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 B19",
+        "id": "202024944",
+        "teachers": [
+            "林 葉子"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 C16",
+        "id": "202000706",
+        "teachers": [
+            "若山 章信"
+        ]
+    },
+    {
+        "courseId": "LAW.W221",
+        "courseDigit": 2,
+        "department": "広域教養科目",
+        "courseName": "生涯スポーツ実習 C19",
+        "id": "202000709",
+        "teachers": [
+            "若山 章信"
+        ]
+    },
+    {
+        "courseId": "LAW.X358",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "アイディアが飛び交う遠隔議論",
+        "id": "202030745",
+        "teachers": [
+            "齋藤 宏文"
+        ]
+    },
+    {
+        "courseId": "LAW.X314",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "メディア編集デザイニング",
+        "id": "202000014",
+        "teachers": [
+            "野原 佳代子",
+            "川崎 昌平"
+        ]
+    },
+    {
+        "courseId": "LAW.X353",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "伝統技術と国際共修",
+        "id": "202030309",
+        "teachers": [
+            "村上 理映",
+            "太田 絵里",
+            "渡辺 玄",
+            "小林 郁夫",
+            "松崎 由理",
+            "嘉村 賢州"
+        ]
+    },
+    {
+        "courseId": "LAW.X357",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "融合技術論（国際）",
+        "id": "202030744",
+        "teachers": [
+            "野原 佳代子"
+        ]
+    },
+    {
+        "courseId": "LAW.X328",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "英語で学ぶ日本事情II",
+        "id": "202008072",
+        "teachers": [
+            "佐藤 由利子"
+        ]
+    },
+    {
+        "courseId": "LAW.X355",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人国内研修１C",
+        "id": "202030564",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X322",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "英語で語る科学・技術・社会",
+        "id": "202008065",
+        "teachers": [
+            "原 正彦"
+        ]
+    },
+    {
+        "courseId": "LAW.X316",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "クリエイティブ表現論",
+        "id": "202000016",
+        "teachers": [
+            "野原 佳代子"
+        ]
+    },
+    {
+        "courseId": "LAW.X301",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修１Ａ p",
+        "id": "202008514",
+        "teachers": [
+            "太田 絵里",
+            "ANANDA KUMARA",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.W320",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "トータル・ウェルネス実習 S4A(申告専用）",
+        "id": "202000767",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.X327",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "英語で学ぶ日本事情Ⅰ",
+        "id": "202008071",
+        "teachers": [
+            "佐藤 由利子"
+        ]
+    },
+    {
+        "courseId": "LAW.X302",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修１Ｂ c",
+        "id": "202009664",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.W320",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "トータル・ウェルネス実習 S1(申告専用）",
+        "id": "202000756",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.X307",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修２Ｃ a",
+        "id": "202007538",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X331",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修4C",
+        "id": "202012903",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X313",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "アジア交流派遣学習（Tokyo Tech-AYSEAS）",
+        "id": "202000055",
+        "teachers": [
+            "中島 求",
+            "林 宣宏",
+            "中川 茂樹",
+            "柳田 英二",
+            "長井 圭治"
+        ]
+    },
+    {
+        "courseId": "LAW.W320",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "トータル・ウェルネス実習 S2(申告専用）",
+        "id": "202000759",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W320",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "トータル・ウェルネス実習 B3",
+        "id": "202008333",
+        "teachers": [
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W320",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "トータル・ウェルネス実習 S3(申告専用）",
+        "id": "202000763",
+        "teachers": [
+            "丸山 剛生",
+            "石川 国広",
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.X352",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修１B’ d",
+        "id": "202015102",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.W320",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "トータル・ウェルネス実習 A1",
+        "id": "202000754",
+        "teachers": [
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.X303",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修１Ｃ b",
+        "id": "202014924",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X301",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修１Ａ a",
+        "id": "202000042",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X309",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修３Ａ",
+        "id": "202000050",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.W320",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "トータル・ウェルネス実習 B1",
+        "id": "202000757",
+        "teachers": [
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W320",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "トータル・ウェルネス実習 B2",
+        "id": "202000758",
+        "teachers": [
+            "石川 国広"
+        ]
+    },
+    {
+        "courseId": "LAW.X301",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修１Ａ d",
+        "id": "202008410",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.W320",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "トータル・ウェルネス実習 B(集中)",
+        "id": "202011594",
+        "teachers": [
+            "野澤 むつこ"
+        ]
+    },
+    {
+        "courseId": "LAW.X329",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修4Ａ",
+        "id": "202012901",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X312",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修３Ｄ",
+        "id": "202007541",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X356",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人国内研修１D",
+        "id": "202030565",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X302",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修１Ｂ a",
+        "id": "202000045",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X310",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修３Ｂ",
+        "id": "202000053",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.W320",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "トータル・ウェルネス実習 A2",
+        "id": "202000755",
+        "teachers": [
+            "石川 国広"
+        ]
+    },
+    {
+        "courseId": "LAW.W320",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "トータル・ウェルネス実習 A3",
+        "id": "202008332",
+        "teachers": [
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.X311",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修３Ｃ",
+        "id": "202007540",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X326",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "ＹＥＪ リサーチプロジェクト",
+        "id": "202008069",
+        "teachers": []
+    },
+    {
+        "courseId": "LAW.X307",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修２Ｃ b",
+        "id": "202008520",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X303",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修１Ｃ a",
+        "id": "202011842",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X305",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修２Ａ",
+        "id": "202000046",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X301",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修１Ａ b",
+        "id": "202008408",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X301",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修１Ａ c",
+        "id": "202008409",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X301",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修１Ａ m",
+        "id": "202008411",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X301",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修１Ａ n",
+        "id": "202008412",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X301",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修１Ａ o",
+        "id": "202008513",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X301",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修１Ａ q",
+        "id": "202008515",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X301",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修１Ａ r",
+        "id": "202008516",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X301",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修１Ａ s",
+        "id": "202008517",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X301",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修１Ａ t",
+        "id": "202008518",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X301",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修１Ａ u",
+        "id": "202008519",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X301",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修１Ａ v",
+        "id": "202008745",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X307",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修２Ｃ c",
+        "id": "202008746",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X351",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修１A' a",
+        "id": "202019776",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X301",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修１Ａ f",
+        "id": "202020272",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.W320",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "トータル・ウェルネス実習 C2",
+        "id": "202000761",
+        "teachers": [
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.W320",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "トータル・ウェルネス実習 C1",
+        "id": "202026574",
+        "teachers": [
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.X304",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修１Ｄ a",
+        "id": "202007537",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X325",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "ＹＦＲ リサーチセミナー",
+        "id": "202008068",
+        "teachers": []
+    },
+    {
+        "courseId": "LAW.X326",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "ＹＥＪ リサーチプロジェクト",
+        "id": "202008070",
+        "teachers": []
+    },
+    {
+        "courseId": "LAW.X304",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修１Ｄ b",
+        "id": "202009545",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X332",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修4D",
+        "id": "202012904",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X306",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修２Ｂ",
+        "id": "202000049",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.W320",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "トータル・ウェルネス実習 D2",
+        "id": "202000765",
+        "teachers": [
+            "小谷 泰則"
+        ]
+    },
+    {
+        "courseId": "LAW.X308",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修２Ｄ a",
+        "id": "202007539",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X302",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修１Ｂ b",
+        "id": "202009663",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X302",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修１Ｂ d",
+        "id": "202009665",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X302",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修１Ｂ e",
+        "id": "202009666",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X302",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修１Ｂ f",
+        "id": "202009667",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X302",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修１Ｂ g",
+        "id": "202009668",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X330",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修4B",
+        "id": "202012902",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X352",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修１B’ b",
+        "id": "202015092",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.X302",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "グローバル理工人研修１Ｂ h",
+        "id": "202021419",
+        "teachers": [
+            "太田 絵里",
+            "村上 理映"
+        ]
+    },
+    {
+        "courseId": "LAW.W320",
+        "courseDigit": 3,
+        "department": "広域教養科目",
+        "courseName": "トータル・ウェルネス実習 D1",
+        "id": "202026575",
+        "teachers": [
+            "小谷 泰則"
+        ]
+    }
+]

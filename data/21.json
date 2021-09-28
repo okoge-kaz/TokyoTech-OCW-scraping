@@ -1,0 +1,3446 @@
+[
+    {
+        "courseId": "LAL.Z101",
+        "courseDigit": 1,
+        "department": "第二外国語科目",
+        "courseName": "第二外国語海外研修1A 1",
+        "id": "202019820",
+        "teachers": [
+            "山崎 太郎",
+            "三ツ堀 広一郎",
+            "戦 暁梅"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.Z102",
+        "courseDigit": 1,
+        "department": "第二外国語科目",
+        "courseName": "第二外国語海外研修1B 1",
+        "id": "202019822",
+        "teachers": [
+            "山崎 太郎",
+            "三ツ堀 広一郎",
+            "戦 暁梅"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.Z102",
+        "courseDigit": 1,
+        "department": "第二外国語科目",
+        "courseName": "第二外国語海外研修1B 2",
+        "id": "202019823",
+        "teachers": [
+            "山崎 太郎",
+            "三ツ堀 広一郎",
+            "戦 暁梅"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.Z101",
+        "courseDigit": 1,
+        "department": "第二外国語科目",
+        "courseName": "第二外国語海外研修1A 2",
+        "id": "202019821",
+        "teachers": [
+            "山崎 太郎",
+            "三ツ堀 広一郎",
+            "戦 暁梅"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級１ C10",
+        "id": "202010881",
+        "teachers": [
+            "馮 青"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級３ C14",
+        "id": "202017443",
+        "teachers": [
+            "馮 青"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級１ C11",
+        "id": "202010882",
+        "teachers": [
+            "劉 岸偉"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級１ C15",
+        "id": "202023555",
+        "teachers": [
+            "陳 喜"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級２ D21",
+        "id": "202010988",
+        "teachers": [
+            "小笠原 能仁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級４ S08",
+        "id": "202027159",
+        "teachers": [
+            "永田 夕紀子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級１ C07",
+        "id": "202010878",
+        "teachers": [
+            "劉 岸偉"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級１ D32",
+        "id": "202010973",
+        "teachers": [
+            "安徳 万貴子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語初級１ R02",
+        "id": "202011040",
+        "teachers": [
+            "小西 昌隆"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級３ S11",
+        "id": "202027151",
+        "teachers": [
+            "永田 夕紀子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級４ C07",
+        "id": "202010927",
+        "teachers": [
+            "劉 岸偉"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語初級１ R05",
+        "id": "202011043",
+        "teachers": [
+            "河村 彩"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級１ C06",
+        "id": "202010877",
+        "teachers": [
+            "戦 暁梅"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語初級１ F06",
+        "id": "202010938",
+        "teachers": [
+            "三ツ堀 広一郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級１ S08",
+        "id": "202027126",
+        "teachers": [
+            "永田 夕紀子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級１ S09",
+        "id": "202027127",
+        "teachers": [
+            "木村 秀雄"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級２ D41",
+        "id": "202010995",
+        "teachers": [
+            "山崎 太郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語初級２ R05",
+        "id": "202011056",
+        "teachers": [
+            "河村 彩"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級２ S04",
+        "id": "202027133",
+        "teachers": [
+            "木村 秀雄"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級３ C01",
+        "id": "202001564",
+        "teachers": [
+            "劉 岸偉"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級３ C11",
+        "id": "202010919",
+        "teachers": [
+            "劉 岸偉"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語初級３ R05",
+        "id": "202011067",
+        "teachers": [
+            "河村 彩"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級４ C03",
+        "id": "202010923",
+        "teachers": [
+            "城 愛裕美"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.R204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語初級４ R05",
+        "id": "202011086",
+        "teachers": [
+            "河村 彩"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.R234",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語セミナー（入門・基礎）４",
+        "id": "202001625",
+        "teachers": [
+            "OKANO ELENA"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級４ D12",
+        "id": "202011020",
+        "teachers": [
+            "小笠原 能仁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級１ C01",
+        "id": "202001562",
+        "teachers": [
+            "劉 岸偉"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F231",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語セミナー（入門・基礎）１",
+        "id": "202001614",
+        "teachers": [
+            "JEAN FRANCOISE MARIE-MONIQUE"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語初級１ F05",
+        "id": "202010937",
+        "teachers": [
+            "梶田 裕"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語初級１ R06",
+        "id": "202011044",
+        "teachers": [
+            "小西 昌隆"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.S201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級１ S05",
+        "id": "202027123",
+        "teachers": [
+            "渡辺 暁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級１ S11",
+        "id": "202027129",
+        "teachers": [
+            "永田 夕紀子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級２ C01",
+        "id": "202001563",
+        "teachers": [
+            "劉 岸偉"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級２ C11",
+        "id": "202010907",
+        "teachers": [
+            "劉 岸偉"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級２ D33",
+        "id": "202010993",
+        "teachers": [
+            "岡本 雅克"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級２ C16",
+        "id": "202023573",
+        "teachers": [
+            "戦 暁梅"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級２ S01",
+        "id": "202027130",
+        "teachers": [
+            "渡辺 暁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級２ S10",
+        "id": "202027139",
+        "teachers": [
+            "杉守 慶太"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語初級３ R02",
+        "id": "202011064",
+        "teachers": [
+            "小西 昌隆"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級３ S04",
+        "id": "202027144",
+        "teachers": [
+            "渡辺 暁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級４ C01",
+        "id": "202001565",
+        "teachers": [
+            "劉 岸偉"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級４ C04",
+        "id": "202010924",
+        "teachers": [
+            "朴 敬玉"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級４ C11",
+        "id": "202010931",
+        "teachers": [
+            "劉 岸偉"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級４ D14",
+        "id": "202011023",
+        "teachers": [
+            "立石 拓也"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級４ C16",
+        "id": "202023588",
+        "teachers": [
+            "戦 暁梅"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.S204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級４ S04",
+        "id": "202027155",
+        "teachers": [
+            "渡辺 暁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級４ S09",
+        "id": "202027160",
+        "teachers": [
+            "木村 秀雄"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G233",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語セミナー（入門・基礎）３",
+        "id": "202001608",
+        "teachers": [
+            "SATO ASTRID"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級３ D12",
+        "id": "202011001",
+        "teachers": [
+            "小笠原 能仁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F234",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語セミナー（入門・基礎）４",
+        "id": "202001617",
+        "teachers": [
+            "JEAN FRANCOISE MARIE-MONIQUE"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級４ C02",
+        "id": "202010922",
+        "teachers": [
+            "真鍋 丁香"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級４ C08",
+        "id": "202010928",
+        "teachers": [
+            "真鍋 丁香"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C231",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語セミナー（入門・基礎）１",
+        "id": "202001630",
+        "teachers": [
+            "陳 焔"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語初級１ R01",
+        "id": "202001558",
+        "teachers": [
+            "桑田 匡之"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G231",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語セミナー（入門・基礎）１",
+        "id": "202001606",
+        "teachers": [
+            "SATO ASTRID"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級１ C03",
+        "id": "202010874",
+        "teachers": [
+            "城 愛裕美"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級１ D12",
+        "id": "202010965",
+        "teachers": [
+            "小笠原 能仁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級１ D14",
+        "id": "202010968",
+        "teachers": [
+            "立石 拓也"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級１ D21",
+        "id": "202010970",
+        "teachers": [
+            "小笠原 能仁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級１ D33",
+        "id": "202010975",
+        "teachers": [
+            "岡本 雅克"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級１ C14",
+        "id": "202017441",
+        "teachers": [
+            "馮 青"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級１ C16",
+        "id": "202023567",
+        "teachers": [
+            "戦 暁梅"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級１ S01",
+        "id": "202027119",
+        "teachers": [
+            "渡辺 暁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級１ S03",
+        "id": "202027121",
+        "teachers": [
+            "佐々木 充文"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級１ S07",
+        "id": "202027125",
+        "teachers": [
+            "杉守 慶太"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語初級２ F01",
+        "id": "202001555",
+        "teachers": [
+            "JEAN FRANCOISE MARIE-MONIQUE"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級２ C07",
+        "id": "202010903",
+        "teachers": [
+            "劉 岸偉"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級２ C09",
+        "id": "202010905",
+        "teachers": [
+            "藤田 梨那"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級２ C10",
+        "id": "202010906",
+        "teachers": [
+            "馮 青"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級２ C13",
+        "id": "202010909",
+        "teachers": [
+            "藤田 梨那"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級２ D31",
+        "id": "202010990",
+        "teachers": [
+            "山崎 太郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級２ D32",
+        "id": "202010991",
+        "teachers": [
+            "安徳 万貴子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語初級２ R02",
+        "id": "202011053",
+        "teachers": [
+            "小西 昌隆"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語初級２ R04",
+        "id": "202011055",
+        "teachers": [
+            "松本 隆志"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級２ S03",
+        "id": "202027132",
+        "teachers": [
+            "佐々木 充文"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級２ S06",
+        "id": "202027135",
+        "teachers": [
+            "木村 秀雄"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級２ S08",
+        "id": "202027137",
+        "teachers": [
+            "永田 夕紀子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級２ S11",
+        "id": "202027140",
+        "teachers": [
+            "永田 夕紀子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語初級３ F01",
+        "id": "202001556",
+        "teachers": [
+            "JEAN FRANCOISE MARIE-MONIQUE"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級３ C02",
+        "id": "202010910",
+        "teachers": [
+            "真鍋 丁香"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級３ C04",
+        "id": "202010912",
+        "teachers": [
+            "朴 敬玉"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級３ C06",
+        "id": "202010914",
+        "teachers": [
+            "戦 暁梅"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.C203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級３ C07",
+        "id": "202010915",
+        "teachers": [
+            "劉 岸偉"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級３ C09",
+        "id": "202010917",
+        "teachers": [
+            "藤田 梨那"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級３ D31",
+        "id": "202011008",
+        "teachers": [
+            "山崎 太郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語初級３ R03",
+        "id": "202011065",
+        "teachers": [
+            "桑田 匡之"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級３ S05",
+        "id": "202027145",
+        "teachers": [
+            "渡辺 暁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級３ S08",
+        "id": "202027148",
+        "teachers": [
+            "永田 夕紀子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級３ S09",
+        "id": "202027149",
+        "teachers": [
+            "木村 秀雄"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級４ C05",
+        "id": "202010925",
+        "teachers": [
+            "ZHANG LI"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級４ C06",
+        "id": "202010926",
+        "teachers": [
+            "戦 暁梅"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.F204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語初級４ F07",
+        "id": "202010958",
+        "teachers": [
+            "梶田 裕"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.G204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級４ D31",
+        "id": "202011027",
+        "teachers": [
+            "山崎 太郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級４ D41",
+        "id": "202011032",
+        "teachers": [
+            "山崎 太郎"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.G204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級４ D43",
+        "id": "202011034",
+        "teachers": [
+            "岡本 雅克"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級４ S05",
+        "id": "202027156",
+        "teachers": [
+            "渡辺 暁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級４ S10",
+        "id": "202027161",
+        "teachers": [
+            "杉守 慶太"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.S204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級４ S11",
+        "id": "202027162",
+        "teachers": [
+            "永田 夕紀子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級３ D21",
+        "id": "202011006",
+        "teachers": [
+            "小笠原 能仁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級４ D21",
+        "id": "202011025",
+        "teachers": [
+            "小笠原 能仁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語初級１ F01",
+        "id": "202001554",
+        "teachers": [
+            "JEAN FRANCOISE MARIE-MONIQUE"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級１ C05",
+        "id": "202010876",
+        "teachers": [
+            "ZHANG LI"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級１ C12",
+        "id": "202010883",
+        "teachers": [
+            "真鍋 丁香"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語初級１ F03",
+        "id": "202010935",
+        "teachers": [
+            "JEAN FRANCOISE MARIE-MONIQUE"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語初級１ F07",
+        "id": "202010939",
+        "teachers": [
+            "梶田 裕"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級１ D31",
+        "id": "202010972",
+        "teachers": [
+            "山崎 太郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級１ D41",
+        "id": "202010977",
+        "teachers": [
+            "山崎 太郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級１ D44",
+        "id": "202010980",
+        "teachers": [
+            "立石 拓也"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語初級１ R04",
+        "id": "202011042",
+        "teachers": [
+            "松本 隆志"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級１ S02",
+        "id": "202027120",
+        "teachers": [
+            "木村 秀雄"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級１ S04",
+        "id": "202027122",
+        "teachers": [
+            "木村 秀雄"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級１ S06",
+        "id": "202027124",
+        "teachers": [
+            "木村 秀雄"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級１ S10",
+        "id": "202027128",
+        "teachers": [
+            "杉守 慶太"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G232",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語セミナー（入門・基礎）２",
+        "id": "202001607",
+        "teachers": [
+            "SATO ASTRID"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級２ C02",
+        "id": "202010898",
+        "teachers": [
+            "真鍋 丁香"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級２ C05",
+        "id": "202010901",
+        "teachers": [
+            "ZHANG LI"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級２ C06",
+        "id": "202010902",
+        "teachers": [
+            "戦 暁梅"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.C202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級２ C08",
+        "id": "202010904",
+        "teachers": [
+            "真鍋 丁香"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語初級２ F03",
+        "id": "202010942",
+        "teachers": [
+            "JEAN FRANCOISE MARIE-MONIQUE"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語初級２ F05",
+        "id": "202010944",
+        "teachers": [
+            "梶田 裕"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語初級２ F07",
+        "id": "202010946",
+        "teachers": [
+            "梶田 裕"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級２ D12",
+        "id": "202010983",
+        "teachers": [
+            "小笠原 能仁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級２ D14",
+        "id": "202010986",
+        "teachers": [
+            "立石 拓也"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語初級２ R03",
+        "id": "202011054",
+        "teachers": [
+            "桑田 匡之"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語初級２ R06",
+        "id": "202011057",
+        "teachers": [
+            "小西 昌隆"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.C202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級２ C14",
+        "id": "202017442",
+        "teachers": [
+            "馮 青"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級２ C15",
+        "id": "202023572",
+        "teachers": [
+            "陳 喜"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級２ S05",
+        "id": "202027134",
+        "teachers": [
+            "渡辺 暁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級３ D11",
+        "id": "202001552",
+        "teachers": [
+            "山崎 太郎"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.C233",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語セミナー（入門・基礎）３",
+        "id": "202001632",
+        "teachers": [
+            "陳 焔"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級３ C05",
+        "id": "202010913",
+        "teachers": [
+            "ZHANG LI"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級３ C08",
+        "id": "202010916",
+        "teachers": [
+            "真鍋 丁香"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.C203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級３ C13",
+        "id": "202010921",
+        "teachers": [
+            "藤田 梨那"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語初級３ F03",
+        "id": "202010948",
+        "teachers": [
+            "JEAN FRANCOISE MARIE-MONIQUE"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語初級３ F05",
+        "id": "202010950",
+        "teachers": [
+            "梶田 裕"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語初級３ F07",
+        "id": "202010952",
+        "teachers": [
+            "梶田 裕"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級３ D14",
+        "id": "202011004",
+        "teachers": [
+            "立石 拓也"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級３ D41",
+        "id": "202011013",
+        "teachers": [
+            "山崎 太郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級３ D44",
+        "id": "202011016",
+        "teachers": [
+            "立石 拓也"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級３ C15",
+        "id": "202023581",
+        "teachers": [
+            "陳 喜"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級３ C16",
+        "id": "202023582",
+        "teachers": [
+            "戦 暁梅"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.S203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級３ S01",
+        "id": "202027141",
+        "teachers": [
+            "佐々木 充文"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級３ S02",
+        "id": "202027142",
+        "teachers": [
+            "木村 秀雄"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級３ S10",
+        "id": "202027150",
+        "teachers": [
+            "杉守 慶太"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級４ D11",
+        "id": "202001553",
+        "teachers": [
+            "山崎 太郎"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.F204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語初級４ F01",
+        "id": "202001557",
+        "teachers": [
+            "三ツ堀 広一郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語初級４ F03",
+        "id": "202010954",
+        "teachers": [
+            "三ツ堀 広一郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語初級４ F05",
+        "id": "202010956",
+        "teachers": [
+            "梶田 裕"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.G204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級４ D42",
+        "id": "202011033",
+        "teachers": [
+            "安徳 万貴子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級４ D44",
+        "id": "202011035",
+        "teachers": [
+            "立石 拓也"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語初級４ R02",
+        "id": "202011083",
+        "teachers": [
+            "小西 昌隆"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語初級４ R06",
+        "id": "202011087",
+        "teachers": [
+            "小西 昌隆"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.C204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級４ C14",
+        "id": "202017444",
+        "teachers": [
+            "馮 青"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級４ S02",
+        "id": "202027153",
+        "teachers": [
+            "木村 秀雄"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級４ S06",
+        "id": "202027157",
+        "teachers": [
+            "木村 秀雄"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.S204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級４ S07",
+        "id": "202027158",
+        "teachers": [
+            "杉守 慶太"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.R231",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語セミナー（入門・基礎）１",
+        "id": "202001622",
+        "teachers": [
+            "OKANO ELENA"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R232",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語セミナー（入門・基礎）２",
+        "id": "202001623",
+        "teachers": [
+            "OKANO ELENA"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F233",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語セミナー（入門・基礎）３",
+        "id": "202001616",
+        "teachers": [
+            "JEAN FRANCOISE MARIE-MONIQUE"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R233",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語セミナー（入門・基礎）３",
+        "id": "202001624",
+        "teachers": [
+            "OKANO ELENA"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G234",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語セミナー（入門・基礎）４",
+        "id": "202001609",
+        "teachers": [
+            "SATO ASTRID"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級１ C02",
+        "id": "202010873",
+        "teachers": [
+            "真鍋 丁香"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級１ C04",
+        "id": "202010875",
+        "teachers": [
+            "朴 敬玉"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級１ C08",
+        "id": "202010879",
+        "teachers": [
+            "真鍋 丁香"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語初級１ F04",
+        "id": "202010936",
+        "teachers": [
+            "JEAN FRANCOISE MARIE-MONIQUE"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.G201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級１ D43",
+        "id": "202010979",
+        "teachers": [
+            "岡本 雅克"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級１ D45",
+        "id": "202010981",
+        "teachers": [
+            "橘 宏亮"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語初級１ R03",
+        "id": "202011041",
+        "teachers": [
+            "桑田 匡之"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級２ D11",
+        "id": "202001551",
+        "teachers": [
+            "安徳 万貴子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語初級２ R01",
+        "id": "202001559",
+        "teachers": [
+            "桑田 匡之"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F232",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語セミナー（入門・基礎）２",
+        "id": "202001615",
+        "teachers": [
+            "JEAN FRANCOISE MARIE-MONIQUE"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C232",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語セミナー（入門・基礎）２",
+        "id": "202001631",
+        "teachers": [
+            "陳 焔"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級２ C03",
+        "id": "202010899",
+        "teachers": [
+            "城 愛裕美"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級２ C04",
+        "id": "202010900",
+        "teachers": [
+            "朴 敬玉"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語初級２ F04",
+        "id": "202010943",
+        "teachers": [
+            "JEAN FRANCOISE MARIE-MONIQUE"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.G202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級２ D13",
+        "id": "202010985",
+        "teachers": [
+            "橘 宏亮"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級２ D42",
+        "id": "202010996",
+        "teachers": [
+            "安徳 万貴子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級２ D43",
+        "id": "202010997",
+        "teachers": [
+            "岡本 雅克"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級２ D44",
+        "id": "202010998",
+        "teachers": [
+            "立石 拓也"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級２ D45",
+        "id": "202010999",
+        "teachers": [
+            "橘 宏亮"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級２ S02",
+        "id": "202027131",
+        "teachers": [
+            "木村 秀雄"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級２ S07",
+        "id": "202027136",
+        "teachers": [
+            "杉守 慶太"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級２ S09",
+        "id": "202027138",
+        "teachers": [
+            "木村 秀雄"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語初級３ R01",
+        "id": "202001560",
+        "teachers": [
+            "桑田 匡之"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級３ C03",
+        "id": "202010911",
+        "teachers": [
+            "城 愛裕美"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級３ C10",
+        "id": "202010918",
+        "teachers": [
+            "馮 青"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語初級３ F02",
+        "id": "202010947",
+        "teachers": [
+            "三宅 京子"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.F203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語初級３ F04",
+        "id": "202010949",
+        "teachers": [
+            "JEAN FRANCOISE MARIE-MONIQUE"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.G203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級３ D13",
+        "id": "202011003",
+        "teachers": [
+            "橘 宏亮"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.G203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級３ D33",
+        "id": "202011011",
+        "teachers": [
+            "岡本 雅克"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.G203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級３ D42",
+        "id": "202011014",
+        "teachers": [
+            "安徳 万貴子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級３ D43",
+        "id": "202011015",
+        "teachers": [
+            "岡本 雅克"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語初級３ R04",
+        "id": "202011066",
+        "teachers": [
+            "松本 隆志"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.R203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語初級３ R06",
+        "id": "202011068",
+        "teachers": [
+            "小西 昌隆"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.S203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級３ S06",
+        "id": "202027146",
+        "teachers": [
+            "木村 秀雄"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語初級４ R01",
+        "id": "202001561",
+        "teachers": [
+            "桑田 匡之"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級４ C10",
+        "id": "202010930",
+        "teachers": [
+            "馮 青"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級４ D13",
+        "id": "202011022",
+        "teachers": [
+            "橘 宏亮"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級４ D32",
+        "id": "202011028",
+        "teachers": [
+            "安徳 万貴子"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.G204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級４ D33",
+        "id": "202011030",
+        "teachers": [
+            "岡本 雅克"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級４ D45",
+        "id": "202011036",
+        "teachers": [
+            "橘 宏亮"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.R204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語初級４ R03",
+        "id": "202011084",
+        "teachers": [
+            "桑田 匡之"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.R204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語初級４ R04",
+        "id": "202011085",
+        "teachers": [
+            "松本 隆志"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.S204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級４ S01",
+        "id": "202027152",
+        "teachers": [
+            "佐々木 充文"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級４ C12",
+        "id": "202010932",
+        "teachers": [
+            "真鍋 丁香"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語初級１ F02",
+        "id": "202010934",
+        "teachers": [
+            "三宅 京子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級１ D11",
+        "id": "202001550",
+        "teachers": [
+            "安徳 万貴子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級１ C09",
+        "id": "202010880",
+        "teachers": [
+            "藤田 梨那"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級１ C13",
+        "id": "202010884",
+        "teachers": [
+            "藤田 梨那"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級１ D13",
+        "id": "202010967",
+        "teachers": [
+            "橘 宏亮"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G201",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級１ D42",
+        "id": "202010978",
+        "teachers": [
+            "安徳 万貴子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級２ C12",
+        "id": "202010908",
+        "teachers": [
+            "真鍋 丁香"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語初級２ F02",
+        "id": "202010941",
+        "teachers": [
+            "三宅 京子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F202",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語初級２ F06",
+        "id": "202010945",
+        "teachers": [
+            "三ツ堀 広一郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級３ C12",
+        "id": "202010920",
+        "teachers": [
+            "真鍋 丁香"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語初級３ F06",
+        "id": "202010951",
+        "teachers": [
+            "三ツ堀 広一郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級３ D32",
+        "id": "202011009",
+        "teachers": [
+            "安徳 万貴子"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.G203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語初級３ D45",
+        "id": "202011017",
+        "teachers": [
+            "橘 宏亮"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S203",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語初級３ S07",
+        "id": "202027147",
+        "teachers": [
+            "杉守 慶太"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.C234",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語セミナー（入門・基礎）４",
+        "id": "202001633",
+        "teachers": [
+            "陳 焔"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級４ C09",
+        "id": "202010929",
+        "teachers": [
+            "藤田 梨那"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.C204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級４ C13",
+        "id": "202010933",
+        "teachers": [
+            "藤田 梨那"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.F204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語初級４ F02",
+        "id": "202010953",
+        "teachers": [
+            "三宅 京子"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.F204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語初級４ F04",
+        "id": "202010955",
+        "teachers": [
+            "三ツ堀 広一郎"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.F204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "フランス語初級４ F06",
+        "id": "202010957",
+        "teachers": [
+            "三ツ堀 広一郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C204",
+        "courseDigit": 2,
+        "department": "第二外国語科目",
+        "courseName": "中国語初級４ C15",
+        "id": "202023587",
+        "teachers": [
+            "陳 喜"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.A303",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "古典ギリシア語３",
+        "id": "202014061",
+        "teachers": [
+            "金澤 修"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S354",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語４ b",
+        "id": "202030572",
+        "teachers": [
+            "渡辺 暁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S301",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語１ a",
+        "id": "202007983",
+        "teachers": [
+            "永田 夕紀子",
+            "渡辺 暁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R332",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語中級２",
+        "id": "202001583",
+        "teachers": [
+            "河村 彩"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.A302",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "古典ギリシア語２",
+        "id": "202011115",
+        "teachers": [
+            "金澤 修"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S342",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語上級２",
+        "id": "202027348",
+        "teachers": [
+            "渡辺 暁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C344",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "中国語上級４",
+        "id": "202001605",
+        "teachers": [
+            "劉 岸偉"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S353",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語３ b",
+        "id": "202030571",
+        "teachers": [
+            "渡辺 暁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R331",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語中級１",
+        "id": "202001582",
+        "teachers": [
+            "河村 彩"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.A301",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "古典ギリシア語１",
+        "id": "202011110",
+        "teachers": [
+            "金澤 修"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S331",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語中級１",
+        "id": "202027167",
+        "teachers": [
+            "渡辺 暁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.L302",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "古典ラテン語２",
+        "id": "202011588",
+        "teachers": [
+            "金澤 修"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C343",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "中国語上級３",
+        "id": "202001604",
+        "teachers": [
+            "劉 岸偉"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S333",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語中級３",
+        "id": "202027345",
+        "teachers": [
+            "渡辺 暁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S344",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語上級４",
+        "id": "202027350",
+        "teachers": [
+            "渡辺 暁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R343",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語上級３",
+        "id": "202001600",
+        "teachers": [
+            "齋藤 宏文"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G363",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語セミナー（応用・留学）３",
+        "id": "202001612",
+        "teachers": [
+            "SATO ASTRID"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G364",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語セミナー（応用・留学）４",
+        "id": "202001613",
+        "teachers": [
+            "SATO ASTRID"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.L301",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "古典ラテン語１",
+        "id": "202012810",
+        "teachers": [
+            "金澤 修"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S301",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語１ b",
+        "id": "202023543",
+        "teachers": [
+            "渡辺 暁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C332",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "中国語中級２",
+        "id": "202001587",
+        "teachers": [
+            "戦 暁梅"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S332",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語中級２",
+        "id": "202027344",
+        "teachers": [
+            "渡辺 暁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R333",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語中級３",
+        "id": "202001584",
+        "teachers": [
+            "河村 彩"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R334",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語中級４",
+        "id": "202001585",
+        "teachers": [
+            "河村 彩"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S334",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語中級４",
+        "id": "202027346",
+        "teachers": [
+            "渡辺 暁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G341",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語上級１",
+        "id": "202001590",
+        "teachers": [
+            "山崎 太郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R342",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語上級２",
+        "id": "202001599",
+        "teachers": [
+            "齋藤 宏文"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.L303",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "古典ラテン語３",
+        "id": "202014088",
+        "teachers": [
+            "金澤 修"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G334",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語中級４",
+        "id": "202001577",
+        "teachers": [
+            "山崎 太郎"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.L304",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "古典ラテン語４",
+        "id": "202014089",
+        "teachers": [
+            "金澤 修"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C331",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "中国語中級１",
+        "id": "202001586",
+        "teachers": [
+            "戦 暁梅"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R341",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語上級１",
+        "id": "202001598",
+        "teachers": [
+            "齋藤 宏文"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C341",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "中国語上級１",
+        "id": "202001602",
+        "teachers": [
+            "戦 暁梅"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.K301",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "韓国語１ b",
+        "id": "202023539",
+        "teachers": [
+            "承 賢珠"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S341",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語上級１",
+        "id": "202027347",
+        "teachers": [
+            "渡辺 暁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S302",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語２ a",
+        "id": "202007985",
+        "teachers": [
+            "永田 夕紀子",
+            "渡辺 暁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S302",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語２ b",
+        "id": "202023544",
+        "teachers": [
+            "渡辺 暁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G333",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語中級３",
+        "id": "202001576",
+        "teachers": [
+            "山崎 太郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C333",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "中国語中級３",
+        "id": "202001588",
+        "teachers": [
+            "戦 暁梅"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S343",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語上級３",
+        "id": "202027349",
+        "teachers": [
+            "渡辺 暁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.I354",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "イタリア語４",
+        "id": "202001571",
+        "teachers": [
+            "池野 絢子"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.C334",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "中国語中級４",
+        "id": "202001589",
+        "teachers": [
+            "戦 暁梅"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.S354",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語４ a",
+        "id": "202007987",
+        "teachers": [
+            "永田 夕紀子",
+            "渡辺 暁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G342",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語上級２",
+        "id": "202001591",
+        "teachers": [
+            "山崎 太郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R344",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語上級４",
+        "id": "202001601",
+        "teachers": [
+            "齋藤 宏文"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.A304",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "古典ギリシア語４",
+        "id": "202014062",
+        "teachers": [
+            "金澤 修"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.K301",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "韓国語１ a",
+        "id": "202001568",
+        "teachers": [
+            "承 賢珠"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.I302",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "イタリア語２",
+        "id": "202001567",
+        "teachers": [
+            "池野 絢子"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.C342",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "中国語上級２",
+        "id": "202001603",
+        "teachers": [
+            "戦 暁梅"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G362",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語セミナー（応用・留学）２",
+        "id": "202001611",
+        "teachers": [
+            "SATO ASTRID"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C362",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "中国語セミナー（応用・留学）２",
+        "id": "202001635",
+        "teachers": [
+            "陳 焔"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.I353",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "イタリア語３",
+        "id": "202001570",
+        "teachers": [
+            "池野 絢子"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.F343",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "フランス語上級３",
+        "id": "202001596",
+        "teachers": [
+            "三ツ堀 広一郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C363",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "中国語セミナー（応用・留学）３",
+        "id": "202001636",
+        "teachers": [
+            "陳 焔"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.S353",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "スペイン語３ a",
+        "id": "202007986",
+        "teachers": [
+            "永田 夕紀子",
+            "渡辺 暁"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R361",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語セミナー（応用・留学）１",
+        "id": "202001626",
+        "teachers": [
+            "OKANO ELENA"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R362",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語セミナー（応用・留学）２",
+        "id": "202001627",
+        "teachers": [
+            "OKANO ELENA"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F363",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "フランス語セミナー（応用・留学）３",
+        "id": "202001620",
+        "teachers": [
+            "JEAN FRANCOISE MARIE-MONIQUE"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R363",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語セミナー（応用・留学）３",
+        "id": "202001628",
+        "teachers": [
+            "OKANO ELENA"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F364",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "フランス語セミナー（応用・留学）４",
+        "id": "202001621",
+        "teachers": [
+            "JEAN FRANCOISE MARIE-MONIQUE"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.R364",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "ロシア語セミナー（応用・留学）４",
+        "id": "202001629",
+        "teachers": [
+            "OKANO ELENA"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.I301",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "イタリア語１",
+        "id": "202001566",
+        "teachers": [
+            "池野 絢子"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.G331",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語中級１",
+        "id": "202001574",
+        "teachers": [
+            "安徳 万貴子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G361",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語セミナー（応用・留学）１",
+        "id": "202001610",
+        "teachers": [
+            "SATO ASTRID"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F361",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "フランス語セミナー（応用・留学）１",
+        "id": "202001618",
+        "teachers": [
+            "JEAN FRANCOISE MARIE-MONIQUE"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.K302",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "韓国語２ a",
+        "id": "202001569",
+        "teachers": [
+            "承 賢珠"
+        ],
+        "isExist": true
+    },
+    {
+        "courseId": "LAL.G332",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語中級２",
+        "id": "202001575",
+        "teachers": [
+            "安徳 万貴子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F332",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "フランス語中級２",
+        "id": "202001579",
+        "teachers": [
+            "三ツ堀 広一郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F362",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "フランス語セミナー（応用・留学）２",
+        "id": "202001619",
+        "teachers": [
+            "JEAN FRANCOISE MARIE-MONIQUE"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.K302",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "韓国語２ b",
+        "id": "202023540",
+        "teachers": [
+            "承 賢珠"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.K353",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "韓国語３",
+        "id": "202001572",
+        "teachers": [
+            "承 賢珠"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.K354",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "韓国語４",
+        "id": "202001573",
+        "teachers": [
+            "承 賢珠"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G344",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語上級４",
+        "id": "202001593",
+        "teachers": [
+            "安徳 万貴子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C361",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "中国語セミナー（応用・留学）１",
+        "id": "202001634",
+        "teachers": [
+            "陳 焔"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F331",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "フランス語中級１",
+        "id": "202001578",
+        "teachers": [
+            "三ツ堀 広一郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F341",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "フランス語上級１",
+        "id": "202001594",
+        "teachers": [
+            "三ツ堀 広一郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F342",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "フランス語上級２",
+        "id": "202001595",
+        "teachers": [
+            "三ツ堀 広一郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F333",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "フランス語中級３",
+        "id": "202001580",
+        "teachers": [
+            "三ツ堀 広一郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.G343",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "ドイツ語上級３",
+        "id": "202001592",
+        "teachers": [
+            "安徳 万貴子"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F334",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "フランス語中級４",
+        "id": "202001581",
+        "teachers": [
+            "三ツ堀 広一郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.F344",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "フランス語上級４",
+        "id": "202001597",
+        "teachers": [
+            "三ツ堀 広一郎"
+        ],
+        "isExist": false
+    },
+    {
+        "courseId": "LAL.C364",
+        "courseDigit": 3,
+        "department": "第二外国語科目",
+        "courseName": "中国語セミナー（応用・留学）４",
+        "id": "202001637",
+        "teachers": [
+            "陳 焔"
+        ],
+        "isExist": false
+    }
+]

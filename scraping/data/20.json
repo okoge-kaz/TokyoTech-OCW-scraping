@@ -1,0 +1,5270 @@
+[
+    {
+        "courseId": "LAE.E164",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEIC対策セミナー第四",
+        "id": "202001364",
+        "teachers": [
+            "山根 亮一"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 9-LS",
+        "id": "202001101",
+        "teachers": [
+            "KIYAMA LORINDA ROBERTSON"
+        ]
+    },
+    {
+        "courseId": "LAE.E155",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リーディング＆ライティング）第一 3",
+        "id": "202023327",
+        "teachers": [
+            "原田 大介"
+        ]
+    },
+    {
+        "courseId": "LAE.E163",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEIC対策セミナー第三",
+        "id": "202001362",
+        "teachers": [
+            "山根 亮一"
+        ]
+    },
+    {
+        "courseId": "LAE.E151",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リスニング＆スピーキング）第一 1",
+        "id": "202001350",
+        "teachers": [
+            "ANTHONY PAGE"
+        ]
+    },
+    {
+        "courseId": "LAE.E181",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語スピーキング演習GI 2",
+        "id": "202001367",
+        "teachers": [
+            "MITCHELL JON"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 10-LS",
+        "id": "202001102",
+        "teachers": [
+            "木村 大輔"
+        ]
+    },
+    {
+        "courseId": "LAE.E172",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語海外研修1B 1",
+        "id": "202019818",
+        "teachers": [
+            "石原 由貴",
+            "木内 久美子",
+            "安納 真理子",
+            "DE FERRANTI HUGH BARRY ZIANI"
+        ]
+    },
+    {
+        "courseId": "LAE.E162",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEIC対策セミナー第二 1",
+        "id": "202001360",
+        "teachers": [
+            "山根 亮一"
+        ]
+    },
+    {
+        "courseId": "LAE.E161",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEIC対策セミナー第一",
+        "id": "202001358",
+        "teachers": [
+            "山根 亮一"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 15",
+        "id": "202001017",
+        "teachers": [
+            "小泉 勇人"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 38",
+        "id": "202001040",
+        "teachers": [
+            "木村 大輔"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 再2",
+        "id": "202001139",
+        "teachers": [
+            "田村 斉敏"
+        ]
+    },
+    {
+        "courseId": "LAE.E142",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語プレゼンテーション演習第二",
+        "id": "202010802",
+        "teachers": [
+            "Jonathan Abel"
+        ]
+    },
+    {
+        "courseId": "LAE.E157",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リーディング＆ライティング）第三 2",
+        "id": "202024807",
+        "teachers": [
+            "木村 大輔"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 43-RW",
+        "id": "202028326",
+        "teachers": [
+            "石原 由貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 8-LS",
+        "id": "202001100",
+        "teachers": [
+            "田村 斉敏"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 12-RW",
+        "id": "202001104",
+        "teachers": [
+            "原田 大介"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 21-RW",
+        "id": "202001113",
+        "teachers": [
+            "山根 亮一"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 再1",
+        "id": "202008037",
+        "teachers": [
+            "石原 由貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E171",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語海外研修1A 1",
+        "id": "202019816",
+        "teachers": [
+            "石原 由貴",
+            "木内 久美子",
+            "安納 真理子",
+            "DE FERRANTI HUGH BARRY ZIANI"
+        ]
+    },
+    {
+        "courseId": "LAE.E172",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語海外研修1B 2",
+        "id": "202019819",
+        "teachers": [
+            "石原 由貴",
+            "安納 真理子",
+            "DE FERRANTI HUGH BARRY ZIANI"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 11",
+        "id": "202000973",
+        "teachers": [
+            "Susan Yamada"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 15",
+        "id": "202000977",
+        "teachers": [
+            "小泉 勇人"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 19",
+        "id": "202000981",
+        "teachers": [
+            "北川 依子"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 20",
+        "id": "202000982",
+        "teachers": [
+            "原田 大介"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 21",
+        "id": "202000983",
+        "teachers": [
+            "MITCHELL JON"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 33",
+        "id": "202000995",
+        "teachers": [
+            "倉科 真季"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 37",
+        "id": "202000999",
+        "teachers": [
+            "木内 久美子"
+        ]
+    },
+    {
+        "courseId": "LAE.E151",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リスニング＆スピーキング）第一 2",
+        "id": "202010803",
+        "teachers": [
+            "原賀 真紀子"
+        ]
+    },
+    {
+        "courseId": "LAE.E155",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リーディング＆ライティング）第一 2",
+        "id": "202010808",
+        "teachers": [
+            "原賀 真紀子"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 16",
+        "id": "202001018",
+        "teachers": [
+            "木内 久美子"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 27",
+        "id": "202001029",
+        "teachers": [
+            "稲葉 麻里子"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 34",
+        "id": "202001036",
+        "teachers": [
+            "石原 由貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E181",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語スピーキング演習GI 1",
+        "id": "202001366",
+        "teachers": [
+            "NARUM PAUL"
+        ]
+    },
+    {
+        "courseId": "LAE.E152",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リスニング＆スピーキング）第二 2",
+        "id": "202008423",
+        "teachers": [
+            "原賀 真紀子"
+        ]
+    },
+    {
+        "courseId": "LAE.E156",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リーディング＆ライティング）第二 4",
+        "id": "202028331",
+        "teachers": [
+            "小泉 勇人"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 8-LS",
+        "id": "202001050",
+        "teachers": [
+            "田村 斉敏"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 21-RW",
+        "id": "202001063",
+        "teachers": [
+            "山根 亮一"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 30-LS",
+        "id": "202001072",
+        "teachers": [
+            "稲葉 麻里子"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 37-RW",
+        "id": "202001079",
+        "teachers": [
+            "木村 政則"
+        ]
+    },
+    {
+        "courseId": "LAE.E143",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語プレゼンテーション演習第三",
+        "id": "202001346",
+        "teachers": [
+            "原賀 真紀子"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 23-LS-ADV",
+        "id": "202001115",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 37-RW",
+        "id": "202001129",
+        "teachers": [
+            "木村 政則"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 40-RW",
+        "id": "202001132",
+        "teachers": [
+            "山根 亮一"
+        ]
+    },
+    {
+        "courseId": "LAE.E144",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語プレゼンテーション演習第四",
+        "id": "202001348",
+        "teachers": [
+            "原賀 真紀子"
+        ]
+    },
+    {
+        "courseId": "LAE.E158",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リーディング＆ライティング）第四 2",
+        "id": "202024809",
+        "teachers": [
+            "木村 大輔"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 申告専用",
+        "id": "202020180",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E191",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "実践型科学技術英語海外研修 I",
+        "id": "202026796",
+        "teachers": [
+            "石原 由貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 申告専用",
+        "id": "202020949",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 1",
+        "id": "202000963",
+        "teachers": [
+            "MITCHELL JON"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 12",
+        "id": "202000974",
+        "teachers": [
+            "木村 政則"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 14",
+        "id": "202000976",
+        "teachers": [
+            "宮永 隆一朗"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 16",
+        "id": "202000978",
+        "teachers": [
+            "木内 久美子"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 34",
+        "id": "202000996",
+        "teachers": [
+            "石原 由貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 35",
+        "id": "202000997",
+        "teachers": [
+            "北川 依子"
+        ]
+    },
+    {
+        "courseId": "LAE.E155",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リーディング＆ライティング）第一 1",
+        "id": "202001354",
+        "teachers": [
+            "木村 大輔"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 40",
+        "id": "202008032",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E141",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語プレゼンテーション演習第一",
+        "id": "202010801",
+        "teachers": [
+            "Jonathan Abel"
+        ]
+    },
+    {
+        "courseId": "LAE.E155",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リーディング＆ライティング）第一 5",
+        "id": "202028618",
+        "teachers": [
+            "原田 大介"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 13",
+        "id": "202001015",
+        "teachers": [
+            "中村 彰"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 20",
+        "id": "202001022",
+        "teachers": [
+            "原田 大介"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 37",
+        "id": "202001039",
+        "teachers": [
+            "木内 久美子"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 40",
+        "id": "202001042",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E156",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リーディング＆ライティング）第二 5",
+        "id": "202028623",
+        "teachers": [
+            "原田 大介"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 3-LS-ADV",
+        "id": "202001045",
+        "teachers": [
+            "NARUM PAUL"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 13-RW",
+        "id": "202001055",
+        "teachers": [
+            "小堀 洋"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 22-LS-ADV",
+        "id": "202001064",
+        "teachers": [
+            "MITCHELL JON"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 24-LS-ADV",
+        "id": "202001066",
+        "teachers": [
+            "NARUM PAUL"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 32-LS",
+        "id": "202001074",
+        "teachers": [
+            "木村 大輔"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 35-RW",
+        "id": "202001077",
+        "teachers": [
+            "丸山 令子"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 40-RW",
+        "id": "202001082",
+        "teachers": [
+            "山根 亮一"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 42-RW",
+        "id": "202001084",
+        "teachers": [
+            "小泉 勇人"
+        ]
+    },
+    {
+        "courseId": "LAE.E153",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リスニング＆スピーキング）第三 2",
+        "id": "202009101",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E153",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リスニング＆スピーキング）第三 3",
+        "id": "202024052",
+        "teachers": [
+            "安納 真理子"
+        ]
+    },
+    {
+        "courseId": "LAE.E157",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リーディング＆ライティング）第三 4",
+        "id": "202028333",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E133",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語スピーキング演習第三 3",
+        "id": "202028610",
+        "teachers": [
+            "DE FERRANTI HUGH BARRY ZIANI"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 3-LS-ADV",
+        "id": "202001095",
+        "teachers": [
+            "NARUM PAUL"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 15-RW",
+        "id": "202001107",
+        "teachers": [
+            "小泉 勇人"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 29-LS",
+        "id": "202001121",
+        "teachers": [
+            "木内 久美子"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 41-RW",
+        "id": "202001133",
+        "teachers": [
+            "原田 大介"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 42-RW",
+        "id": "202001134",
+        "teachers": [
+            "小泉 勇人"
+        ]
+    },
+    {
+        "courseId": "LAE.E134",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語スピーキング演習第四 1",
+        "id": "202001343",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E182",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語スピーキング演習GII 1",
+        "id": "202001370",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E182",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語スピーキング演習GII 2",
+        "id": "202001371",
+        "teachers": [
+            "NARUM PAUL"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 再2",
+        "id": "202008038",
+        "teachers": [
+            "原田 大介"
+        ]
+    },
+    {
+        "courseId": "LAE.E154",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リスニング＆スピーキング）第四 3",
+        "id": "202024053",
+        "teachers": [
+            "安納 真理子"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 申告専用",
+        "id": "202008710",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E171",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語海外研修1A 2",
+        "id": "202019817",
+        "teachers": [
+            "石原 由貴",
+            "安納 真理子",
+            "DE FERRANTI HUGH BARRY ZIANI"
+        ]
+    },
+    {
+        "courseId": "LAE.E134",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語スピーキング演習第四 4",
+        "id": "202030556",
+        "teachers": [
+            "SLAYBAUGH BROOKS  CHRISTOPHER"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 5",
+        "id": "202000967",
+        "teachers": [
+            "小堀 洋"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 3",
+        "id": "202000965",
+        "teachers": [
+            "NARUM PAUL"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 4",
+        "id": "202000966",
+        "teachers": [
+            "宇貫 亮"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 6",
+        "id": "202000968",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 9",
+        "id": "202000971",
+        "teachers": [
+            "近藤 章子"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 10",
+        "id": "202000972",
+        "teachers": [
+            "松井 恭子"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 17",
+        "id": "202000979",
+        "teachers": [
+            "石原 由貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 18",
+        "id": "202000980",
+        "teachers": [
+            "田村 斉敏"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 23",
+        "id": "202000985",
+        "teachers": [
+            "NARUM PAUL"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 24",
+        "id": "202000986",
+        "teachers": [
+            "川村 由美"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 26",
+        "id": "202000988",
+        "teachers": [
+            "笠原 一郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 27",
+        "id": "202000989",
+        "teachers": [
+            "稲葉 麻里子"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 29",
+        "id": "202000991",
+        "teachers": [
+            "丸山 令子"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 32",
+        "id": "202000994",
+        "teachers": [
+            "木村 政則"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 36",
+        "id": "202000998",
+        "teachers": [
+            "田村 斉敏"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 39",
+        "id": "202001001",
+        "teachers": [
+            "安納 真理子"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 再1",
+        "id": "202001091",
+        "teachers": [
+            "石原 由貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 再2",
+        "id": "202001092",
+        "teachers": [
+            "田村 斉敏"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 再3",
+        "id": "202010792",
+        "teachers": [
+            "谷岡 健彦"
+        ]
+    },
+    {
+        "courseId": "LAE.E151",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リスニング＆スピーキング）第一 3",
+        "id": "202010804",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 再4",
+        "id": "202024050",
+        "teachers": [
+            "木村 大輔"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 再5",
+        "id": "202028327",
+        "teachers": [
+            "木村 大輔"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 11",
+        "id": "202001013",
+        "teachers": [
+            "Susan Yamada"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 14",
+        "id": "202001016",
+        "teachers": [
+            "宮永 隆一朗"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 19",
+        "id": "202001021",
+        "teachers": [
+            "北川 依子"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 21",
+        "id": "202001023",
+        "teachers": [
+            "MITCHELL JON"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 32",
+        "id": "202001034",
+        "teachers": [
+            "木村 政則"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 35",
+        "id": "202001037",
+        "teachers": [
+            "北川 依子"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 36",
+        "id": "202001038",
+        "teachers": [
+            "田村 斉敏"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 39",
+        "id": "202001041",
+        "teachers": [
+            "安納 真理子"
+        ]
+    },
+    {
+        "courseId": "LAE.E132",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語スピーキング演習第二 1",
+        "id": "202001341",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E152",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リスニング＆スピーキング）第二 1",
+        "id": "202001351",
+        "teachers": [
+            "ANTHONY PAGE"
+        ]
+    },
+    {
+        "courseId": "LAE.E156",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リーディング＆ライティング）第二 1",
+        "id": "202001355",
+        "teachers": [
+            "木村 大輔"
+        ]
+    },
+    {
+        "courseId": "LAE.E181",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語スピーキング演習GI 3",
+        "id": "202001368",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E132",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語スピーキング演習第二 2",
+        "id": "202010796",
+        "teachers": [
+            "DE FERRANTI HUGH BARRY ZIANI"
+        ]
+    },
+    {
+        "courseId": "LAE.E156",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リーディング＆ライティング）第二 2",
+        "id": "202010809",
+        "teachers": [
+            "原賀 真紀子"
+        ]
+    },
+    {
+        "courseId": "LAE.E156",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リーディング＆ライティング）第二 3",
+        "id": "202023328",
+        "teachers": [
+            "原田 大介"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 再4",
+        "id": "202024051",
+        "teachers": [
+            "木村 大輔"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 再5",
+        "id": "202028329",
+        "teachers": [
+            "木村 大輔"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 再2",
+        "id": "202001002",
+        "teachers": [
+            "原田 大介"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 4-LS",
+        "id": "202001046",
+        "teachers": [
+            "Susan Yamada"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 9-LS",
+        "id": "202001051",
+        "teachers": [
+            "KIYAMA LORINDA ROBERTSON"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 10-LS",
+        "id": "202001052",
+        "teachers": [
+            "木村 大輔"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 11-RW",
+        "id": "202001053",
+        "teachers": [
+            "北川 依子"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 12-RW",
+        "id": "202001054",
+        "teachers": [
+            "原田 大介"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 15-RW",
+        "id": "202001057",
+        "teachers": [
+            "小泉 勇人"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 18-RW",
+        "id": "202001060",
+        "teachers": [
+            "丸山 令子"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 20-RW",
+        "id": "202001062",
+        "teachers": [
+            "石原 由貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 25-LS",
+        "id": "202001067",
+        "teachers": [
+            "田村 斉敏"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 29-LS",
+        "id": "202001071",
+        "teachers": [
+            "木内 久美子"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 36-RW",
+        "id": "202001078",
+        "teachers": [
+            "北川 依子"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 41-RW",
+        "id": "202001083",
+        "teachers": [
+            "原田 大介"
+        ]
+    },
+    {
+        "courseId": "LAE.E153",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リスニング＆スピーキング）第三 1",
+        "id": "202001352",
+        "teachers": [
+            "ANTHONY PAGE"
+        ]
+    },
+    {
+        "courseId": "LAE.E157",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リーディング＆ライティング）第三 1",
+        "id": "202001356",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 再1",
+        "id": "202008031",
+        "teachers": [
+            "石原 由貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E157",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リーディング＆ライティング）第三 3",
+        "id": "202028332",
+        "teachers": [
+            "石原 由貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 4-LS",
+        "id": "202001096",
+        "teachers": [
+            "Susan Yamada"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 6-LS",
+        "id": "202001098",
+        "teachers": [
+            "近藤 章子"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 11-RW",
+        "id": "202001103",
+        "teachers": [
+            "北川 依子"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 13-RW",
+        "id": "202001105",
+        "teachers": [
+            "小堀 洋"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 19-RW",
+        "id": "202001111",
+        "teachers": [
+            "宮永 隆一朗"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 20-RW",
+        "id": "202001112",
+        "teachers": [
+            "石原 由貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 26-LS",
+        "id": "202001118",
+        "teachers": [
+            "川村 由美"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 32-LS",
+        "id": "202001124",
+        "teachers": [
+            "木村 大輔"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 33-RW",
+        "id": "202001125",
+        "teachers": [
+            "笠原 一郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 36-RW",
+        "id": "202001128",
+        "teachers": [
+            "北川 依子"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 39-RW",
+        "id": "202001131",
+        "teachers": [
+            "倉科 真季"
+        ]
+    },
+    {
+        "courseId": "LAE.E182",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語スピーキング演習GII 3",
+        "id": "202001372",
+        "teachers": [
+            "MITCHELL JON"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 再3",
+        "id": "202008490",
+        "teachers": [
+            "小泉 勇人"
+        ]
+    },
+    {
+        "courseId": "LAE.E154",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リスニング＆スピーキング）第四 2",
+        "id": "202009103",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 43-RW",
+        "id": "202028328",
+        "teachers": [
+            "石原 由貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 申告専用",
+        "id": "202008375",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 申告専用",
+        "id": "202020181",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 申告専用",
+        "id": "202020904",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 30-LS",
+        "id": "202001122",
+        "teachers": [
+            "稲葉 麻里子"
+        ]
+    },
+    {
+        "courseId": "LAE.E191",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "実践型科学技術英語海外研修 I",
+        "id": "202026797",
+        "teachers": [
+            "石原 由貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 8",
+        "id": "202000970",
+        "teachers": [
+            "矢向 寛子"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 13",
+        "id": "202000975",
+        "teachers": [
+            "中村 彰"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 25",
+        "id": "202000987",
+        "teachers": [
+            "瀬上 和典"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 31",
+        "id": "202000993",
+        "teachers": [
+            "宮本 朋子"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 38",
+        "id": "202001000",
+        "teachers": [
+            "木村 大輔"
+        ]
+    },
+    {
+        "courseId": "LAE.E131",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語スピーキング演習第一 1",
+        "id": "202001340",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E155",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リーディング＆ライティング）第一 4",
+        "id": "202028330",
+        "teachers": [
+            "小泉 勇人"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 1",
+        "id": "202001003",
+        "teachers": [
+            "MITCHELL JON"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 2",
+        "id": "202001004",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 4",
+        "id": "202001006",
+        "teachers": [
+            "宇貫 亮"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 6",
+        "id": "202001008",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 7",
+        "id": "202001009",
+        "teachers": [
+            "丸山 令子"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 9",
+        "id": "202001011",
+        "teachers": [
+            "近藤 章子"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 17",
+        "id": "202001019",
+        "teachers": [
+            "石原 由貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 18",
+        "id": "202001020",
+        "teachers": [
+            "田村 斉敏"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 25",
+        "id": "202001027",
+        "teachers": [
+            "瀬上 和典"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 30",
+        "id": "202001032",
+        "teachers": [
+            "蒔田 裕美"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 31",
+        "id": "202001033",
+        "teachers": [
+            "宮本 朋子"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 再1",
+        "id": "202001138",
+        "teachers": [
+            "石原 由貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 再3",
+        "id": "202010793",
+        "teachers": [
+            "谷岡 健彦"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 1-LS-ADV",
+        "id": "202001043",
+        "teachers": [
+            "MITCHELL JON"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 2-LS-ADV",
+        "id": "202001044",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 5-LS",
+        "id": "202001047",
+        "teachers": [
+            "松井 恭子"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 14-RW",
+        "id": "202001056",
+        "teachers": [
+            "宇貫 亮"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 16-RW",
+        "id": "202001058",
+        "teachers": [
+            "矢向 寛子"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 26-LS",
+        "id": "202001068",
+        "teachers": [
+            "川村 由美"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 31-LS",
+        "id": "202001073",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 33-RW",
+        "id": "202001075",
+        "teachers": [
+            "笠原 一郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 34-RW",
+        "id": "202001076",
+        "teachers": [
+            "福田 一貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 38-RW",
+        "id": "202001080",
+        "teachers": [
+            "瀬上 和典"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 39-RW",
+        "id": "202001081",
+        "teachers": [
+            "倉科 真季"
+        ]
+    },
+    {
+        "courseId": "LAE.E133",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語スピーキング演習第三 1",
+        "id": "202001342",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 再3",
+        "id": "202008489",
+        "teachers": [
+            "小泉 勇人"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 1-LS-ADV",
+        "id": "202001093",
+        "teachers": [
+            "MITCHELL JON"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 16-RW",
+        "id": "202001108",
+        "teachers": [
+            "矢向 寛子"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 17-RW",
+        "id": "202001109",
+        "teachers": [
+            "木村 政則"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 22-LS-ADV",
+        "id": "202001114",
+        "teachers": [
+            "MITCHELL JON"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 25-LS",
+        "id": "202001117",
+        "teachers": [
+            "田村 斉敏"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 27-LS",
+        "id": "202001119",
+        "teachers": [
+            "宮本 朋子"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 28-LS",
+        "id": "202001120",
+        "teachers": [
+            "蒔田 裕美"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 31-LS",
+        "id": "202001123",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E154",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リスニング＆スピーキング）第四 1",
+        "id": "202001353",
+        "teachers": [
+            "ANTHONY PAGE"
+        ]
+    },
+    {
+        "courseId": "LAE.E158",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リーディング＆ライティング）第四 1",
+        "id": "202001357",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E158",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リーディング＆ライティング）第四 3",
+        "id": "202028334",
+        "teachers": [
+            "石原 由貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E134",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語スピーキング演習第四 3",
+        "id": "202028613",
+        "teachers": [
+            "DE FERRANTI HUGH BARRY ZIANI"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 申告専用",
+        "id": "202008374",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E131",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語スピーキング演習第一 2",
+        "id": "202010794",
+        "teachers": []
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 申告専用",
+        "id": "202008711",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 2",
+        "id": "202000964",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 7",
+        "id": "202000969",
+        "teachers": [
+            "丸山 令子"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 22",
+        "id": "202000984",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 28",
+        "id": "202000990",
+        "teachers": [
+            "福田 一貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E111",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第一 30",
+        "id": "202000992",
+        "teachers": [
+            "蒔田 裕美"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 3",
+        "id": "202001005",
+        "teachers": [
+            "NARUM PAUL"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 5",
+        "id": "202001007",
+        "teachers": [
+            "小堀 洋"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 8",
+        "id": "202001010",
+        "teachers": [
+            "矢向 寛子"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 10",
+        "id": "202001012",
+        "teachers": [
+            "松井 恭子"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 12",
+        "id": "202001014",
+        "teachers": [
+            "木村 政則"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 22",
+        "id": "202001024",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 23",
+        "id": "202001025",
+        "teachers": [
+            "NARUM PAUL"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 24",
+        "id": "202001026",
+        "teachers": [
+            "川村 由美"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 26",
+        "id": "202001028",
+        "teachers": [
+            "笠原 一郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 28",
+        "id": "202001030",
+        "teachers": [
+            "福田 一貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 29",
+        "id": "202001031",
+        "teachers": [
+            "丸山 令子"
+        ]
+    },
+    {
+        "courseId": "LAE.E112",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第二 33",
+        "id": "202001035",
+        "teachers": [
+            "倉科 真季"
+        ]
+    },
+    {
+        "courseId": "LAE.E152",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リスニング＆スピーキング）第二 3",
+        "id": "202010805",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 6-LS",
+        "id": "202001048",
+        "teachers": [
+            "近藤 章子"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 7-LS",
+        "id": "202001049",
+        "teachers": [
+            "中村 彰"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 17-RW",
+        "id": "202001059",
+        "teachers": [
+            "木村 政則"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 19-RW",
+        "id": "202001061",
+        "teachers": [
+            "宮永 隆一朗"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 23-LS-ADV",
+        "id": "202001065",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 27-LS",
+        "id": "202001069",
+        "teachers": [
+            "宮本 朋子"
+        ]
+    },
+    {
+        "courseId": "LAE.E113",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第三 28-LS",
+        "id": "202001070",
+        "teachers": [
+            "蒔田 裕美"
+        ]
+    },
+    {
+        "courseId": "LAE.E133",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語スピーキング演習第三 2",
+        "id": "202008488",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 2-LS-ADV",
+        "id": "202001094",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 5-LS",
+        "id": "202001097",
+        "teachers": [
+            "松井 恭子"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 7-LS",
+        "id": "202001099",
+        "teachers": [
+            "中村 彰"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 14-RW",
+        "id": "202001106",
+        "teachers": [
+            "宇貫 亮"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 18-RW",
+        "id": "202001110",
+        "teachers": [
+            "丸山 令子"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 24-LS-ADV",
+        "id": "202001116",
+        "teachers": [
+            "NARUM PAUL"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 34-RW",
+        "id": "202001126",
+        "teachers": [
+            "福田 一貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 35-RW",
+        "id": "202001127",
+        "teachers": [
+            "丸山 令子"
+        ]
+    },
+    {
+        "courseId": "LAE.E114",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語第四 38-RW",
+        "id": "202001130",
+        "teachers": [
+            "瀬上 和典"
+        ]
+    },
+    {
+        "courseId": "LAE.E134",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "英語スピーキング演習第四 2",
+        "id": "202010799",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E158",
+        "courseDigit": 1,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リーディング＆ライティング）第四 4",
+        "id": "202028335",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 9-RW",
+        "id": "202001151",
+        "teachers": [
+            "丸山 令子"
+        ]
+    },
+    {
+        "courseId": "LAE.E254",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リスニング＆スピーキング）第八",
+        "id": "202001387",
+        "teachers": [
+            "原賀 真紀子"
+        ]
+    },
+    {
+        "courseId": "LAE.E255",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リーディング＆ライティング）第五",
+        "id": "202001388",
+        "teachers": [
+            "山根 亮一"
+        ]
+    },
+    {
+        "courseId": "LAE.E253",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リスニング＆スピーキング）第七",
+        "id": "202001386",
+        "teachers": [
+            "原賀 真紀子"
+        ]
+    },
+    {
+        "courseId": "LAE.E257",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リーディング＆ライティング）第七",
+        "id": "202001390",
+        "teachers": [
+            "原賀 真紀子"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 32-LS",
+        "id": "202001222",
+        "teachers": [
+            "木内 久美子"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 33-LS",
+        "id": "202001223",
+        "teachers": [
+            "山根 亮一"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 15-LS",
+        "id": "202001157",
+        "teachers": [
+            "MITCHELL JON"
+        ]
+    },
+    {
+        "courseId": "LAE.E231",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語スピーキング演習第五 1",
+        "id": "202001374",
+        "teachers": [
+            "原賀 真紀子"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 23-RW",
+        "id": "202001213",
+        "teachers": [
+            "原田 大介"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 再5",
+        "id": "202028337",
+        "teachers": [
+            "木村 大輔"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 7-LS",
+        "id": "202001245",
+        "teachers": [
+            "矢向 寛子"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 13-RW",
+        "id": "202001251",
+        "teachers": [
+            "小堀 洋"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 35-RW",
+        "id": "202001273",
+        "teachers": [
+            "木村 政則"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 37-RW",
+        "id": "202001325",
+        "teachers": [
+            "石原 由貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 申告専用",
+        "id": "202008377",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 29-LS",
+        "id": "202001317",
+        "teachers": [
+            "稲葉 麻里子"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 申告専用",
+        "id": "202021055",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 23-RW",
+        "id": "202001165",
+        "teachers": [
+            "原田 大介"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 24-RW",
+        "id": "202001166",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 32-LS",
+        "id": "202001174",
+        "teachers": [
+            "木内 久美子"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 33-LS",
+        "id": "202001175",
+        "teachers": [
+            "山根 亮一"
+        ]
+    },
+    {
+        "courseId": "LAE.E241",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語プレゼンテーション演習第五",
+        "id": "202001378",
+        "teachers": [
+            "ANTHONY PAGE"
+        ]
+    },
+    {
+        "courseId": "LAE.E251",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リスニング＆スピーキング）第五",
+        "id": "202001384",
+        "teachers": [
+            "安納 真理子"
+        ]
+    },
+    {
+        "courseId": "LAE.E242",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語プレゼンテーション演習第六",
+        "id": "202001379",
+        "teachers": [
+            "ANTHONY PAGE"
+        ]
+    },
+    {
+        "courseId": "LAE.E256",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リーディング＆ライティング）第六",
+        "id": "202001389",
+        "teachers": [
+            "山根 亮一"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 再3",
+        "id": "202010813",
+        "teachers": [
+            "谷岡 健彦"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 4-LS",
+        "id": "202001242",
+        "teachers": [
+            "Susan Yamada"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 15-RW",
+        "id": "202001253",
+        "teachers": [
+            "木村 政則"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 17-LS",
+        "id": "202001255",
+        "teachers": [
+            "MITCHELL JON"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 19-LS",
+        "id": "202001257",
+        "teachers": [
+            "NARUM PAUL"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 42-LS",
+        "id": "202001280",
+        "teachers": [
+            "川村 由美"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 44-RW",
+        "id": "202001282",
+        "teachers": [
+            "北川 依子"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 46-RW",
+        "id": "202001284",
+        "teachers": [
+            "谷岡 健彦"
+        ]
+    },
+    {
+        "courseId": "LAE.E233",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語スピーキング演習第七",
+        "id": "202001376",
+        "teachers": [
+            "安納 真理子"
+        ]
+    },
+    {
+        "courseId": "LAE.E243",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語プレゼンテーション演習第七 2",
+        "id": "202001381",
+        "teachers": [
+            "Jonathan Abel"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 再3",
+        "id": "202008491",
+        "teachers": [
+            "小泉 勇人"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 16-RW",
+        "id": "202001304",
+        "teachers": [
+            "木内 久美子"
+        ]
+    },
+    {
+        "courseId": "LAE.E234",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語スピーキング演習第八",
+        "id": "202001377",
+        "teachers": [
+            "安納 真理子"
+        ]
+    },
+    {
+        "courseId": "LAE.E244",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語プレゼンテーション演習第八 2",
+        "id": "202001383",
+        "teachers": [
+            "Jonathan Abel"
+        ]
+    },
+    {
+        "courseId": "LAE.E258",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リーディング＆ライティング）第八",
+        "id": "202001391",
+        "teachers": [
+            "原賀 真紀子"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 申告専用",
+        "id": "202020182",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 申告専用",
+        "id": "202008713",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 1-LS-ADV",
+        "id": "202001143",
+        "teachers": [
+            "MITCHELL JON"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 5-LS",
+        "id": "202001147",
+        "teachers": [
+            "BURNS MARK DEREK"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 11-RW",
+        "id": "202001153",
+        "teachers": [
+            "宇貫 亮"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 12-RW",
+        "id": "202001154",
+        "teachers": [
+            "小堀 洋"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 20-RW",
+        "id": "202001162",
+        "teachers": [
+            "木村 政則"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 25-LS-ADV",
+        "id": "202001167",
+        "teachers": [
+            "MITCHELL JON"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 27-LS",
+        "id": "202001169",
+        "teachers": [
+            "NARUM PAUL"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 29-LS",
+        "id": "202001171",
+        "teachers": [
+            "瀬上 和典"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 30-LS",
+        "id": "202001172",
+        "teachers": [
+            "宮本 朋子"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 39-RW",
+        "id": "202001181",
+        "teachers": [
+            "倉科 真季"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 42-RW",
+        "id": "202001184",
+        "teachers": [
+            "原田 大介"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 43-LS",
+        "id": "202001185",
+        "teachers": [
+            "MITCHELL JON"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 再2",
+        "id": "202001288",
+        "teachers": [
+            "田村 斉敏"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 1-LS-ADV",
+        "id": "202001191",
+        "teachers": [
+            "MITCHELL JON"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 4-LS",
+        "id": "202001194",
+        "teachers": [
+            "Susan Yamada"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 21-RW",
+        "id": "202001211",
+        "teachers": [
+            "宇貫 亮"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 25-LS-ADV",
+        "id": "202001215",
+        "teachers": [
+            "MITCHELL JON"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 28-LS",
+        "id": "202001218",
+        "teachers": [
+            "川村 由美"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 36-RW",
+        "id": "202001226",
+        "teachers": [
+            "丸山 令子"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 42-RW",
+        "id": "202001232",
+        "teachers": [
+            "原田 大介"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 43-LS",
+        "id": "202001233",
+        "teachers": [
+            "MITCHELL JON"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 44-LS-ADV",
+        "id": "202001234",
+        "teachers": [
+            "NARUM PAUL"
+        ]
+    },
+    {
+        "courseId": "LAE.E232",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語スピーキング演習第六 1",
+        "id": "202001375",
+        "teachers": [
+            "原賀 真紀子"
+        ]
+    },
+    {
+        "courseId": "LAE.E252",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リスニング＆スピーキング）第六",
+        "id": "202001385",
+        "teachers": [
+            "安納 真理子"
+        ]
+    },
+    {
+        "courseId": "LAE.E232",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語スピーキング演習第六 2",
+        "id": "202010815",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 9-RW",
+        "id": "202001247",
+        "teachers": [
+            "宇貫 亮"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 12-RW",
+        "id": "202001250",
+        "teachers": [
+            "北川 依子"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 16-RW",
+        "id": "202001254",
+        "teachers": [
+            "木内 久美子"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 21-RW",
+        "id": "202001259",
+        "teachers": [
+            "中村 彰"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 23-RW",
+        "id": "202001261",
+        "teachers": [
+            "小堀 洋"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 26-LS-ADV",
+        "id": "202001264",
+        "teachers": [
+            "NARUM PAUL"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 28-LS",
+        "id": "202001266",
+        "teachers": [
+            "蒔田 裕美"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 39-LS-ADV",
+        "id": "202001277",
+        "teachers": [
+            "MITCHELL JON"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 41-LS",
+        "id": "202001279",
+        "teachers": [
+            "NARUM PAUL"
+        ]
+    },
+    {
+        "courseId": "LAE.E243",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語プレゼンテーション演習第七 1",
+        "id": "202001380",
+        "teachers": [
+            "ANTHONY PAGE"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 再2",
+        "id": "202008034",
+        "teachers": [
+            "原田 大介"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 4-LS",
+        "id": "202001292",
+        "teachers": [
+            "Susan Yamada"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 7-LS",
+        "id": "202001295",
+        "teachers": [
+            "矢向 寛子"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 8-LS",
+        "id": "202001296",
+        "teachers": [
+            "中村 彰"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 11-RW",
+        "id": "202001299",
+        "teachers": [
+            "宮永 隆一朗"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 20-LS",
+        "id": "202001308",
+        "teachers": [
+            "BURNS MARK DEREK"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 35-RW",
+        "id": "202001323",
+        "teachers": [
+            "木村 政則"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 43-RW",
+        "id": "202001331",
+        "teachers": [
+            "笠原 一郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 46-RW",
+        "id": "202001334",
+        "teachers": [
+            "谷岡 健彦"
+        ]
+    },
+    {
+        "courseId": "LAE.E244",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語プレゼンテーション演習第八 1",
+        "id": "202001382",
+        "teachers": [
+            "ANTHONY PAGE"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 再2",
+        "id": "202008036",
+        "teachers": [
+            "原田 大介"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 申告専用",
+        "id": "202020183",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 申告専用",
+        "id": "202008712",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 申告専用",
+        "id": "202021002",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 3-LS",
+        "id": "202001145",
+        "teachers": [
+            "NARUM PAUL"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 7-LS",
+        "id": "202001149",
+        "teachers": [
+            "中村 彰"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 8-RW",
+        "id": "202001150",
+        "teachers": [
+            "近藤 章子"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 13-RW",
+        "id": "202001155",
+        "teachers": [
+            "木村 政則"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 14-RW",
+        "id": "202001156",
+        "teachers": [
+            "宮永 隆一朗"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 18-LS",
+        "id": "202001160",
+        "teachers": [
+            "BURNS MARK DEREK"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 22-RW",
+        "id": "202001164",
+        "teachers": [
+            "小堀 洋"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 28-LS",
+        "id": "202001170",
+        "teachers": [
+            "川村 由美"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 31-LS",
+        "id": "202001173",
+        "teachers": [
+            "蒔田 裕美"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 34-RW",
+        "id": "202001176",
+        "teachers": [
+            "笠原 一郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 35-RW",
+        "id": "202001177",
+        "teachers": [
+            "福田 一貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 36-RW",
+        "id": "202001178",
+        "teachers": [
+            "丸山 令子"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 38-RW",
+        "id": "202001180",
+        "teachers": [
+            "木村 政則"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 40-RW",
+        "id": "202001182",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 41-RW",
+        "id": "202001183",
+        "teachers": [
+            "石原 由貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 再1",
+        "id": "202001287",
+        "teachers": [
+            "石原 由貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 再3",
+        "id": "202010812",
+        "teachers": [
+            "谷岡 健彦"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 再4",
+        "id": "202024056",
+        "teachers": [
+            "木村 大輔"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 再5",
+        "id": "202028336",
+        "teachers": [
+            "木村 大輔"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 3-LS",
+        "id": "202001193",
+        "teachers": [
+            "NARUM PAUL"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 6-LS",
+        "id": "202001196",
+        "teachers": [
+            "松井 恭子"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 7-LS",
+        "id": "202001197",
+        "teachers": [
+            "中村 彰"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 8-RW",
+        "id": "202001198",
+        "teachers": [
+            "近藤 章子"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 11-RW",
+        "id": "202001201",
+        "teachers": [
+            "宇貫 亮"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 15-LS",
+        "id": "202001205",
+        "teachers": [
+            "MITCHELL JON"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 17-LS-ADV",
+        "id": "202001207",
+        "teachers": [
+            "NARUM PAUL"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 22-RW",
+        "id": "202001212",
+        "teachers": [
+            "小堀 洋"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 24-RW",
+        "id": "202001214",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 26-LS-ADV",
+        "id": "202001216",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 27-LS",
+        "id": "202001217",
+        "teachers": [
+            "NARUM PAUL"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 29-LS",
+        "id": "202001219",
+        "teachers": [
+            "瀬上 和典"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 30-LS",
+        "id": "202001220",
+        "teachers": [
+            "宮本 朋子"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 35-RW",
+        "id": "202001225",
+        "teachers": [
+            "福田 一貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 37-RW",
+        "id": "202001227",
+        "teachers": [
+            "稲葉 麻里子"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 38-RW",
+        "id": "202001228",
+        "teachers": [
+            "木村 政則"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 39-RW",
+        "id": "202001229",
+        "teachers": [
+            "倉科 真季"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 40-RW",
+        "id": "202001230",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 41-RW",
+        "id": "202001231",
+        "teachers": [
+            "石原 由貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 再1",
+        "id": "202001337",
+        "teachers": [
+            "石原 由貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 再2",
+        "id": "202001338",
+        "teachers": [
+            "田村 斉敏"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 再4",
+        "id": "202024057",
+        "teachers": [
+            "木村 大輔"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 1-LS",
+        "id": "202001239",
+        "teachers": [
+            "MITCHELL JON"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 5-LS",
+        "id": "202001243",
+        "teachers": [
+            "BURNS MARK DEREK"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 10-RW",
+        "id": "202001248",
+        "teachers": [
+            "近藤 章子"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 11-RW",
+        "id": "202001249",
+        "teachers": [
+            "宮永 隆一朗"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 14-RW",
+        "id": "202001252",
+        "teachers": [
+            "丸山 令子"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 24-LS-ADV",
+        "id": "202001262",
+        "teachers": [
+            "MITCHELL JON"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 27-LS",
+        "id": "202001265",
+        "teachers": [
+            "川村 由美"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 30-LS",
+        "id": "202001268",
+        "teachers": [
+            "DE FERRANTI HUGH BARRY ZIANI"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 33-RW",
+        "id": "202001271",
+        "teachers": [
+            "丸山 令子"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 34-RW",
+        "id": "202001272",
+        "teachers": [
+            "瀬上 和典"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 37-RW",
+        "id": "202001275",
+        "teachers": [
+            "石原 由貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 38-RW",
+        "id": "202001276",
+        "teachers": [
+            "宮本 朋子"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 43-RW",
+        "id": "202001281",
+        "teachers": [
+            "笠原 一郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 45-RW",
+        "id": "202001283",
+        "teachers": [
+            "稲葉 麻里子"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 再1",
+        "id": "202008033",
+        "teachers": [
+            "石原 由貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 1-LS",
+        "id": "202001289",
+        "teachers": [
+            "MITCHELL JON"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 3-LS-ADV",
+        "id": "202001291",
+        "teachers": [
+            "NARUM PAUL"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 6-LS",
+        "id": "202001294",
+        "teachers": [
+            "松井 恭子"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 9-RW",
+        "id": "202001297",
+        "teachers": [
+            "宇貫 亮"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 10-RW",
+        "id": "202001298",
+        "teachers": [
+            "近藤 章子"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 12-RW",
+        "id": "202001300",
+        "teachers": [
+            "北川 依子"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 13-RW",
+        "id": "202001301",
+        "teachers": [
+            "小堀 洋"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 15-RW",
+        "id": "202001303",
+        "teachers": [
+            "木村 政則"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 17-LS",
+        "id": "202001305",
+        "teachers": [
+            "MITCHELL JON"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 19-LS",
+        "id": "202001307",
+        "teachers": [
+            "NARUM PAUL"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 21-RW",
+        "id": "202001309",
+        "teachers": [
+            "中村 彰"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 22-RW",
+        "id": "202001310",
+        "teachers": [
+            "宇貫 亮"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 23-RW",
+        "id": "202001311",
+        "teachers": [
+            "小堀 洋"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 24-LS-ADV",
+        "id": "202001312",
+        "teachers": [
+            "MITCHELL JON"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 28-LS",
+        "id": "202001316",
+        "teachers": [
+            "蒔田 裕美"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 30-LS",
+        "id": "202001318",
+        "teachers": [
+            "DE FERRANTI HUGH BARRY ZIANI"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 33-RW",
+        "id": "202001321",
+        "teachers": [
+            "丸山 令子"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 39-LS-ADV",
+        "id": "202001327",
+        "teachers": [
+            "MITCHELL JON"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 44-RW",
+        "id": "202001332",
+        "teachers": [
+            "北川 依子"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 再1",
+        "id": "202008035",
+        "teachers": [
+            "石原 由貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 再3",
+        "id": "202008492",
+        "teachers": [
+            "小泉 勇人"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 申告専用",
+        "id": "202008376",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 45-RW",
+        "id": "202001333",
+        "teachers": [
+            "稲葉 麻里子"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 2-LS-ADV",
+        "id": "202001144",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 4-LS",
+        "id": "202001146",
+        "teachers": [
+            "Susan Yamada"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 6-LS",
+        "id": "202001148",
+        "teachers": [
+            "松井 恭子"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 10-RW",
+        "id": "202001152",
+        "teachers": [
+            "矢向 寛子"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 16-LS",
+        "id": "202001158",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 17-LS-ADV",
+        "id": "202001159",
+        "teachers": [
+            "NARUM PAUL"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 19-LS",
+        "id": "202001161",
+        "teachers": [
+            "中村 彰"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 21-RW",
+        "id": "202001163",
+        "teachers": [
+            "宇貫 亮"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 26-LS-ADV",
+        "id": "202001168",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 37-RW",
+        "id": "202001179",
+        "teachers": [
+            "稲葉 麻里子"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 44-LS-ADV",
+        "id": "202001186",
+        "teachers": [
+            "NARUM PAUL"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 45-RW",
+        "id": "202001187",
+        "teachers": [
+            "笠原 一郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E211",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第五 46-RW",
+        "id": "202001188",
+        "teachers": [
+            "稲葉 麻里子"
+        ]
+    },
+    {
+        "courseId": "LAE.E231",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語スピーキング演習第五 2",
+        "id": "202010814",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 2-LS-ADV",
+        "id": "202001192",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 5-LS",
+        "id": "202001195",
+        "teachers": [
+            "BURNS MARK DEREK"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 9-RW",
+        "id": "202001199",
+        "teachers": [
+            "丸山 令子"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 10-RW",
+        "id": "202001200",
+        "teachers": [
+            "矢向 寛子"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 12-RW",
+        "id": "202001202",
+        "teachers": [
+            "小堀 洋"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 13-RW",
+        "id": "202001203",
+        "teachers": [
+            "木村 政則"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 14-RW",
+        "id": "202001204",
+        "teachers": [
+            "宮永 隆一朗"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 16-LS",
+        "id": "202001206",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 18-LS",
+        "id": "202001208",
+        "teachers": [
+            "BURNS MARK DEREK"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 19-LS",
+        "id": "202001209",
+        "teachers": [
+            "中村 彰"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 20-RW",
+        "id": "202001210",
+        "teachers": [
+            "木村 政則"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 31-LS",
+        "id": "202001221",
+        "teachers": [
+            "蒔田 裕美"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 34-RW",
+        "id": "202001224",
+        "teachers": [
+            "笠原 一郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 45-RW",
+        "id": "202001235",
+        "teachers": [
+            "笠原 一郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E212",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第六 46-RW",
+        "id": "202001236",
+        "teachers": [
+            "稲葉 麻里子"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 2-LS-ADV",
+        "id": "202001240",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 3-LS-ADV",
+        "id": "202001241",
+        "teachers": [
+            "NARUM PAUL"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 6-LS",
+        "id": "202001244",
+        "teachers": [
+            "松井 恭子"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 8-LS",
+        "id": "202001246",
+        "teachers": [
+            "中村 彰"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 18-LS-ADV",
+        "id": "202001256",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 20-LS",
+        "id": "202001258",
+        "teachers": [
+            "BURNS MARK DEREK"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 22-RW",
+        "id": "202001260",
+        "teachers": [
+            "宇貫 亮"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 25-LS",
+        "id": "202001263",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 29-LS",
+        "id": "202001267",
+        "teachers": [
+            "稲葉 麻里子"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 31-RW",
+        "id": "202001269",
+        "teachers": [
+            "笠原 一郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 32-RW",
+        "id": "202001270",
+        "teachers": [
+            "福田 一貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 36-RW",
+        "id": "202001274",
+        "teachers": [
+            "倉科 真季"
+        ]
+    },
+    {
+        "courseId": "LAE.E213",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第七 40-LS",
+        "id": "202001278",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 2-LS-ADV",
+        "id": "202001290",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 5-LS",
+        "id": "202001293",
+        "teachers": [
+            "BURNS MARK DEREK"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 14-RW",
+        "id": "202001302",
+        "teachers": [
+            "丸山 令子"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 18-LS-ADV",
+        "id": "202001306",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 25-LS",
+        "id": "202001313",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 26-LS-ADV",
+        "id": "202001314",
+        "teachers": [
+            "NARUM PAUL"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 27-LS",
+        "id": "202001315",
+        "teachers": [
+            "川村 由美"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 31-RW",
+        "id": "202001319",
+        "teachers": [
+            "笠原 一郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 32-RW",
+        "id": "202001320",
+        "teachers": [
+            "福田 一貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 34-RW",
+        "id": "202001322",
+        "teachers": [
+            "瀬上 和典"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 36-RW",
+        "id": "202001324",
+        "teachers": [
+            "倉科 真季"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 38-RW",
+        "id": "202001326",
+        "teachers": [
+            "宮本 朋子"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 40-LS",
+        "id": "202001328",
+        "teachers": [
+            "STONEBURGH MARK"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 41-LS",
+        "id": "202001329",
+        "teachers": [
+            "NARUM PAUL"
+        ]
+    },
+    {
+        "courseId": "LAE.E214",
+        "courseDigit": 2,
+        "department": "英語科目",
+        "courseName": "英語第八 42-LS",
+        "id": "202001330",
+        "teachers": [
+            "川村 由美"
+        ]
+    },
+    {
+        "courseId": "LAE.E311",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "英語第九 申告専用",
+        "id": "202017481",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E362",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "アカデミックライティング第十二",
+        "id": "202024825",
+        "teachers": [
+            "KIYAMA LORINDA ROBERTSON"
+        ]
+    },
+    {
+        "courseId": "LAE.E333",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "英語スピーキング演習第十一",
+        "id": "202001401",
+        "teachers": [
+            "Jonathan Abel"
+        ]
+    },
+    {
+        "courseId": "LAE.E311",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "英語第九 14 再履修16B17B学生用",
+        "id": "202017469",
+        "teachers": [
+            "山根 亮一"
+        ]
+    },
+    {
+        "courseId": "LAE.E341",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "アカデミックプレゼンテーション第九",
+        "id": "202001392",
+        "teachers": [
+            "ANTHONY PAGE"
+        ]
+    },
+    {
+        "courseId": "LAE.E355",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リーディング＆ライティング）第九",
+        "id": "202001409",
+        "teachers": [
+            "Jonathan Abel"
+        ]
+    },
+    {
+        "courseId": "LAE.E371",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "英語スピーチ演習第九",
+        "id": "202001413",
+        "teachers": [
+            "安納 真理子"
+        ]
+    },
+    {
+        "courseId": "LAE.E332",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "英語スピーキング演習第十",
+        "id": "202001400",
+        "teachers": [
+            "Jonathan Abel"
+        ]
+    },
+    {
+        "courseId": "LAE.E311",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "英語第九 9 再履修16B17B学生用",
+        "id": "202017468",
+        "teachers": [
+            "原田 大介"
+        ]
+    },
+    {
+        "courseId": "LAE.E344",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "アカデミックプレゼンテーション第十二",
+        "id": "202001397",
+        "teachers": [
+            "ANTHONY PAGE"
+        ]
+    },
+    {
+        "courseId": "LAE.E311",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "英語第九 18 再履修16B17B学生用",
+        "id": "202017472",
+        "teachers": [
+            "原田 大介"
+        ]
+    },
+    {
+        "courseId": "LAE.E331",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "英語スピーキング演習第九",
+        "id": "202001398",
+        "teachers": [
+            "Jonathan Abel"
+        ]
+    },
+    {
+        "courseId": "LAE.E356",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リーディング＆ライティング）第十",
+        "id": "202001410",
+        "teachers": [
+            "Jonathan Abel"
+        ]
+    },
+    {
+        "courseId": "LAE.E311",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "英語第九 13 再履修16B17B学生用",
+        "id": "202001339",
+        "teachers": [
+            "谷岡 健彦"
+        ]
+    },
+    {
+        "courseId": "LAE.E311",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "英語第九 10 再履修16B17B学生用",
+        "id": "202017465",
+        "teachers": [
+            "田村 斉敏"
+        ]
+    },
+    {
+        "courseId": "LAE.E358",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リーディング＆ライティング）第十二",
+        "id": "202001412",
+        "teachers": [
+            "Jonathan Abel"
+        ]
+    },
+    {
+        "courseId": "LAE.E311",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "英語第九 23 再履修16B17B学生用",
+        "id": "202017477",
+        "teachers": [
+            "山根 亮一"
+        ]
+    },
+    {
+        "courseId": "LAE.E381",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "実践型科学技術英語海外研修II",
+        "id": "202002723",
+        "teachers": [
+            "石原 由貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E372",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "英語スピーチ演習第十",
+        "id": "202001414",
+        "teachers": [
+            "安納 真理子"
+        ]
+    },
+    {
+        "courseId": "LAE.E335",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "英語スピーキング演習GIA",
+        "id": "202026193",
+        "teachers": [
+            "MITCHELL JON"
+        ]
+    },
+    {
+        "courseId": "LAE.E357",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リーディング＆ライティング）第十一",
+        "id": "202001411",
+        "teachers": [
+            "Jonathan Abel"
+        ]
+    },
+    {
+        "courseId": "LAE.E311",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "英語第九 12 再履修16B17B学生用",
+        "id": "202017467",
+        "teachers": [
+            "田村 斉敏"
+        ]
+    },
+    {
+        "courseId": "LAE.E311",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "英語第九 15 再履修16B17B学生用",
+        "id": "202017470",
+        "teachers": [
+            "北川 依子"
+        ]
+    },
+    {
+        "courseId": "LAE.E361",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "アカデミックライティング第十一",
+        "id": "202024824",
+        "teachers": [
+            "KIYAMA LORINDA ROBERTSON"
+        ]
+    },
+    {
+        "courseId": "LAE.E334",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "英語スピーキング演習第十二",
+        "id": "202001403",
+        "teachers": [
+            "Jonathan Abel"
+        ]
+    },
+    {
+        "courseId": "LAE.E311",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "英語第九 17 再履修16B17B学生用",
+        "id": "202017471",
+        "teachers": [
+            "田村 斉敏"
+        ]
+    },
+    {
+        "courseId": "LAE.E311",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "英語第九 20 再履修16B17B学生用",
+        "id": "202017474",
+        "teachers": [
+            "谷岡 健彦"
+        ]
+    },
+    {
+        "courseId": "LAE.E311",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "英語第九 22 再履修16B17B学生用",
+        "id": "202017476",
+        "teachers": [
+            "谷岡 健彦"
+        ]
+    },
+    {
+        "courseId": "LAE.E311",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "英語第九 24 再履修16B17B学生用",
+        "id": "202023331",
+        "teachers": [
+            "北川 依子"
+        ]
+    },
+    {
+        "courseId": "LAE.E311",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "英語第九 25 再履修16B17B学生用",
+        "id": "202028660",
+        "teachers": [
+            "木村 大輔"
+        ]
+    },
+    {
+        "courseId": "LAE.E311",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "英語第九 申告専用",
+        "id": "202017478",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E311",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "英語第九 申告専用 16B学生用",
+        "id": "202017479",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E311",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "英語第九 6 再履修16B学生用",
+        "id": "202023336",
+        "teachers": [
+            "北川 依子"
+        ]
+    },
+    {
+        "courseId": "LAE.E381",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "実践型科学技術英語海外研修II",
+        "id": "202009662",
+        "teachers": [
+            "石原 由貴"
+        ]
+    },
+    {
+        "courseId": "LAE.E351",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リスニング＆スピーキング）第九",
+        "id": "202001405",
+        "teachers": [
+            "BURNS MARK DEREK"
+        ]
+    },
+    {
+        "courseId": "LAE.E342",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "アカデミックプレゼンテーション第十",
+        "id": "202001394",
+        "teachers": [
+            "ANTHONY PAGE"
+        ]
+    },
+    {
+        "courseId": "LAE.E343",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "アカデミックプレゼンテーション第十一",
+        "id": "202001396",
+        "teachers": [
+            "ANTHONY PAGE"
+        ]
+    },
+    {
+        "courseId": "LAE.E353",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リスニング＆スピーキング）第十一",
+        "id": "202001407",
+        "teachers": [
+            "BURNS MARK DEREK"
+        ]
+    },
+    {
+        "courseId": "LAE.E311",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "英語第九 11 再履修16B17B学生用",
+        "id": "202017466",
+        "teachers": [
+            "谷岡 健彦"
+        ]
+    },
+    {
+        "courseId": "LAE.E311",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "英語第九 申告専用",
+        "id": "202017480",
+        "teachers": [
+            "薩摩 竜郎"
+        ]
+    },
+    {
+        "courseId": "LAE.E311",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "英語第九 16 再履修16B17B学生用",
+        "id": "202023330",
+        "teachers": [
+            "木村 大輔"
+        ]
+    },
+    {
+        "courseId": "LAE.E311",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "英語第九 8 再履修16B17B学生用",
+        "id": "202023338",
+        "teachers": [
+            "田村 斉敏"
+        ]
+    },
+    {
+        "courseId": "LAE.E311",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "英語第九 19 再履修16B17B学生用",
+        "id": "202017473",
+        "teachers": [
+            "田村 斉敏"
+        ]
+    },
+    {
+        "courseId": "LAE.E311",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "英語第九 21 再履修16B17B学生用",
+        "id": "202017475",
+        "teachers": [
+            "田村 斉敏"
+        ]
+    },
+    {
+        "courseId": "LAE.E336",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "英語スピーキング演習GIIA",
+        "id": "202026897",
+        "teachers": [
+            "NARUM PAUL"
+        ]
+    },
+    {
+        "courseId": "LAE.E352",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リスニング＆スピーキング）第十",
+        "id": "202001406",
+        "teachers": [
+            "BURNS MARK DEREK"
+        ]
+    },
+    {
+        "courseId": "LAE.E354",
+        "courseDigit": 3,
+        "department": "英語科目",
+        "courseName": "TOEFL対策セミナー（リスニング＆スピーキング）第十二",
+        "id": "202001408",
+        "teachers": [
+            "BURNS MARK DEREK"
+        ]
+    }
+]

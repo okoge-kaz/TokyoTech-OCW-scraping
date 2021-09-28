@@ -1,0 +1,819 @@
+[
+    {
+        "courseId": "ARC.E201",
+        "courseDigit": 2,
+        "department": "建築学系",
+        "courseName": "建築環境設備学（環境工学）",
+        "id": "202002573",
+        "teachers": [
+            "湯淺 和博",
+            "鍵 直樹",
+            "中村 芳樹",
+            "淺輪 貴史",
+            "大風 翼"
+        ]
+    },
+    {
+        "courseId": "MTH.U212",
+        "courseDigit": 2,
+        "department": "建築学系",
+        "courseName": "基礎工業数学第一b",
+        "id": "202007040",
+        "teachers": [
+            "滝口 孝志"
+        ]
+    },
+    {
+        "courseId": "ARC.P203",
+        "courseDigit": 2,
+        "department": "建築学系",
+        "courseName": "建築計画演習",
+        "id": "202002587",
+        "teachers": [
+            "大佛 俊泰",
+            "藤井 晴行",
+            "斎尾 直子",
+            "沖 拓弥",
+            "田頭 まき"
+        ]
+    },
+    {
+        "courseId": "MTH.U211",
+        "courseDigit": 2,
+        "department": "建築学系",
+        "courseName": "基礎工業数学第一a",
+        "id": "202007039",
+        "teachers": [
+            "滝口 孝志"
+        ]
+    },
+    {
+        "courseId": "MTH.U213",
+        "courseDigit": 2,
+        "department": "建築学系",
+        "courseName": "基礎工業数学第二a",
+        "id": "202007041",
+        "teachers": [
+            "滝口 孝志"
+        ]
+    },
+    {
+        "courseId": "ARC.D202",
+        "courseDigit": 2,
+        "department": "建築学系",
+        "courseName": "西洋建築史",
+        "id": "202002584",
+        "teachers": [
+            "藤田 康仁"
+        ]
+    },
+    {
+        "courseId": "ARC.A205",
+        "courseDigit": 2,
+        "department": "建築学系",
+        "courseName": "建築数理",
+        "id": "202002578",
+        "teachers": [
+            "大佛 俊泰",
+            "淺輪 貴史",
+            "沖 拓弥",
+            "大風 翼"
+        ]
+    },
+    {
+        "courseId": "ARC.D204",
+        "courseDigit": 2,
+        "department": "建築学系",
+        "courseName": "建築意匠",
+        "id": "202002576",
+        "teachers": [
+            "塚本 由晴",
+            "佐々木 啓"
+        ]
+    },
+    {
+        "courseId": "ARC.D201",
+        "courseDigit": 2,
+        "department": "建築学系",
+        "courseName": "近代建築史",
+        "id": "202002566",
+        "teachers": [
+            "藤田 康仁"
+        ]
+    },
+    {
+        "courseId": "ARC.Z201",
+        "courseDigit": 2,
+        "department": "建築学系",
+        "courseName": "B2D研究基礎a（建築学系）",
+        "id": "202028173",
+        "teachers": [
+            "藤井 晴行"
+        ]
+    },
+    {
+        "courseId": "ARC.P201",
+        "courseDigit": 2,
+        "department": "建築学系",
+        "courseName": "建築計画基礎",
+        "id": "202002567",
+        "teachers": [
+            "藤井 晴行",
+            "大佛 俊泰",
+            "田頭 まき"
+        ]
+    },
+    {
+        "courseId": "ARC.S202",
+        "courseDigit": 2,
+        "department": "建築学系",
+        "courseName": "材料力学概論B",
+        "id": "202002565",
+        "teachers": [
+            "元結 正次郎"
+        ]
+    },
+    {
+        "courseId": "ARC.A204",
+        "courseDigit": 2,
+        "department": "建築学系",
+        "courseName": "建築法規",
+        "id": "202002577",
+        "teachers": [
+            "橘 裕子",
+            "安田 幸一"
+        ]
+    },
+    {
+        "courseId": "ARC.A202",
+        "courseDigit": 2,
+        "department": "建築学系",
+        "courseName": "建築設計製図第二",
+        "id": "202002558",
+        "teachers": [
+            "安田 幸一",
+            "大佛 俊泰",
+            "藤井 晴行",
+            "那須 聖",
+            "塩崎 太伸",
+            "沖 拓弥"
+        ]
+    },
+    {
+        "courseId": "ARC.S204",
+        "courseDigit": 2,
+        "department": "建築学系",
+        "courseName": "建築構造材料構法",
+        "id": "202002570",
+        "teachers": [
+            "横山 裕",
+            "三上 貴正"
+        ]
+    },
+    {
+        "courseId": "ARC.E202",
+        "courseDigit": 2,
+        "department": "建築学系",
+        "courseName": "建築環境設備学（建築設備）",
+        "id": "202002599",
+        "teachers": [
+            "湯淺 和博",
+            "鍵 直樹",
+            "中村 芳樹",
+            "淺輪 貴史",
+            "大風 翼"
+        ]
+    },
+    {
+        "courseId": "MTH.U214",
+        "courseDigit": 2,
+        "department": "建築学系",
+        "courseName": "基礎工業数学第二b",
+        "id": "202007042",
+        "teachers": [
+            "滝口 孝志"
+        ]
+    },
+    {
+        "courseId": "ARC.S201",
+        "courseDigit": 2,
+        "department": "建築学系",
+        "courseName": "材料力学概論A",
+        "id": "202002564",
+        "teachers": [
+            "井上 裕嗣",
+            "黒川 悠"
+        ]
+    },
+    {
+        "courseId": "ARC.A203",
+        "courseDigit": 2,
+        "department": "建築学系",
+        "courseName": "建築一般構造",
+        "id": "202002563",
+        "teachers": [
+            "安田 幸一",
+            "竹内 徹",
+            "田村 修次",
+            "横山 裕",
+            "坂田 弘安",
+            "村田 涼"
+        ]
+    },
+    {
+        "courseId": "ARC.P204",
+        "courseDigit": 2,
+        "department": "建築学系",
+        "courseName": "都市学の基礎",
+        "id": "202002589",
+        "teachers": [
+            "中井 検裕",
+            "土肥 真人",
+            "十代田 朗",
+            "真野 洋介",
+            "齋藤 潮",
+            "坂野 達郎"
+        ]
+    },
+    {
+        "courseId": "ARC.S203",
+        "courseDigit": 2,
+        "department": "建築学系",
+        "courseName": "建築構造力学第一",
+        "id": "202002569",
+        "teachers": [
+            "竹内 徹",
+            "田村 修次",
+            "寺澤 友貴"
+        ]
+    },
+    {
+        "courseId": "ARC.A201",
+        "courseDigit": 2,
+        "department": "建築学系",
+        "courseName": "建築設計製図第一",
+        "id": "202002557",
+        "teachers": [
+            "山崎 鯛介",
+            "村田 涼",
+            "藤田 康仁",
+            "立花 美緒"
+        ]
+    },
+    {
+        "courseId": "ARC.D203",
+        "courseDigit": 2,
+        "department": "建築学系",
+        "courseName": "造形演習",
+        "id": "202002583",
+        "teachers": [
+            "赤池 孝彦"
+        ]
+    },
+    {
+        "courseId": "ARC.P202",
+        "courseDigit": 2,
+        "department": "建築学系",
+        "courseName": "建築計画第一",
+        "id": "202002568",
+        "teachers": [
+            "斎尾 直子"
+        ]
+    },
+    {
+        "courseId": "ARC.P305",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "国土・都市計画論",
+        "id": "202002593",
+        "teachers": [
+            "中井 検裕",
+            "十代田 朗"
+        ]
+    },
+    {
+        "courseId": "ARC.P302",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "ランドスケープ",
+        "id": "202002590",
+        "teachers": [
+            "土肥 真人"
+        ]
+    },
+    {
+        "courseId": "ARC.A302",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "建築学実験第一",
+        "id": "202002561",
+        "teachers": [
+            "竹内 徹",
+            "横山 裕",
+            "坂田 弘安",
+            "三上 貴正",
+            "堀田 久人",
+            "五十嵐 規矩夫",
+            "湯淺 和博",
+            "鍵 直樹",
+            "三井 和也"
+        ]
+    },
+    {
+        "courseId": "ARC.D302",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "日本建築史",
+        "id": "202002586",
+        "teachers": [
+            "山崎 鯛介"
+        ]
+    },
+    {
+        "courseId": "ARC.P301",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "建築計画第二",
+        "id": "202002588",
+        "teachers": [
+            "藤井 晴行",
+            "沖 拓弥"
+        ]
+    },
+    {
+        "courseId": "ARC.A304",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "建築設計製図第四",
+        "id": "202002574",
+        "teachers": [
+            "塚本 由晴",
+            "奥山 信一",
+            "大佛 俊泰",
+            "安田 幸一",
+            "藤井 晴行",
+            "中井 検裕",
+            "齋藤 潮",
+            "坂野 達郎",
+            "沖 拓弥",
+            "斎尾 直子",
+            "真野 洋介",
+            "十代田 朗",
+            "土肥 真人",
+            "真田 純子",
+            "香月 歩",
+            "佐々木 啓",
+            "沼田 麻美子",
+            "杉田 早苗",
+            "津々見 崇",
+            "増田 信吾"
+        ]
+    },
+    {
+        "courseId": "ARC.S302",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "建築構造設計第二",
+        "id": "202002572",
+        "teachers": [
+            "坂田 弘安",
+            "堀田 久人",
+            "西村 康志郎",
+            "小原 拓"
+        ]
+    },
+    {
+        "courseId": "ARC.S306",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "建築構造力学第三",
+        "id": "202002597",
+        "teachers": [
+            "竹内 徹",
+            "五十嵐 規矩夫",
+            "寺澤 友貴"
+        ]
+    },
+    {
+        "courseId": "ARC.E303",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "建築電気設備",
+        "id": "202002601",
+        "teachers": [
+            "中村 滋宏",
+            "湯淺 和博",
+            "海塩 渉"
+        ]
+    },
+    {
+        "courseId": "ARC.E304",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "建築設備の制御",
+        "id": "202002602",
+        "teachers": [
+            "岩瀬 和夫",
+            "田村 一",
+            "海塩 渉"
+        ]
+    },
+    {
+        "courseId": "ARC.Z374",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "学士特定課題プロジェクトS4c（建築学系）",
+        "id": "202027613",
+        "teachers": [
+            "坂田 弘安"
+        ]
+    },
+    {
+        "courseId": "ARC.Z375",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "学士特定課題プロジェクトS5c（建築学系）",
+        "id": "202027614",
+        "teachers": [
+            "坂田 弘安"
+        ]
+    },
+    {
+        "courseId": "ARC.P304",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "都市土地利用計画",
+        "id": "202002592",
+        "teachers": [
+            "中井 検裕"
+        ]
+    },
+    {
+        "courseId": "ARC.Z395",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "学士特定課題プロジェクト5c（建築学系）",
+        "id": "202007698",
+        "teachers": [
+            "坂田 弘安"
+        ]
+    },
+    {
+        "courseId": "ARC.Z396",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "学士特定課題プロジェクト6c（建築学系）",
+        "id": "202007699",
+        "teachers": [
+            "坂田 弘安"
+        ]
+    },
+    {
+        "courseId": "ARC.S304",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "地盤工学",
+        "id": "202002594",
+        "teachers": [
+            "田村 修次"
+        ]
+    },
+    {
+        "courseId": "ARC.D301",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "建築史実習",
+        "id": "202002585",
+        "teachers": [
+            "藤田 康仁"
+        ]
+    },
+    {
+        "courseId": "ARC.Z371",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "学士特定課題プロジェクトS1c（建築学系）",
+        "id": "202027608",
+        "teachers": [
+            "坂田 弘安"
+        ]
+    },
+    {
+        "courseId": "ARC.Z372",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "学士特定課題プロジェクトS2c（建築学系）",
+        "id": "202027610",
+        "teachers": [
+            "坂田 弘安"
+        ]
+    },
+    {
+        "courseId": "ARC.Z394",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "学士特定課題プロジェクト4c（建築学系）",
+        "id": "202007697",
+        "teachers": [
+            "坂田 弘安"
+        ]
+    },
+    {
+        "courseId": "ARC.E302",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "建築環境計測",
+        "id": "202002603",
+        "teachers": [
+            "湯淺 和博",
+            "鍵 直樹",
+            "中村 芳樹",
+            "淺輪 貴史",
+            "大風 翼",
+            "海塩 渉"
+        ]
+    },
+    {
+        "courseId": "ARC.S307",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "建築仕上材料構法",
+        "id": "202002595",
+        "teachers": [
+            "横山 裕",
+            "三上 貴正"
+        ]
+    },
+    {
+        "courseId": "ARC.E301",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "建築環境設備学（応用）",
+        "id": "202002600",
+        "teachers": [
+            "湯淺 和博",
+            "鍵 直樹",
+            "中村 芳樹",
+            "淺輪 貴史",
+            "大風 翼"
+        ]
+    },
+    {
+        "courseId": "ARC.A301",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "建築設計製図第三",
+        "id": "202002559",
+        "teachers": [
+            "奥山 信一",
+            "塚本 由晴",
+            "大佛 俊泰",
+            "藤井 晴行",
+            "中井 検裕",
+            "齋藤 潮",
+            "坂野 達郎",
+            "斎尾 直子",
+            "真野 洋介",
+            "十代田 朗",
+            "土肥 真人",
+            "真田 純子",
+            "沖 拓弥",
+            "香月 歩",
+            "佐々木 啓",
+            "沼田 麻美子",
+            "津々見 崇",
+            "杉田 早苗",
+            "田中 由乃",
+            "田頭 まき",
+            "金箱 温春",
+            "杉山 俊一"
+        ]
+    },
+    {
+        "courseId": "ARC.A303",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "建築学実験第二",
+        "id": "202002562",
+        "teachers": [
+            "横山 裕",
+            "竹内 徹",
+            "五十嵐 規矩夫",
+            "田村 修次",
+            "湯淺 和博",
+            "鍵 直樹",
+            "寺澤 友貴"
+        ]
+    },
+    {
+        "courseId": "ARC.A307",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "建築生産",
+        "id": "202002581",
+        "teachers": [
+            "横山 裕",
+            "竹田 智英"
+        ]
+    },
+    {
+        "courseId": "ARC.P303",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "住環境計画",
+        "id": "202002591",
+        "teachers": [
+            "真野 洋介"
+        ]
+    },
+    {
+        "courseId": "ARC.Z371",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "学士特定課題プロジェクトS1c（建築学系）",
+        "id": "202027607",
+        "teachers": [
+            "坂田 弘安"
+        ]
+    },
+    {
+        "courseId": "ARC.Z373",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "学士特定課題プロジェクトS3c（建築学系）",
+        "id": "202027612",
+        "teachers": [
+            "坂田 弘安"
+        ]
+    },
+    {
+        "courseId": "ARC.Z393",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "学士特定課題プロジェクト3c（建築学系）",
+        "id": "202007695",
+        "teachers": [
+            "坂田 弘安"
+        ]
+    },
+    {
+        "courseId": "ARC.Z391",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "学士特定課題プロジェクト1c（建築学系）",
+        "id": "202007692",
+        "teachers": [
+            "坂田 弘安"
+        ]
+    },
+    {
+        "courseId": "ARC.Z392",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "学士特定課題プロジェクト2c（建築学系）",
+        "id": "202007694",
+        "teachers": [
+            "坂田 弘安"
+        ]
+    },
+    {
+        "courseId": "ARC.S301",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "建築構造設計第一",
+        "id": "202002571",
+        "teachers": [
+            "竹内 徹",
+            "五十嵐 規矩夫",
+            "寺澤 友貴",
+            "三井 和也"
+        ]
+    },
+    {
+        "courseId": "ARC.S305",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "建築構造力学第二",
+        "id": "202002596",
+        "teachers": [
+            "堀田 久人",
+            "坂田 弘安",
+            "西村 康志郎"
+        ]
+    },
+    {
+        "courseId": "ARC.S303",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "建築構造設計第三",
+        "id": "202002598",
+        "teachers": [
+            "田村 修次",
+            "金箱 温春"
+        ]
+    },
+    {
+        "courseId": "ARC.Z381",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "研究プロジェクト（建築学系）",
+        "id": "202002604",
+        "teachers": []
+    },
+    {
+        "courseId": "ARC.Z372",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "学士特定課題プロジェクトS2c（建築学系）",
+        "id": "202027609",
+        "teachers": [
+            "坂田 弘安"
+        ]
+    },
+    {
+        "courseId": "ARC.Z373",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "学士特定課題プロジェクトS3c（建築学系）",
+        "id": "202027611",
+        "teachers": [
+            "坂田 弘安"
+        ]
+    },
+    {
+        "courseId": "ARC.Z376",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "学士特定課題プロジェクトS6c（建築学系）",
+        "id": "202027615",
+        "teachers": [
+            "坂田 弘安"
+        ]
+    },
+    {
+        "courseId": "ARC.Z391",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "学士特定課題プロジェクト1c（建築学系）",
+        "id": "202007691",
+        "teachers": [
+            "坂田 弘安"
+        ]
+    },
+    {
+        "courseId": "ARC.Z392",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "学士特定課題プロジェクト2c（建築学系）",
+        "id": "202007693",
+        "teachers": [
+            "坂田 弘安"
+        ]
+    },
+    {
+        "courseId": "ARC.Z381",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "研究プロジェクト（建築学系）",
+        "id": "202002605",
+        "teachers": []
+    },
+    {
+        "courseId": "ARC.Z393",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "学士特定課題プロジェクト3c（建築学系）",
+        "id": "202007696",
+        "teachers": [
+            "坂田 弘安"
+        ]
+    },
+    {
+        "courseId": "ARC.A308",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "建築学セミナー",
+        "id": "202002582",
+        "teachers": []
+    },
+    {
+        "courseId": "ARC.Z389",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "学士特定課題研究（建築学系）",
+        "id": "202007690",
+        "teachers": [
+            "各教員"
+        ]
+    },
+    {
+        "courseId": "ARC.Z389",
+        "courseDigit": 3,
+        "department": "建築学系",
+        "courseName": "学士特定課題研究（建築学系）",
+        "id": "202017021",
+        "teachers": [
+            "各教員"
+        ]
+    }
+]
